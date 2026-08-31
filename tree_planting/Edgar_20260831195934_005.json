@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20260831195934_005",
-  "telegram_update_id": "Edgar_20260831195934_005",
-  "submitted_at": "2026-08-31T19:59:35Z",
-  "contributor_name": "",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtLjnCewZT6ueaSWENo4Pw+SYpXEJ7bfo/V1ZObFAU4Q7WGX4hpMJYRGemyDmIg2irzU0ep1tHZNozohJOWyW+C3L0nnnQAgt38/03r20fFQ26gaK97ZC+YHy6UmamuZtckjHy3oa2g9CAEPxcbgCMJy2yYfnVZuFo92No4cSaipG7q24CNNOJcvooYeewM1Mry53VdCxnmRdqawikalmtc5IZZgIyXj0mNMXn3zu+0Cz490r4Ul0z7kWWqkakbaj+iIS2QN2bYdGWsKWokDNsHJjDlZME+J6fRorgpYiKfNCgX/TCRNIrlp1rug31p3Av1y/JOowoaOrLmnOkW224wIDAQAB\n-----END PUBLIC KEY-----",
+  "telegram_update_id": "Edgar_20260831195934_006",
+  "submitted_at": "2026-08-31",
+  "contributor_name": "Unknown",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtLjnCewZT6ueaSWENo4Pw+SYpXEJ7bfo/V1ZObFAU4Q7WGX4hpMJYRGemyDmIg2irzU0ep1tHZNozohJOWyW+C3L0nnnQAgt38/03r20fFQ26gaK97ZC+YHy6UmamuZtckjHy3oa2g9CAEPxcbgCMJy2yYfnVZuFo92No4cSaipG7q24CNNOJcvooYeewM1Mry53VdCxnmRdqawikalmtc5IZZgIyXj0mNMXn3zu+0Cz490r4Ul0z7kWWqkakbaj+iIS2QN2bYdGWsKWokDNsHJjDlZME+J6fRorgpYiKfNCgX/TCRNIrlp1rug31p3Av1y/JOowoaOrLmnOkW224wIDAQAB",
   "signature": "sxNUDaLnBXgVHOsbjpXzyHvWS2k3qGlqfVkCnWmSg+S0V7glSD0d0tm4sWgZuWUUuyYeDrCFS5CgimvhQQfPgf0yiFlwEJDUXEQNZPLIS7bhdLLrrCgH+J2kIMM5O3AdiD4vGS2bL2dX5aMCYeCXZGjifb5H4w3c9ZApof8oqGQRG5RtcOxaCjqE4J4N2cZeg7+WeDEc5BawpuhTfbDxIZfeIJVxjc9I5L67E5ppgZUld9NVv4DhN5HpJcWxqq5I+E8bXKgJ5zMA33yekDVd8DmDco4487vhZzz7k5zUvPX0WzFXkJBMcakL9yIHUlo42DIy63+AfDYZvyRYJA5UqA==",
   "signed_payload": "[TREE PLANTING EVENT]\nLat 44.56 / Long -123.26\nTree Species: Cacao\nTree ID: LEDGER-SMOKE-0001\nPlanting Date: 2026-08-31\n--------",
   "signed_text": "[TREE PLANTING EVENT]\nLat 44.56 / Long -123.26\nTree Species: Cacao\nTree ID: LEDGER-SMOKE-0001\nPlanting Date: 2026-08-31\n--------\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtLjnCewZT6ueaSWENo4Pw+SYpXEJ7bfo/V1ZObFAU4Q7WGX4hpMJYRGemyDmIg2irzU0ep1tHZNozohJOWyW+C3L0nnnQAgt38/03r20fFQ26gaK97ZC+YHy6UmamuZtckjHy3oa2g9CAEPxcbgCMJy2yYfnVZuFo92No4cSaipG7q24CNNOJcvooYeewM1Mry53VdCxnmRdqawikalmtc5IZZgIyXj0mNMXn3zu+0Cz490r4Ul0z7kWWqkakbaj+iIS2QN2bYdGWsKWokDNsHJjDlZME+J6fRorgpYiKfNCgX/TCRNIrlp1rug31p3Av1y/JOowoaOrLmnOkW224wIDAQAB\nRequest Transaction ID: sxNUDaLnBXgVHOsbjpXzyHvWS2k3qGlqfVkCnWmSg+S0V7glSD0d0tm4sWgZuWUUuyYeDrCFS5CgimvhQQfPgf0yiFlwEJDUXEQNZPLIS7bhdLLrrCgH+J2kIMM5O3AdiD4vGS2bL2dX5aMCYeCXZGjifb5H4w3c9ZApof8oqGQRG5RtcOxaCjqE4J4N2cZeg7+WeDEc5BawpuhTfbDxIZfeIJVxjc9I5L67E5ppgZUld9NVv4DhN5HpJcWxqq5I+E8bXKgJ5zMA33yekDVd8DmDco4487vhZzz7k5zUvPX0WzFXkJBMcakL9yIHUlo42DIy63+AfDYZvyRYJA5UqA==",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
