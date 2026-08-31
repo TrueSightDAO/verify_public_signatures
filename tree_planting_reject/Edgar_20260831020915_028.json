@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING REJECT EVENT]",
+  "telegram_message_id": "Edgar_20260831020915_028",
+  "telegram_update_id": "Edgar_20260831020915_027",
+  "submitted_at": "2026-08-31",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApPRTAO1crTPepPB0kFl1POCqyRJk1yxVm0vQZBHZmLyFrnD/mxVvHu7fW4qLgjMC+bXZ7O1Vt1rfK08oZMSuWWGhnQuBwVUWYX0gkmHB5ajXieBzfnXbnyCdIYjNR8lIlig02T/X7U2Jg6vdNF/qpX6000F9cdeqeE/sLyJ87sazaBHR4tjW9phoKHliNH0D+JFcebHLn0StK5qLlhoCtJTPekCBqCEdpftf17Mh069RTAXZj10EsRI2+G9ygku2seZZI22JNAcUe0T0g/5gOvCXFFj0+zX2PGf+tT4apUStuv5PugAdznKZbnnt7g0X4wbRXJhvps2t1wyY/BxCTQIDAQAB",
+  "signature": "KZSoPZtOhfIYb31cihqLu8xsaqB346l+9PZhGCzKp3LjF0HrIi9IPSXfnKuWysSSDRLLM0NrLyXx00E4uIHeNfnbDI58KhOTV+gL5XBhFQxpQf7QOzveGVaOyln1V3jHJtezTb0tcQmWtSyMc8H0R8vY4dDJBFY0ip+ju/LRGlBnqbFLzpMb++QFbwhUFRXBAzACr5UOMi404Nqc6rflnztPBmXwTweVrsAWcGYUZJElz5mcZufOL1JyhMcCN+3rZ8YPpchYhof0btNlF4U4BaN1YVVfnlt+iEOHvC7wbZOdd+aFg9klVOHopwkqJ6RjPAQvDpMMcCaR2KgM5KNQYQ==",
+  "signed_payload": "[TREE PLANTING REJECT EVENT]\n- QR Code: (unlinked)\n- SunMint Submission Message ID: 469027299\n- Updated by: Gary Teh\n- Reason: Not a valid tree\n--------",
+  "signed_text": "[TREE PLANTING REJECT EVENT]\r\n- QR Code: (unlinked)\r\n- SunMint Submission Message ID: 469027299\r\n- Updated by: Gary Teh\r\n- Reason: Not a valid tree\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApPRTAO1crTPepPB0kFl1POCqyRJk1yxVm0vQZBHZmLyFrnD/mxVvHu7fW4qLgjMC+bXZ7O1Vt1rfK08oZMSuWWGhnQuBwVUWYX0gkmHB5ajXieBzfnXbnyCdIYjNR8lIlig02T/X7U2Jg6vdNF/qpX6000F9cdeqeE/sLyJ87sazaBHR4tjW9phoKHliNH0D+JFcebHLn0StK5qLlhoCtJTPekCBqCEdpftf17Mh069RTAXZj10EsRI2+G9ygku2seZZI22JNAcUe0T0g/5gOvCXFFj0+zX2PGf+tT4apUStuv5PugAdznKZbnnt7g0X4wbRXJhvps2t1wyY/BxCTQIDAQAB\r\n\r\nRequest Transaction ID: KZSoPZtOhfIYb31cihqLu8xsaqB346l+9PZhGCzKp3LjF0HrIi9IPSXfnKuWysSSDRLLM0NrLyXx00E4uIHeNfnbDI58KhOTV+gL5XBhFQxpQf7QOzveGVaOyln1V3jHJtezTb0tcQmWtSyMc8H0R8vY4dDJBFY0ip+ju/LRGlBnqbFLzpMb++QFbwhUFRXBAzACr5UOMi404Nqc6rflnztPBmXwTweVrsAWcGYUZJElz5mcZufOL1JyhMcCN+3rZ8YPpchYhof0btNlF4U4BaN1YVVfnlt+iEOHvC7wbZOdd+aFg9klVOHopwkqJ6RjPAQvDpMMcCaR2KgM5KNQYQ==\r\n\r\nThis submission was generated using https://sunmint.truesight.me/monitor-tree-growth/?tree=469027299\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
