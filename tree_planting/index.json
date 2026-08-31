@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-08-31T19:30:06Z",
+  "generated_at": "2026-08-31T20:00:05Z",
   "event_type": "[TREE PLANTING EVENT]",
-  "count": 24,
+  "count": 25,
   "events": {
     "171": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/171.json",
@@ -148,6 +148,12 @@
       "event_type": "[TREE PLANTING EVENT]",
       "submitted_at": "2026-08-31",
       "contributor_name": "Gary Teh"
+    },
+    "Edgar_20260831195934_005": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260831195934_005.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-08-31",
+      "contributor_name": "Unknown"
     }
   }
 }
