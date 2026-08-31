@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "SMOKE-REPRO-0002",
+  "telegram_update_id": "SMOKE-REPRO-0002",
+  "submitted_at": "2026-08-31T20:03:34Z",
+  "contributor_name": "",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKYvqf2KutrS2ZUag73x\nzmy0iXre7yQj+RlxtpYKUlNRpefzV7p07grAN76SxtOzwOpsO9XwJu2jt5EtPDMk\nnotbZf84MvqFa54yvNjT8K3izTr7GZl8wpTsVID+gyiHz2KHUxiv5ZTZTyZWrrs+o\n/xaS40Iiu0xVdBLkdqJvXy/NnnN+xtz/ZwQUNRWeeaLxdkF0chGR9ZAYIU5zI+km\nnJlkLogFQJnL7SqMxgxesBQRfmCXyRGbo3jHL8BwP4W8b0+hjI2vXTSrnsAil1Yh\nxebh2Df1qXSWmARE89vqz6qCWpakPRURv5AM+v+zwgWWdC0zRX+5QZdUL+Q6MjjB\nJQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "signature": "dGVzdA==",
+  "signed_payload": "[TREE PLANTING EVENT]\nLat 44.56 / Long -123.26\nTree Species: Cacao\nTree ID: LEDGER-SMOKE-0001\nPlanting Date: 2026-08-31\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\nLat 44.56 / Long -123.26\nTree Species: Cacao\nTree ID: LEDGER-SMOKE-0001\nPlanting Date: 2026-08-31\n--------",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
