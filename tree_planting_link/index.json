@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-08-31T17:19:56Z",
+  "event_type": "[TREE PLANTING LINK EVENT]",
+  "count": 8,
+  "events": {
+    "Edgar_20260820112723_046": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260820112723_046.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260821130119_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260821130119_002.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-21",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822092136_020": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822092136_020.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822092215_022": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822092215_022.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822092342_024": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822092342_024.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822114540_034": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822114540_034.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822234048_074": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822234048_074.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822234856_076": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/Edgar_20260822234856_076.json",
+      "event_type": "[TREE PLANTING LINK EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    }
+  }
+}
