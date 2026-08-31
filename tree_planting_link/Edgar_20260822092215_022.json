@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING LINK EVENT]",
+  "telegram_message_id": "Edgar_20260822092215_022",
+  "telegram_update_id": "Edgar_20260822092215_021",
+  "submitted_at": "2026-08-22",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
+  "signature": "QwyXKoCEaESWEvoWtcx4XLnxOSt/pNDrkDWn97XXvoIlFKKaIgoE92qhQeuji2fg+D2LNl9aUQh6ctYnmRTeCYVjTDk7/wfZBTqRl8BEoyZ0L0Il4gAKYmif8LxoUPfxBHbcC0T5OPdwLomUNuvWxS/jQQVQZOGaLXpRY2rgC0+AgFWbvU9rt8opxU2RJbn7/tYERz8OMOrq6jyRZoGMkNcm9/M+TWDM5n6iM/YEpWdnKwC7WwE8TJn3AG6tWYUMH9ubCsL1uwGRtvGRlxG0bCbUPn2Q6MAbATU/EOOwROnx9Uc8dHeBK9YM/UTWM0zzkwhdfFbmtC1KEHxGok6mUg==",
+  "signed_payload": "[TREE PLANTING LINK EVENT]\n- QR Code: 2026TEST_20260822_1\n- SunMint Submission Message ID: TEST-20260822-1\n- Updated by: Sophia Truesight\n- Submission Source: E2E test per SUNMINT_TREE_QR_LINKING_PLAN §10 (retry after SOLD reset), 2026-08-22\n--------",
+  "signed_text": "[TREE PLANTING LINK EVENT]\n- QR Code: 2026TEST_20260822_1\n- SunMint Submission Message ID: TEST-20260822-1\n- Updated by: Sophia Truesight\n- Submission Source: E2E test per SUNMINT_TREE_QR_LINKING_PLAN §10 (retry after SOLD reset), 2026-08-22\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: QwyXKoCEaESWEvoWtcx4XLnxOSt/pNDrkDWn97XXvoIlFKKaIgoE92qhQeuji2fg+D2LNl9aUQh6ctYnmRTeCYVjTDk7/wfZBTqRl8BEoyZ0L0Il4gAKYmif8LxoUPfxBHbcC0T5OPdwLomUNuvWxS/jQQVQZOGaLXpRY2rgC0+AgFWbvU9rt8opxU2RJbn7/tYERz8OMOrq6jyRZoGMkNcm9/M+TWDM5n6iM/YEpWdnKwC7WwE8TJn3AG6tWYUMH9ubCsL1uwGRtvGRlxG0bCbUPn2Q6MAbATU/EOOwROnx9Uc8dHeBK9YM/UTWM0zzkwhdfFbmtC1KEHxGok6mUg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
