@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "171",
+  "telegram_update_id": "469027268",
+  "submitted_at": "2025-07-11",
+  "contributor_name": "Gary Teh",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA27CL2T7+75YfGbuYnwRubSfjYOxAQdBvzxsjJ+W4a5iPF1r8nR4+Ekwth/dhe4tfr7ESwDxY40sYWC6CzHF271g9tvwu2x0JSfy0zwYj2M4TsmM93oKv2JJr9hFoDq5ofnDcyLmtBWB8Q5PPhqCqTuSNsbUQtrJlreFXM+QQ2kzi5CeGk5IgeRB5IFnVDkKJ1xMJwLEIoRX9Z8Z1CA2mu2dHmEnyYfZHNLojvxz7VBq/tnCDYjJDCQfz5N61zzDftLp/B4intR4yKUgHp4csx0HNsl3z744SdkjHepHSLJdOBVL/7QYpIed5pRpqkT6Lxs8griF0e7nBxidVoVsQWwIDAQAB",
+  "signature": "pQAufohU9p6hdFih9XSyyEY4v70BkNK+28Dw/dZHgl0SbUgCQXFYZEXVacqQJjzvi2sSflCfQBeJOtxRT7MHAJ5VoTCJvttY2WiDWbS8y56qFd/73Jc4m7FRagvpVc0h26hKnleliES2K+NhdWHezaG3YYBhYO1nuwJExfkX+Jwfc1oHMvkm4xiRpCKyFgsMOGG1jLBxnDjemrtP3BDsxGuG/i6uCBKHWlQ0IFr7VCJGo4dVAI53HAWIYOOL2e1FMxztZQIG+Z8V/+zCUDGfUKhKdrLmwdv41pZmYdlZlmSVxaKfYmhMDHcKMA2P20cVbE23M4kTy7otkogOktGDgg==",
+  "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: 44.560058\n- Longitude: -123.262181\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\n- Latitude: 44.560058\n- Longitude: -123.262181\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA27CL2T7+75YfGbuYnwRubSfjYOxAQdBvzxsjJ+W4a5iPF1r8nR4+Ekwth/dhe4tfr7ESwDxY40sYWC6CzHF271g9tvwu2x0JSfy0zwYj2M4TsmM93oKv2JJr9hFoDq5ofnDcyLmtBWB8Q5PPhqCqTuSNsbUQtrJlreFXM+QQ2kzi5CeGk5IgeRB5IFnVDkKJ1xMJwLEIoRX9Z8Z1CA2mu2dHmEnyYfZHNLojvxz7VBq/tnCDYjJDCQfz5N61zzDftLp/B4intR4yKUgHp4csx0HNsl3z744SdkjHepHSLJdOBVL/7QYpIed5pRpqkT6Lxs8griF0e7nBxidVoVsQWwIDAQAB\n\nRequest Transaction ID: pQAufohU9p6hdFih9XSyyEY4v70BkNK+28Dw/dZHgl0SbUgCQXFYZEXVacqQJjzvi2sSflCfQBeJOtxRT7MHAJ5VoTCJvttY2WiDWbS8y56qFd/73Jc4m7FRagvpVc0h26hKnleliES2K+NhdWHezaG3YYBhYO1nuwJExfkX+Jwfc1oHMvkm4xiRpCKyFgsMOGG1jLBxnDjemrtP3BDsxGuG/i6uCBKHWlQ0IFr7VCJGo4dVAI53HAWIYOOL2e1FMxztZQIG+Z8V/+zCUDGfUKhKdrLmwdv41pZmYdlZlmSVxaKfYmhMDHcKMA2P20cVbE23M4kTy7otkogOktGDgg==\n\nThis submission was generated using file:///Users/garyjob/Applications/tsd_dapp/report_tree_planting.html?timestamp=1752265802773",
+  "source_tab": "SunMint Tree Planting",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
