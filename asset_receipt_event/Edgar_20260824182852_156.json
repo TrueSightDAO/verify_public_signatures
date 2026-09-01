@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260824182852_156",
+  "telegram_update_id": "Edgar_20260824182852_155",
+  "submitted_at": "2026-08-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB",
+  "signature": "TLsFTfXaY8P2W621p2H0VZgXcPkxkSaRfK7d3bLyyIl4f/FoOnwvV5mTN4nHmKwIjh6OFqXJiXPchjdePEulILUgEXOxENGjcLbGm6PgsVd2ZfIobYw70smLNFymLQmDDCBilEjvRGZR+z0veU1H7uZ6PvGgvEHGe+OSjaRppNpj4AcCq7JbsrmT/2vV6vmva0rE+gbEb96Sr0p6jnQ/o0n/BFN30o6UrVHblqir7wU4GIAzpH6mFzNx8LVOr3oyNKHc48Xu828YZHTDOJgfideselctjM/L7EydmpsHjBNtgFX/KSAN3ccnHp/Crd9f8YheGz+WAtZpgXzRvDsjtQ==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Currency: Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)\n- Amount: 100\n- Description: Assembly of 100 units via issue of QR code\n- Fund Handler: Gary Teh\n- Attached Filename: image.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1787596097712_image.png\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\n- Currency: Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)\n- Amount: 100\n- Description: Assembly of 100 units via issue of QR code\n- Fund Handler: Gary Teh\n- Attached Filename: image.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1787596097712_image.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB\n\nRequest Transaction ID: TLsFTfXaY8P2W621p2H0VZgXcPkxkSaRfK7d3bLyyIl4f/FoOnwvV5mTN4nHmKwIjh6OFqXJiXPchjdePEulILUgEXOxENGjcLbGm6PgsVd2ZfIobYw70smLNFymLQmDDCBilEjvRGZR+z0veU1H7uZ6PvGgvEHGe+OSjaRppNpj4AcCq7JbsrmT/2vV6vmva0rE+gbEb96Sr0p6jnQ/o0n/BFN30o6UrVHblqir7wU4GIAzpH6mFzNx8LVOr3oyNKHc48Xu828YZHTDOJgfideselctjM/L7EydmpsHjBNtgFX/KSAN3ccnHp/Crd9f8YheGz+WAtZpgXzRvDsjtQ==\n\nThis submission was generated using https://beta.dapp.truesight.me/report_asset_receipt.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
