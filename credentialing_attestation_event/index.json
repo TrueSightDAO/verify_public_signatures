@@ -1,0 +1,657 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T15:00:12Z",
+  "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+  "count": 108,
+  "events": {
+    "Edgar_20260522225030_342": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522225030_342.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522230903_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522230903_002.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522231104_004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522231104_004.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522231941_006": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522231941_006.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522231945_008": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522231945_008.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522231947_010": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522231947_010.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522232002_012": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522232002_012.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522232205_014": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522232205_014.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260522232207_016": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260522232207_016.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531072012_142": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531072012_142.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531072334_144": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531072334_144.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531080852_146": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531080852_146.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081328_148": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081328_148.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081330_150": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081330_150.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081331_152": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081331_152.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081334_154": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081334_154.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081336_156": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081336_156.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081341_158": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081341_158.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081343_160": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081343_160.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081344_162": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081344_162.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081346_164": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081346_164.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081350_166": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081350_166.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081351_168": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081351_168.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081353_170": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081353_170.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081354_172": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081354_172.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081402_174": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081402_174.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081407_176": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081407_176.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081409_178": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081409_178.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081411_180": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081411_180.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081412_182": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081412_182.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081418_184": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081418_184.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081421_186": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081421_186.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081423_188": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081423_188.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081426_190": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081426_190.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081431_192": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081431_192.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081433_194": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081433_194.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081436_196": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081436_196.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081442_198": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081442_198.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081448_200": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081448_200.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081450_202": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081450_202.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081452_204": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081452_204.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081454_206": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081454_206.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081500_208": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081500_208.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081502_210": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081502_210.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081504_212": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081504_212.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081510_214": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081510_214.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081513_216": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081513_216.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081515_218": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081515_218.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081517_220": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081517_220.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081520_222": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081520_222.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081525_224": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081525_224.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081531_226": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081531_226.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081534_228": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081534_228.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081538_230": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081538_230.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081540_232": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081540_232.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081543_234": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081543_234.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081548_236": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081548_236.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081828_238": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081828_238.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081830_240": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081830_240.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081832_242": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081832_242.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081836_244": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081836_244.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081837_246": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081837_246.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081842_248": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081842_248.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081847_250": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081847_250.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081853_252": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081853_252.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081927_254": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081927_254.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081930_256": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081930_256.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081932_258": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081932_258.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081953_260": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081953_260.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081956_262": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081956_262.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531081959_264": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531081959_264.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082014_266": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082014_266.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082019_268": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082019_268.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082026_270": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082026_270.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082030_272": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082030_272.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082032_274": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082032_274.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082037_276": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082037_276.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082123_278": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082123_278.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082125_280": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082125_280.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082127_282": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082127_282.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082139_284": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082139_284.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082143_286": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082143_286.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082144_288": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082144_288.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082147_290": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082147_290.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082148_292": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082148_292.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082150_294": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082150_294.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082155_296": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082155_296.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082158_298": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082158_298.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082200_300": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082200_300.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082203_302": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082203_302.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082205_304": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082205_304.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082211_306": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082211_306.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082214_308": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082214_308.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082217_310": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082217_310.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082220_312": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082220_312.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082222_314": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082222_314.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082229_316": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082229_316.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082231_318": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082231_318.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531082258_320": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531082258_320.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260531083039_322": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260531083039_322.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260604073052_010": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260604073052_010.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-06-04",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260604073057_012": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260604073057_012.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-06-04",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820081239_016": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820081239_016.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820103235_026": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820103235_026.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820104515_034": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820104515_034.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820105820_040": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820105820_040.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820121739_072": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820121739_072.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260820142014_090": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/Edgar_20260820142014_090.json",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20",
+      "contributor_name": "Edgar"
+    }
+  }
+}
