@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T04:00:15Z",
+  "event_type": "[BATCH QR CODE REQUEST]",
+  "count": 12,
+  "events": {
+    "Edgar_20250901194420_126": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901194420_126.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250901194925_128": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901194925_128.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250901195435_130": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901195435_130.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250901210345_132": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901210345_132.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250901211505_134": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901211505_134.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250901224707_136": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901224707_136.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250902012327_144": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250902012327_144.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-02",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20250902190259_150": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250902190259_150.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-02",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260620230144_006": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260620230144_006.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260620230146_008": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260620230146_008.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260622221003_004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260622221003_004.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260710212015_060": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260710212015_060.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-07-10",
+      "contributor_name": "Edgar"
+    }
+  }
+}
