@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260329165105_144",
+  "telegram_update_id": "Edgar_20260329165105_143",
+  "submitted_at": "2026-03-29",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "ijlTwGt1ugag+2HQr0gkNLF8wj3PKNEq0J0mpdmhE9ZgYNHWOgvmQk3mLPIxEw8HxH7OVouE2i/+drhDRSgKzao6S8Xve2yFTA840kGrev3yFngmLHloCWGP7uBoaLX39MJF+cuivg7i8sD+Pa0xPLe2OHGEXZeq/FhbDoshwFVmjMkJr6jYMHRuxl+kIYvoNgPnzcCv06qS+CvFZIdfWNNee8qZWQbsW+AmkgGpVe04CNorkxGY2JSL08AeksjNTdhO0WLwWXEEcR2cBusOrrKZwkEH8laNGs8qHC+3JfcTDdZasr13bS28/oF0JrKIbh2BwOL22NCvyw0ZjZLcLg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 294.39\n- Description: Flight tickets from Rochester New York to LA to continue the cacao distribution network expansion\n- Contributor(s): AGL15\n- TDG Issued: 294.39\n- Attached Filename: trip-receipt.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260329165102_gary_teh_trip_receipt.pdf\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 294.39\n- Description: Flight tickets from Rochester New York to LA to continue the cacao distribution network expansion\n- Contributor(s): AGL15\n- TDG Issued: 294.39\n- Attached Filename: trip-receipt.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260329165102_gary_teh_trip_receipt.pdf\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: ijlTwGt1ugag+2HQr0gkNLF8wj3PKNEq0J0mpdmhE9ZgYNHWOgvmQk3mLPIxEw8HxH7OVouE2i/+drhDRSgKzao6S8Xve2yFTA840kGrev3yFngmLHloCWGP7uBoaLX39MJF+cuivg7i8sD+Pa0xPLe2OHGEXZeq/FhbDoshwFVmjMkJr6jYMHRuxl+kIYvoNgPnzcCv06qS+CvFZIdfWNNee8qZWQbsW+AmkgGpVe04CNorkxGY2JSL08AeksjNTdhO0WLwWXEEcR2cBusOrrKZwkEH8laNGs8qHC+3JfcTDdZasr13bS28/oF0JrKIbh2BwOL22NCvyw0ZjZLcLg==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
