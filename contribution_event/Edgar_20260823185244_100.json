@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260823185244_100",
+  "telegram_update_id": "Edgar_20260823185244_099",
+  "submitted_at": "2026-08-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "nFo+ox7wrgPzG7IcoHGlz27dqzQ8eNuAnC4Ztiel4u6AVA2ixBxO55zLqfVjPbm8dUdu1OtWc9EXKj+sHu5OjjjZRAGnMt1S0Fez6M9oo/15TM4dWEIdQwc6Du1tC229Mca/HigyMW+XTcKlP3tVGeCmdTmCG833dtemg/h+IOrrSO/uBs2Rub4I+eBOsVIz7k7hPn9XyNOmq4Fw4sUoxluDg6yVQ2wqVY27xN47p80lpVuyAEgoDz7WwBmbIz6zMtee5APxo7K9z1So104JYsOqO08/BB7pXna8u4oxP7Sif7J2A7Go4gY/vmKHswNCiNwu+yElN+NKFHX6emNAfQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] sunmint_mobile: iOS build fails on the designated Mac (Xcode 16.2 / iOS 18.2): Swift errors \"value of type 'CAPPlugi\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/sunmint_mobile/pull/17\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] sunmint_mobile: iOS build fails on the designated Mac (Xcode 16.2 / iOS 18.2): Swift errors \"value of type 'CAPPlugi\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/sunmint_mobile/pull/17\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: nFo+ox7wrgPzG7IcoHGlz27dqzQ8eNuAnC4Ztiel4u6AVA2ixBxO55zLqfVjPbm8dUdu1OtWc9EXKj+sHu5OjjjZRAGnMt1S0Fez6M9oo/15TM4dWEIdQwc6Du1tC229Mca/HigyMW+XTcKlP3tVGeCmdTmCG833dtemg/h+IOrrSO/uBs2Rub4I+eBOsVIz7k7hPn9XyNOmq4Fw4sUoxluDg6yVQ2wqVY27xN47p80lpVuyAEgoDz7WwBmbIz6zMtee5APxo7K9z1So104JYsOqO08/BB7pXna8u4oxP7Sif7J2A7Go4gY/vmKHswNCiNwu+yElN+NKFHX6emNAfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
