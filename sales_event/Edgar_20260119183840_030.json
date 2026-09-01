@@ -1,0 +1,14 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20260119183840_030",
+  "telegram_update_id": "Edgar_20260119183840_029",
+  "submitted_at": "2026-01-19",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "oRlpJwCBZSGA3TZE4GY7YKAtQMAOwKkmhd2jVPHLC0lQovHDr75WW5p84yAI/6Y6SEv4MFd+8HtOsn6hTvOfQ0M18lsKwb6Zl6NV7j7g1kMFz+Qcw7y+08y+oM09n12GwhMrC1nTTq2dif40BT8wcWt3iYMmhp6OZZEHscQbcP09MaMy0SZAqen5tDbdbmlClJnck2soIVjlji3+ZneSPp/E3/PLruvArJ2SFjsIQ9V7n4pRpvYjgX25LI8RyxIZYUa1aZGnzbISNgbcbD6ubeeCDI3h5vYjRk4YErXeGSLznpWCf1JYCco4xV/npAsCVZQsMf1Y04jYVyu8w8Ky8w==",
+  "signed_payload": "[SALES EVENT]\n- Item: 2024OSCAR_20250805_4\n- Sales price: $17\n- Sold by: Kelly Springer\n- Attached Filename: None\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------",
+  "signed_text": "[SALES EVENT]\r\n- Item: 2024OSCAR_20250805_4\r\n- Sales price: $17\r\n- Sold by: Kelly Springer\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: oRlpJwCBZSGA3TZE4GY7YKAtQMAOwKkmhd2jVPHLC0lQovHDr75WW5p84yAI/6Y6SEv4MFd+8HtOsn6hTvOfQ0M18lsKwb6Zl6NV7j7g1kMFz+Qcw7y+08y+oM09n12GwhMrC1nTTq2dif40BT8wcWt3iYMmhp6OZZEHscQbcP09MaMy0SZAqen5tDbdbmlClJnck2soIVjlji3+ZneSPp/E3/PLruvArJ2SFjsIQ9V7n4pRpvYjgX25LI8RyxIZYUa1aZGnzbISNgbcbD6ubeeCDI3h5vYjRk4YErXeGSLznpWCf1JYCco4xV/npAsCVZQsMf1Y04jYVyu8w8Ky8w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
