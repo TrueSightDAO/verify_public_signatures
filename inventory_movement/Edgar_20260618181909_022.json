@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20260618181909_022",
+  "telegram_update_id": "Edgar_20260618181909_021",
+  "submitted_at": "2026-06-18",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "OYsbsvWm1E9hInoZmUyC1unbtfFJ+tox4srz0mNCsiMFATT9PGTcmQ0/dvlW9VXvgIOBcTTDH5VOMcv+aK5VeqP1hoJgM5wF7byRWkTPHw/6kncZbV5mA/5jxnErFHkqFuBz2O3ghGKHuZ8LN5ur0nIHEQflIQkr9QQcaTobkDYKlmtFgNoetBSWjSgZK5B8q7Qh4NI2ytCSNqaRBEMVZuy0wZs+RtMN7BHc0EOnkn4A+iuGOOOMXMG3tDfx6yYAzNRcJ2+OngQgFyQemNwDc8YFWMf7HBJSuA6TUQyj8pdk0HQ2W4CqcwRAX9dTFy7a8a9fsXEJcUMaLqXV9oM2Yg==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Unknown\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: 8 Ounce Package Kraft Pouch - AGL6\n- QR Code: 2024SJ_20250515_NIBS_21\n- Quantity: 1\n- Latitude: 37.735630\n- Longitude: -122.502728\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\r\n- Manager Name: Unknown\r\n- Recipient Name: Kirsten Ritschel\r\n- Inventory Item: 8 Ounce Package Kraft Pouch - AGL6\r\n- QR Code: 2024SJ_20250515_NIBS_21\r\n- Quantity: 1\r\n- Latitude: 37.735630\r\n- Longitude: -122.502728\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: OYsbsvWm1E9hInoZmUyC1unbtfFJ+tox4srz0mNCsiMFATT9PGTcmQ0/dvlW9VXvgIOBcTTDH5VOMcv+aK5VeqP1hoJgM5wF7byRWkTPHw/6kncZbV5mA/5jxnErFHkqFuBz2O3ghGKHuZ8LN5ur0nIHEQflIQkr9QQcaTobkDYKlmtFgNoetBSWjSgZK5B8q7Qh4NI2ytCSNqaRBEMVZuy0wZs+RtMN7BHc0EOnkn4A+iuGOOOMXMG3tDfx6yYAzNRcJ2+OngQgFyQemNwDc8YFWMf7HBJSuA6TUQyj8pdk0HQ2W4CqcwRAX9dTFy7a8a9fsXEJcUMaLqXV9oM2Yg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
