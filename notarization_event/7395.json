@@ -1,0 +1,14 @@
+{
+  "event_type": "[NOTARIZATION EVENT]",
+  "telegram_message_id": "7395",
+  "telegram_update_id": "469027775",
+  "submitted_at": "2025-09-15",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "2wRtlIjTcuoqVhaXG7VKZnf4ef1HbOolwJU1AUESZz1cCeaUrhG9gcTzeKLvMlfESxRCie6oybRQxp4RUcri5Psk8mTtO/oQq8mid7VvEegoNXqLw11rBzsvR2dqHeJY0ybowZuOK+oWSKDOLSpdXZQCVf5T/8qnU28JxaV4RhRfD4v5Jx1UGsxPfI5IV2p0914UzM0gwNIEWEIl3N6jaXd/PgE6sdH7ouTXFFhSmkiqFbnj+Y9+i66Ci49kEpU+jnzqsRPajDuMIq31LToWla7TUBWnHWQ4ZrEdTVgZey2p7B/Kj50vyycfmrV0P0M140FINUs1SdvTXFTWBt/KpQ==",
+  "signed_payload": "[NOTARIZATION EVENT]\nSubmitter: Gary Teh\nLatitude: -14.279607\nLongitude: -38.992363\nDocument Type: Farmer invoice\nDescription: Payment to Vivi for the 150 kilograms of cacao \nAttached Filename: vivi_cacao_payment_2025.jpeg\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250915165119_gary_teh_vivi_cacao_payment_2025.jpeg\nSubmission Source: https://dapp.truesight.me/notarize.html\n--------",
+  "signed_text": "[NOTARIZATION EVENT]\nSubmitter: Gary Teh\nLatitude: -14.279607\nLongitude: -38.992363\nDocument Type: Farmer invoice\nDescription: Payment to Vivi for the 150 kilograms of cacao \nAttached Filename: vivi_cacao_payment_2025.jpeg\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250915165119_gary_teh_vivi_cacao_payment_2025.jpeg\nSubmission Source: https://dapp.truesight.me/notarize.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\n\nRequest Transaction ID: 2wRtlIjTcuoqVhaXG7VKZnf4ef1HbOolwJU1AUESZz1cCeaUrhG9gcTzeKLvMlfESxRCie6oybRQxp4RUcri5Psk8mTtO/oQq8mid7VvEegoNXqLw11rBzsvR2dqHeJY0ybowZuOK+oWSKDOLSpdXZQCVf5T/8qnU28JxaV4RhRfD4v5Jx1UGsxPfI5IV2p0914UzM0gwNIEWEIl3N6jaXd/PgE6sdH7ouTXFFhSmkiqFbnj+Y9+i66Ci49kEpU+jnzqsRPajDuMIq31LToWla7TUBWnHWQ4ZrEdTVgZey2p7B/Kj50vyycfmrV0P0M140FINUs1SdvTXFTWBt/KpQ==\n\nThis submission was generated using https://dapp.truesight.me/notarize.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
