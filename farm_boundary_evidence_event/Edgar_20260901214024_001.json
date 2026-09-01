@@ -1,0 +1,14 @@
+{
+  "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
+  "telegram_message_id": "Edgar_20260901214024_001",
+  "telegram_update_id": "Edgar_20260901214024_002",
+  "submitted_at": "2026-09-01",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "scP7O73p5j/aa6DSNHGYVr1EeQgYuWUtN5xD6tzqGcJcT8dNGUw3hAF91GkAn/Fy54+pp1MA8w2fdGT3tUDQetlSTDpDhhFikvmHkbcNLTXV8I/olu4/O3K6h6eFUH35Q8nKFcZ5/JJx/iFz630uOvKiMp10wc/7yCVniGEIXTN4rcjB/59eF6C/YW47r1JZNqq5QHzXq/M/hU6KQXza9RbiTGZO8P78p/pMjCkK3N/Gq7VTwvE51xDFkA24Ohlzzabujuf+KnGVDaLT2uHQ1l3hAz5WFhNEjcLTLHad+Lbiy9yB6d94GGJltpw5IMjzLSfGepe1LYHMiwnsfyeFHg==",
+  "signed_payload": "[FARM BOUNDARY EVIDENCE EVENT]\n- Farm Name: test-dispatch-verify-20260901\n- Plot ID: TDP1\n- Boundary Type: pillar-and-log walk\n- Media URLs: https://example.com/test.jpg\n- Extracted GPS: -3.1,-60.0;-3.11,-60.01;-3.09,-59.99\n- Area Hectares: 0.1\n- Submission Source: uat-sophia-dispatch-verify\n--------",
+  "signed_text": "[FARM BOUNDARY EVIDENCE EVENT]\n- Farm Name: test-dispatch-verify-20260901\n- Plot ID: TDP1\n- Boundary Type: pillar-and-log walk\n- Media URLs: https://example.com/test.jpg\n- Extracted GPS: -3.1,-60.0;-3.11,-60.01;-3.09,-59.99\n- Area Hectares: 0.1\n- Submission Source: uat-sophia-dispatch-verify\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: scP7O73p5j/aa6DSNHGYVr1EeQgYuWUtN5xD6tzqGcJcT8dNGUw3hAF91GkAn/Fy54+pp1MA8w2fdGT3tUDQetlSTDpDhhFikvmHkbcNLTXV8I/olu4/O3K6h6eFUH35Q8nKFcZ5/JJx/iFz630uOvKiMp10wc/7yCVniGEIXTN4rcjB/59eF6C/YW47r1JZNqq5QHzXq/M/hU6KQXza9RbiTGZO8P78p/pMjCkK3N/Gq7VTwvE51xDFkA24Ohlzzabujuf+KnGVDaLT2uHQ1l3hAz5WFhNEjcLTLHad+Lbiy9yB6d94GGJltpw5IMjzLSfGepe1LYHMiwnsfyeFHg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
