@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260822160925_042",
+  "telegram_update_id": "Edgar_20260822160925_041",
+  "submitted_at": "2026-08-22",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
+  "signature": "cR85O+QoidAmxPetNhNBenlWt8iu6OMEZIK4v/APjTojH4sZicp1tCjPDp807FQ6Elphek63g1V2SGFt55Z39iCIgkwn+JGef1NkBdRhe9Y+aI/SejuCDySTSSRdl51nU0SAoS3L3icwj0wU+3Aewi+Dj/GxBn0SXUOY9PB6h7OwZy1+SfI5bOtT/h4xGiKkUVQ6eCbyMtMCWvp/cup43/wr4cUU8Ng2Mo5BIr0fgtte+8IQXL1yzdEIEPhrW9Q4c+mzR//hod04dv9bSQbV2Ef6V2E1Ca18nrsKOVN82G/Q2OwzE5DWfQqXMWYnRWN9U36QbPJm+2koqHCX3x1+Xw==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Currency: Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil\n- Amount: 100\n- Description: 100 units received (2x 50-pack, Cvisor brand) from Paloma's Mercado Livre order — pairs with the USD contribution row above; landed cost approx $0.130088/unit @ 0.2323 USD/BRL.\n- Fund Handler: Paloma\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\n- Currency: Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil\n- Amount: 100\n- Description: 100 units received (2x 50-pack, Cvisor brand) from Paloma's Mercado Livre order — pairs with the USD contribution row above; landed cost approx $0.130088/unit @ 0.2323 USD/BRL.\n- Fund Handler: Paloma\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: cR85O+QoidAmxPetNhNBenlWt8iu6OMEZIK4v/APjTojH4sZicp1tCjPDp807FQ6Elphek63g1V2SGFt55Z39iCIgkwn+JGef1NkBdRhe9Y+aI/SejuCDySTSSRdl51nU0SAoS3L3icwj0wU+3Aewi+Dj/GxBn0SXUOY9PB6h7OwZy1+SfI5bOtT/h4xGiKkUVQ6eCbyMtMCWvp/cup43/wr4cUU8Ng2Mo5BIr0fgtte+8IQXL1yzdEIEPhrW9Q4c+mzR//hod04dv9bSQbV2Ef6V2E1Ca18nrsKOVN82G/Q2OwzE5DWfQqXMWYnRWN9U36QbPJm+2koqHCX3x1+Xw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
