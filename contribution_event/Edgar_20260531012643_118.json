@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260531012643_118",
+  "telegram_update_id": "Edgar_20260531012643_117",
+  "submitted_at": "2026-05-31",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB",
+  "signature": "WLPVBBba6Z/cnLpDumTUA2AZf3LHqNzFBNDlHyrYQZLNXfR72A8wcbufB7DRMJyEXFIt14qboLPXM2xNCCLx3fPpMtMixtoQ6zdJR+0a3dpJC9Og0W1fsfHQEnvz2wXm3XFk0hTq0f/i2JReSXJUyA/NHNBUictnsTqQkaQd1pufG3RZ6mMzm1xlce9zzPoQOJsnosS5l1s4Bt22tfrkJNEDG9l/Zmgve7KeEgdCl7xB/1XxjL+1CdfB86ivmy81kOOyVIBKBBsxhEgcRPZPb30xsg4meAhyfurQWFbD5hyhuqqO7zWQWFHagoSk9/qU9PjFsfcIWPVfyj1nP8ohZA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Fix deploy_autopilot OOM failure on t3.small (2GB RAM, no swap). The phase-two subprocess gets kille\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/83\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Fix deploy_autopilot OOM failure on t3.small (2GB RAM, no swap). The phase-two subprocess gets kille\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/83\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB\n\nRequest Transaction ID: WLPVBBba6Z/cnLpDumTUA2AZf3LHqNzFBNDlHyrYQZLNXfR72A8wcbufB7DRMJyEXFIt14qboLPXM2xNCCLx3fPpMtMixtoQ6zdJR+0a3dpJC9Og0W1fsfHQEnvz2wXm3XFk0hTq0f/i2JReSXJUyA/NHNBUictnsTqQkaQd1pufG3RZ6mMzm1xlce9zzPoQOJsnosS5l1s4Bt22tfrkJNEDG9l/Zmgve7KeEgdCl7xB/1XxjL+1CdfB86ivmy81kOOyVIBKBBsxhEgcRPZPb30xsg4meAhyfurQWFbD5hyhuqqO7zWQWFHagoSk9/qU9PjFsfcIWPVfyj1nP8ohZA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
