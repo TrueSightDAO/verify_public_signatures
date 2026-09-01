@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260811014803_366",
+  "telegram_update_id": "Edgar_20260811014803_365",
+  "submitted_at": "2026-08-11",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "CzRDbPoZl7X6nJ/rPsFr2ck16ws7GHkXLtNqrj0Cot5g22HR/qw457m1mE19fjjp/X2LoD/F9HwA7e7GQSmxWrJ8ckcle/4gp9kbUS7TjwXnE1WVfpCo9WWx/BkKDoPvOsaUGaJCXHPakhuL++Q6xP3LJJoI9DRIQJ4cAeJCvS4p4yp9CqlkfvNi/QgW1m8okOGPj3EtCQgHLV+RiHb9xfQCbjT0Jfi6/8F13xfVanuUg8SycBlbpZ1pQXrWaTC5qCpV2MBPUgTxy79YEiZHZRnU20P+NIoQm2dEo+i13llT6UkOqnULlSQW4z5Wc4KJzQcAjjSOmWQlhxy5+QYPhg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Startup Summit 2026 stand coordination with Paloma — logo handoff + tweet-size pitch (EN/PT) + exhibitor blurb\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Startup Summit 2026 stand coordination with Paloma — logo handoff + tweet-size pitch (EN/PT) + exhibitor blurb\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: CzRDbPoZl7X6nJ/rPsFr2ck16ws7GHkXLtNqrj0Cot5g22HR/qw457m1mE19fjjp/X2LoD/F9HwA7e7GQSmxWrJ8ckcle/4gp9kbUS7TjwXnE1WVfpCo9WWx/BkKDoPvOsaUGaJCXHPakhuL++Q6xP3LJJoI9DRIQJ4cAeJCvS4p4yp9CqlkfvNi/QgW1m8okOGPj3EtCQgHLV+RiHb9xfQCbjT0Jfi6/8F13xfVanuUg8SycBlbpZ1pQXrWaTC5qCpV2MBPUgTxy79YEiZHZRnU20P+NIoQm2dEo+i13llT6UkOqnULlSQW4z5Wc4KJzQcAjjSOmWQlhxy5+QYPhg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
