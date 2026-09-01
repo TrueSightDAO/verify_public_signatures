@@ -1,14 +1,20 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-01T15:30:11Z",
+  "generated_at": "2026-09-01T19:00:07Z",
   "event_type": "[FARM REGISTRATION EVENT]",
-  "count": 1,
+  "count": 2,
   "events": {
     "Edgar_20260831160900_068": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/Edgar_20260831160900_068.json",
       "event_type": "[FARM REGISTRATION EVENT]",
       "submitted_at": "2026-08-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260901164208_001": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/Edgar_20260901164208_001.json",
+      "event_type": "[FARM REGISTRATION EVENT]",
+      "submitted_at": "2026-09-01",
       "contributor_name": "Edgar"
     }
   }
