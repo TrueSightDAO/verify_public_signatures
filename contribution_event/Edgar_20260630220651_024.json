@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260630220651_024",
+  "telegram_update_id": "Edgar_20260630220651_023",
+  "submitted_at": "2026-06-30",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB",
+  "signature": "jtJ4hhVq3KUGYTnvlNYShWENBw0V46/8Qaa7ZD4b9zCzKGy8am2aPkOTe0R1Q2grLU7SZaTUhxkuvYBIAT9joTEtAY7MG2cRk3mT6ZCspgDci3lNMUWzlraZc/2nIpOPW1pIP+tRuWStFr0usqvtu4Zdg7c7uzQ2UN86uGCTKwmhhvz6dOTlO+fm3O6c8tfwbgTobRpwAorim6o64MaM/6oh0OjoRhIApholistk6sdTuzm6gRjz/vb4CA5jfDoHfmvYX6mgBfl8UeIjgLDF47BAn9tpflnsiGVg9lPNB5OslvABUiah1o5W0F9dKOTJMi14sBWCcWBmiKbx7bB2Mw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Inventory reconciliation + Dim Sum Club share — 81% bar count bump (4→8). Investigated the 81% cacao chocolate bar inventory discrepancy, traced through the ledger, confirmed the offchain transactions sheet update, and shared the Agroverse.shop link to the Dim Sum Club group.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Inventory reconciliation + Dim Sum Club share — 81% bar count bump (4→8). Investigated the 81% cacao chocolate bar inventory discrepancy, traced through the ledger, confirmed the offchain transactions sheet update, and shared the Agroverse.shop link to the Dim Sum Club group.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: jtJ4hhVq3KUGYTnvlNYShWENBw0V46/8Qaa7ZD4b9zCzKGy8am2aPkOTe0R1Q2grLU7SZaTUhxkuvYBIAT9joTEtAY7MG2cRk3mT6ZCspgDci3lNMUWzlraZc/2nIpOPW1pIP+tRuWStFr0usqvtu4Zdg7c7uzQ2UN86uGCTKwmhhvz6dOTlO+fm3O6c8tfwbgTobRpwAorim6o64MaM/6oh0OjoRhIApholistk6sdTuzm6gRjz/vb4CA5jfDoHfmvYX6mgBfl8UeIjgLDF47BAn9tpflnsiGVg9lPNB5OslvABUiah1o5W0F9dKOTJMi14sBWCcWBmiKbx7bB2Mw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
