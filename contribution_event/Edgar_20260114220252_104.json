@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260114220252_104",
+  "telegram_update_id": "Edgar_20260114220252_103",
+  "submitted_at": "2026-01-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "vIqN9n9LfBd2HldVfhvvwJaJwvXgPMnTaVwxfu/W9c+/tKbpXKClzhDB2yVjPWJZi0LWYhQpwmTya36IhY6BXDcRpi5Oks3WGVhTmN7RduSpjX4B1/BF+KOJeJB/ifFCcz50vNJRjC6WHGOqZYC5iRs9muFv3PPPVtzAYXvE888CG8+Ue+cewDqrfsJJctQp2WgDIhytjxQt4Sy1UZhZ/RmYJvbjwr6ZIUzhLH3aYz+dYcqlish9A65oNMkhwol6aO0s93fhHIr/c1XeEBaP8MFM3lP6Bf+dGob1ffQR+dXXtCaqQirQQ0+aCImJyUne1/65JKSJYWRduTGzPRNVUQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Process processing inventory stock up for Kelley springer\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Process processing inventory stock up for Kelley springer\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: vIqN9n9LfBd2HldVfhvvwJaJwvXgPMnTaVwxfu/W9c+/tKbpXKClzhDB2yVjPWJZi0LWYhQpwmTya36IhY6BXDcRpi5Oks3WGVhTmN7RduSpjX4B1/BF+KOJeJB/ifFCcz50vNJRjC6WHGOqZYC5iRs9muFv3PPPVtzAYXvE888CG8+Ue+cewDqrfsJJctQp2WgDIhytjxQt4Sy1UZhZ/RmYJvbjwr6ZIUzhLH3aYz+dYcqlish9A65oNMkhwol6aO0s93fhHIr/c1XeEBaP8MFM3lP6Bf+dGob1ffQR+dXXtCaqQirQQ0+aCImJyUne1/65JKSJYWRduTGzPRNVUQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
