@@ -1,0 +1,14 @@
+{
+  "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
+  "telegram_message_id": "Edgar_20260703041352_016",
+  "telegram_update_id": "Edgar_20260703041352_015",
+  "submitted_at": "2026-07-03",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB",
+  "signature": "IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==",
+  "signed_payload": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]\n- Contributor: Linda Gorski\n- Voting Rights Withdrawn (TDG): 208\n- Amount Paid (USD): 1.40\n- Settlement Reference: N/A\n- Settlement Method: Cash\n- Settlement Date: 20260703\n- Governor: Gary Teh\n- Notes: I past Linda USD1.40 in cash\n- Proof Attachment URL: (attached)\n- Submission Source: https://beta.dapp.truesight.me/withdraw_voting_rights_settlement.html\n--------",
+  "signed_text": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]\r\n- Contributor: Linda Gorski\r\n- Voting Rights Withdrawn (TDG): 208\r\n- Amount Paid (USD): 1.40\r\n- Settlement Reference: N/A\r\n- Settlement Method: Cash\r\n- Settlement Date: 20260703\r\n- Governor: Gary Teh\r\n- Notes: I past Linda USD1.40 in cash\r\n- Proof Attachment URL: (attached)\r\n- Submission Source: https://beta.dapp.truesight.me/withdraw_voting_rights_settlement.html\r\n--------\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB\r\nRequest Transaction ID: IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
