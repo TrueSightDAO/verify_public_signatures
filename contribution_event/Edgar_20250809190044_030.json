@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20250809190044_030",
+  "telegram_update_id": "Edgar_20250809190044_029",
+  "submitted_at": "2025-08-09",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "hjC6YTY3RJKQtKVJBrPZEQ9ejVPlFEuK+UTxRvVtBUqtdjTMaTq9VQkoDDkwHdAqXXD52xW0kZtaTxnPTKGKlVaq6DytqA/u195EDlJeU/F3ZyxoDvhLXKg04H+0OK7C7r6B4gyC9mu0qUOmuNeeIUzV+/vDwl44ImQQh8fzyib8M/btZ8cNB2eR/o1pGufJIpXLXMRXwsXeTo4CykMt7QxMm/jaZsJRQAvi5EHIJEW1fx1hJr4Ga8pwB0BhzTEaHjIyD99GbB3x4vtvnh9vAevrhpjtx1WP1KvQcGuOE3he3Mmlw4oC60KieBMlrsh7Idd6vwOOvh92i008cR7O9A==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Still allow user to submit even when location is not available https://github.com/TrueSightDAO/dapp/pull/64 also fixed the nginx file size upload restriction. Setting it to 100MB\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Still allow user to submit even when location is not available https://github.com/TrueSightDAO/dapp/pull/64 also fixed the nginx file size upload restriction. Setting it to 100MB\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: hjC6YTY3RJKQtKVJBrPZEQ9ejVPlFEuK+UTxRvVtBUqtdjTMaTq9VQkoDDkwHdAqXXD52xW0kZtaTxnPTKGKlVaq6DytqA/u195EDlJeU/F3ZyxoDvhLXKg04H+0OK7C7r6B4gyC9mu0qUOmuNeeIUzV+/vDwl44ImQQh8fzyib8M/btZ8cNB2eR/o1pGufJIpXLXMRXwsXeTo4CykMt7QxMm/jaZsJRQAvi5EHIJEW1fx1hJr4Ga8pwB0BhzTEaHjIyD99GbB3x4vtvnh9vAevrhpjtx1WP1KvQcGuOE3he3Mmlw4oC60KieBMlrsh7Idd6vwOOvh92i008cR7O9A==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
