@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260822160936_046",
+  "telegram_update_id": "Edgar_20260822160936_045",
+  "submitted_at": "2026-08-22",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
+  "signature": "B/lzp2QP753+Rxe5orgBtuiwIlbNoy6qsQKqHJBSiBe/fAgA8Hvzh5k7r6KHib5MR2ucyNbOoH7ZbaSUMTL86Tc/3XmMfRbdNaYdSS5yzxdmiGsC/GuycqR71fww130FmJfkm2ccoFmMatr0O8uXmi5rKH181g+if/j1p6bIIOOr94DXLLpeCYIb1A6Qp6C9p6E5Y9fu0tfPtANFoPFjBZMJjRBq1JgOqzBZOE9KWPl7Cb19OHVoCHBpI5lk/UbWkXo1jl7dQsjoFraIaJQgaqdL0xkcpl0EHjU42irGsmILauby3z4NKlOtlLYvv8Lj4hLvUhL2rgWXBojWEJ7Mug==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Currency: Bluetooth Label Printer w/20 Label Rolls - Brazil\n- Amount: 1\n- Description: 1 unit received from Paloma's Mercado Livre order — pairs with the USD contribution row above.\n- Fund Handler: Paloma\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\n- Currency: Bluetooth Label Printer w/20 Label Rolls - Brazil\n- Amount: 1\n- Description: 1 unit received from Paloma's Mercado Livre order — pairs with the USD contribution row above.\n- Fund Handler: Paloma\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: B/lzp2QP753+Rxe5orgBtuiwIlbNoy6qsQKqHJBSiBe/fAgA8Hvzh5k7r6KHib5MR2ucyNbOoH7ZbaSUMTL86Tc/3XmMfRbdNaYdSS5yzxdmiGsC/GuycqR71fww130FmJfkm2ccoFmMatr0O8uXmi5rKH181g+if/j1p6bIIOOr94DXLLpeCYIb1A6Qp6C9p6E5Y9fu0tfPtANFoPFjBZMJjRBq1JgOqzBZOE9KWPl7Cb19OHVoCHBpI5lk/UbWkXo1jl7dQsjoFraIaJQgaqdL0xkcpl0EHjU42irGsmILauby3z4NKlOtlLYvv8Lj4hLvUhL2rgWXBojWEJ7Mug==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
