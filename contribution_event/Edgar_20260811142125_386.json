@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260811142125_386",
+  "telegram_update_id": "Edgar_20260811142125_385",
+  "submitted_at": "2026-08-11",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "W9O180jKYEy7r+nTgof5BCUw5zw4BBfDTT7a3juAwTc9JpBABg0hP/wR035sIZnUDD8TiqsYbf5DTCFnr+mi4IqK3T+Ig5YZpALIt2fYSUJk3ekifwGOmDi/6MH5LXdNCW2fLGhpytMCjgoGvMz8N4Fgnq4XykL3TcWGV9lf3nV1oMAsdj/CO7KSmAAutWW5AdTUU1fUc0fU6a+RtnTR/S7mOCPNO1TqGZm98aV90kQmAXSL3tYCwsI+syVTE2yrb2b2pJrE4dwN8g9ZKvZKEJ8tjmf/Px5s6m/yaGkzf1xwIE+RI00hql3MdlyNktknn+pYxHo6nAu/2CUattZ/Bg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Revise freight docs (INV-2026-0611-001 Rev3 + PL-2026-0611-001 Rev3): remove 20 bags (10 Oscar nibs + 10 Paulo ceremonial) redirected to FounderHaus Florianópolis; regenerate both PDFs and share in Telegram.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Revise freight docs (INV-2026-0611-001 Rev3 + PL-2026-0611-001 Rev3): remove 20 bags (10 Oscar nibs + 10 Paulo ceremonial) redirected to FounderHaus Florianópolis; regenerate both PDFs and share in Telegram.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: W9O180jKYEy7r+nTgof5BCUw5zw4BBfDTT7a3juAwTc9JpBABg0hP/wR035sIZnUDD8TiqsYbf5DTCFnr+mi4IqK3T+Ig5YZpALIt2fYSUJk3ekifwGOmDi/6MH5LXdNCW2fLGhpytMCjgoGvMz8N4Fgnq4XykL3TcWGV9lf3nV1oMAsdj/CO7KSmAAutWW5AdTUU1fUc0fU6a+RtnTR/S7mOCPNO1TqGZm98aV90kQmAXSL3tYCwsI+syVTE2yrb2b2pJrE4dwN8g9ZKvZKEJ8tjmf/Px5s6m/yaGkzf1xwIE+RI00hql3MdlyNktknn+pYxHo6nAu/2CUattZ/Bg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
