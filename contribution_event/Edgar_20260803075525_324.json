@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260803075525_324",
+  "telegram_update_id": "Edgar_20260803075525_323",
+  "submitted_at": "2026-08-03",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "ALwpbhQBfKUqhL71dVbt+rS/wH5e94dWPg98FZ6AJD3fQyx/hOkwhMjX/+NYsX6GpQ8U3xyIovZ/EJt8an/Dr5VhPHXvcP13fAZZpQHZW57tRb6mvKjx7eKNunQTGkcsMurd0XTPtJvBTRyX5w47s8jSu7kyrfu+Dvn+qVZKKbtvhOfAV1eVmmm7F/ALZpp1Str+yLiMnZGL6kJwry/vqWLbE+B7CCnuDOsAIsUTvpDxMYqz2e2fbYXgml5Hm8M55RNLwN2dbuvNY+vMGqu2ls4e6TdDXNacmxpW9FfdQVSAasBR9OY3rTGMDiqc4KlL6Xeb0QOSgUYcdNDf1JQvJA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Contributor(s): Gary Teh\n- Amount: 60\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Contributor(s): Gary Teh\n- Amount: 60\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: ALwpbhQBfKUqhL71dVbt+rS/wH5e94dWPg98FZ6AJD3fQyx/hOkwhMjX/+NYsX6GpQ8U3xyIovZ/EJt8an/Dr5VhPHXvcP13fAZZpQHZW57tRb6mvKjx7eKNunQTGkcsMurd0XTPtJvBTRyX5w47s8jSu7kyrfu+Dvn+qVZKKbtvhOfAV1eVmmm7F/ALZpp1Str+yLiMnZGL6kJwry/vqWLbE+B7CCnuDOsAIsUTvpDxMYqz2e2fbYXgml5Hm8M55RNLwN2dbuvNY+vMGqu2ls4e6TdDXNacmxpW9FfdQVSAasBR9OY3rTGMDiqc4KlL6Xeb0QOSgUYcdNDf1JQvJA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
