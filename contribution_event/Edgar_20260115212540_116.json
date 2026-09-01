@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260115212540_116",
+  "telegram_update_id": "Edgar_20260115212540_115",
+  "submitted_at": "2026-01-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB",
+  "signature": "Yuvk7LIbgRUdrlPeehnZ85urmDzUpp2TwWofYGGeRQ1pINLVScAtfHsu13Nw47sa4f0xYw+CweGEJ7KHcOLwtsuMNUy6QsZatC713I2M2K3FGxGOzpqOekvSKSi4xHeztzINthOa9Cwp1ZCqYWywZ6IaENJ5xB3gmD7aQxiICmWv5avyJ9/an8qphm2WI5mnGXtGnjCKGJWAmDxo4DNDKKRAwW0KT9B2Y17UkORf/b88VPofMLXcgbddmNmNWYkQhmZcF4nYv1RD1y6119vB6zAqJS0euyLK2lPqOv5NldHM4LBLqF9+eher0pNJbMcKwpbUkgGSqdOK//yHxnzZrA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Fixed logic error which is causing the Oscar ceremonial cacao page to display out of stock even though there are still stocks left\n  \n  https://github.com/TrueSightDAO/agroverse_shop_beta/pull/30\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Fixed logic error which is causing the Oscar ceremonial cacao page to display out of stock even though there are still stocks left\r\n  \r\n  https://github.com/TrueSightDAO/agroverse_shop_beta/pull/30\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: Yuvk7LIbgRUdrlPeehnZ85urmDzUpp2TwWofYGGeRQ1pINLVScAtfHsu13Nw47sa4f0xYw+CweGEJ7KHcOLwtsuMNUy6QsZatC713I2M2K3FGxGOzpqOekvSKSi4xHeztzINthOa9Cwp1ZCqYWywZ6IaENJ5xB3gmD7aQxiICmWv5avyJ9/an8qphm2WI5mnGXtGnjCKGJWAmDxo4DNDKKRAwW0KT9B2Y17UkORf/b88VPofMLXcgbddmNmNWYkQhmZcF4nYv1RD1y6119vB6zAqJS0euyLK2lPqOv5NldHM4LBLqF9+eher0pNJbMcKwpbUkgGSqdOK//yHxnzZrA==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
