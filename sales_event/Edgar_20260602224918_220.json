@@ -1,0 +1,14 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20260602224918_220",
+  "telegram_update_id": "Edgar_20260602224918_219",
+  "submitted_at": "2026-06-02",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB",
+  "signature": "K6uK9G/txVKPRZi/DJz6mm7KNBk4CdnkR4E7qYd8y6rrarZO8FLSwoi90au0ZCct70rNKtbJbPXT/SKSAZnpGn6bcTT2dfGZM1VZk/liNZoZGiGk/iX6zg4UMq9w8U+jpIOvpKdF5XaI6zYkvQ4KxzQg0GidIoz5mdMXiDmLe9n4uZukSxgOiflu3c3He3HpTYn/nsC3Zf+eeHtIzYt88Xt9+FPRYle8//I7HDzpPgAWplcpLGCPQ3cMH/NKBb3zvUYoJfDz2CV2NFzq3r2iYiTR10WiSUhcwEjbV3x36P78EEEn6spVajMRMmoHq4O/MBNw7bSVO21HPRmdmtV7Gw==",
+  "signed_payload": "[SALES EVENT]\n- Item: pk-BQhn_e2q64J3\n- Sales price: 1\n- Sold by: Gary Teh\n- Cash proceeds collected by: Gary Teh\n- Stripe Session ID: (none)\n- Shipping Provider: N/A\n- Tracking number: N/A\n- Attached Filename: sales_20260602224916_garyjob_era_payment.jpeg\n--------",
+  "signed_text": "[SALES EVENT]\n- Item: pk-BQhn_e2q64J3\n- Sales price: 1\n- Sold by: Gary Teh\n- Cash proceeds collected by: Gary Teh\n- Stripe Session ID: (none)\n- Shipping Provider: N/A\n- Tracking number: N/A\n- Attached Filename: sales_20260602224916_garyjob_era_payment.jpeg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: K6uK9G/txVKPRZi/DJz6mm7KNBk4CdnkR4E7qYd8y6rrarZO8FLSwoi90au0ZCct70rNKtbJbPXT/SKSAZnpGn6bcTT2dfGZM1VZk/liNZoZGiGk/iX6zg4UMq9w8U+jpIOvpKdF5XaI6zYkvQ4KxzQg0GidIoz5mdMXiDmLe9n4uZukSxgOiflu3c3He3HpTYn/nsC3Zf+eeHtIzYt88Xt9+FPRYle8//I7HDzpPgAWplcpLGCPQ3cMH/NKBb3zvUYoJfDz2CV2NFzq3r2iYiTR10WiSUhcwEjbV3x36P78EEEn6spVajMRMmoHq4O/MBNw7bSVO21HPRmdmtV7Gw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
