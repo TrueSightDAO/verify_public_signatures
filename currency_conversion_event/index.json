@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T15:00:12Z",
+  "event_type": "[CURRENCY CONVERSION EVENT]",
+  "count": 1,
+  "events": {
+    "Edgar_20260511022114_012": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/Edgar_20260511022114_012.json",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-05-11",
+      "contributor_name": "Edgar"
+    }
+  }
+}
