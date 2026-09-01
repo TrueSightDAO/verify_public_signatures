@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260724054212_262",
+  "telegram_update_id": "Edgar_20260724054212_261",
+  "submitted_at": "2026-07-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "HjGCePUXFRDx1aF0FX/RIC3mZCyHc9kno1bBZuNDj+T7UARyIXg/kyC77zWKLeb+ltYY+EtcjaRDCop40BCysufb/8X9zfVLwKMoDzmhJrFJNEQwvu9t+5kV2FYQT/HLRDJnU/9QgepgscCBiD1U/qb2a2sjgRyp754q5Ro7qUgpcPlNSdja5W4DJCtpmn7yI5Tsg+5pMJDvtJSSm3SBA64+Lphx4gGrovXcMyuUbgveP6zwc8mAOdUs/JbZ3d+Tx2oIUI644uyghWkorvZ6Vo6nzSLQR2CM/ztdKXwsQ+eHVYvpM1s1+YDYWMTdsiQBqa/h2HMN/e92IXUAOKLMQQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Dinner meeting with cousin (表哥) — market research gathering on cacao beverage market gap in China, product feedback and insights\n- Contributor(s): Elizabeth Wong\n- TDG Issued: 0\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Dinner meeting with cousin (表哥) — market research gathering on cacao beverage market gap in China, product feedback and insights\n- Contributor(s): Elizabeth Wong\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: HjGCePUXFRDx1aF0FX/RIC3mZCyHc9kno1bBZuNDj+T7UARyIXg/kyC77zWKLeb+ltYY+EtcjaRDCop40BCysufb/8X9zfVLwKMoDzmhJrFJNEQwvu9t+5kV2FYQT/HLRDJnU/9QgepgscCBiD1U/qb2a2sjgRyp754q5Ro7qUgpcPlNSdja5W4DJCtpmn7yI5Tsg+5pMJDvtJSSm3SBA64+Lphx4gGrovXcMyuUbgveP6zwc8mAOdUs/JbZ3d+Tx2oIUI644uyghWkorvZ6Vo6nzSLQR2CM/ztdKXwsQ+eHVYvpM1s1+YDYWMTdsiQBqa/h2HMN/e92IXUAOKLMQQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
