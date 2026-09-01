@@ -1,0 +1,14 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20251207152200_020",
+  "telegram_update_id": "Edgar_20251207152200_019",
+  "submitted_at": "2025-12-07",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "Nof1eCOKZkq2g6SvH3C21xSwMVpk3HZjeUDK/EyT2qED+8nKk/XfpGTfQTYvCs4dA0K5gNVZMPSu5WnL2yh5RnlIo8H/llO/MewfMNFHgsPRHpjpd3Y1SlwN/JuyEQdk+klDIZMPnH9cNdQL1s1TFeUNWM/cBYR2GXDelGrd4EoAowYGh3vB45OxOHXUmKI9ZF+jmQ47eIhEgmrxBqdct2ELOWnPF11QZ56x4Te4ZhMlnFj5nhP/nQG2FBJqdYzdmF5Io+4j9Gr36mlonPt8LEcoiibJlh4BQAmnew/QROUtY9h4x0jCGx7P16oKWMgkoC8rlpFOj7QDhOCm4nceQA==",
+  "signed_payload": "[SALES EVENT]\n- Item: 2024OSCAR_20251020_13\n- Sales price: $17\n- Sold by: Secrets of the Garden - Kirstin\n- Attached Filename: None\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------",
+  "signed_text": "[SALES EVENT]\n- Item: 2024OSCAR_20251020_13\n- Sales price: $17\n- Sold by: Secrets of the Garden - Kirstin\n- Attached Filename: None\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: Nof1eCOKZkq2g6SvH3C21xSwMVpk3HZjeUDK/EyT2qED+8nKk/XfpGTfQTYvCs4dA0K5gNVZMPSu5WnL2yh5RnlIo8H/llO/MewfMNFHgsPRHpjpd3Y1SlwN/JuyEQdk+klDIZMPnH9cNdQL1s1TFeUNWM/cBYR2GXDelGrd4EoAowYGh3vB45OxOHXUmKI9ZF+jmQ47eIhEgmrxBqdct2ELOWnPF11QZ56x4Te4ZhMlnFj5nhP/nQG2FBJqdYzdmF5Io+4j9Gr36mlonPt8LEcoiibJlh4BQAmnew/QROUtY9h4x0jCGx7P16oKWMgkoC8rlpFOj7QDhOCm4nceQA==\n\nThis submission was generated using https://dapp.truesight.me/report_sales.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
