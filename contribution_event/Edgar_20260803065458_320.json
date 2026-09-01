@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260803065458_320",
+  "telegram_update_id": "Edgar_20260803065458_319",
+  "submitted_at": "2026-08-03",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "wna3a+jykr5bl2e1E/YdWh3CtaP7zyUW3vV7/miGnQLkQAE3cJLLVuYtLXnNgWxuH9nLogH9IeRQbA7Im8hac6przN+1reVJyRfw3L4U1gmX0fPcdmKXhGdVXUs1mzgYW2VYuuMBx0CaO3gSFVoY66HgM5oq780KIjHCF0zqvF530GXjHnOvGORG0ZnzQXZoeOWpceA4ca/gDb+X/7K0vu1Il1G28S5sTpyBa4YSj1AcAWoxQ/YFRf7RAvltC3ooFccnX7Z1iMedM3x3IuqsKOnnn4VTxDpx4lht82pCXz4+h/G4jxXnrdbt/gz+yxZASiTHhvWguB5yvffZksaF4A==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Contributor(s): Elizabeth Wong\n- Description: 2 hours — China market strategy inputs: retail price point ($50/box), KOL/event network (TEDx Songshan Lake), events budget guidance ($20K x 2/yr), market demographics insight. Evidence: strategy session 2026-07-28.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Contributor(s): Elizabeth Wong\n- Description: 2 hours — China market strategy inputs: retail price point ($50/box), KOL/event network (TEDx Songshan Lake), events budget guidance ($20K x 2/yr), market demographics insight. Evidence: strategy session 2026-07-28.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: wna3a+jykr5bl2e1E/YdWh3CtaP7zyUW3vV7/miGnQLkQAE3cJLLVuYtLXnNgWxuH9nLogH9IeRQbA7Im8hac6przN+1reVJyRfw3L4U1gmX0fPcdmKXhGdVXUs1mzgYW2VYuuMBx0CaO3gSFVoY66HgM5oq780KIjHCF0zqvF530GXjHnOvGORG0ZnzQXZoeOWpceA4ca/gDb+X/7K0vu1Il1G28S5sTpyBa4YSj1AcAWoxQ/YFRf7RAvltC3ooFccnX7Z1iMedM3x3IuqsKOnnn4VTxDpx4lht82pCXz4+h/G4jxXnrdbt/gz+yxZASiTHhvWguB5yvffZksaF4A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
