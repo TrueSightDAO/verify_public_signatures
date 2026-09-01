@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "7077",
+  "telegram_update_id": "469027700",
+  "submitted_at": "2025-08-04",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "C+wULvP+MzVsD+moIUJo6UWsWYyE+MbVZ4abzLEJeF+ewtmuSZit9ylrw6UoZRoPETOwcS+m1C3xDsuktgqvvy6GydxCOcFY2oPBQsgGYdnkrX5LwvtSoN10qZKtPD02q0OXfTmVb72dJDFWw98DlmZmDerE2Xrz4O8XiRyWA5pMuPe46PpgCBxUrJKHNTfxdQAVE41dKYuTwwBups/KItVluJhrLRdNxRKr+UwgbRbsFk0m0t/aOv4GIvuuITOR2HnmefRbqpBiUGO4m2RzI6z64pwP8tvaQ8k1kte83QeElW8XdrnDeeFls2cRJR/5p8DMtBkWtds6owk+YtAfEQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Generated 22 QR codes for Paulo's farm in Para Brazil \n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: minting.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250804180300_gary_teh_minting.jpg\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Generated 22 QR codes for Paulo's farm in Para Brazil \n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: minting.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250804180300_gary_teh_minting.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: C+wULvP+MzVsD+moIUJo6UWsWYyE+MbVZ4abzLEJeF+ewtmuSZit9ylrw6UoZRoPETOwcS+m1C3xDsuktgqvvy6GydxCOcFY2oPBQsgGYdnkrX5LwvtSoN10qZKtPD02q0OXfTmVb72dJDFWw98DlmZmDerE2Xrz4O8XiRyWA5pMuPe46PpgCBxUrJKHNTfxdQAVE41dKYuTwwBups/KItVluJhrLRdNxRKr+UwgbRbsFk0m0t/aOv4GIvuuITOR2HnmefRbqpBiUGO4m2RzI6z64pwP8tvaQ8k1kte83QeElW8XdrnDeeFls2cRJR/5p8DMtBkWtds6owk+YtAfEQ==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754330517684\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
