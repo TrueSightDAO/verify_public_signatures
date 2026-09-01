@@ -1,0 +1,14 @@
+{
+  "event_type": "[NOTARIZATION EVENT]",
+  "telegram_message_id": "Edgar_20260304154523_062",
+  "telegram_update_id": "Edgar_20260304154523_061",
+  "submitted_at": "2026-03-04",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "IRFc3+8daY44LMv54fWA8eV/XWnvIIhz28X3ZFeANPUpfLHqtJp0XOuxVWXs5cURomr250uaHEQlsSUSXeE1llQCN6zkdvtLhGJb8T+8pEPz7NbKrSJHT4EPph51ahvKuWGCfYFT9huXd6ZXh8/gUX2eK8Xau7SPn5GPYVfJ0pB8Vqd5iaRazegf8t92u+iIIQmq+bjdzvA+Yj5FELsQ3Cey9mUuelIgepeuJ33aRvNOvPVJq7Ljzc84WdqjHBhUrUYCZN9vSOiObPR9LwAbgwgsI7eIqBdjb5kdIp5cl9a3emEppO14fkFqXCfv9z+E8WYBDhH5LKKnKcw2eEmdww==",
+  "signed_payload": "[NOTARIZATION EVENT]\nSubmitter: Gary Teh\nLatitude: 33.837234\nLongitude: -117.940822\nDocument Type: In person physical verification\nDescription: Francine verification of inventory count\nAttached Filename: image.png\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/tree/main/20260304154504_gary_teh_image.png\nSubmission Source: https://dapp.truesight.me/notarize.html\n--------",
+  "signed_text": "[NOTARIZATION EVENT]\r\nSubmitter: Gary Teh\r\nLatitude: 33.837234\r\nLongitude: -117.940822\r\nDocument Type: In person physical verification\r\nDescription: Francine verification of inventory count\r\nAttached Filename: image.png\r\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/tree/main/20260304154504_gary_teh_image.png\r\nSubmission Source: https://dapp.truesight.me/notarize.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: IRFc3+8daY44LMv54fWA8eV/XWnvIIhz28X3ZFeANPUpfLHqtJp0XOuxVWXs5cURomr250uaHEQlsSUSXeE1llQCN6zkdvtLhGJb8T+8pEPz7NbKrSJHT4EPph51ahvKuWGCfYFT9huXd6ZXh8/gUX2eK8Xau7SPn5GPYVfJ0pB8Vqd5iaRazegf8t92u+iIIQmq+bjdzvA+Yj5FELsQ3Cey9mUuelIgepeuJ33aRvNOvPVJq7Ljzc84WdqjHBhUrUYCZN9vSOiObPR9LwAbgwgsI7eIqBdjb5kdIp5cl9a3emEppO14fkFqXCfv9z+E8WYBDhH5LKKnKcw2eEmdww==\r\n\r\nThis submission was generated using https://dapp.truesight.me/notarize.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
