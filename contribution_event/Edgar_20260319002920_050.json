@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260319002920_050",
+  "telegram_update_id": "Edgar_20260319002920_049",
+  "submitted_at": "2026-03-19",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "ctcg68gc7ZRLJfpR/gQ+oYC8YVG7T48PzGj6mOXxPgo6zty9R0pNSXkD5dY0eKzqxjKniyoviGqI51Tmo/CW2gL0hD2gO1jIevQPTkwUSxfsXA3L4/RYNRxTtsndRF8/0S1hoTuLw5zgvqxQ9SRUcB9Z2DxOvkChY6zfG0RwqVaps1c8eGf7jRKxNYtrl2+Q17wFP4RWFHdGT0dEpEsYK6UcxeN2ZNs6PITYum+oUUKjcbP9TUdFJqSCYXnNx4Ul7le0cNMz7YNEVQMMfV7P1gexPelNm0Qb98ynNW7G1l/MvXpMvJfYhOsApyZ8Ji5rjEG9bbZQ/TuIdxDp55xf/w==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Generate price list for sharing with Earths Common in Texas.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: agroverse_wholesale_price_list_2026.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319002847_gary_teh_agroverse_wholesale_price_list_2026.pdf\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Generate price list for sharing with Earths Common in Texas.\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: agroverse_wholesale_price_list_2026.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260319002847_gary_teh_agroverse_wholesale_price_list_2026.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ctcg68gc7ZRLJfpR/gQ+oYC8YVG7T48PzGj6mOXxPgo6zty9R0pNSXkD5dY0eKzqxjKniyoviGqI51Tmo/CW2gL0hD2gO1jIevQPTkwUSxfsXA3L4/RYNRxTtsndRF8/0S1hoTuLw5zgvqxQ9SRUcB9Z2DxOvkChY6zfG0RwqVaps1c8eGf7jRKxNYtrl2+Q17wFP4RWFHdGT0dEpEsYK6UcxeN2ZNs6PITYum+oUUKjcbP9TUdFJqSCYXnNx4Ul7le0cNMz7YNEVQMMfV7P1gexPelNm0Qb98ynNW7G1l/MvXpMvJfYhOsApyZ8Ji5rjEG9bbZQ/TuIdxDp55xf/w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
