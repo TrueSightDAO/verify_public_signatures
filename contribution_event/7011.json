@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "7011",
+  "telegram_update_id": "469027649",
+  "submitted_at": "2025-08-01",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "GJNzIFxRIsggbaMLLrofJrzBVd7h4uVohrOCwXcYdkZShH9QDJAwMz3OP6w/SDxxyOdHvYGcyBc6zOmAJ4yewXNfNUn8X+cBU2vDztJZ++Titj8fbyFxdA109itjv/XEC2pCieFLA+YjEi+vPdJdaDgSaIAwJXAp/plU1YOpCJ1l8LSV+mfv3YAG4WIh2ZJtVG3LvfiSE3rxDFUgI3347LuG1de1fx4hKfjF4a7E5k6ZwB18ypaKCX/KQlPkb1FpbOL8oYrZodivZQHhPMDi+2SnbGYeDz+OINgAxLmXxDXTynGROrZojKoNxWEv1wS7GBs6Ihy3lr7ADO2vgIKTsQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Draft an email on whitelabeling ceremonial cacao to David from Soha. \n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: email_message_to_soha_on_whitelabeling.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250801212625_gary_teh_email_message_to_soha_on_whitelabeling.pdf\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Draft an email on whitelabeling ceremonial cacao to David from Soha. \n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: email_message_to_soha_on_whitelabeling.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250801212625_gary_teh_email_message_to_soha_on_whitelabeling.pdf\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: GJNzIFxRIsggbaMLLrofJrzBVd7h4uVohrOCwXcYdkZShH9QDJAwMz3OP6w/SDxxyOdHvYGcyBc6zOmAJ4yewXNfNUn8X+cBU2vDztJZ++Titj8fbyFxdA109itjv/XEC2pCieFLA+YjEi+vPdJdaDgSaIAwJXAp/plU1YOpCJ1l8LSV+mfv3YAG4WIh2ZJtVG3LvfiSE3rxDFUgI3347LuG1de1fx4hKfjF4a7E5k6ZwB18ypaKCX/KQlPkb1FpbOL8oYrZodivZQHhPMDi+2SnbGYeDz+OINgAxLmXxDXTynGROrZojKoNxWEv1wS7GBs6Ihy3lr7ADO2vgIKTsQ==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754083536096\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
