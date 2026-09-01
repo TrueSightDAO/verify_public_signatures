@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260216072004_012",
+  "telegram_update_id": "Edgar_20260216072004_011",
+  "submitted_at": "2026-02-16",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "q+4AIDkEJzWww22heamA49o4AYKFWdSC3cZGsvRJhNumu6J1crunRHjw6T9KQw2wAN32CX7M8gqoCdY9glExqbvdb31Fzn8i3TlQCWsYzDmZHledpcUSQrhCGg9IJ31eG8mLTfDPF5KJp7H0Kcwz6+xbIzhmk0OlURGD4rXh+aHr5t487r20pvDCqfMSvX7TTPRWo8hk4TlovjotG4Tbbsp7zkp3QXTuZNnmdTwMaGRzgO0yxl7ZrRmRczy40srucblJfds28YnpbB3Mj80o5fbkI9DbGKmDSf8h6tqYXtkl44vIe3RGKSzjEGI3meosa3boLYKiJPLtwHDrvOguIg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Nestlé has shifted out of the Chocolate industry\n  https://www.confectionerynews.com/Article/2025/12/11/nestle-strips-chocolate-from-iconic-bars-as-cocoa-costs-soar/\n- Contributor(s): Shena Davenport\n- TDG Issued: 16.67\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Nestlé has shifted out of the Chocolate industry\r\n  https://www.confectionerynews.com/Article/2025/12/11/nestle-strips-chocolate-from-iconic-bars-as-cocoa-costs-soar/\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 16.67\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: q+4AIDkEJzWww22heamA49o4AYKFWdSC3cZGsvRJhNumu6J1crunRHjw6T9KQw2wAN32CX7M8gqoCdY9glExqbvdb31Fzn8i3TlQCWsYzDmZHledpcUSQrhCGg9IJ31eG8mLTfDPF5KJp7H0Kcwz6+xbIzhmk0OlURGD4rXh+aHr5t487r20pvDCqfMSvX7TTPRWo8hk4TlovjotG4Tbbsp7zkp3QXTuZNnmdTwMaGRzgO0yxl7ZrRmRczy40srucblJfds28YnpbB3Mj80o5fbkI9DbGKmDSf8h6tqYXtkl44vIe3RGKSzjEGI3meosa3boLYKiJPLtwHDrvOguIg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
