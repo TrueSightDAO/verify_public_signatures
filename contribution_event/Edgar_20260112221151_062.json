@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260112221151_062",
+  "telegram_update_id": "Edgar_20260112221151_061",
+  "submitted_at": "2026-01-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "bYahhzUQcvECaNQNRLn2rjR+lDK3afSOSAlfJpbySzaAGPvqw8hnMumI1eBXTwMLermQcXjwbZC08w9z4ei4RAXJbHlgVYQQTCGG9K98uC7xRiUUQj0RsoSyw9k5oo/kXj8EZGDg5OA0aKui+dXlhTZY5JTF85q+r6jOrW7wbuIKL4xcNphtxghK1IA+2SuJ6aMew2BRooszGLNbuMC604bHuu4v+X2F+SvjZCgAJPaTX9Y2189zbRV00sfISfQjfuiYqYMuEQmFk8KTWRTwlZ6qvbjj46cjQl+hzivj8tpr0I8lRQ8BLOIYCOOxLeFDXCvcVOCjIbk4hJ0Vh2/5pA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Process inventory movement from Kirsten to go ask Alice for 10 bags of ceremonial Cacao from Oscar\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: IMG_6291.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260112221116_gary_teh_img_6291.png\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Process inventory movement from Kirsten to go ask Alice for 10 bags of ceremonial Cacao from Oscar\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: IMG_6291.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260112221116_gary_teh_img_6291.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bYahhzUQcvECaNQNRLn2rjR+lDK3afSOSAlfJpbySzaAGPvqw8hnMumI1eBXTwMLermQcXjwbZC08w9z4ei4RAXJbHlgVYQQTCGG9K98uC7xRiUUQj0RsoSyw9k5oo/kXj8EZGDg5OA0aKui+dXlhTZY5JTF85q+r6jOrW7wbuIKL4xcNphtxghK1IA+2SuJ6aMew2BRooszGLNbuMC604bHuu4v+X2F+SvjZCgAJPaTX9Y2189zbRV00sfISfQjfuiYqYMuEQmFk8KTWRTwlZ6qvbjj46cjQl+hzivj8tpr0I8lRQ8BLOIYCOOxLeFDXCvcVOCjIbk4hJ0Vh2/5pA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
