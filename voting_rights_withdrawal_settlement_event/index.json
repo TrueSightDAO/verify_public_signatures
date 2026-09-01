@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T18:30:08Z",
+  "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
+  "count": 1,
+  "events": {
+    "Edgar_20260703041352_016": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/voting_rights_withdrawal_settlement_event/Edgar_20260703041352_016.json",
+      "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
+      "submitted_at": "2026-07-03",
+      "contributor_name": "Edgar"
+    }
+  }
+}
