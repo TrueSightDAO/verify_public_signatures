@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260828162309_042",
+  "telegram_update_id": "Edgar_20260828162309_041",
+  "submitted_at": "2026-08-28",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "qRYyhEPFFzY9RKuH+GKFwyPPiY1HHRgaaV3h8DtTxm2FC8X5uPhs9AF/4eXAzodyJ+QYg6+pRcR9sZ/2NM0Zc1SszDkEQn8MmAzzIAuhltNcvdQcIgqKFG08YDZMflaoml4/KdddZ+hBOo4bzI7+ck749KpuuEIy4Xc+JaNMHzesfMs2uDyiUwxchU3Uzi6rglMB37LevjmLCJHDa9ihXi8APjiKIiJpP7eM205GClN/7jVKgYgYkY2OxyTgbeVZhiIeRNapCmCdbvSgBp9AOKN5eWX0PhDUq+6gWUwzie0atRPtUXOrop4Q1wC4i+8gQBcZLFnItuGpFq5ZvPvqfQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: 15-min discovery chat with Yuri (met at FounderHaus; Yuri introduced his cousin Vincente, an agroforestry engineer) about TrueSight DAO / Agroverse — ceremonial cacao from Brazil and the 10,000-hectare Amazon rainforest restoration mission. Connection: Agronomy Network (Yuri, Vincente, Gary).\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: 15-min discovery chat with Yuri (met at FounderHaus; Yuri introduced his cousin Vincente, an agroforestry engineer) about TrueSight DAO / Agroverse — ceremonial cacao from Brazil and the 10,000-hectare Amazon rainforest restoration mission. Connection: Agronomy Network (Yuri, Vincente, Gary).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: qRYyhEPFFzY9RKuH+GKFwyPPiY1HHRgaaV3h8DtTxm2FC8X5uPhs9AF/4eXAzodyJ+QYg6+pRcR9sZ/2NM0Zc1SszDkEQn8MmAzzIAuhltNcvdQcIgqKFG08YDZMflaoml4/KdddZ+hBOo4bzI7+ck749KpuuEIy4Xc+JaNMHzesfMs2uDyiUwxchU3Uzi6rglMB37LevjmLCJHDa9ihXi8APjiKIiJpP7eM205GClN/7jVKgYgYkY2OxyTgbeVZhiIeRNapCmCdbvSgBp9AOKN5eWX0PhDUq+6gWUwzie0atRPtUXOrop4Q1wC4i+8gQBcZLFnItuGpFq5ZvPvqfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
