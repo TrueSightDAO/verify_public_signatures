@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251003195222_046",
+  "telegram_update_id": "Edgar_20251003195222_045",
+  "submitted_at": "2025-10-03",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "Umboe8SGHvGesZnyk8IFBwZq3UvmCxSZ9QrUurZCe1XmdzKzennA+/y/m+mnz2J65qrKmERBBJB9B0W9WY1MQMwqIoEC7iC3o75VvpVqCfLwj4s8m9K7N+pSzqEHwRLcDrQ6frUurVXcrVVKrGGuuCpmAsd0RXrtZhs3RyaeAssWBSdSBSTtRRfiv5SA1br+UQz0BZPPXKgta8QEdAk4aDPYYk+0rC14trbF9+VVryGSiq+jqXa5x1RTACCUmnGQZ8MH39TStOrsuO7cXsd4VmC7mLWVoNDXL/Fqy17GsunmORVYMGvGtpdRwsKSwJ0PuWihmbb7mAKk8rDbVQ/KBQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: FDA food facility registration number for Hau Cacau\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: Food Facility Registration (FFR).pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251003195221_gary_teh_food_facility_registration__ffr_.pdf\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: FDA food facility registration number for Hau Cacau\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: Food Facility Registration (FFR).pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251003195221_gary_teh_food_facility_registration__ffr_.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Umboe8SGHvGesZnyk8IFBwZq3UvmCxSZ9QrUurZCe1XmdzKzennA+/y/m+mnz2J65qrKmERBBJB9B0W9WY1MQMwqIoEC7iC3o75VvpVqCfLwj4s8m9K7N+pSzqEHwRLcDrQ6frUurVXcrVVKrGGuuCpmAsd0RXrtZhs3RyaeAssWBSdSBSTtRRfiv5SA1br+UQz0BZPPXKgta8QEdAk4aDPYYk+0rC14trbF9+VVryGSiq+jqXa5x1RTACCUmnGQZ8MH39TStOrsuO7cXsd4VmC7mLWVoNDXL/Fqy17GsunmORVYMGvGtpdRwsKSwJ0PuWihmbb7mAKk8rDbVQ/KBQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
