@@ -1,0 +1,14 @@
+{
+  "event_type": "[BATCH QR CODE REQUEST]",
+  "telegram_message_id": "Edgar_20260710212015_060",
+  "telegram_update_id": "Edgar_20260710212015_059",
+  "submitted_at": "2026-07-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB",
+  "signature": "CvwULdh+vb4RhtR6eSiB97F3VHiECCY6awZKTGUjlxGpjgZ24tS2P+vxp7QN8HThrcTrrd+UsmGt1VtXB5kLjgLsZNgcmVwokLZ4RBQwXNmjVKl9090o6ndCGXHr98wDw0nvm3enJy/EbWo52HO46x/l8+Bat3LXIEsiotD7pKcHUkav25Iv8sosd5frc+lI26HTuy4fs2m9aPxZxIn/3v28fMW/6pEEMMXUKYp2cDnS2fltE6pGcEQHP/EiAfOb1ldJo5/JiEPuCpwLdvXzrgbkGh7j/tViDO7DIsHUsMAEgWYVH1TvLWa4WtpGC+PMFY/VHcVBLLR0lB7livFHgg==",
+  "signed_payload": "[BATCH QR CODE REQUEST]\n- Currency: 81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco\n- Quantity: 25\n--------",
+  "signed_text": "[BATCH QR CODE REQUEST]\n- Currency: 81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco\n- Quantity: 25\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CvwULdh+vb4RhtR6eSiB97F3VHiECCY6awZKTGUjlxGpjgZ24tS2P+vxp7QN8HThrcTrrd+UsmGt1VtXB5kLjgLsZNgcmVwokLZ4RBQwXNmjVKl9090o6ndCGXHr98wDw0nvm3enJy/EbWo52HO46x/l8+Bat3LXIEsiotD7pKcHUkav25Iv8sosd5frc+lI26HTuy4fs2m9aPxZxIn/3v28fMW/6pEEMMXUKYp2cDnS2fltE6pGcEQHP/EiAfOb1ldJo5/JiEPuCpwLdvXzrgbkGh7j/tViDO7DIsHUsMAEgWYVH1TvLWa4WtpGC+PMFY/VHcVBLLR0lB7livFHgg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
