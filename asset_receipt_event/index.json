@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T04:00:15Z",
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "count": 13,
+  "events": {
+    "Edgar_20260507015715_030": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260507015715_030.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-05-07",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260507022031_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260507022031_002.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-05-07",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822160925_042": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260822160925_042.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260822160936_046": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260822160936_046.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-22",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260824141011_128": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260824141011_128.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-24",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260824141707_130": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260824141707_130.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-24",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260824182852_156": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260824182852_156.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-24",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260826212741_228": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260826212741_228.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-26",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260826212744_230": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260826212744_230.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-26",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260827121546_236": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260827121546_236.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-27",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260827122127_240": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260827122127_240.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-27",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260829125358_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260829125358_002.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-29",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260829125450_004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260829125450_004.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-08-29",
+      "contributor_name": "Edgar"
+    }
+  }
+}
