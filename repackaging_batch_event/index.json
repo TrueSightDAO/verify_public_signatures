@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T17:30:08Z",
+  "event_type": "[REPACKAGING BATCH EVENT]",
+  "count": 3,
+  "events": {
+    "Edgar_20260419044111_010": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/Edgar_20260419044111_010.json",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-04-19",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260620225943_004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/Edgar_20260620225943_004.json",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-06-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260710185310_024": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/Edgar_20260710185310_024.json",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-07-10",
+      "contributor_name": "Edgar"
+    }
+  }
+}
