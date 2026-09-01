@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20260507073037_004",
+  "telegram_update_id": "Edgar_20260507073037_003",
+  "submitted_at": "2026-05-07",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
+  "signature": "R2QH7RATbh1t+JQCd4ZS4qgop1lCNcVnnXCVl31x/IviuYZUWQiQR/MW1UaaJm6wGta9cn3B40k/JLIaDnENHLFey3z7z5vIRCuGs+L3rfmxxah9lN2UK0p3WyQDXQ3ODUjJgSg5+LaXUoNh5y9LuTpHcKyVSzYXWkL4PyhkFX5OUr0FyPQOSG9a7oMW9oouzDgP862A14A7C/Uc3sAYv7xm5WIbSoYSwg6FHvZauWABSlBSyVS3vmnZr8JjFWPypCqbkOe41TAckxinBCpEW5IjAHuFQVdCXAOduPtAfA2Hk0jV9R8hA2WcfiFg+RP3c5dC7VVXhxaiCbgfQ2d/pg==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Val Lapidus\n- Inventory Item: Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036)\n- Quantity: 1\n- Latitude: 37.742475\n- Longitude: -122.507130\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Val Lapidus\r\n- Inventory Item: Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036)\r\n- Quantity: 1\r\n- Latitude: 37.742475\r\n- Longitude: -122.507130\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: R2QH7RATbh1t+JQCd4ZS4qgop1lCNcVnnXCVl31x/IviuYZUWQiQR/MW1UaaJm6wGta9cn3B40k/JLIaDnENHLFey3z7z5vIRCuGs+L3rfmxxah9lN2UK0p3WyQDXQ3ODUjJgSg5+LaXUoNh5y9LuTpHcKyVSzYXWkL4PyhkFX5OUr0FyPQOSG9a7oMW9oouzDgP862A14A7C/Uc3sAYv7xm5WIbSoYSwg6FHvZauWABSlBSyVS3vmnZr8JjFWPypCqbkOe41TAckxinBCpEW5IjAHuFQVdCXAOduPtAfA2Hk0jV9R8hA2WcfiFg+RP3c5dC7VVXhxaiCbgfQ2d/pg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
