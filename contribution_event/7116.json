@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "7116",
+  "telegram_update_id": "469027727",
+  "submitted_at": "2025-08-06",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "Gf9F/Y6MjE8oP4jhncM3Zf0kVa2YkR+8VGXIP7f/gzcHmcitehGDX44745baPjPbTuTw9ZrFgGHhulCpLDHHMi8E2sF14FOH/x9zLX+ecD0dIjB3UPqSIVfygVTSR59qQBVnne0igWNyuiFHW229O9uK3mSi+TIxDG6tyN347H7D1exYlnBlKiuBGPRRLr/DPUtcpUK1LRD0CfAzMreBj0x9ySprAqwyJKaaBYQMuuQqRdp22hzuELq+0WEp6ySjnAEFlOM/oLyCBXg/r3/ldNhO7sNhJRWHs9zIUps0JMp8vRyT8SUejdpyyyffox4V+A68QmE2wWyrpZOcTd+Tow==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Update the codebase to ignore all the instances when it is obviously nothing to do with contribution submissions. This help prevents mis-award of TDG as well as save on API calls to Grok. https://github.com/TrueSightDAO/tokenomics/pull/92\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Update the codebase to ignore all the instances when it is obviously nothing to do with contribution submissions. This help prevents mis-award of TDG as well as save on API calls to Grok. https://github.com/TrueSightDAO/tokenomics/pull/92\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: Gf9F/Y6MjE8oP4jhncM3Zf0kVa2YkR+8VGXIP7f/gzcHmcitehGDX44745baPjPbTuTw9ZrFgGHhulCpLDHHMi8E2sF14FOH/x9zLX+ecD0dIjB3UPqSIVfygVTSR59qQBVnne0igWNyuiFHW229O9uK3mSi+TIxDG6tyN347H7D1exYlnBlKiuBGPRRLr/DPUtcpUK1LRD0CfAzMreBj0x9ySprAqwyJKaaBYQMuuQqRdp22hzuELq+0WEp6ySjnAEFlOM/oLyCBXg/r3/ldNhO7sNhJRWHs9zIUps0JMp8vRyT8SUejdpyyyffox4V+A68QmE2wWyrpZOcTd+Tow==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
