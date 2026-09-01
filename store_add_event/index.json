@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T18:00:08Z",
+  "event_type": "[STORE ADD EVENT]",
+  "count": 3,
+  "events": {
+    "Edgar_20260428181127_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/Edgar_20260428181127_002.json",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260428181538_004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/Edgar_20260428181538_004.json",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260428181544_006": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/Edgar_20260428181544_006.json",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28",
+      "contributor_name": "Edgar"
+    }
+  }
+}
