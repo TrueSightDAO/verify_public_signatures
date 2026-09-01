@@ -1,0 +1,14 @@
+{
+  "event_type": "[NOTARIZATION EVENT]",
+  "telegram_message_id": "6505",
+  "telegram_update_id": "469027342",
+  "submitted_at": "2025-07-14",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "UIckfKoNug2jZRvCPUH7fQrCr57Qs30XEOkKALilvn/9pes2hhj8U4dfyrQ2aSFi/fNd4BYM1dla+w4ykhWhID11CKGLpu9Ky9iaVGtRCa6l/WQYBfyyZBsNbkQKuHTBqh8vauQPGA80WR+VFnTIsqFWhaAURo7xsbILQ04FUqLODZCW4WMI+HT/Jo8yYKe/hf+7532f/195cH/0zb+bQSiQogLmk34Nb5uOdF8CqgfZAzblZf3c5NGufbiVFoVXUzijbLInylf1pBECFjx5HJj5l+9XOh+h6WerT51YjHWlruU+gBxNw2tV7jWgVNI/6/y6hRRZmqGU4uuGSHs8dQ==",
+  "signed_payload": "[NOTARIZATION EVENT]\n- Submitter Name: Gary Teh\n- Latitude: 44.047688\n- Longitude: -123.134499\n- Document Type: FDA prior notice\n- Attached Filename: 0dac204366db24d7cb1217c7e25366b6.pdf\n- Destination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250714210214_gary_teh_0dac204366db24d7cb1217c7e25366b6.pdf\n- Submission Source: https://dapp.truesight.me/notarize.html?timestamp=1752526895000\n--------",
+  "signed_text": "[NOTARIZATION EVENT]\n- Submitter Name: Gary Teh\n- Latitude: 44.047688\n- Longitude: -123.134499\n- Document Type: FDA prior notice\n- Attached Filename: 0dac204366db24d7cb1217c7e25366b6.pdf\n- Destination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250714210214_gary_teh_0dac204366db24d7cb1217c7e25366b6.pdf\n- Submission Source: https://dapp.truesight.me/notarize.html?timestamp=1752526895000\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: UIckfKoNug2jZRvCPUH7fQrCr57Qs30XEOkKALilvn/9pes2hhj8U4dfyrQ2aSFi/fNd4BYM1dla+w4ykhWhID11CKGLpu9Ky9iaVGtRCa6l/WQYBfyyZBsNbkQKuHTBqh8vauQPGA80WR+VFnTIsqFWhaAURo7xsbILQ04FUqLODZCW4WMI+HT/Jo8yYKe/hf+7532f/195cH/0zb+bQSiQogLmk34Nb5uOdF8CqgfZAzblZf3c5NGufbiVFoVXUzijbLInylf1pBECFjx5HJj5l+9XOh+h6WerT51YjHWlruU+gBxNw2tV7jWgVNI/6/y6hRRZmqGU4uuGSHs8dQ==\n\nThis submission was generated using https://dapp.truesight.me/notarize.html?timestamp=1752526895000",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
