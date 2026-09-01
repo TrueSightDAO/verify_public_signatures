@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20260824181346_152",
+  "telegram_update_id": "Edgar_20260824181346_151",
+  "submitted_at": "2026-08-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "XxLsmVXOfKVMN8dyRp+qM1uDXXUmckPcPg7MLAlS4z0ooNLWu0l4Kz2roFR61umt/ot28IDVzCbA8F8fcH7AfjNSfw4GrexNYAziSI+KZp7CxXGws2vHguMgiacTLVtrtirBkVJk/yBvisej8N0cvLc5OfOWEBztrrbQFGM5TJtuSwrXZywcGoNxkEMfzJJnsNr4rU/8uPdedIBevu9pXzx3iVG9yK6bX+FAWXNr0sWlUw8P6aNMqw+yxj95VusOV3nRVSvERk05XdchUy2GGG1FBIEr34hLBDc1X81Z5sWhvncdWij+RnZ4FijvhICWNzqHX4ScMH7Zx05RBT3yww==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Paloma\n- Inventory Item: Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)\n- QR Code: 2024OSCAR_CT_20260820_1..100 (except _3 VOID), plus replacement 2024OSCAR_CT_20260820_101\n- Quantity: 100\n- Destination Inventory File Location: Agroverse QR codes sheet (Cacao Tea 50g batch, manager column)\n- Approved By: Gary Teh\n- Submission Source: autopilot-resubmit-v14\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Paloma\n- Inventory Item: Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)\n- QR Code: 2024OSCAR_CT_20260820_1..100 (except _3 VOID), plus replacement 2024OSCAR_CT_20260820_101\n- Quantity: 100\n- Destination Inventory File Location: Agroverse QR codes sheet (Cacao Tea 50g batch, manager column)\n- Approved By: Gary Teh\n- Submission Source: autopilot-resubmit-v14\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: XxLsmVXOfKVMN8dyRp+qM1uDXXUmckPcPg7MLAlS4z0ooNLWu0l4Kz2roFR61umt/ot28IDVzCbA8F8fcH7AfjNSfw4GrexNYAziSI+KZp7CxXGws2vHguMgiacTLVtrtirBkVJk/yBvisej8N0cvLc5OfOWEBztrrbQFGM5TJtuSwrXZywcGoNxkEMfzJJnsNr4rU/8uPdedIBevu9pXzx3iVG9yK6bX+FAWXNr0sWlUw8P6aNMqw+yxj95VusOV3nRVSvERk05XdchUy2GGG1FBIEr34hLBDc1X81Z5sWhvncdWij+RnZ4FijvhICWNzqHX4ScMH7Zx05RBT3yww==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
