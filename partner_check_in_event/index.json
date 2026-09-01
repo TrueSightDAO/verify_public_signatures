@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T17:00:08Z",
+  "event_type": "[PARTNER CHECK-IN EVENT]",
+  "count": 5,
+  "events": {
+    "Edgar_20260512181027_002": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260512181027_002.json",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-12",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260514203420_068": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260514203420_068.json",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-14",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260519204605_238": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260519204605_238.json",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-19",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260519204920_242": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260519204920_242.json",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-19",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260520211724_272": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260520211724_272.json",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-20",
+      "contributor_name": "Edgar"
+    }
+  }
+}
