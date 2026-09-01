@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260821205140_014",
+  "telegram_update_id": "Edgar_20260821205140_013",
+  "submitted_at": "2026-08-21",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "JkKeEb8Dm3EHg1j2HrNbk/TZAlsH5pqRPZBrZQI9bz5OQfmGgxfyw5nix3zCUqhtFPOxCzJAFS0QSJXiHV8TiyYa5ojKxG4w8vv72W/PDR4eA9FqOsrPQumhE1CksOxhW/blBHA4OoThDe1PlKZv1YvmauPIbl+v8IchIuMFU2aBWpXjqam0FDsngDZLER4FAWhjYcmp3hpN62YCvgdw4UQ6+gcImvzhfME9J/7cHcLFRk7I/aWoAPihmTkEL3wLLljhmTMCgTlzuHKkclw+T1AB36qwAmFxkHlkeCfu193s1YJqN2H9UJnIWm7wlUPXURTxZnofSKFyE/Vf516EGg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh, Paloma, Juliana Melo, Cristian Crispim\n- Description: Tree planting activity at volunteer site (2026-08-21) - 30 minutes each, 4 participants\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh, Paloma, Juliana Melo, Cristian Crispim\n- Description: Tree planting activity at volunteer site (2026-08-21) - 30 minutes each, 4 participants\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: JkKeEb8Dm3EHg1j2HrNbk/TZAlsH5pqRPZBrZQI9bz5OQfmGgxfyw5nix3zCUqhtFPOxCzJAFS0QSJXiHV8TiyYa5ojKxG4w8vv72W/PDR4eA9FqOsrPQumhE1CksOxhW/blBHA4OoThDe1PlKZv1YvmauPIbl+v8IchIuMFU2aBWpXjqam0FDsngDZLER4FAWhjYcmp3hpN62YCvgdw4UQ6+gcImvzhfME9J/7cHcLFRk7I/aWoAPihmTkEL3wLLljhmTMCgTlzuHKkclw+T1AB36qwAmFxkHlkeCfu193s1YJqN2H9UJnIWm7wlUPXURTxZnofSKFyE/Vf516EGg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
