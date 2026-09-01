@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260822125817_036",
+  "telegram_update_id": "Edgar_20260822125817_035",
+  "submitted_at": "2026-08-22",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "trkaCVhMJk3oXt1JeIO5AK5egk9A1MgMP1K9BhTCxQ50+c/JTC+z5lWN0SfpSrli6UZqwt5jUIQWQB3vgBVKFG8dABT3BCD3XIK05PYSxzmcBFBCzTlRdVUy7KdrHrNh5yy/0u9kCb22Vu/cwNC+qd66gtlm0jcvzRoUbm+B+mTWo1HnykjDA7ExYfUtQVOXMfsBv8dSdYmvqCScFBWkUr9qC0iQrCdZddGy4Q9s1B0nIaDvdpaXXLSzEbe/X4jjA+CvaUfax1Wqb12rZ1hQK8yaj6sujEv+OSlKmqhE6CKVcYHPA9dYt9nYzP5vcdvWk9q9y6oD6FKu9RL+rPQnBw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Follow-up with Graziela Vedana (Seacos Logistic) re: Black King RADAR status and export path — Graziela confirmed RADAR acts as export license changing CNPJ to APTO; if not, fallback to trading company; asked her to check trading company costs.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Follow-up with Graziela Vedana (Seacos Logistic) re: Black King RADAR status and export path — Graziela confirmed RADAR acts as export license changing CNPJ to APTO; if not, fallback to trading company; asked her to check trading company costs.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: trkaCVhMJk3oXt1JeIO5AK5egk9A1MgMP1K9BhTCxQ50+c/JTC+z5lWN0SfpSrli6UZqwt5jUIQWQB3vgBVKFG8dABT3BCD3XIK05PYSxzmcBFBCzTlRdVUy7KdrHrNh5yy/0u9kCb22Vu/cwNC+qd66gtlm0jcvzRoUbm+B+mTWo1HnykjDA7ExYfUtQVOXMfsBv8dSdYmvqCScFBWkUr9qC0iQrCdZddGy4Q9s1B0nIaDvdpaXXLSzEbe/X4jjA+CvaUfax1Wqb12rZ1hQK8yaj6sujEv+OSlKmqhE6CKVcYHPA9dYt9nYzP5vcdvWk9q9y6oD6FKu9RL+rPQnBw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
