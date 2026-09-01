@@ -1,0 +1,14 @@
+{
+  "event_type": "[PARTNER CHECK-IN EVENT]",
+  "telegram_message_id": "Edgar_20260520211724_272",
+  "telegram_update_id": "Edgar_20260520211724_271",
+  "submitted_at": "2026-05-20",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB",
+  "signature": "cQNgbfhfwwndd0TZlwANknlrt8pgiskHUnNypiu9LyhJO9iN6YB5LLT4xMDkJ6TMIdwYy0cMK4Uo+yFHM9ijqhiV1J2TKMnTb4ZedJcIpwFir83tJ+TSRdPCjhTEY5A07KpEarX8GhZ1RRVUFJE+e6GmJ3X6FNF1MHbKiV23P28CG04KUlnf14xyR0gPvAZeR/SlKfslPUVQUuRE+qV64TLmitED7mIYyzsvyMuKLUt8jOQH4/nwqZtFNGMGxqnS+3AwmbwVp/NQTGkjy3Kl8eAPXx8221iIY3z6k9h85UByHXRksXjHkPTW9RoU3pPzWL4X/QDCf/TeWvT3GTKCKg==",
+  "signed_payload": "[PARTNER CHECK-IN EVENT]\n- Contributor Name: Wayne - UX.APP\n- Check-in Date: 2026-05-20\n- Method: Email\n- Stock Status: Unknown\n- Restock Needed: No\n- Next Check-in Date: 2026-05-22\n- Notes: Drafted follow-up email re: AWS account 767697632458 still blocked per StartInstances response. Friday call planned if no response.\n- Update ID: PCI_20260520211723_b73ce9\n--------",
+  "signed_text": "[PARTNER CHECK-IN EVENT]\n- Contributor Name: Wayne - UX.APP\n- Check-in Date: 2026-05-20\n- Method: Email\n- Stock Status: Unknown\n- Restock Needed: No\n- Next Check-in Date: 2026-05-22\n- Notes: Drafted follow-up email re: AWS account 767697632458 still blocked per StartInstances response. Friday call planned if no response.\n- Update ID: PCI_20260520211723_b73ce9\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: cQNgbfhfwwndd0TZlwANknlrt8pgiskHUnNypiu9LyhJO9iN6YB5LLT4xMDkJ6TMIdwYy0cMK4Uo+yFHM9ijqhiV1J2TKMnTb4ZedJcIpwFir83tJ+TSRdPCjhTEY5A07KpEarX8GhZ1RRVUFJE+e6GmJ3X6FNF1MHbKiV23P28CG04KUlnf14xyR0gPvAZeR/SlKfslPUVQUuRE+qV64TLmitED7mIYyzsvyMuKLUt8jOQH4/nwqZtFNGMGxqnS+3AwmbwVp/NQTGkjy3Kl8eAPXx8221iIY3z6k9h85UByHXRksXjHkPTW9RoU3pPzWL4X/QDCf/TeWvT3GTKCKg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/PARTNER_CHECK_IN_IMPLEMENTATION.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
