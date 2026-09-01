@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-09-01T04:00:15Z",
+  "event_type": "[CAPITAL INJECTION EVENT]",
+  "count": 4,
+  "events": {
+    "Edgar_20251003023237_024": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/Edgar_20251003023237_024.json",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2025-10-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20251003023713_026": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/Edgar_20251003023713_026.json",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2025-10-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20251003024329_028": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/Edgar_20251003024329_028.json",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2025-10-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260602225127_280": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/Edgar_20260602225127_280.json",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2026-06-02",
+      "contributor_name": "Edgar"
+    }
+  }
+}
