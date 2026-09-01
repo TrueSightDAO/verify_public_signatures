@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260823201322_114",
+  "telegram_update_id": "Edgar_20260823201322_113",
+  "submitted_at": "2026-08-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "QfzMMUsA81/ptnj+/w6/blDDPHMIcUihw/UfKjksR2t58dLlUiJCjSawQDr/iKdBe0KWXT5j4wwk7tAfygjePzoA1xu1OfcXCFb9tFqy/og14b2R2rtgWK2K1HPZ4kIWZX1fc3UPrZrDv2CpPuNAEJmSSv9ZUnMQI0SRo1U3EePf+uOq/lAIeqB0ncdNaFgdG8orCvm/xQDtMy4KsXIhAlIYBus/7lU4Wlmcb9aJUWH4aOyyuk3GFeKQW722zHFxGcK8vRzCV//BzuBINciFUwqnkvYXk47z7q93rLIBoFG/LNXbhnQ+SDChTD4GCeY6T8ahS2h0IMPs6HdOtQujoQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 10.60\n- Contributor(s): Gary Teh\n- Description: DeepSeek API credit top-up for DAO AI tooling (DApp chat/autopilot LLM provider). USD $10.60 total = $10.00 + $0.60 VAT-China 6%. Paid via VISA3752 on 2026-08-23. Receipt abdd6cbea818466b992498e4a515611c / payment 8acb79ce-7175-4aec-aa30-9db2ac9df951. Billed to TrueTech Inc, Laguna Beach CA.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 10.60\n- Contributor(s): Gary Teh\n- Description: DeepSeek API credit top-up for DAO AI tooling (DApp chat/autopilot LLM provider). USD $10.60 total = $10.00 + $0.60 VAT-China 6%. Paid via VISA3752 on 2026-08-23. Receipt abdd6cbea818466b992498e4a515611c / payment 8acb79ce-7175-4aec-aa30-9db2ac9df951. Billed to TrueTech Inc, Laguna Beach CA.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: QfzMMUsA81/ptnj+/w6/blDDPHMIcUihw/UfKjksR2t58dLlUiJCjSawQDr/iKdBe0KWXT5j4wwk7tAfygjePzoA1xu1OfcXCFb9tFqy/og14b2R2rtgWK2K1HPZ4kIWZX1fc3UPrZrDv2CpPuNAEJmSSv9ZUnMQI0SRo1U3EePf+uOq/lAIeqB0ncdNaFgdG8orCvm/xQDtMy4KsXIhAlIYBus/7lU4Wlmcb9aJUWH4aOyyuk3GFeKQW722zHFxGcK8vRzCV//BzuBINciFUwqnkvYXk47z7q93rLIBoFG/LNXbhnQ+SDChTD4GCeY6T8ahS2h0IMPs6HdOtQujoQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
