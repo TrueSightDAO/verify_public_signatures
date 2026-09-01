@@ -1,0 +1,14 @@
+{
+  "event_type": "[BATCH QR CODE REQUEST]",
+  "telegram_message_id": "Edgar_20250902190259_150",
+  "telegram_update_id": "Edgar_20250902190259_149",
+  "submitted_at": "2025-09-02",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "EzBSt415xlcsBP4bMKRPHDnqfXNcucUntWA5GvVcDS3EruBpQlzPTShI2sSKD+XCUD2vR0g/hePS0+GRAxncrfkzQ2YDPcJo0gMIsNlgBOGSQQax1UfgUOO9I3MalekUILK9WyqUfFmQ3KpC8Wir+aWXXHVyfubgWXEj1kwvWWQxLLPby5QKRl/oVLfLjuWlbQfVHuE1OWa+BJhU4G4MmM7zzVWdcy7E/4u8LihFZnFiUFW8RZ2pV6IibZGKxOhcl7UNvW0I4VZK++UClSX8SWaC3yq8UZab75uR3+pxIBqjOep5BmZWThYLb/6SOERY8rBf/LHl7lIbS15+1KDrkQ==",
+  "signed_payload": "[BATCH QR CODE REQUEST]\n- Currency: 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024\n- Quantity: 10\n- Contributor: Gary Teh\n- Timestamp: 2025-09-02T19:02:58.373Z\n- Expected Zip File: 8_Ounce_Package_Kraft_Pouch_Il_BATCH_20250902_160258_631CK2.zip\n- Download Location: https://github.com/TrueSightDAO/qr_codes/tree/main/batch_files/8_Ounce_Package_Kraft_Pouch_Il_BATCH_20250902_160258_631CK2.zip\n--------",
+  "signed_text": "[BATCH QR CODE REQUEST]\r\n- Currency: 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024\r\n- Quantity: 10\r\n- Contributor: Gary Teh\r\n- Timestamp: 2025-09-02T19:02:58.373Z\r\n- Expected Zip File: 8_Ounce_Package_Kraft_Pouch_Il_BATCH_20250902_160258_631CK2.zip\r\n- Download Location: https://github.com/TrueSightDAO/qr_codes/tree/main/batch_files/8_Ounce_Package_Kraft_Pouch_Il_BATCH_20250902_160258_631CK2.zip\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: EzBSt415xlcsBP4bMKRPHDnqfXNcucUntWA5GvVcDS3EruBpQlzPTShI2sSKD+XCUD2vR0g/hePS0+GRAxncrfkzQ2YDPcJo0gMIsNlgBOGSQQax1UfgUOO9I3MalekUILK9WyqUfFmQ3KpC8Wir+aWXXHVyfubgWXEj1kwvWWQxLLPby5QKRl/oVLfLjuWlbQfVHuE1OWa+BJhU4G4MmM7zzVWdcy7E/4u8LihFZnFiUFW8RZ2pV6IibZGKxOhcl7UNvW0I4VZK++UClSX8SWaC3yq8UZab75uR3+pxIBqjOep5BmZWThYLb/6SOERY8rBf/LHl7lIbS15+1KDrkQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/batch_qr_generator.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
