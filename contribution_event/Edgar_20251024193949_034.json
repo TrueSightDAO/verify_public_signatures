@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251024193949_034",
+  "telegram_update_id": "Edgar_20251024193949_033",
+  "submitted_at": "2025-10-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "4T9zEX96/q0fG74exLzvyreTI3l9cTX9XxJ53J3hS0YNKY+RSnTEwTJEKh0rTXisqMuixDo/pNwilr1cZ0/9b2VMTHF153OpXWqXEGLUNeb7cM9R7ynTtEbPe4+ZnoA5gb8Iuzbhjvmv2rtcUtDkuQ1CCbNoYb7tuONLkvHlrkch2Kvi3kXwiI/A0GpbynJ/uC7Vdb8weIRgtjv7N6M0+GMJZsTWdtt8VV/YgnbCc5ps7W1HKxuEjgnGLDAliqF1I+g7PCFk65uk+ASDKvttASd/oHMkw/bbHDVARcjs7waof7zPEDVi3K9MF7fvpGlYKn4Roy8E7jGkht+xyBh14Q==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Dealing with AWS account management\n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: Dealing with AWS account management\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 200.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 4T9zEX96/q0fG74exLzvyreTI3l9cTX9XxJ53J3hS0YNKY+RSnTEwTJEKh0rTXisqMuixDo/pNwilr1cZ0/9b2VMTHF153OpXWqXEGLUNeb7cM9R7ynTtEbPe4+ZnoA5gb8Iuzbhjvmv2rtcUtDkuQ1CCbNoYb7tuONLkvHlrkch2Kvi3kXwiI/A0GpbynJ/uC7Vdb8weIRgtjv7N6M0+GMJZsTWdtt8VV/YgnbCc5ps7W1HKxuEjgnGLDAliqF1I+g7PCFk65uk+ASDKvttASd/oHMkw/bbHDVARcjs7waof7zPEDVi3K9MF7fvpGlYKn4Roy8E7jGkht+xyBh14Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
