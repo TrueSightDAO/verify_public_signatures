@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260614192926_018",
+  "telegram_update_id": "Edgar_20260614192926_017",
+  "submitted_at": "2026-06-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "G8eHe1q/Vth88vRiCDKr29qqsN6iRi0VuOPIrwIb2MU6jExrWdeV1hwQgtaN2Jvs2FZaW8/GAZBEqoKjq4q0lBmkG0v1SctUrjUtmgsYm/fuXHIk2YcBFMnZDPfmQvSPhypc34iifivxeCyRsl4a3ehSAip0laBOiYuC4t45GCrjTy5UNrzlpoXelSX8TNZ6lkSy2REEHoJK+3dQ7TMAgB0Qm9bt12ZGVbOaP7U3YeHdzHI9k2Exo2JuISAwVriyxnejF16+1uBtpwBwNn/qH3K3f0F7iTpLaeBFbn8e80VFsK/I+K2C78Q5rZ3vFPfOdg6/YG8JxFAgv0ZEh8cG+w==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Sign-out on the vault page is broken: the /logout route doesn't exist (404), the JWT cookie 'governo\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/199\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Sign-out on the vault page is broken: the /logout route doesn't exist (404), the JWT cookie 'governo\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/199\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: G8eHe1q/Vth88vRiCDKr29qqsN6iRi0VuOPIrwIb2MU6jExrWdeV1hwQgtaN2Jvs2FZaW8/GAZBEqoKjq4q0lBmkG0v1SctUrjUtmgsYm/fuXHIk2YcBFMnZDPfmQvSPhypc34iifivxeCyRsl4a3ehSAip0laBOiYuC4t45GCrjTy5UNrzlpoXelSX8TNZ6lkSy2REEHoJK+3dQ7TMAgB0Qm9bt12ZGVbOaP7U3YeHdzHI9k2Exo2JuISAwVriyxnejF16+1uBtpwBwNn/qH3K3f0F7iTpLaeBFbn8e80VFsK/I+K2C78Q5rZ3vFPfOdg6/YG8JxFAgv0ZEh8cG+w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
