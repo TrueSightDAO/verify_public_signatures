@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260827121546_236",
+  "telegram_update_id": "Edgar_20260827121546_235",
+  "submitted_at": "2026-08-27",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "toBJIfZgdd5HYGhfnEFvKS5MZ4Go6R4fUhXXlORHfYLMilAuKTrBc9FaZ+YN6HPJTukEU/ZkXompV1yJoVCiKLoZC2ZjT5WHdRU0afbMvg9dklzHfAmd6RgFuFUwikfHqnTlZRucd3LxNe4t9bpv3W3GAbMZ8X7qgxVN1Bbe6u1KlAxbfANnp06sPpCLdRT/u27wojQKHXAi98kYscLrp2iVuFVuUvRAbOjooWA6aR73u5gOyNNnr6Sned+NCoia+fslhJCcqXTJN9Xj/5+/ROaPbrqegcT8FIw0uZVFz+lApzYo+kuLERFTBP9+OZG1Jxz/ZSWeospdogla02gb4Q==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Amount: 100\n- Currency: QA Verification Sticker 4x3cm (Test 20260827)\n- Fund Handler: Sophia Truesight\n- Description: QA verification test 2026-08-27: 100 test stickers to prove the #411+#427 fix serves live traffic (quantity=100, unit cost 0.0581 via paired USD contribution).\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\n- Amount: 100\n- Currency: QA Verification Sticker 4x3cm (Test 20260827)\n- Fund Handler: Sophia Truesight\n- Description: QA verification test 2026-08-27: 100 test stickers to prove the #411+#427 fix serves live traffic (quantity=100, unit cost 0.0581 via paired USD contribution).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: toBJIfZgdd5HYGhfnEFvKS5MZ4Go6R4fUhXXlORHfYLMilAuKTrBc9FaZ+YN6HPJTukEU/ZkXompV1yJoVCiKLoZC2ZjT5WHdRU0afbMvg9dklzHfAmd6RgFuFUwikfHqnTlZRucd3LxNe4t9bpv3W3GAbMZ8X7qgxVN1Bbe6u1KlAxbfANnp06sPpCLdRT/u27wojQKHXAi98kYscLrp2iVuFVuUvRAbOjooWA6aR73u5gOyNNnr6Sned+NCoia+fslhJCcqXTJN9Xj/5+/ROaPbrqegcT8FIw0uZVFz+lApzYo+kuLERFTBP9+OZG1Jxz/ZSWeospdogla02gb4Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
