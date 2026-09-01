@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260611230120_090",
+  "telegram_update_id": "Edgar_20260611230120_089",
+  "submitted_at": "2026-06-11",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "CJdcVH0El7Zip2oNWAfAuWRgJU8/18sxDrz9t8lVHwKUBEEl8+Hv1N3epZDvUopcsXkVVPmhoKQC1xFuXbqxVul9h0AOBgo36rJwIzx6RBPb8XJxV1TtSjf2mEPlnyrdtL2Mi+lJIDRy2HppRi5bPQbp+K+KlJIfh2LKduVgw/tLmk/XcizIWLVkVVgQXRBCJWPd9eE/peIadgctNkYh5Ql8B5KQOdR+IDN+SBGsL8DycPSNV5E4Et88nBJA1hm1s7b2kuadASlVpTUZ5i1SK3vXyPScxAH0TPijZCYVwtE8p1+viGs/jBsszXZbUN3KnLlKSwmsY8bSiH19bxESKA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] tokenomics: Fix github_webhook_handler.py to use production sheet and qr_codes repo\n  \n  Two issues:\n  1. The SHEET_UR\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/tokenomics/pull/343\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] tokenomics: Fix github_webhook_handler.py to use production sheet and qr_codes repo\n  \n  Two issues:\n  1. The SHEET_UR\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/tokenomics/pull/343\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: CJdcVH0El7Zip2oNWAfAuWRgJU8/18sxDrz9t8lVHwKUBEEl8+Hv1N3epZDvUopcsXkVVPmhoKQC1xFuXbqxVul9h0AOBgo36rJwIzx6RBPb8XJxV1TtSjf2mEPlnyrdtL2Mi+lJIDRy2HppRi5bPQbp+K+KlJIfh2LKduVgw/tLmk/XcizIWLVkVVgQXRBCJWPd9eE/peIadgctNkYh5Ql8B5KQOdR+IDN+SBGsL8DycPSNV5E4Et88nBJA1hm1s7b2kuadASlVpTUZ5i1SK3vXyPScxAH0TPijZCYVwtE8p1+viGs/jBsszXZbUN3KnLlKSwmsY8bSiH19bxESKA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
