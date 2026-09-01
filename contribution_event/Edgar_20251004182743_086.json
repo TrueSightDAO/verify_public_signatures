@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251004182743_086",
+  "telegram_update_id": "Edgar_20251004182743_085",
+  "submitted_at": "2025-10-04",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "OUOtZ1vtQ41+x4vdNLjU4F/8wWI42dn9suv0oGzt9PbgsVK8UTwEyetikEnh/jVVseXNvn8Vkf+3gE0LS/xHjbRZCFQvc7s1jTafA5LZKnp0HY1ln1vZx7712sMplyOf0wz41emVtyD4vr3b/cSvc8W7ZD35Q5X6j0t9wvgocmUE7TRbvSedmTa7FgjhTVJFcJUwRPMS7rpnPRnqvcTRSXhAQiaj2UDDGU2nnsGFBdOxswv+o3FI1sWy/7oDQq6PprthpxUKFNe3UzwyVTPWDf6KaR4r6kKk30Cp580XHH2/nXO+g7SIDPMQTmtuxnt7Oio54GTPUUR9svWP4skhxg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Resolved recent ledger transactions with Cory\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Resolved recent ledger transactions with Cory\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: OUOtZ1vtQ41+x4vdNLjU4F/8wWI42dn9suv0oGzt9PbgsVK8UTwEyetikEnh/jVVseXNvn8Vkf+3gE0LS/xHjbRZCFQvc7s1jTafA5LZKnp0HY1ln1vZx7712sMplyOf0wz41emVtyD4vr3b/cSvc8W7ZD35Q5X6j0t9wvgocmUE7TRbvSedmTa7FgjhTVJFcJUwRPMS7rpnPRnqvcTRSXhAQiaj2UDDGU2nnsGFBdOxswv+o3FI1sWy/7oDQq6PprthpxUKFNe3UzwyVTPWDf6KaR4r6kKk30Cp580XHH2/nXO+g7SIDPMQTmtuxnt7Oio54GTPUUR9svWP4skhxg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
