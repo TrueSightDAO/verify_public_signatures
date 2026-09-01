@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVOICE CONTRIBUTION]",
+  "telegram_message_id": "Edgar_20250915175611_022",
+  "telegram_update_id": "Edgar_20250915175611_021",
+  "submitted_at": "2025-09-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
+  "signature": "BkqUWXALvUsuWdPFz9gwZ3/HFB/wPmZiHsawVtgCKeqh559vyIZSR3Y1jMm8BmOdEhkmtoUw94jDT2HoFQ1sLHb+fUWt0bYdkto8A5qp3Q8kZsHT0J5ST3DBlX0onbUVOzGvtVxeG9naAosgryr2WQLawcVlwwv1MBz8zY4UMo8fosM5E9Wn9tskgimepz2TJ9xhy9XAiyChVGAKeclgo6EiKxy3OxVvP3voPlxhsZq7cqBmT5m450pL1YE0atdWdyc7Sk9LvOoQKAz5nSBrvjVTqvMF5eT2G+C9BEuObUOPPTpncfH+Sd913VnzG1dM+jtI087GDN1We9dJUGc8eA==",
+  "signed_payload": "[INVOICE CONTRIBUTION]\ndomain: file://\ndate: 9/15/2025\nemployee: Hansmartin Heierling\nemployee id: 51573\ntotal items: 3\ntotal amount: $1620.00\nsubtotal: $1498.61\ntax: $121.39\n\nitems:\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"N/A\") - Qty: 1 - $560.00\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"N/A\") - Qty: 1 - $560.00\n- S/PRO ALPHA 100 W GW 23.5 (ID: 16309413, UPC: \"N/A\") - Qty: 1 - $500.00\n\nThis invoice represents a sales transaction contribution to the TrueSight DAO ecosystem.\n--------",
+  "signed_text": "[INVOICE CONTRIBUTION]\ndomain: file://\ndate: 9/15/2025\nemployee: Hansmartin Heierling\nemployee id: 51573\ntotal items: 3\ntotal amount: $1620.00\nsubtotal: $1498.61\ntax: $121.39\n\nitems:\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"N/A\") - Qty: 1 - $560.00\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"N/A\") - Qty: 1 - $560.00\n- S/PRO ALPHA 100 W GW 23.5 (ID: 16309413, UPC: \"N/A\") - Qty: 1 - $500.00\n\nThis invoice represents a sales transaction contribution to the TrueSight DAO ecosystem.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB\n\nRequest Transaction ID: BkqUWXALvUsuWdPFz9gwZ3/HFB/wPmZiHsawVtgCKeqh559vyIZSR3Y1jMm8BmOdEhkmtoUw94jDT2HoFQ1sLHb+fUWt0bYdkto8A5qp3Q8kZsHT0J5ST3DBlX0onbUVOzGvtVxeG9naAosgryr2WQLawcVlwwv1MBz8zY4UMo8fosM5E9Wn9tskgimepz2TJ9xhy9XAiyChVGAKeclgo6EiKxy3OxVvP3voPlxhsZq7cqBmT5m450pL1YE0atdWdyc7Sk9LvOoQKAz5nSBrvjVTqvMF5eT2G+C9BEuObUOPPTpncfH+Sd913VnzG1dM+jtI087GDN1We9dJUGc8eA==",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
