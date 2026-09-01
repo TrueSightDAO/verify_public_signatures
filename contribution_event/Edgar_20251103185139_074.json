@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251103185139_074",
+  "telegram_update_id": "Edgar_20251103185139_073",
+  "submitted_at": "2025-11-03",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "KPBo70FGo6Y23AoH3f4qV74d0R4e6sS4Bvz+udMkZ+71PSagryFasYLabu1ePKTd2gZ1+LF+hItp8VkkyY+LbZmZJSfFJgCTnQDKwmNavqSz1DXP6K17UiSqirA7lskHk3wfP9LnSWd4g+y2AWXVWYOz6ISUroinZPpwpiwa7GbCnBmW8qJjcRunCWqoyQ3NApNusy9UWAJuIS1IGaHi/JtC+vyHg5UndavEwRCreEdXS6EFhQFTDTSWNitLoqwz5LsATi9Jqpi7IaRrPgyvMDxZv4nGSNCCCpFUbR9xluEBrNi8zAjJ2fpqwXCcoMD2YPdQTtCmt3US7p/zccXeKw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Planning route for the day\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: IMG_3871.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251103185125_gary_teh_img_3871.jpeg\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Planning route for the day\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: IMG_3871.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20251103185125_gary_teh_img_3871.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: KPBo70FGo6Y23AoH3f4qV74d0R4e6sS4Bvz+udMkZ+71PSagryFasYLabu1ePKTd2gZ1+LF+hItp8VkkyY+LbZmZJSfFJgCTnQDKwmNavqSz1DXP6K17UiSqirA7lskHk3wfP9LnSWd4g+y2AWXVWYOz6ISUroinZPpwpiwa7GbCnBmW8qJjcRunCWqoyQ3NApNusy9UWAJuIS1IGaHi/JtC+vyHg5UndavEwRCreEdXS6EFhQFTDTSWNitLoqwz5LsATi9Jqpi7IaRrPgyvMDxZv4nGSNCCCpFUbR9xluEBrNi8zAjJ2fpqwXCcoMD2YPdQTtCmt3US7p/zccXeKw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
