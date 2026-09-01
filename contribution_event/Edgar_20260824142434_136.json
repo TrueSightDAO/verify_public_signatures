@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260824142434_136",
+  "telegram_update_id": "Edgar_20260824142434_135",
+  "submitted_at": "2026-08-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "opjVpKZSTPDIKUd34f7mW3jta6gsRyvRc6K6KZk4U1+n50p4jiZVVysr+uM2DP9I97kz+q1iy1dCSrutW7DUKsQxfYneVespAPQo7E6F88v2Xyi3NKyoxyDziJwyIxIjWi07G4YoMKYKiH5F38WQU9oV0N5b9vqu8psqtXp7Fclm5+v4oYJw1JylWu7XSz9136Q6uVvCIgprQ/EpGbb3Jg9mbmBfDtSM7tjMvTXtLiz+lU69wyAV7NMU0s256cUOWjFhVMwdmwvAUoOgwlCxgvrrQfpFhCh2xeNRPDhzCEIzHMyTMhmXhD9F3qLFiOa2ocF3c9W3q2M5GlsQLRQnKg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: 1 hour updating the DAO ledger: reconciled MHC-CL082 chocolate mold entries (20 units total: Elizabeth Wong purchase, transfer legs, Kirsten/Gary custody rows, unit cost, evidence links) in Main Ledger offchain asset location + offchain transactions on 2026-08-24.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: 1 hour updating the DAO ledger: reconciled MHC-CL082 chocolate mold entries (20 units total: Elizabeth Wong purchase, transfer legs, Kirsten/Gary custody rows, unit cost, evidence links) in Main Ledger offchain asset location + offchain transactions on 2026-08-24.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: opjVpKZSTPDIKUd34f7mW3jta6gsRyvRc6K6KZk4U1+n50p4jiZVVysr+uM2DP9I97kz+q1iy1dCSrutW7DUKsQxfYneVespAPQo7E6F88v2Xyi3NKyoxyDziJwyIxIjWi07G4YoMKYKiH5F38WQU9oV0N5b9vqu8psqtXp7Fclm5+v4oYJw1JylWu7XSz9136Q6uVvCIgprQ/EpGbb3Jg9mbmBfDtSM7tjMvTXtLiz+lU69wyAV7NMU0s256cUOWjFhVMwdmwvAUoOgwlCxgvrrQfpFhCh2xeNRPDhzCEIzHMyTMhmXhD9F3qLFiOa2ocF3c9W3q2M5GlsQLRQnKg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
