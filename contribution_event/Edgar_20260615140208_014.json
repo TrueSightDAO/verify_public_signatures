@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260615140208_014",
+  "telegram_update_id": "Edgar_20260615140208_013",
+  "submitted_at": "2026-06-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "NcCghG3B4ovuTstY0uJLjftaK8jBqA4syPCRJJxW00Yu4VDxgjnizKmZoMIHwVNW4rn6GsVkMZ7FQYTJiyYK3CfaAq5X4pVMJ1KV7YCoKbQGIF2Pegb28FPVfHSh0fltYvvFRH0B17vvjtsRdAWajIrUdvoASw2A/gV/7XWPaGeMC2A3J5dVXiU0hVLvLehpD2TDxrlzE8MrpEcEa7p8K5SnIuMJvdfzHhy/VMckTXL4bvdDUx7GLEe+bi4rnZEgy/onl1rywD/dGelrXWW/7v5Oiw0SqONv7hbZYEZP/FSMkAJV8cKIoa7VfAD+IyrCA9hqAj2Ilc87gV8jrJSvsg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] butterfly-effect-club: The sync_cohort.py script fails immediately because ERA_SHEET_ID env var is set to empty string (fro\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/butterfly-effect-club/pull/3\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] butterfly-effect-club: The sync_cohort.py script fails immediately because ERA_SHEET_ID env var is set to empty string (fro\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/butterfly-effect-club/pull/3\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: NcCghG3B4ovuTstY0uJLjftaK8jBqA4syPCRJJxW00Yu4VDxgjnizKmZoMIHwVNW4rn6GsVkMZ7FQYTJiyYK3CfaAq5X4pVMJ1KV7YCoKbQGIF2Pegb28FPVfHSh0fltYvvFRH0B17vvjtsRdAWajIrUdvoASw2A/gV/7XWPaGeMC2A3J5dVXiU0hVLvLehpD2TDxrlzE8MrpEcEa7p8K5SnIuMJvdfzHhy/VMckTXL4bvdDUx7GLEe+bi4rnZEgy/onl1rywD/dGelrXWW/7v5Oiw0SqONv7hbZYEZP/FSMkAJV8cKIoa7VfAD+IyrCA9hqAj2Ilc87gV8jrJSvsg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
