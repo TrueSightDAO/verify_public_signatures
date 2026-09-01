@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20250809195643_040",
+  "telegram_update_id": "Edgar_20250809195643_039",
+  "submitted_at": "2025-08-09",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA27CL2T7+75YfGbuYnwRubSfjYOxAQdBvzxsjJ+W4a5iPF1r8nR4+Ekwth/dhe4tfr7ESwDxY40sYWC6CzHF271g9tvwu2x0JSfy0zwYj2M4TsmM93oKv2JJr9hFoDq5ofnDcyLmtBWB8Q5PPhqCqTuSNsbUQtrJlreFXM+QQ2kzi5CeGk5IgeRB5IFnVDkKJ1xMJwLEIoRX9Z8Z1CA2mu2dHmEnyYfZHNLojvxz7VBq/tnCDYjJDCQfz5N61zzDftLp/B4intR4yKUgHp4csx0HNsl3z744SdkjHepHSLJdOBVL/7QYpIed5pRpqkT6Lxs8griF0e7nBxidVoVsQWwIDAQAB",
+  "signature": "0SWovPPzlWz09Sh43xKyuBEsJyCVmrzIFniDy3+hvO+7ubYuMv1ZFyG9a3CXRGZ+K3MdqJOoTgvZrTbJX0gX1+qyUGLRWkfd/xxPJBiPMsl6v+Ua/jQO78bjHq6p5ja0+W/x451FADf+MLbFDd6hqKrk7q94VHAJwZwwHvTE06r6dCiuB7qNQ4kh8+VkT7jZ6/mZor+BlNRP8LKfPOEOjOTigbeN03nU9aZnRBw41fRnh1/+OvlWE2mwvtVfb9aYTQfwOks9lG8uRI7UJGgYJqxyJpCgBSeGLgWcibqizDtY9yu9kauS8jzuJsIEm+JNGartRTgKPPjHoIXNjYESdQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: testing simple reset button flow\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: Streamlined_Form_Submission_UX_Design_-_Grok.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250809195641_gary_teh_streamlined_form_submission_ux_design___grok.jpg\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: testing simple reset button flow\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: Streamlined_Form_Submission_UX_Design_-_Grok.jpg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250809195641_gary_teh_streamlined_form_submission_ux_design___grok.jpg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA27CL2T7+75YfGbuYnwRubSfjYOxAQdBvzxsjJ+W4a5iPF1r8nR4+Ekwth/dhe4tfr7ESwDxY40sYWC6CzHF271g9tvwu2x0JSfy0zwYj2M4TsmM93oKv2JJr9hFoDq5ofnDcyLmtBWB8Q5PPhqCqTuSNsbUQtrJlreFXM+QQ2kzi5CeGk5IgeRB5IFnVDkKJ1xMJwLEIoRX9Z8Z1CA2mu2dHmEnyYfZHNLojvxz7VBq/tnCDYjJDCQfz5N61zzDftLp/B4intR4yKUgHp4csx0HNsl3z744SdkjHepHSLJdOBVL/7QYpIed5pRpqkT6Lxs8griF0e7nBxidVoVsQWwIDAQAB\r\n\r\nRequest Transaction ID: 0SWovPPzlWz09Sh43xKyuBEsJyCVmrzIFniDy3+hvO+7ubYuMv1ZFyG9a3CXRGZ+K3MdqJOoTgvZrTbJX0gX1+qyUGLRWkfd/xxPJBiPMsl6v+Ua/jQO78bjHq6p5ja0+W/x451FADf+MLbFDd6hqKrk7q94VHAJwZwwHvTE06r6dCiuB7qNQ4kh8+VkT7jZ6/mZor+BlNRP8LKfPOEOjOTigbeN03nU9aZnRBw41fRnh1/+OvlWE2mwvtVfb9aYTQfwOks9lG8uRI7UJGgYJqxyJpCgBSeGLgWcibqizDtY9yu9kauS8jzuJsIEm+JNGartRTgKPPjHoIXNjYESdQ==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/tsd_dapp/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
