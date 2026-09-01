@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251114023040_032",
+  "telegram_update_id": "Edgar_20251114023040_031",
+  "submitted_at": "2025-11-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB",
+  "signature": "3G8t5lXF9F/WGESIeO4ka6jZDtn3iCmeH31/Ogwy2sgk2uBIcElrtqTWdUr5UHt7RK1FN4h88wUBTcerW6OxqzQ4yDuVESMk/+dpnAuFGgw5TUi+I7Q+SeeqOm4VxAF72UIgR5MxmquVfdaRY+KE0ic6Re57Eobp3krVpZnRriIYek2m/Ia8SKO1Z6IoewpiFGCAwjmSPzbgMr2VTPiWx+xpg+wBwCY7j74UmeOpFCwKyrodYKUc5LVHv+4PRBJK4GRInUuwQmnvuf0HCcixP8QR0z9Ctz0n9jbrbx0qVgYaGogT2RyI3gy9/M83/TmUfp5/4OSUD8J8bF2XzM72jg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 480\n- Description: Grinding of 10kg cacao nibs\n- Contributor(s): Kirsten Ritschel\n- TDG Issued: 800.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 480\r\n- Description: Grinding of 10kg cacao nibs\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 800.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: 3G8t5lXF9F/WGESIeO4ka6jZDtn3iCmeH31/Ogwy2sgk2uBIcElrtqTWdUr5UHt7RK1FN4h88wUBTcerW6OxqzQ4yDuVESMk/+dpnAuFGgw5TUi+I7Q+SeeqOm4VxAF72UIgR5MxmquVfdaRY+KE0ic6Re57Eobp3krVpZnRriIYek2m/Ia8SKO1Z6IoewpiFGCAwjmSPzbgMr2VTPiWx+xpg+wBwCY7j74UmeOpFCwKyrodYKUc5LVHv+4PRBJK4GRInUuwQmnvuf0HCcixP8QR0z9Ctz0n9jbrbx0qVgYaGogT2RyI3gy9/M83/TmUfp5/4OSUD8J8bF2XzM72jg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
