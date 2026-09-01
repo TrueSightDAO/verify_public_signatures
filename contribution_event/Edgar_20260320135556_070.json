@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260320135556_070",
+  "telegram_update_id": "Edgar_20260320135556_069",
+  "submitted_at": "2026-03-20",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "F2KfEkm6UclX9pT1VcpKaFL2ifWXkZIh7fMZGajR3xjxrgiZS6LUtMta8j7rKu5l5sew/uxIg2v06zBLmleqUle4yN+lmDu9Xr9a9asbasBUMWH7AGWidd4eDOi4t+fYbRm7UPHFw7pOo8gGKgqCR+avq+Z/XFFB2L1+103f+rHuch8XnhHWVyVE0+EpGQEoMMIcAYOgbo/9ZVzhclvuirRjsq42D0utxcEi6LihRLu4R0qb3yXY+hfiS7MH6aqknwjPWIHghpf6dAbKSPPs765VC1p4qseXmcm6RrWPvRVbLWtW3EhKAT5tLRDfOhhLwHJb11KbI90WjKduuhmL6w==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 456\n- Description: Two one-way tickets from Austin, Texas to New Orleans\n- Contributor(s): Shena Davenport\n- TDG Issued: 456.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 456\r\n- Description: Two one-way tickets from Austin, Texas to New Orleans\r\n- Contributor(s): Shena Davenport\r\n- TDG Issued: 456.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: F2KfEkm6UclX9pT1VcpKaFL2ifWXkZIh7fMZGajR3xjxrgiZS6LUtMta8j7rKu5l5sew/uxIg2v06zBLmleqUle4yN+lmDu9Xr9a9asbasBUMWH7AGWidd4eDOi4t+fYbRm7UPHFw7pOo8gGKgqCR+avq+Z/XFFB2L1+103f+rHuch8XnhHWVyVE0+EpGQEoMMIcAYOgbo/9ZVzhclvuirRjsq42D0utxcEi6LihRLu4R0qb3yXY+hfiS7MH6aqknwjPWIHghpf6dAbKSPPs765VC1p4qseXmcm6RrWPvRVbLWtW3EhKAT5tLRDfOhhLwHJb11KbI90WjKduuhmL6w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
