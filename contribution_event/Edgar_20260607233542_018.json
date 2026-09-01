@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260607233542_018",
+  "telegram_update_id": "Edgar_20260607233542_017",
+  "submitted_at": "2026-06-07",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "cSW/Ln6dMEoGrMd9ci7w9zG8JcFNkrUcYh9x1+H+ma2BIFgrBSiqDh6uodOgbmWof6D/k63uUgoa6nFbE6aq8dGs628RfV4B/Jd+CjSZTP9D/jQzZezACHX+9MzwjeOs3ad5PZoKLwU8zcSebSr+S4IoWfe5fQDoJVqMKHngjEA9tVToO5qpDU8YSzq4MP9Zwe2XoQ5M5vp49QPXdrLrbGy3fqqwIw5/f+xkahFpSyh5wYsesOtNW03WnSWk1tFJPKaLlGxco9tkcUnqXgzxyxlCAZJUoknMfmZzPtAa8PpCXl1uRaxDhBvaIITe9P/+8rKmArrg/ApwW7ZfFRv7Ug==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Bug: Telegram topic replies go to general chat instead of the topic thread.\n  \n  Root cause: Two places \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/121\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Bug: Telegram topic replies go to general chat instead of the topic thread.\n  \n  Root cause: Two places \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/121\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: cSW/Ln6dMEoGrMd9ci7w9zG8JcFNkrUcYh9x1+H+ma2BIFgrBSiqDh6uodOgbmWof6D/k63uUgoa6nFbE6aq8dGs628RfV4B/Jd+CjSZTP9D/jQzZezACHX+9MzwjeOs3ad5PZoKLwU8zcSebSr+S4IoWfe5fQDoJVqMKHngjEA9tVToO5qpDU8YSzq4MP9Zwe2XoQ5M5vp49QPXdrLrbGy3fqqwIw5/f+xkahFpSyh5wYsesOtNW03WnSWk1tFJPKaLlGxco9tkcUnqXgzxyxlCAZJUoknMfmZzPtAa8PpCXl1uRaxDhBvaIITe9P/+8rKmArrg/ApwW7ZfFRv7Ug==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
