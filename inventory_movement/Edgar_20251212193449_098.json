@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20251212193449_098",
+  "telegram_update_id": "Edgar_20251212193449_097",
+  "submitted_at": "2025-12-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "B91isyuHBUVa0p4Mgdp9gMnVRC3requ9qcB/9/PQ0r2AD0oMKrXNTB7+w9nmXiFWTy9a4MnZ3JvfhCfTndA3oaD2UnN515aYaHl5e90N7IC/TAObX3v0GvFcd9mvOuTvXbNm3uM9cYLIPvmkSkekbGDWe19T0KN5f6MiaxjOuAJYB16wJRg0Bm0pIx2Gz/FIR/rHLTuKmJ3PnRRn4afedGXfTjNGfFK0Wx0/3DWp3q2gQrf9NzrCuxoh55UfByfI6V6hnxJ3p+3BeIvkjMXb4i0iROQQuSxcCjY/vc5lkQ9IOkzxeZZ4Ruwoihsab+VPv/77H2OahAvGgsfTXrla3A==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Yasmin\n- Recipient Name: Andrea Catalina Falcon Rios De Pabst\n- Inventory Item: USD\n- Quantity: 84\n- Latitude: 33.614979\n- Longitude: -114.200897\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\r\n- Manager Name: Yasmin\r\n- Recipient Name: Andrea Catalina Falcon Rios De Pabst\r\n- Inventory Item: USD\r\n- Quantity: 84\r\n- Latitude: 33.614979\r\n- Longitude: -114.200897\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: B91isyuHBUVa0p4Mgdp9gMnVRC3requ9qcB/9/PQ0r2AD0oMKrXNTB7+w9nmXiFWTy9a4MnZ3JvfhCfTndA3oaD2UnN515aYaHl5e90N7IC/TAObX3v0GvFcd9mvOuTvXbNm3uM9cYLIPvmkSkekbGDWe19T0KN5f6MiaxjOuAJYB16wJRg0Bm0pIx2Gz/FIR/rHLTuKmJ3PnRRn4afedGXfTjNGfFK0Wx0/3DWp3q2gQrf9NzrCuxoh55UfByfI6V6hnxJ3p+3BeIvkjMXb4i0iROQQuSxcCjY/vc5lkQ9IOkzxeZZ4Ruwoihsab+VPv/77H2OahAvGgsfTXrla3A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
