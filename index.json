@@ -1,10 +1,123 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-01T03:30:10Z",
-  "total_count": 75,
-  "test_events_count": 25,
+  "generated_at": "2026-09-01T15:30:11Z",
+  "total_count": 3954,
+  "test_events_count": 138,
+  "other_signed_count": 5,
   "event_types": {
+    "asset_receipt_event": {
+      "count": 13,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/index.json"
+    },
+    "batch_qr_code_request": {
+      "count": 12,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/index.json"
+    },
+    "capital_injection_event": {
+      "count": 4,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
+    },
+    "contribution_event": {
+      "count": 2167,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
+    },
+    "credentialing_attestation_event": {
+      "count": 108,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/index.json"
+    },
+    "currency_conversion_event": {
+      "count": 1,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/index.json"
+    },
+    "dao_inventory_expense_event": {
+      "count": 200,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
+    },
+    "donation_mint_event": {
+      "count": 101,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/index.json"
+    },
+    "email_verification_event": {
+      "count": 3,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/email_verification_event/index.json"
+    },
+    "farm_boundary_evidence_event": {
+      "count": 1,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/index.json"
+    },
+    "farm_registration": {
+      "count": 6,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration/index.json"
+    },
+    "farm_registration_event": {
+      "count": 1,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/index.json"
+    },
+    "inventory_movement": {
+      "count": 660,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/index.json"
+    },
+    "invoice_contribution": {
+      "count": 32,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/invoice_contribution/index.json"
+    },
+    "notarization_event": {
+      "count": 37,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/index.json"
+    },
+    "other_signed_events": {
+      "count": 5,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/other_signed_events/index.json"
+    },
+    "partner_check_in_event": {
+      "count": 5,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/index.json"
+    },
+    "practice_event": {
+      "count": 169,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
+    },
+    "proposal_creation": {
+      "count": 10,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_creation/index.json"
+    },
+    "proposal_vote": {
+      "count": 19,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/index.json"
+    },
+    "qr_code_event": {
+      "count": 2,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_event/index.json"
+    },
+    "qr_code_update_event": {
+      "count": 14,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/index.json"
+    },
+    "repackaging_batch_event": {
+      "count": 3,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/index.json"
+    },
+    "repackaging_settlement_event": {
+      "count": 2,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/index.json"
+    },
+    "retail_field_report_event": {
+      "count": 7,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/index.json"
+    },
+    "sales_event": {
+      "count": 281,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/index.json"
+    },
+    "store_add_event": {
+      "count": 3,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/index.json"
+    },
+    "test_event": {
+      "count": 2,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/test_event/index.json"
+    },
     "tree_growth_monitoring": {
       "count": 1,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/index.json"
@@ -20,6 +133,14 @@
     "tree_planting_reject": {
       "count": 41,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/index.json"
+    },
+    "upc_linking_contribution": {
+      "count": 10,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/upc_linking_contribution/index.json"
+    },
+    "voting_rights_withdrawal_settlement_event": {
+      "count": 1,
+      "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/voting_rights_withdrawal_settlement_event/index.json"
     }
   }
 }
