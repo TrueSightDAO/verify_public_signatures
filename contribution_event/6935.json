@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "6935",
+  "telegram_update_id": "469027611",
+  "submitted_at": "2025-07-29",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "DjD3nem1GLgzAh++Qv9AIfl2XpP61HDFMNYp9x7rgph3aiyw8QvJvttQsOQqT2FmmacbZa9K4tEiSbzftgsCjjRFi7FHYWC7iIhudUwKHf2k0p5znG+LEJPXdJ10zOoM2fcgFeJr+2etLrQrQQTgmHclIH4/35dfBETQQHxOs7pJdZWXZv9epYPxWYuXxu2FVnf4lErljQ8/ne5op4A6YafdG9JkbkfnFwbBycwqlTQ95ZtU21GATqV3L/azIM93H6P9N9gleId/BbcksNV6lH/T/QrBQghLanvGAk/mRF7DqaACMPQK/6zsl+GwlcBYCK0Vr0nsqEE8GNLD5tqcKg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Fixing the QR code usability issue https://github.com/TrueSightDAO/tokenomics/pull/88\n- Contributor(s): Gary Teh\n- TDG Issued: 150.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Fixing the QR code usability issue https://github.com/TrueSightDAO/tokenomics/pull/88\n- Contributor(s): Gary Teh\n- TDG Issued: 150.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: DjD3nem1GLgzAh++Qv9AIfl2XpP61HDFMNYp9x7rgph3aiyw8QvJvttQsOQqT2FmmacbZa9K4tEiSbzftgsCjjRFi7FHYWC7iIhudUwKHf2k0p5znG+LEJPXdJ10zOoM2fcgFeJr+2etLrQrQQTgmHclIH4/35dfBETQQHxOs7pJdZWXZv9epYPxWYuXxu2FVnf4lErljQ8/ne5op4A6YafdG9JkbkfnFwbBycwqlTQ95ZtU21GATqV3L/azIM93H6P9N9gleId/BbcksNV6lH/T/QrBQghLanvGAk/mRF7DqaACMPQK/6zsl+GwlcBYCK0Vr0nsqEE8GNLD5tqcKg==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1753750211117\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
