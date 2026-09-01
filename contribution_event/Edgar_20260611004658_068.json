@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260611004658_068",
+  "telegram_update_id": "Edgar_20260611004658_067",
+  "submitted_at": "2026-06-11",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "GhLNp98XKNHONP1O0jiMc77pP55A/BZO/4iz4JANUVdeUl8W/AJHWtx7wG3WaCO+efDsNFSnKsYtWD6zwmv4dF3RjAxruDSX494B4nLC/QT2/LqK5WP2psGS04j7zKf69uCtQKYVYNWwt35/BRe81uK7xmfMx2X80xNr8aoZBsa0kAo8cASZwoowr33hnEH7vOptaL09hR46ycZpybvmsOIIqnnvmq7T5y7zoJRsam9IWvPe97TvT3L5RkEK2nunybVVMBz/oSuT2R60m2gYc8ehrJWyA9/rzshLDAr2Y82XMOZWN5vOvcUfoWDZFG4K0lv4+URIgrrztt8lsuZHNQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Fix the 3 deselected unit tests and drop the --deselect flags from .github/workflows/smoke.yml.\n  \n  The\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/146\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Fix the 3 deselected unit tests and drop the --deselect flags from .github/workflows/smoke.yml.\n  \n  The\n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/146\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: GhLNp98XKNHONP1O0jiMc77pP55A/BZO/4iz4JANUVdeUl8W/AJHWtx7wG3WaCO+efDsNFSnKsYtWD6zwmv4dF3RjAxruDSX494B4nLC/QT2/LqK5WP2psGS04j7zKf69uCtQKYVYNWwt35/BRe81uK7xmfMx2X80xNr8aoZBsa0kAo8cASZwoowr33hnEH7vOptaL09hR46ycZpybvmsOIIqnnvmq7T5y7zoJRsam9IWvPe97TvT3L5RkEK2nunybVVMBz/oSuT2R60m2gYc8ehrJWyA9/rzshLDAr2Y82XMOZWN5vOvcUfoWDZFG4K0lv4+URIgrrztt8lsuZHNQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
