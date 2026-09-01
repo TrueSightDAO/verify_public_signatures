@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "7113",
+  "telegram_update_id": "469027726",
+  "submitted_at": "2025-08-06",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "AXWS9u1TXRVxyuiiG0F8K+icut4JoNecL2VUiZnCRlyrrt0sMT4Oh0xxCoG/hYSQYzugGW9cGEwZN7KKmDF9TT1wA9+maNOmGZ16B2b7P2Sn+iVS3A58uBI1IdWtsRXbxaMncgi/w9cgH6C7lLnYJHQ9mgFGTqmbxnNxJDKzO6P8clB9QqbwsPzoomiFkC0LH3tHXzxVcy/wYd/CYAAwLFdDcMzIrL39k6ONTEUz4onhBg161Y6KYJGY7vfscBaHzgOwCNG4BGMYwPWRqV2lJouysfQhBpSJceBRhdrBm5gc4Lf2KHohG4ffII7nL6GEFtsgtR40DZ8XpQS9SIsNaw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Checking the cash transactions that were not captured on our ledger that was causing USD managed by Kirsten and myself to be inaccurate\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Checking the cash transactions that were not captured on our ledger that was causing USD managed by Kirsten and myself to be inaccurate\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: AXWS9u1TXRVxyuiiG0F8K+icut4JoNecL2VUiZnCRlyrrt0sMT4Oh0xxCoG/hYSQYzugGW9cGEwZN7KKmDF9TT1wA9+maNOmGZ16B2b7P2Sn+iVS3A58uBI1IdWtsRXbxaMncgi/w9cgH6C7lLnYJHQ9mgFGTqmbxnNxJDKzO6P8clB9QqbwsPzoomiFkC0LH3tHXzxVcy/wYd/CYAAwLFdDcMzIrL39k6ONTEUz4onhBg161Y6KYJGY7vfscBaHzgOwCNG4BGMYwPWRqV2lJouysfQhBpSJceBRhdrBm5gc4Lf2KHohG4ffII7nL6GEFtsgtR40DZ8XpQS9SIsNaw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
