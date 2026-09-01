@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260824183955_164",
+  "telegram_update_id": "Edgar_20260824183955_163",
+  "submitted_at": "2026-08-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "d95PuXHlOgSlbjlLF0n3wRPE8mX+zc7GmSEMMrv23bAyFhKAWIY3ngMms18dKARgaNTjKT28+9zrUAnAJZtvVw71XORtKcgQIkORNIa/UnmWsaMM9TpqKzlOjnW84izs3OXolAIjTpKu0KmkPttCet55FPiTe6FYawGVIaGKg3NtDIU3KT8X66/3YeqeUvRcsu5IWJWjlsPbx/qirU1s5luXge9kKhT45jky280U0Y2FEjDPcPrcrzcE9RjIAwv5Xlh9T5SOH8cmXJRHe4lR0t7wvIwTIDufoySYYOSVRX1SKCIcWFZhjxIFdC+g6zE1bWcR0Ku1Z+1Qw5YuX0oHGA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Gary Teh direct time on 2026-08-20 inventory-movement unauthorized incident: 17 thread messages (voice), checking the sheet, reviewing diagnosis, directing fixes (trusted-agent registration, is_sentinel check, E2E test), approving merges. Estimated midpoint of 0.75-1.5h direct attention.\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Gary Teh direct time on 2026-08-20 inventory-movement unauthorized incident: 17 thread messages (voice), checking the sheet, reviewing diagnosis, directing fixes (trusted-agent registration, is_sentinel check, E2E test), approving merges. Estimated midpoint of 0.75-1.5h direct attention.\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: d95PuXHlOgSlbjlLF0n3wRPE8mX+zc7GmSEMMrv23bAyFhKAWIY3ngMms18dKARgaNTjKT28+9zrUAnAJZtvVw71XORtKcgQIkORNIa/UnmWsaMM9TpqKzlOjnW84izs3OXolAIjTpKu0KmkPttCet55FPiTe6FYawGVIaGKg3NtDIU3KT8X66/3YeqeUvRcsu5IWJWjlsPbx/qirU1s5luXge9kKhT45jky280U0Y2FEjDPcPrcrzcE9RjIAwv5Xlh9T5SOH8cmXJRHe4lR0t7wvIwTIDufoySYYOSVRX1SKCIcWFZhjxIFdC+g6zE1bWcR0Ku1Z+1Qw5YuX0oHGA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
