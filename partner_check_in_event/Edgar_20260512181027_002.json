@@ -1,0 +1,14 @@
+{
+  "event_type": "[PARTNER CHECK-IN EVENT]",
+  "telegram_message_id": "Edgar_20260512181027_002",
+  "telegram_update_id": "Edgar_20260512181027_001",
+  "submitted_at": "2026-05-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "fa9EGh3d/8tz04VqJ4BITH1HaBBBnRotfdFsCujJqSz/5iKYhOFfbPQSJHEITm31bu7ih2DPASZMf0JafaIQvrcb0RwjFgKB23GKOAgRYz5HFRKbLiDYwsvKDfR1lEGdZnZExrrmfbCCOO6LsZLNdohKFozTaZ5+vhyN9cQKSmNwaoJGUoOmuAcJKcp/ZDpgzczL59VVfewCBdKd3QQ49RLjzQ2d6hkrmAw3FeyjDlh3G76x8OqZCyB0G3zKnthQOTUmilKWnc+A2NXGAfpziorn3Pj3tMnG3P2/6QMPDXhwWHVIK3aCFLOQdixtU1wDB89zF4gdVULw1Nnvb6sDRw==",
+  "signed_payload": "[PARTNER CHECK-IN EVENT]\nPartner ID: sacred-earth-farms\nContributor Name: Sacred Earth Farms\nCheck-in Date: 2026-05-12\nMethod: Text\nStock Status: OK\nRestock Needed: No\nNext Check-in Date: 2026-07-11\nNotes: HIs farm is having issues right now.\nUpdate ID: PCI_20260512181026_2cc24f\n--------",
+  "signed_text": "[PARTNER CHECK-IN EVENT]\r\nPartner ID: sacred-earth-farms\r\nContributor Name: Sacred Earth Farms\r\nCheck-in Date: 2026-05-12\r\nMethod: Text\r\nStock Status: OK\r\nRestock Needed: No\r\nNext Check-in Date: 2026-07-11\r\nNotes: HIs farm is having issues right now.\r\nUpdate ID: PCI_20260512181026_2cc24f\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: fa9EGh3d/8tz04VqJ4BITH1HaBBBnRotfdFsCujJqSz/5iKYhOFfbPQSJHEITm31bu7ih2DPASZMf0JafaIQvrcb0RwjFgKB23GKOAgRYz5HFRKbLiDYwsvKDfR1lEGdZnZExrrmfbCCOO6LsZLNdohKFozTaZ5+vhyN9cQKSmNwaoJGUoOmuAcJKcp/ZDpgzczL59VVfewCBdKd3QQ49RLjzQ2d6hkrmAw3FeyjDlh3G76x8OqZCyB0G3zKnthQOTUmilKWnc+A2NXGAfpziorn3Pj3tMnG3P2/6QMPDXhwWHVIK3aCFLOQdixtU1wDB89zF4gdVULw1Nnvb6sDRw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/partner_check_in.html?partner_id=sacred-earth-farms\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
