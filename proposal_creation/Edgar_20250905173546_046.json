@@ -1,0 +1,14 @@
+{
+  "event_type": "[PROPOSAL CREATION]",
+  "telegram_message_id": "Edgar_20250905173546_046",
+  "telegram_update_id": "Edgar_20250905173546_045",
+  "submitted_at": "2025-09-05",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
+  "signature": "uIz5thqzTM++X7NUbDR5bmUPcNI85tMWU5UjPQSC6YQZLlNBYP/DbnoRylF//0sD/2XNip/QhmhXwECwjLa2ygtKHqbInXemPBLDszixDODgjDSLr7Tx7anyx6pWwe+IzbODq7QoxJRXdzKF9RuTxxRzX3YZiKdDtNhMSJqt4JPKPopgkBJEiI8ObbknK2KzkR9wY61kSK5kqgQFpF4rjBgt4XMTJaOgFeXpgQkFYpuMXWEVO6HlWanxJ+xsqb7G/z72wOwuKM+7+zQDAx1cWvYSoEB8Cyj5rH0lyTQ8YXLMBdwSv9MyXv7aRYJhUUN1GTn0lQkady3TgWEZJONDog==",
+  "signed_payload": "[PROPOSAL CREATION]\n- Title: This is the text for submission\n- Content: This is the content for submission. This proposal has multiple line\nTHis is the second line\n--------",
+  "signed_text": "[PROPOSAL CREATION]\n- Title: This is the text for submission\n- Content: This is the content for submission. This proposal has multiple line\nTHis is the second line\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB\n\nRequest Transaction ID: uIz5thqzTM++X7NUbDR5bmUPcNI85tMWU5UjPQSC6YQZLlNBYP/DbnoRylF//0sD/2XNip/QhmhXwECwjLa2ygtKHqbInXemPBLDszixDODgjDSLr7Tx7anyx6pWwe+IzbODq7QoxJRXdzKF9RuTxxRzX3YZiKdDtNhMSJqt4JPKPopgkBJEiI8ObbknK2KzkR9wY61kSK5kqgQFpF4rjBgt4XMTJaOgFeXpgQkFYpuMXWEVO6HlWanxJ+xsqb7G/z72wOwuKM+7+zQDAx1cWvYSoEB8Cyj5rH0lyTQ8YXLMBdwSv9MyXv7aRYJhUUN1GTn0lQkady3TgWEZJONDog==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/create_proposal.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
