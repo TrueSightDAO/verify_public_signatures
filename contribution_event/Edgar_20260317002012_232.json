@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260317002012_232",
+  "telegram_update_id": "Edgar_20260317002012_231",
+  "submitted_at": "2026-03-17",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "XB86hUM4bCKBtsxuryiaeVbn2S5+omyELHhe7/+lzXeUJHkjQ5EjZK+dV0X03ZDDx9VvDrWjaaYRwotT7uAxQ+U0bNQoDneoLO6kYBPNiVuJzCJ7RFh1DSM6Zegw1EF1tNgpD6Z32FHMpf8XoBTRyL1AX+EIX/Mr/nN5rbKVyGil8JRtTLnsS6U4Fs0uxkv32jlJqLx3JLjZh3YOpLDusvjG508XImW2RpZZqjeQfylSd9RZusLaAjYs0zDKLP6ZFqpr2bjymHMSS+prtkfQ83JwAavGKAFItxWSK8dJsadnF3UbTTeirI7r2u/+JYxHzDL5ciySkpFJ2hSBNYBMIA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: Response to Ben on the compostable bags\n- Contributor(s): Gary Teh\n- TDG Issued: 8.33\n- Attached Filename: Compostable kraft pouch.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260317001939_gary_teh_compostable_kraft_pouch.pdf\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Response to Ben on the compostable bags\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: Compostable kraft pouch.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260317001939_gary_teh_compostable_kraft_pouch.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: XB86hUM4bCKBtsxuryiaeVbn2S5+omyELHhe7/+lzXeUJHkjQ5EjZK+dV0X03ZDDx9VvDrWjaaYRwotT7uAxQ+U0bNQoDneoLO6kYBPNiVuJzCJ7RFh1DSM6Zegw1EF1tNgpD6Z32FHMpf8XoBTRyL1AX+EIX/Mr/nN5rbKVyGil8JRtTLnsS6U4Fs0uxkv32jlJqLx3JLjZh3YOpLDusvjG508XImW2RpZZqjeQfylSd9RZusLaAjYs0zDKLP6ZFqpr2bjymHMSS+prtkfQ83JwAavGKAFItxWSK8dJsadnF3UbTTeirI7r2u/+JYxHzDL5ciySkpFJ2hSBNYBMIA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
