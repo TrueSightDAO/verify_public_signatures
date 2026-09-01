@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260323184246_100",
+  "telegram_update_id": "Edgar_20260323184246_099",
+  "submitted_at": "2026-03-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "rjiOaRJ/0LUqcFGyX+sNNe3uAgq6pjsTdUi4uXR/bS5zsHWsGqWnPHGsdHhX2OsBdgNXRQ+4ymSC0QjngqeUjlIPrJ0FYRaukxfIYyUeVpv+R0QulOuP+yudYjbVU63j68sxab2iASyhR8xZ43B49a+7AX3voMtnl3vjk1x8BfD5NGEaYqLPaqtzhMhHb4w9qORMb+xGkAmqFNs/f0ms9qkwZ2MLtu9lEMn99lYF7g9Fgtgqh6EwWkWJkreEtb+xe5S1Zmi3yHZPf72avf+7tSdgipe9JnYyiNCD+IfAM3sJBy97cRyaJB7ECPfgazjL7dkVoKZfzpf2qc/Cwtqjlw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 2.50\n- Description: Bus ticket for Two from French Quarter of New Orleans to the airport\n- Contributor(s): AGL15\n- TDG Issued: 2.50\n- Attached Filename: IMG_9283.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260323184214_gary_teh_img_9283.png\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 2.50\r\n- Description: Bus ticket for Two from French Quarter of New Orleans to the airport\r\n- Contributor(s): AGL15\r\n- TDG Issued: 2.50\r\n- Attached Filename: IMG_9283.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260323184214_gary_teh_img_9283.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: rjiOaRJ/0LUqcFGyX+sNNe3uAgq6pjsTdUi4uXR/bS5zsHWsGqWnPHGsdHhX2OsBdgNXRQ+4ymSC0QjngqeUjlIPrJ0FYRaukxfIYyUeVpv+R0QulOuP+yudYjbVU63j68sxab2iASyhR8xZ43B49a+7AX3voMtnl3vjk1x8BfD5NGEaYqLPaqtzhMhHb4w9qORMb+xGkAmqFNs/f0ms9qkwZ2MLtu9lEMn99lYF7g9Fgtgqh6EwWkWJkreEtb+xe5S1Zmi3yHZPf72avf+7tSdgipe9JnYyiNCD+IfAM3sJBy97cRyaJB7ECPfgazjL7dkVoKZfzpf2qc/Cwtqjlw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
