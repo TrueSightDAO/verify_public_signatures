@@ -1,0 +1,14 @@
+{
+  "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
+  "telegram_message_id": "Edgar_20260901224935_011",
+  "telegram_update_id": "Edgar_20260901224935_012",
+  "submitted_at": "2026-09-01",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "RLtLp3x5RUjORkCXV+ocvx7lXiYWERlaNEQx4sBSWYltmxiySH0SMXXWisdrGN+iuSr2upCXfoD/NJ58ybnr1hZCQLhQpZaSigv3vjFVJQSOSJjnaJ1bgG8qM+7Ko3Ts7e4blnss+uZxo4kZr5tYZv8ueBPCk1c7SbpPufx9omjwr5UIPPinuhqRPxsnxR6Ir1S4GYtW0kw9K0wCyHSIJn65BTzoIu8vreAD0kaKZy14za+Ulbg2YOl8bWjwxkuTZceEJfp5hlUYZpWSLcYgiA0UCSUTsxXj106CKN8BQvHsccTS73hZtFBMUItRKeG2rsYtASJMezaQrBQ6h8qudw==",
+  "signed_payload": "[FARM BOUNDARY EVIDENCE EVENT]\n- Farm Name: Lote E2E v40 PlotFirst\n- Media URLs: e2e-v40-plotfirst-20260901.jpg\n- Boundary Type: gps_walk\n- Submission Source: e2e-v40-plotfirst\n--------",
+  "signed_text": "[FARM BOUNDARY EVIDENCE EVENT]\n- Farm Name: Lote E2E v40 PlotFirst\n- Media URLs: e2e-v40-plotfirst-20260901.jpg\n- Boundary Type: gps_walk\n- Submission Source: e2e-v40-plotfirst\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: RLtLp3x5RUjORkCXV+ocvx7lXiYWERlaNEQx4sBSWYltmxiySH0SMXXWisdrGN+iuSr2upCXfoD/NJ58ybnr1hZCQLhQpZaSigv3vjFVJQSOSJjnaJ1bgG8qM+7Ko3Ts7e4blnss+uZxo4kZr5tYZv8ueBPCk1c7SbpPufx9omjwr5UIPPinuhqRPxsnxR6Ir1S4GYtW0kw9K0wCyHSIJn65BTzoIu8vreAD0kaKZy14za+Ulbg2YOl8bWjwxkuTZceEJfp5hlUYZpWSLcYgiA0UCSUTsxXj106CKN8BQvHsccTS73hZtFBMUItRKeG2rsYtASJMezaQrBQ6h8qudw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
