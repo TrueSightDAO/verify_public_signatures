@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-01T22:30:37Z",
-  "total_count": 3970,
+  "generated_at": "2026-09-01T23:30:08Z",
+  "total_count": 3974,
   "test_events_count": 138,
   "excluded_pii_count": 1650,
   "other_signed_count": 5,
@@ -20,7 +20,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2176,
+      "count": 2177,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "credentialing_attestation_event": {
@@ -44,7 +44,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/email_verification_event/index.json"
     },
     "farm_boundary_evidence_event": {
-      "count": 6,
+      "count": 9,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/index.json"
     },
     "farm_registration": {
