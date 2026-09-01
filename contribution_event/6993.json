@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "6993",
+  "telegram_update_id": "469027635",
+  "submitted_at": "2025-07-31",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "e+suswHOkx67oh7qKKJJpZaQ2kkkiTyeLEoW/eRzyxZOU3uXIPGLlqfBASshDLq9r5QK+giCJxNp+ik0RwOseshDwWFr0QwnVlG1Qpj+iRnbDSvJPvjw+2+9mnHSsmuof6ze4vb0cQtrMIYTKIxSYiujxI/oVleByFi1QxaCmMX65KsMxp/YH6Mz/jDJWOnyq7ef1cC6FusZXD9w6tV13/AGG1h1GEmJ7PYfwNAWpQKN9wn9wU40I+oPDHKo6K0BNMu9ukZvxNvkGJp3qrmFYct3KsunOCHqRlJTpmQPsj2C7RLIbljxVVcjF8xYQitN2ZezavryZkxtr+JES1FVgg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Fixing the faulty digital signature record issue which is causing repeated data insertion error. \n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: data_entry_error.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250731052004_gary_teh_data_entry_error.jpg\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Fixing the faulty digital signature record issue which is causing repeated data insertion error. \n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: data_entry_error.jpg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250731052004_gary_teh_data_entry_error.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: e+suswHOkx67oh7qKKJJpZaQ2kkkiTyeLEoW/eRzyxZOU3uXIPGLlqfBASshDLq9r5QK+giCJxNp+ik0RwOseshDwWFr0QwnVlG1Qpj+iRnbDSvJPvjw+2+9mnHSsmuof6ze4vb0cQtrMIYTKIxSYiujxI/oVleByFi1QxaCmMX65KsMxp/YH6Mz/jDJWOnyq7ef1cC6FusZXD9w6tV13/AGG1h1GEmJ7PYfwNAWpQKN9wn9wU40I+oPDHKo6K0BNMu9ukZvxNvkGJp3qrmFYct3KsunOCHqRlJTpmQPsj2C7RLIbljxVVcjF8xYQitN2ZezavryZkxtr+JES1FVgg==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1753939153136\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
