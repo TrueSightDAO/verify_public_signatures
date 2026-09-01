@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260728002156_282",
+  "telegram_update_id": "Edgar_20260728002156_281",
+  "submitted_at": "2026-07-28",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "ixUQJCQNca0Os1W8MqQ5i8yNn2Gba3228Q05vGqBD5e6PsB8F/vA8I6HPZhZQ/1SPBZURmUUwzUAfQ59glpJYoLb9gPT4ieMzlNAB+aNAz4g+Bh4o0lYWGfCGDLHeaQT3T8Q3GEdbCkUVXxE8QX9e+QPi+68EuLap3M1Jue2BrD86IL58p57BqxV+VLwEStxwql3iRccsu09NCk0N7ksIvDXJazCC+UaqEe15fJLwnwpEbEUQxTR2kUTfgGbpJHQBbgZvvwlveSQvYHnzzF/InXPoYU75jdoXYJVmoRTJYuW81cOKCJbULCFPu41y+/hL3uPVb4IOlnzyhCM/kQQgA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Follow-up with Jerri re: upcoming meeting with Evans and Model UN in Beijing\n- TDG Issued: 0\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Follow-up with Jerri re: upcoming meeting with Evans and Model UN in Beijing\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: ixUQJCQNca0Os1W8MqQ5i8yNn2Gba3228Q05vGqBD5e6PsB8F/vA8I6HPZhZQ/1SPBZURmUUwzUAfQ59glpJYoLb9gPT4ieMzlNAB+aNAz4g+Bh4o0lYWGfCGDLHeaQT3T8Q3GEdbCkUVXxE8QX9e+QPi+68EuLap3M1Jue2BrD86IL58p57BqxV+VLwEStxwql3iRccsu09NCk0N7ksIvDXJazCC+UaqEe15fJLwnwpEbEUQxTR2kUTfgGbpJHQBbgZvvwlveSQvYHnzzF/InXPoYU75jdoXYJVmoRTJYuW81cOKCJbULCFPu41y+/hL3uPVb4IOlnzyhCM/kQQgA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
