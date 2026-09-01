@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20251022185822_040",
+  "telegram_update_id": "Edgar_20251022185822_039",
+  "submitted_at": "2025-10-22",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "Z3tXMlQA7JtG4t7wq6wg+obN7Nsvxij6TSsQIAd/g+i8go5O/suxKGe6OUNJSXcTbGDhr4c9+RB8WGKGOcaZArSCEYkCaM/l78XlRxqvg87bdnOkK+TbVyl+rIaPYiM94Q5uuQDjFl79fhKDhCrktVILSkIl71P3mfD/qCw2du9E5xqjkfQDW9955lAz6R2xew4PnzRDTxxq/KyxUFJ0rg1ZVCVeXKbzGV92bRi+/Bppp8LS4lkDealtT9O5/aSrvaVdX+WyUBMFH6OUm/HgE92mplh9qlfMrgvY9U/ZNQLKdxkx6P59obm3oR3kcYxMvfeOdrWESIeLc8ZLrdX1lQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Filing of USPTO statement of use with the USPTO office for case 98085875\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Filing of USPTO statement of use with the USPTO office for case 98085875\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Z3tXMlQA7JtG4t7wq6wg+obN7Nsvxij6TSsQIAd/g+i8go5O/suxKGe6OUNJSXcTbGDhr4c9+RB8WGKGOcaZArSCEYkCaM/l78XlRxqvg87bdnOkK+TbVyl+rIaPYiM94Q5uuQDjFl79fhKDhCrktVILSkIl71P3mfD/qCw2du9E5xqjkfQDW9955lAz6R2xew4PnzRDTxxq/KyxUFJ0rg1ZVCVeXKbzGV92bRi+/Bppp8LS4lkDealtT9O5/aSrvaVdX+WyUBMFH6OUm/HgE92mplh9qlfMrgvY9U/ZNQLKdxkx6P59obm3oR3kcYxMvfeOdrWESIeLc8ZLrdX1lQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
