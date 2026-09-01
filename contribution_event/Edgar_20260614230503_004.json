@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260614230503_004",
+  "telegram_update_id": "Edgar_20260614230503_003",
+  "submitted_at": "2026-06-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "XF8j01fk79nWrQ93q+sEQjs9qqqrml0Mflqx9RAPb+GH90/voq9haaIKTJ3vLIbCsykuexAqzdxW3lXA+ypKFtbgdrKFe9DZJItfjrRA4csQ1dWHVbJz+1dlxYG4AxLKoZvDCjPhcdx9YHPhLZA1wQa626yOOgGcY5oQLWorLzZKZj3HlkJ3cajn/Wa6RIBwq1O9C21/aLzAaJiS86I0+yZW6L/LKK2p5HPiS+dvQfLw3ObR4Z6dORbSNlm0vuv0HVj81svFOLe5XHhC4kTwFL4Gor+8JkTVHwXBus+Dbmdm382sKgS+GLv7mXOFucyQjSH8dxfaezrFxFUHQ8rCnw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] agroverse_shop_beta: Update the Kopi Bar & Bakery partner detail page (partners/kopi-bar-and-bakery/index.html) with new \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/agroverse_shop_beta/pull/174\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] agroverse_shop_beta: Update the Kopi Bar & Bakery partner detail page (partners/kopi-bar-and-bakery/index.html) with new \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/agroverse_shop_beta/pull/174\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: XF8j01fk79nWrQ93q+sEQjs9qqqrml0Mflqx9RAPb+GH90/voq9haaIKTJ3vLIbCsykuexAqzdxW3lXA+ypKFtbgdrKFe9DZJItfjrRA4csQ1dWHVbJz+1dlxYG4AxLKoZvDCjPhcdx9YHPhLZA1wQa626yOOgGcY5oQLWorLzZKZj3HlkJ3cajn/Wa6RIBwq1O9C21/aLzAaJiS86I0+yZW6L/LKK2p5HPiS+dvQfLw3ObR4Z6dORbSNlm0vuv0HVj81svFOLe5XHhC4kTwFL4Gor+8JkTVHwXBus+Dbmdm382sKgS+GLv7mXOFucyQjSH8dxfaezrFxFUHQ8rCnw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
