@@ -1,0 +1,14 @@
+{
+  "event_type": "[PARTNER CHECK-IN EVENT]",
+  "telegram_message_id": "Edgar_20260514203420_068",
+  "telegram_update_id": "Edgar_20260514203420_067",
+  "submitted_at": "2026-05-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
+  "signature": "nVxp0VV8iKPH4DstNKAax9uapcQSJH4CT7nFL0WX4Vc5RBYsvolslIUbNqZ080jwGkJc/yfu5+Mf289mjtgrR58PyZGCLTkP+vRH9NSybc3Og36ifRUex78fW7bLnwzg02eKnV6c6b1lWsTNNvXdCQPgLeA0ZBgMjAEA7Tr3HBv45g/gMsm8SYthi78ch8vh2sWO/W2F4ug9ghMagsefMMpyGCzd3Bbe4aFQUAg8R5mwj50az9lGavO4nIwlHgybcVFaBoTnQT5WS9FQdQePI284nuktl5qIG7LVW8mU3o+QeEVpXX6Pe4g5rL0+NAo59Mfsrfz8H9xw2CzDDF/z/Q==",
+  "signed_payload": "[PARTNER CHECK-IN EVENT]\nPartner ID: love-of-ganesha\nContributor Name: The Love of Ganesha - Noot\nCheck-in Date: 2026-05-14\nMethod: In Person\nStock Status: Unknown\nRestock Needed: Maybe\nNext Check-in Date: 2026-04-15\nNotes: The staff mentioned to pop back in again tomorrow because she’s not here today\nUpdate ID: PCI_20260514203418_59aa71\n--------",
+  "signed_text": "[PARTNER CHECK-IN EVENT]\r\nPartner ID: love-of-ganesha\r\nContributor Name: The Love of Ganesha - Noot\r\nCheck-in Date: 2026-05-14\r\nMethod: In Person\r\nStock Status: Unknown\r\nRestock Needed: Maybe\r\nNext Check-in Date: 2026-04-15\r\nNotes: The staff mentioned to pop back in again tomorrow because she’s not here today\r\nUpdate ID: PCI_20260514203418_59aa71\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: nVxp0VV8iKPH4DstNKAax9uapcQSJH4CT7nFL0WX4Vc5RBYsvolslIUbNqZ080jwGkJc/yfu5+Mf289mjtgrR58PyZGCLTkP+vRH9NSybc3Og36ifRUex78fW7bLnwzg02eKnV6c6b1lWsTNNvXdCQPgLeA0ZBgMjAEA7Tr3HBv45g/gMsm8SYthi78ch8vh2sWO/W2F4ug9ghMagsefMMpyGCzd3Bbe4aFQUAg8R5mwj50az9lGavO4nIwlHgybcVFaBoTnQT5WS9FQdQePI284nuktl5qIG7LVW8mU3o+QeEVpXX6Pe4g5rL0+NAo59Mfsrfz8H9xw2CzDDF/z/Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/partner_check_in.html?partner_id=love-of-ganesha\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
