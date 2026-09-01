@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVOICE CONTRIBUTION]",
+  "telegram_message_id": "Edgar_20250915193210_062",
+  "telegram_update_id": "Edgar_20250915193210_061",
+  "submitted_at": "2025-09-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7sz7tBcUEC4LfRPivNdypQE+KaSmgB8sdbkD55+0Jj+Xq2NcJ/YQhb4hF+fvowAvltcP68XbaI9vfecWGO6oIhF6ExB7/5JMH5sePKQ8R1YMEk0dn03wLiZQJTX5KTCibpCz/2qSWPEFZAXInzPbJa5zgkMd/O2S3FQ5K9ST9kscctAgKOGXxhHH3JE+uzbrCFE0o+VYuHz7vTnfKkow45ZXhZAhYSHJ4S2VeKUeuzMmFke8n54tOS36gNAW8d8uQ0jbPtLFyKr0YzUk5IX8tShQO3dzJ8woqB3shdaLZndyIPjJuWUN2AlLpzUnS9JaxIOceXN990w7kcSacFLS6wIDAQAB",
+  "signature": "R3u/zzEgqT09vgcDUrDua3+Yg9LmED/lQ2OqMFxoydCxvq1pn4f10/9BQIBlrOgRd3A6MroJXoMC+/0o5ga40+FThUlVols3Q7BUqSsB35ZAWhcVSgBHkB9Kn1iODv2Hy5ZtmvXcfvoQiply7nffbiUp0dHZWEMFU4SDndSIaqwih/8YzMOj7Os3/5WP5DgdpvbyJCs/s5h0DS25QKCdHJ3yF7OECYDWT/qyHJhN9DKxNNjNPkVp2xz2+ZzeFkt277WJXcfs3i4NRxEATgLQiaXectKD9K7geM4aJR2AQiESi9CXc4aV79DnKl1McrgnXhalTiug2qu8qE3fU2+rkg==",
+  "signed_payload": "[INVOICE CONTRIBUTION]\ndomain: https://truesightdao.github.io\ndate: 9/15/2025\nemployee: Hansmartin Heierling\nemployee id: 51573\ntotal items: 1\ntotal amount: $560.00\nsubtotal: $518.04\ntax: $41.96\n\nitems:\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"8050032072713\") - Qty: 1 - $560.00\n\nThis invoice represents a sales transaction contribution to the TrueSight DAO ecosystem.\n--------",
+  "signed_text": "[INVOICE CONTRIBUTION]\ndomain: https://truesightdao.github.io\ndate: 9/15/2025\nemployee: Hansmartin Heierling\nemployee id: 51573\ntotal items: 1\ntotal amount: $560.00\nsubtotal: $518.04\ntax: $41.96\n\nitems:\n- MACH 1 HV 105 W TD 25.0 (ID: 16309059, UPC: \"8050032072713\") - Qty: 1 - $560.00\n\nThis invoice represents a sales transaction contribution to the TrueSight DAO ecosystem.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7sz7tBcUEC4LfRPivNdypQE+KaSmgB8sdbkD55+0Jj+Xq2NcJ/YQhb4hF+fvowAvltcP68XbaI9vfecWGO6oIhF6ExB7/5JMH5sePKQ8R1YMEk0dn03wLiZQJTX5KTCibpCz/2qSWPEFZAXInzPbJa5zgkMd/O2S3FQ5K9ST9kscctAgKOGXxhHH3JE+uzbrCFE0o+VYuHz7vTnfKkow45ZXhZAhYSHJ4S2VeKUeuzMmFke8n54tOS36gNAW8d8uQ0jbPtLFyKr0YzUk5IX8tShQO3dzJ8woqB3shdaLZndyIPjJuWUN2AlLpzUnS9JaxIOceXN990w7kcSacFLS6wIDAQAB\n\nRequest Transaction ID: R3u/zzEgqT09vgcDUrDua3+Yg9LmED/lQ2OqMFxoydCxvq1pn4f10/9BQIBlrOgRd3A6MroJXoMC+/0o5ga40+FThUlVols3Q7BUqSsB35ZAWhcVSgBHkB9Kn1iODv2Hy5ZtmvXcfvoQiply7nffbiUp0dHZWEMFU4SDndSIaqwih/8YzMOj7Os3/5WP5DgdpvbyJCs/s5h0DS25QKCdHJ3yF7OECYDWT/qyHJhN9DKxNNjNPkVp2xz2+ZzeFkt277WJXcfs3i4NRxEATgLQiaXectKD9K7geM4aJR2AQiESi9CXc4aV79DnKl1McrgnXhalTiug2qu8qE3fU2+rkg==",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
