@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260713185927_026",
+  "telegram_update_id": "Edgar_20260713185927_025",
+  "submitted_at": "2026-07-13",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB",
+  "signature": "eofQRtliwkb2HiLy4t6G06JSyBVgyKCVmqlol/+vOI4VWKBtigSQuDEAyW9M7RzcIuSp6NV+fcYeIpldPhGFelM5qjwLUblSfr1Hz7dVvDygTqNXOnZ7ergc3hOvmzjCbVpyQ8JPWnQj9eZdngnKQJ5ryYrN5c+A6qWWUlfd+Wq1a0CGiBRnbp3/6abuHkyEoPqngkoRWbPxcKePZ3oLK7oeHQ5A+NOThVLOVrQhRePbKf7a9Mva0KCR92WIB4itThWUgGovb6QMcqtvnhe7Cr4vBkYt1P2IcHrsINZhLSICc/W5RUqR9bs4imjCA3YsDEY8qZULg8hlgZV8wCIYRg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Reviewed Operating Agreement draft, coordinated with Brenoo (counsel), instructed final PDF generation and upload\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Reviewed Operating Agreement draft, coordinated with Brenoo (counsel), instructed final PDF generation and upload\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: eofQRtliwkb2HiLy4t6G06JSyBVgyKCVmqlol/+vOI4VWKBtigSQuDEAyW9M7RzcIuSp6NV+fcYeIpldPhGFelM5qjwLUblSfr1Hz7dVvDygTqNXOnZ7ergc3hOvmzjCbVpyQ8JPWnQj9eZdngnKQJ5ryYrN5c+A6qWWUlfd+Wq1a0CGiBRnbp3/6abuHkyEoPqngkoRWbPxcKePZ3oLK7oeHQ5A+NOThVLOVrQhRePbKf7a9Mva0KCR92WIB4itThWUgGovb6QMcqtvnhe7Cr4vBkYt1P2IcHrsINZhLSICc/W5RUqR9bs4imjCA3YsDEY8qZULg8hlgZV8wCIYRg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
