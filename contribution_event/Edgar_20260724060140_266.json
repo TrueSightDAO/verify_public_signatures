@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260724060140_266",
+  "telegram_update_id": "Edgar_20260724060140_265",
+  "submitted_at": "2026-07-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB",
+  "signature": "Gmid2rYKa5gUlbWBWQ1AZ5AW0WbW5hVrG3lf4uX23yLy41sBdSY8dXfFvS2aDOYs1fdYGc5DwbBNwmTs0UdTd/frc7RefSB+bxbJgSUfWZkSDLtrKe9ylQj27e0PvuEs54dllb0/5vj7zAQyYtbAohFv+N5oI584xnk8ptnSPjfCfW1BkPA/qVAmEtRbMP20gDO2loyqrm5rP9QTNHXQvwtax2E19G3ASBUCz2INpjTJ7Lyt4L0Xy9brUm3xdisK1vLr7JX8ecdnyMV47IkLD6gD/XdPTh+oNSSfEaGpoPSRLAmwXnHyHk3vBfQJ/g0VRvO93yt9uSDd7NNcqQ6zew==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Contributor(s): Sophia Truesight\n- Description: Deep research on cacao medical benefits + TCM integration, compiled into structured doc (PR #712), generated Chinese-font PDF for Dr. Ye/Liz's cousin/Chaoshan group, opened PR #285 for Chinese font support in PDF tool\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Contributor(s): Sophia Truesight\n- Description: Deep research on cacao medical benefits + TCM integration, compiled into structured doc (PR #712), generated Chinese-font PDF for Dr. Ye/Liz's cousin/Chaoshan group, opened PR #285 for Chinese font support in PDF tool\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Gmid2rYKa5gUlbWBWQ1AZ5AW0WbW5hVrG3lf4uX23yLy41sBdSY8dXfFvS2aDOYs1fdYGc5DwbBNwmTs0UdTd/frc7RefSB+bxbJgSUfWZkSDLtrKe9ylQj27e0PvuEs54dllb0/5vj7zAQyYtbAohFv+N5oI584xnk8ptnSPjfCfW1BkPA/qVAmEtRbMP20gDO2loyqrm5rP9QTNHXQvwtax2E19G3ASBUCz2INpjTJ7Lyt4L0Xy9brUm3xdisK1vLr7JX8ecdnyMV47IkLD6gD/XdPTh+oNSSfEaGpoPSRLAmwXnHyHk3vBfQJ/g0VRvO93yt9uSDd7NNcqQ6zew==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
