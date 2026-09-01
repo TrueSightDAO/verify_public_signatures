@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20260123015409_020",
+  "telegram_update_id": "Edgar_20260123015409_019",
+  "submitted_at": "2026-01-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+  "signature": "vHTRYpVcQao+tV4G8Q/9OKSc7MU5Jb/nd2g6pDFM+ctRvXFI16MpK1d3xra42cXK3mJhqV9SDRms4WL1aj0XRoaoBMWdW6ARGReHePfrTdCmQyYiMFBS9S48mhEAMOJ4/ncfH54rH1U3gtJesgmP7+cTcyMC0tMtOgjpNIWfbjNPe8XJPjvp1nH0Yx9Bm0ixFRDLmLs4t3GK1O6wR2xRWQr3M/WZKUcPzpzSFzYNITmj4EEQI0+hfVDxt/CcHRUv58d9DsADgYCwytfH1podP3EuN5hwjZyRMkZ35UYM5Q9HXrcsri/gkHgQFp+z2aDYgUlT30tvos97cewiAOiIyg==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Jenifer Runnion\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 17\n- Latitude: NA\n- Longitude: NA\n- Attached Filename: IMG_6738.PNG\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260123015403_gary_teh_img_6738.png\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\r\n- Manager Name: Jenifer Runnion\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] USD\r\n- Quantity: 17\r\n- Latitude: NA\r\n- Longitude: NA\r\n- Attached Filename: IMG_6738.PNG\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260123015403_gary_teh_img_6738.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: vHTRYpVcQao+tV4G8Q/9OKSc7MU5Jb/nd2g6pDFM+ctRvXFI16MpK1d3xra42cXK3mJhqV9SDRms4WL1aj0XRoaoBMWdW6ARGReHePfrTdCmQyYiMFBS9S48mhEAMOJ4/ncfH54rH1U3gtJesgmP7+cTcyMC0tMtOgjpNIWfbjNPe8XJPjvp1nH0Yx9Bm0ixFRDLmLs4t3GK1O6wR2xRWQr3M/WZKUcPzpzSFzYNITmj4EEQI0+hfVDxt/CcHRUv58d9DsADgYCwytfH1podP3EuN5hwjZyRMkZ35UYM5Q9HXrcsri/gkHgQFp+z2aDYgUlT30tvos97cewiAOiIyg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
