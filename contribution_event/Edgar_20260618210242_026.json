@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260618210242_026",
+  "telegram_update_id": "Edgar_20260618210242_025",
+  "submitted_at": "2026-06-18",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB",
+  "signature": "dPYEgHKMMiyUWA3AXFfa6bmYXBGn6fqfDfHp2lh2FIU0Rf+PC8U5B9oz4ULZcRls1cD/4HCCpo+msu1xWLGREzV3X8mYu5wAKoxU9TpgikhVOCm5GkyBIWufqNH26YvqqpTawo+gwPH0Snq9Ho4MnhUghXCxhxhjqtN4Fxsw3Ki60Xmu9dNN8gFdc3GhAB+dRbuyaKGTFZiGst9kgHrjhX3tg+GpsZsV5rr30XsxyH7rcXmxECFIy6ZziQuvS1XRDwU2+LHLv9+vYj3dHgWIHtRxW4o0LavOxDnTENaqd1ok9DblyLVK4GYxfCtN1tt6bqiJBVPF5DeljgLvrVxYFg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: append_to_transcript.py fails with AttributeError: 'Namespace' object has no attribute 'chat_id' at \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/257\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: append_to_transcript.py fails with AttributeError: 'Namespace' object has no attribute 'chat_id' at \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/257\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: dPYEgHKMMiyUWA3AXFfa6bmYXBGn6fqfDfHp2lh2FIU0Rf+PC8U5B9oz4ULZcRls1cD/4HCCpo+msu1xWLGREzV3X8mYu5wAKoxU9TpgikhVOCm5GkyBIWufqNH26YvqqpTawo+gwPH0Snq9Ho4MnhUghXCxhxhjqtN4Fxsw3Ki60Xmu9dNN8gFdc3GhAB+dRbuyaKGTFZiGst9kgHrjhX3tg+GpsZsV5rr30XsxyH7rcXmxECFIy6ZziQuvS1XRDwU2+LHLv9+vYj3dHgWIHtRxW4o0LavOxDnTENaqd1ok9DblyLVK4GYxfCtN1tt6bqiJBVPF5DeljgLvrVxYFg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
