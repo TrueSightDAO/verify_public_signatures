@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "6822",
+  "telegram_update_id": "469027529",
+  "submitted_at": "2025-07-24",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "Xnk++a4J3e10FqSIox/yKkKJHEaLOnthimb802kZnpV2aJFOOsMT+n/iBhGfWPF15PNljXE3dfhdrwUOvWEYujlpXHxqrlFowmqARmQ49ilHiVxKUSvhjyZ0jgSJDLLOEZZe26r7Cy5HxgqlE3bhU0d2K5cnhb4S4jRBHXE09p3QygiV0zv912CsT47EYycuAqC9X/KniGZIPx0aOF4/srgOKo9KfwwqBMJMUy2nA8kF2p/xxkc++kgmNMI9Xo+ZwRHzsxyTo46GuI4wrdb6aSjThgE5m3fx2cgDEBF7+nR6We8aIMWWymx4sgm9MhIzXsUB0fa3y0dEfaaSd3p7uA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Streamlined the UX for this DApp module https://dapp.truesight.me/report_contribution.html such that by just choosing time, user can both input hours and minutes contributed\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Streamlined the UX for this DApp module https://dapp.truesight.me/report_contribution.html such that by just choosing time, user can both input hours and minutes contributed\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: Xnk++a4J3e10FqSIox/yKkKJHEaLOnthimb802kZnpV2aJFOOsMT+n/iBhGfWPF15PNljXE3dfhdrwUOvWEYujlpXHxqrlFowmqARmQ49ilHiVxKUSvhjyZ0jgSJDLLOEZZe26r7Cy5HxgqlE3bhU0d2K5cnhb4S4jRBHXE09p3QygiV0zv912CsT47EYycuAqC9X/KniGZIPx0aOF4/srgOKo9KfwwqBMJMUy2nA8kF2p/xxkc++kgmNMI9Xo+ZwRHzsxyTo46GuI4wrdb6aSjThgE5m3fx2cgDEBF7+nR6We8aIMWWymx4sgm9MhIzXsUB0fa3y0dEfaaSd3p7uA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1753392436607\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
