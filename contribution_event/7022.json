@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "7022",
+  "telegram_update_id": "469027659",
+  "submitted_at": "2025-08-02",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+  "signature": "i2jxI2bpvK+xvFSHuyiZmnUY6wWQXgqAm7JcmrSd73nQFMwkOnh2vEfG2HyNKDweSC18wpgIYUW4uiqqzD6VSe8ByYB80UJhsJekYQTK1t2YYYqMVDdzILZSflhHrBdXddYFBSDN5QzFUc6i9PESWAb1bnZlFHDOsA5FOZeRh4rnK8eHm4M05jK1sjKVQRAi2d+fEDYMsxorirDMXHJaY/O6DUWmflKSYY0Du1EC3VusLxy3XhV8WLqoGrpKJ0nPzAFw//sY7LZA0ChAtGHch6GeS6psdm1aPi0KIyikFqxGd70iVBl8UC/qpIvEyYyHwrmJWwsMT80CI0boI8R5vA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Update the following codebase to support cost of tree and tree planting time capture https://github.com/TrueSightDAO/tokenomics/pull/89 https://github.com/TrueSightDAO/dapp/pull/55\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Update the following codebase to support cost of tree and tree planting time capture https://github.com/TrueSightDAO/tokenomics/pull/89 https://github.com/TrueSightDAO/dapp/pull/55\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: None\n- Destination Contribution File Location: No file attached\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB\n\nRequest Transaction ID: i2jxI2bpvK+xvFSHuyiZmnUY6wWQXgqAm7JcmrSd73nQFMwkOnh2vEfG2HyNKDweSC18wpgIYUW4uiqqzD6VSe8ByYB80UJhsJekYQTK1t2YYYqMVDdzILZSflhHrBdXddYFBSDN5QzFUc6i9PESWAb1bnZlFHDOsA5FOZeRh4rnK8eHm4M05jK1sjKVQRAi2d+fEDYMsxorirDMXHJaY/O6DUWmflKSYY0Du1EC3VusLxy3XhV8WLqoGrpKJ0nPzAFw//sY7LZA0ChAtGHch6GeS6psdm1aPi0KIyikFqxGd70iVBl8UC/qpIvEyYyHwrmJWwsMT80CI0boI8R5vA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1754103334585\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
