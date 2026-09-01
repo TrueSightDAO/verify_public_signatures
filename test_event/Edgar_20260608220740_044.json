@@ -1,0 +1,14 @@
+{
+  "event_type": "[TEST EVENT]",
+  "telegram_message_id": "Edgar_20260608220740_044",
+  "telegram_update_id": "Edgar_20260608220740_043",
+  "submitted_at": "2026-06-08",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvzaBHATunKFWHeoKY5NVFwI0kemmvr89lxY4OwjUWrZ9MEF7Oh90hC9GBVmV7gvzlBqDyKj7/YCxL+OgceEnfL6krst+c1tq/DB3oIWcswZUytiO79KgKwlmq69r/YmP2DySinb/Fy204+VipEUnm+S2PVEdJwhCl/ohDLuQ1JsB0CZ8tQjIBgBLbtYNLVCcMcNoplIQwH5fFb5CKlEHSL2HIi7RGDcm2p0BqxZgNVOFSaU4yJzRjtazCcW7joGfU1q9FXOjnkdUflimHuOuOMz19uUUwwpKrvDggI7J0TrstKpuU48i4SxKka7yIljVUQ2xz8x6p25dWCYsxRYwiQIDAQAB",
+  "signature": "MyqkkBHUmZqvdptPziWnbHt9xakUjn3/VrZr+sB4RcN/TM9fqambuDiErJqfsIDMixV3nUhWt/vfXKf9/Me+NCtd6EhoyXaapBAMirW9dHa+D1wMzwe7nGA6K9d6Qd6JSX7Cgw53287qbvrJqf7S7vrjwVJJ5qSDV2gV1hXh9DvesKys//esRl8+A0LWWUXG4Lnaxgt2vdhHExhbYOvKjCS3xBkCh7/H0TxN+NERIpyzdV8T2o468gjdJZutMEhfrfCdvP5sMwKe+8MH4hKvHkMKjO/uuQ/aTNWvf/n9OZIciUGkRXOo6auaRELuYxvCVOHxBAiM7FD2dQd5UqQkzw==",
+  "signed_payload": "[TEST EVENT]\n- Timestamp: 2026-06-08T22:07:40.181Z\n- Key: value\n- Source: dao-client-v1.1.0-rc.1-integration-test\n--------",
+  "signed_text": "[TEST EVENT]\r\n- Timestamp: 2026-06-08T22:07:40.181Z\r\n- Key: value\r\n- Source: dao-client-v1.1.0-rc.1-integration-test\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvzaBHATunKFWHeoKY5NVFwI0kemmvr89lxY4OwjUWrZ9MEF7Oh90hC9GBVmV7gvzlBqDyKj7/YCxL+OgceEnfL6krst+c1tq/DB3oIWcswZUytiO79KgKwlmq69r/YmP2DySinb/Fy204+VipEUnm+S2PVEdJwhCl/ohDLuQ1JsB0CZ8tQjIBgBLbtYNLVCcMcNoplIQwH5fFb5CKlEHSL2HIi7RGDcm2p0BqxZgNVOFSaU4yJzRjtazCcW7joGfU1q9FXOjnkdUflimHuOuOMz19uUUwwpKrvDggI7J0TrstKpuU48i4SxKka7yIljVUQ2xz8x6p25dWCYsxRYwiQIDAQAB\r\n\r\nRequest Transaction ID: MyqkkBHUmZqvdptPziWnbHt9xakUjn3/VrZr+sB4RcN/TM9fqambuDiErJqfsIDMixV3nUhWt/vfXKf9/Me+NCtd6EhoyXaapBAMirW9dHa+D1wMzwe7nGA6K9d6Qd6JSX7Cgw53287qbvrJqf7S7vrjwVJJ5qSDV2gV1hXh9DvesKys//esRl8+A0LWWUXG4Lnaxgt2vdhHExhbYOvKjCS3xBkCh7/H0TxN+NERIpyzdV8T2o468gjdJZutMEhfrfCdvP5sMwKe+8MH4hKvHkMKjO/uuQ/aTNWvf/n9OZIciUGkRXOo6auaRELuYxvCVOHxBAiM7FD2dQd5UqQkzw==\r\n\r\nThis submission was generated using file:///tmp/dao-client-test/test2.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
