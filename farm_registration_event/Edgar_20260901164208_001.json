@@ -1,0 +1,14 @@
+{
+  "event_type": "[FARM REGISTRATION EVENT]",
+  "telegram_message_id": "Edgar_20260901164208_001",
+  "telegram_update_id": "Edgar_20260901164208_002",
+  "submitted_at": "2026-09-01",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "RKozJ6DOt/cYLzuOYx+9oKf6+lO0+1/rz3w3NIKZX4MunVPFUG8gAOBCaPzDg5YoaZOrimm8rhzJ6TXar006xL8EZR8orfa420v2ba9nJ1mmuWCdS6Ch7caPo+1nqQcd3ABwMyQWM9+MdPKTits0eEZiWQ0HCjj71ur2tBx4Fw5MXMsuIfq7QkJpdeZ4JGQkh3MhClzZOqnzaG6LZkGykaFi89SfR/AdIMYC36pnypbpGK1Ra10K6LN7sp9c/ScXrs6i9dJHf0lk9P3O27o26VYsroa4fAnGjJDeDoM4aQitOAFdDpqI54PrtMc+l4wP4Mg70A1D9M3gyjJYS+pStg==",
+  "signed_payload": "[FARM REGISTRATION EVENT]\n- Farm Name: UAT-FARM-20260901\n- Location: UAT test location — Amazon, Para (test data, not a real farm)\n- Owner: Sophia Truesight (UAT)\n- Acreage: 1 (test)\n--------",
+  "signed_text": "[FARM REGISTRATION EVENT]\n- Farm Name: UAT-FARM-20260901\n- Location: UAT test location — Amazon, Para (test data, not a real farm)\n- Owner: Sophia Truesight (UAT)\n- Acreage: 1 (test)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: RKozJ6DOt/cYLzuOYx+9oKf6+lO0+1/rz3w3NIKZX4MunVPFUG8gAOBCaPzDg5YoaZOrimm8rhzJ6TXar006xL8EZR8orfa420v2ba9nJ1mmuWCdS6Ch7caPo+1nqQcd3ABwMyQWM9+MdPKTits0eEZiWQ0HCjj71ur2tBx4Fw5MXMsuIfq7QkJpdeZ4JGQkh3MhClzZOqnzaG6LZkGykaFi89SfR/AdIMYC36pnypbpGK1Ra10K6LN7sp9c/ScXrs6i9dJHf0lk9P3O27o26VYsroa4fAnGjJDeDoM4aQitOAFdDpqI54PrtMc+l4wP4Mg70A1D9M3gyjJYS+pStg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
