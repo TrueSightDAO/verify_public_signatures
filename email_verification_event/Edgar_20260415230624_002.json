@@ -1,0 +1,14 @@
+{
+  "event_type": "[EMAIL VERIFICATION EVENT]",
+  "telegram_message_id": "Edgar_20260415230624_002",
+  "telegram_update_id": "Edgar_20260415230624_001",
+  "submitted_at": "2026-04-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwxY7fxi4b5fQVNK21do16A1ve6dixUTkYruX4NuyeqOPHnAMet/xiea/D0ucq7PPRsIhZIdHmYXCDcui0dtA3f5eN9w3rGfC2LbEGheMJSCsjaRL+FMWG8BBqpVnR2VT2b23VpShnu51EXG3O/FzCVVq1iZDBOC/u4y1SluuMUkLQhZ66/sJRlnNQlNqHIfMEEI62IRbWHTaQrugxhvxPUEFCZH4JzSK33pebJiOSRpOj1OgWvuBpUdRsQEri+7yv8o96nIuYXp2tsv7AWIj8NQNZIEnqlo8hj04Nv2/eZAn6kCF8ir+QKivapNOtDB4B1D54am2vILsMxB0CUWa8QIDAQAB",
+  "signature": "HNPc1SfXXSTI6+Z+L2QNGXWN8tedMBs33EDhbP5+MTPy2ZMqf2wsvGVBVWPQTHKytXMRwtyPqxU9sUjyY+MKvM00gYtnJTbY3iSr9y0Tnr/OiH1E+J8IxOEeDXMiWWHl24ycMPL1R5vYYv1DR5uxVQYaOD16avaHpc4KiuQV1H57u7aUSbHhoREMQx8bevhUfmL07H20GBXME7PRNZFdXZQAT8BOlEmJA6w8ar7PFYcvgFzAQk+LZEwboWM8SmUzf7z7dcuXNt0zqlNb3FpZ8txXkuEHBbZSSmjRDHBjoHqaIGsGoMNqHw16/2hPCKXr5q7AKwFv1dS8w/kXg78Gpw==",
+  "signed_payload": "[EMAIL VERIFICATION EVENT]\n- Verification Key: 7M-njebKXE3YGom6tjKvSjplTayl3k4fLmvymCPIyPs\n--------",
+  "signed_text": "[EMAIL VERIFICATION EVENT]\r\n- Verification Key: 7M-njebKXE3YGom6tjKvSjplTayl3k4fLmvymCPIyPs\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwxY7fxi4b5fQVNK21do16A1ve6dixUTkYruX4NuyeqOPHnAMet/xiea/D0ucq7PPRsIhZIdHmYXCDcui0dtA3f5eN9w3rGfC2LbEGheMJSCsjaRL+FMWG8BBqpVnR2VT2b23VpShnu51EXG3O/FzCVVq1iZDBOC/u4y1SluuMUkLQhZ66/sJRlnNQlNqHIfMEEI62IRbWHTaQrugxhvxPUEFCZH4JzSK33pebJiOSRpOj1OgWvuBpUdRsQEri+7yv8o96nIuYXp2tsv7AWIj8NQNZIEnqlo8hj04Nv2/eZAn6kCF8ir+QKivapNOtDB4B1D54am2vILsMxB0CUWa8QIDAQAB\r\n\r\nRequest Transaction ID: HNPc1SfXXSTI6+Z+L2QNGXWN8tedMBs33EDhbP5+MTPy2ZMqf2wsvGVBVWPQTHKytXMRwtyPqxU9sUjyY+MKvM00gYtnJTbY3iSr9y0Tnr/OiH1E+J8IxOEeDXMiWWHl24ycMPL1R5vYYv1DR5uxVQYaOD16avaHpc4KiuQV1H57u7aUSbHhoREMQx8bevhUfmL07H20GBXME7PRNZFdXZQAT8BOlEmJA6w8ar7PFYcvgFzAQk+LZEwboWM8SmUzf7z7dcuXNt0zqlNb3FpZ8txXkuEHBbZSSmjRDHBjoHqaIGsGoMNqHw16/2hPCKXr5q7AKwFv1dS8w/kXg78Gpw==\r\n\r\nThis submission was generated using http://127.0.0.1:8001/create_signature.html?local_edgar=1&em=garyjob%40gmail.com&vk=7M-njebKXE3YGom6tjKvSjplTayl3k4fLmvymCPIyPs\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
