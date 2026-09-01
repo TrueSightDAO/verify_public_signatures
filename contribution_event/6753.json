@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "6753",
+  "telegram_update_id": "469027480",
+  "submitted_at": "2025-07-23",
+  "contributor_name": "garyjob",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+  "signature": "dfQZ8hg4yPYMiIs+EizQX1qYJ8eJ1nvZnJhfb1N4BoOlNGpkhgCDkEhv+MFGBJcD/3UoAVe2wizENUdX++4Ay4lO32n6XK9zkdix6R7CPNIOxc4SMotOsUHqFp2LhYjIeutbab39A1mtqF9aIs3OI/Aek9ZrvjD3PkNE4wjT1n6+EnkG3y3ldc8onQaDIVv6YxGmtp3jtw7/arxBwUXxg5Gh3mARDAVdDjNZVugTexusH529hT8BKKXme/WZgInEsdIWPyOv1tVeTRAbNyd8rUkXLs6BVzWQ7PIniAlxeReWWEVvYC/04kamEUIWyPgU/BqRrvDocntWni9Djnvo6w==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time\n- Amount: 2\n- Description: I spent 2 hours brewing the cacao today, driving over to the ecstatic dance gathering in Eugene Oregon and then sharing it with the community \n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: IMG_9588.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250723062511_gary_teh_img_9588.jpeg\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time\n- Amount: 2\n- Description: I spent 2 hours brewing the cacao today, driving over to the ecstatic dance gathering in Eugene Oregon and then sharing it with the community \n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: IMG_9588.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250723062511_gary_teh_img_9588.jpeg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: dfQZ8hg4yPYMiIs+EizQX1qYJ8eJ1nvZnJhfb1N4BoOlNGpkhgCDkEhv+MFGBJcD/3UoAVe2wizENUdX++4Ay4lO32n6XK9zkdix6R7CPNIOxc4SMotOsUHqFp2LhYjIeutbab39A1mtqF9aIs3OI/Aek9ZrvjD3PkNE4wjT1n6+EnkG3y3ldc8onQaDIVv6YxGmtp3jtw7/arxBwUXxg5Gh3mARDAVdDjNZVugTexusH529hT8BKKXme/WZgInEsdIWPyOv1tVeTRAbNyd8rUkXLs6BVzWQ7PIniAlxeReWWEVvYC/04kamEUIWyPgU/BqRrvDocntWni9Djnvo6w==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html?timestamp=1753251727062\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
