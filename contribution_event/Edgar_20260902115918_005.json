@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260902115918_005",
+  "telegram_update_id": "Edgar_20260902115918_006",
+  "submitted_at": "2026-09-02",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "signature": "pmQTxBJEf8cxfuo64F5LBVvU0Sh3QSmHwtp75MDv/dOE1aZLoXXxghaQlxljbASbDyI4spIN5niLyh9e4PuvUfr/cr7cgyCbTHlJz80e3CktZ/Hvy2y8veDpuH2QAvJcfgd75tR1H2GDht/L57tE2bWHrwIQWdtJ5YNpSTCF5yWfPLkWvx9mi/JMmbojmyoP8cdKKE1pitYZx2PS0t2f1SK5jZtDQkuB/uUlUBISXjk5Il22n+2Rr2EFsu4xeE9uPEFifLpSItb3WoNJ4hYFzrpe+/MVwHOw+nuuixMAxmbSZcATQ+LnNvxYOOQygEakBcs1lZr6vszKKYwXdUwmTg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: Supervised Sophia's SunMint plot-invalidation follow-on to completion: verified 3 PRs against git ground truth (not self-report), diagnosed two real deploy gaps (stale dao_protocol code, silent dispatch failure), constructed+signed+submitted the real UAT test event, relayed governor decisions. Estimate, not stopwatched.\n- Contributor(s): Claude Anthropic\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: Supervised Sophia's SunMint plot-invalidation follow-on to completion: verified 3 PRs against git ground truth (not self-report), diagnosed two real deploy gaps (stale dao_protocol code, silent dispatch failure), constructed+signed+submitted the real UAT test event, relayed governor decisions. Estimate, not stopwatched.\n- Contributor(s): Claude Anthropic\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: pmQTxBJEf8cxfuo64F5LBVvU0Sh3QSmHwtp75MDv/dOE1aZLoXXxghaQlxljbASbDyI4spIN5niLyh9e4PuvUfr/cr7cgyCbTHlJz80e3CktZ/Hvy2y8veDpuH2QAvJcfgd75tR1H2GDht/L57tE2bWHrwIQWdtJ5YNpSTCF5yWfPLkWvx9mi/JMmbojmyoP8cdKKE1pitYZx2PS0t2f1SK5jZtDQkuB/uUlUBISXjk5Il22n+2Rr2EFsu4xeE9uPEFifLpSItb3WoNJ4hYFzrpe+/MVwHOw+nuuixMAxmbSZcATQ+LnNvxYOOQygEakBcs1lZr6vszKKYwXdUwmTg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
