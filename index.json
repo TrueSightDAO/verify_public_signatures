@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-02T18:30:08Z",
-  "total_count": 3996,
+  "generated_at": "2026-09-02T20:00:10Z",
+  "total_count": 3997,
   "test_events_count": 138,
   "excluded_pii_count": 1652,
   "other_signed_count": 5,
@@ -20,7 +20,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2195,
+      "count": 2196,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "credentialing_attestation_event": {
