@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260902115915_003",
+  "telegram_update_id": "Edgar_20260902115915_004",
+  "submitted_at": "2026-09-02",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "signature": "vBmbOKAXUk+urlnf7hV3re4yMSNi8heSvCmLByhK4DJg6swx99sWkMbV7NYn403S3dTcZ4KKfpsJdVlsoA2DfXVaghbojUpYIxtAo3uWwARy3XmsRPdeVAtkszXjhkhW2XtCDjg+SERhLGz1e3T2F9htgOOK9k8z5ZVsbCoqQn/EqBofW3WzcMRsrx/AK5Vb+RjWrZnFv0/FBFYn3fTwqDjsE1sNnR19BmTNGxE/gls7Nx6yQxnlThmioOMDYweZsBhplmcXPfFWEcrucdlmr8QJN1K1tcMuvXEfFGF1RS36dAt4uhVju3bfQpcr/YGkcZYThRp4G09wFRNoRKF01A==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Description: SunMint plot-invalidation pipeline: GAS handler (PR #456), dao_protocol dispatch routing (PR #154), governor-allowlist auto-derive (PR #457), dao_protocol host config/restart, deploy-gap fix, sunmint-beta frontend affordance (PR #72). Estimate, not stopwatched.\n- Contributor(s): Sophia Truesight\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Description: SunMint plot-invalidation pipeline: GAS handler (PR #456), dao_protocol dispatch routing (PR #154), governor-allowlist auto-derive (PR #457), dao_protocol host config/restart, deploy-gap fix, sunmint-beta frontend affordance (PR #72). Estimate, not stopwatched.\n- Contributor(s): Sophia Truesight\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: vBmbOKAXUk+urlnf7hV3re4yMSNi8heSvCmLByhK4DJg6swx99sWkMbV7NYn403S3dTcZ4KKfpsJdVlsoA2DfXVaghbojUpYIxtAo3uWwARy3XmsRPdeVAtkszXjhkhW2XtCDjg+SERhLGz1e3T2F9htgOOK9k8z5ZVsbCoqQn/EqBofW3WzcMRsrx/AK5Vb+RjWrZnFv0/FBFYn3fTwqDjsE1sNnR19BmTNGxE/gls7Nx6yQxnlThmioOMDYweZsBhplmcXPfFWEcrucdlmr8QJN1K1tcMuvXEfFGF1RS36dAt4uhVju3bfQpcr/YGkcZYThRp4G09wFRNoRKF01A==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
