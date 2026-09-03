@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-03T09:00:08Z",
+  "generated_at": "2026-09-03T10:00:07Z",
   "event_type": "[TREE PLANTING REJECT EVENT]",
-  "count": 41,
+  "count": 47,
   "events": {
     "Edgar_20260830022857_102": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260830022857_102.json",
@@ -249,6 +249,42 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260831022935_050.json",
       "event_type": "[TREE PLANTING REJECT EVENT]",
       "submitted_at": "2026-08-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091437_025": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091437_025.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091501_027": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091501_027.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091541_029": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091541_029.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091546_031": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091546_031.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091551_033": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091551_033.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260903091558_035": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260903091558_035.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03",
       "contributor_name": "Edgar"
     }
   }
