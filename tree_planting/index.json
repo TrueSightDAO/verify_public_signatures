@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-03T07:30:10Z",
+  "generated_at": "2026-09-03T08:48:54Z",
   "event_type": "[TREE PLANTING EVENT]",
-  "count": 28,
+  "count": 38,
   "events": {
     "171": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/171.json",
@@ -169,6 +169,66 @@
     },
     "Edgar_20260903072613_077": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903072613_077.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083411_001": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083411_001.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083523_003": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083523_003.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083528_005": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083528_005.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083532_007": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083532_007.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083536_009": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083536_009.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083540_011": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083540_011.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083544_013": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083544_013.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083548_015": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083548_015.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083551_017": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083551_017.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-03",
+      "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260903083555_019": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260903083555_019.json",
       "event_type": "[TREE PLANTING EVENT]",
       "submitted_at": "2026-09-03",
       "contributor_name": "Sophia Truesight"
