@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20260903083532_007",
-  "telegram_update_id": "Edgar_20260903083532_007",
-  "submitted_at": "2026-09-03T08:35:33Z",
+  "telegram_update_id": "Edgar_20260903083532_008",
+  "submitted_at": "2026-09-03",
   "contributor_name": "Sophia Truesight",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n-----END PUBLIC KEY-----",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
   "signature": "HJzxgxgVOP1iCMAZCJeno/fMooVx54Ywt7VIU6alFpIQfkYT1wFVSVzwkWN3FVIBJt5DgMSTfn0hhIxLH46jaox74V0DCiA/WQMAx01sprynnhIKWyScfm29Z7l6cHNhCBHnTY5322PQmsAKibrJdHHm+hzlJB7ZKYWD5UajalvRcluO5krdGEOksWkkGPiIDA2eLn+Jh+QOF0/AuwbbURr3AOREZULMQRHLOT6K3VLGU8qeTVbdd0IFsHH+e+4xF9iFgbRnZFh4vKwMNNKdndu2HR5fAHTPeioTUw2AN0Sy8tU+LuHYff69NF92UTppaSNuqe4+JjKFGWCU0gLiUQ==",
   "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: -3.094581\n- Location: -3.094581, -52.094964\n- Longitude: -52.094964\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260902_bomsucesso_tree04.jpg\n- Planter: Gary Teh\n- Planting Time: 2026-09-02T18:57:04-03:00\n- Species: Cacau - Hybrid\n- Submission Source: autopilot-sophia\n- Tree Count: 1\n--------",
   "signed_text": "[TREE PLANTING EVENT]\n- Latitude: -3.094581\n- Location: -3.094581, -52.094964\n- Longitude: -52.094964\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260902_bomsucesso_tree04.jpg\n- Planter: Gary Teh\n- Planting Time: 2026-09-02T18:57:04-03:00\n- Species: Cacau - Hybrid\n- Submission Source: autopilot-sophia\n- Tree Count: 1\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: HJzxgxgVOP1iCMAZCJeno/fMooVx54Ywt7VIU6alFpIQfkYT1wFVSVzwkWN3FVIBJt5DgMSTfn0hhIxLH46jaox74V0DCiA/WQMAx01sprynnhIKWyScfm29Z7l6cHNhCBHnTY5322PQmsAKibrJdHHm+hzlJB7ZKYWD5UajalvRcluO5krdGEOksWkkGPiIDA2eLn+Jh+QOF0/AuwbbURr3AOREZULMQRHLOT6K3VLGU8qeTVbdd0IFsHH+e+4xF9iFgbRnZFh4vKwMNNKdndu2HR5fAHTPeioTUw2AN0Sy8tU+LuHYff69NF92UTppaSNuqe4+JjKFGWCU0gLiUQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
