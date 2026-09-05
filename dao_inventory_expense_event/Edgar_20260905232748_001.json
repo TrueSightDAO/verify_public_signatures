@@ -1,0 +1,14 @@
+{
+  "event_type": "[DAO Inventory Expense Event]",
+  "telegram_message_id": "Edgar_20260905232748_001",
+  "telegram_update_id": "Edgar_20260905232748_002",
+  "submitted_at": "2026-09-05",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
+  "signature": "LqkwFrRalk7DB2R1wO8zVN4YOXidCRJQxSSSNvgKADh1QtrEB5RAj32OgGp27LZYl40aJEhNeRSWluU/t1icbtJQFOfjcEY0b1uSg5+IWC4+WbR1dxEWX61r/3fu9UoHdIwlntTZo8l1xYwPLFJeY1C91aMchT6jIUu8WhlfU8CKktZKjoe2MbKFRG6OwCkuBFSUXKFHcq/tnQYev80lioGB8/fUbzlaZ/X654jsp5iXpn6hsJfQj6bkFyJUs4PNkL9/6a9ZVrkUdFKDTRKyPN397KXdwtP8FRH1VP+OVG/ECSMyPe3Z5UaFNcEhs1CrbbbNqfNAsifDLZXLrQp6jQ==",
+  "signed_payload": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Target Ledger: AGL16\n- Inventory Type: Fuel top-up (combustível) – Posto Maverick\n- Inventory Quantity: 458.88\n- Attached Filename: e01a3eaf71114953b679af97eb565a81.jpg\n- Currency: Brazilian Reis\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/e01a3eaf71114953b679af97eb565a81.jpg\n--------",
+  "signed_text": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Target Ledger: AGL16\n- Inventory Type: Fuel top-up (combustível) – Posto Maverick\n- Inventory Quantity: 458.88\n- Attached Filename: e01a3eaf71114953b679af97eb565a81.jpg\n- Currency: Brazilian Reis\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/e01a3eaf71114953b679af97eb565a81.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: LqkwFrRalk7DB2R1wO8zVN4YOXidCRJQxSSSNvgKADh1QtrEB5RAj32OgGp27LZYl40aJEhNeRSWluU/t1icbtJQFOfjcEY0b1uSg5+IWC4+WbR1dxEWX61r/3fu9UoHdIwlntTZo8l1xYwPLFJeY1C91aMchT6jIUu8WhlfU8CKktZKjoe2MbKFRG6OwCkuBFSUXKFHcq/tnQYev80lioGB8/fUbzlaZ/X654jsp5iXpn6hsJfQj6bkFyJUs4PNkL9/6a9ZVrkUdFKDTRKyPN397KXdwtP8FRH1VP+OVG/ECSMyPe3Z5UaFNcEhs1CrbbbNqfNAsifDLZXLrQp6jQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
