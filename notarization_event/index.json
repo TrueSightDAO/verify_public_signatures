@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-05T21:00:14Z",
+  "generated_at": "2026-09-05T22:00:07Z",
   "event_type": "[NOTARIZATION EVENT]",
-  "count": 37,
+  "count": 38,
   "events": {
     "6505": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/6505.json",
@@ -225,6 +225,12 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20260831201409_007.json",
       "event_type": "[NOTARIZATION EVENT]",
       "submitted_at": "2026-08-31",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260905212151_085": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20260905212151_085.json",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05",
       "contributor_name": "Edgar"
     }
   }
