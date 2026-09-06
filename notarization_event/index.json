@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-05T23:00:08Z",
+  "generated_at": "2026-09-06T00:00:09Z",
   "event_type": "[NOTARIZATION EVENT]",
-  "count": 38,
+  "count": 40,
   "events": {
     "6505": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/6505.json",
@@ -229,6 +229,18 @@
     },
     "Edgar_20260905212151_085": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20260905212151_085.json",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260905230010_093": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20260905230010_093.json",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260905231404_095": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20260905231404_095.json",
       "event_type": "[NOTARIZATION EVENT]",
       "submitted_at": "2026-09-05",
       "contributor_name": "Edgar"
