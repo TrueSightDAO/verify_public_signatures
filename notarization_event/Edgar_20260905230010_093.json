@@ -1,0 +1,14 @@
+{
+  "event_type": "[NOTARIZATION EVENT]",
+  "telegram_message_id": "Edgar_20260905230010_093",
+  "telegram_update_id": "Edgar_20260905230010_094",
+  "submitted_at": "2026-09-05",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "iQiIKHlqA9tXn9mNgwtIAeDupnZYxaWkbZr8371zd1OL5Dz9xGySlWLpQsc5DYuC7mVBcOUceGv9Gxzdznac7FOh2rEv5BfKNWgETmi2T3EhiqBOpxt0AK88xV7WXKaEKlG51CMVI0E0DYFAJgJBb2l5ugYxXkeP/GHaCPPndpqVz27sRq/9W4qwSo09++bAQfA+1nHayjsVoFzjUT3Zj2oVUNNGTZeTwPKA35axF/HVHk106+8/PRusaF1tHIumXnYuQibKXNucg2IEKdTIABMPoLZYGuP+dPwXmJlVStFxZQYOCdYEs2UlCDLLZqbXYJVHkaXrLoGQSxIZks1NOw==",
+  "signed_payload": "[NOTARIZATION EVENT]\n- Document Hash: 2e735ec1dce87943edbaf45dccbe0c656d64b2bcd1378b7c072c1bad7868b32c\n- Description: CEPOTX supplier site visit 2026-09-03 — Fazenda Santa Rosa (site code U-06-06, COPOPS member cooperative, Uruará/PA): FSVP site-visit record prepared for TrueTech Inc (Importer of Record, EIN 88-3411514), signed by Zhiwen Teh (President)\n- Witnesses: Gary Teh (President, TrueTech Inc)\n--------",
+  "signed_text": "[NOTARIZATION EVENT]\n- Document Hash: 2e735ec1dce87943edbaf45dccbe0c656d64b2bcd1378b7c072c1bad7868b32c\n- Description: CEPOTX supplier site visit 2026-09-03 — Fazenda Santa Rosa (site code U-06-06, COPOPS member cooperative, Uruará/PA): FSVP site-visit record prepared for TrueTech Inc (Importer of Record, EIN 88-3411514), signed by Zhiwen Teh (President)\n- Witnesses: Gary Teh (President, TrueTech Inc)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: iQiIKHlqA9tXn9mNgwtIAeDupnZYxaWkbZr8371zd1OL5Dz9xGySlWLpQsc5DYuC7mVBcOUceGv9Gxzdznac7FOh2rEv5BfKNWgETmi2T3EhiqBOpxt0AK88xV7WXKaEKlG51CMVI0E0DYFAJgJBb2l5ugYxXkeP/GHaCPPndpqVz27sRq/9W4qwSo09++bAQfA+1nHayjsVoFzjUT3Zj2oVUNNGTZeTwPKA35axF/HVHk106+8/PRusaF1tHIumXnYuQibKXNucg2IEKdTIABMPoLZYGuP+dPwXmJlVStFxZQYOCdYEs2UlCDLLZqbXYJVHkaXrLoGQSxIZks1NOw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
