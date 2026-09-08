@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20260908011138_169",
-  "telegram_update_id": "Edgar_20260908011138_169",
-  "submitted_at": "2026-09-08T01:11:39Z",
+  "telegram_update_id": "Edgar_20260908011138_170",
+  "submitted_at": "2026-09-08",
   "contributor_name": "Sophia Truesight",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n-----END PUBLIC KEY-----",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
   "signature": "koa7ECFdWk3H272cQDDAfN1rurUkKxMBcVmGWMSzPHiaBWCxDMQdyitN/K9VVOw+1vqAm1myd4Yg/fJuSWduOnswLe/RC+rgGA5vMBTF7k+r2HN1Kpbr6SW7uvZD5iDtJlkUi0WDwT+YtUZUK6wQ9S9Zf5m+MmqqGvnKRzI5VAtfPED8UILLHJBGNAHCxlIvxGI/TzP2+UdSe5Eveka24gbL7Ff1CMGu3kbWhmYc60cEnQkTPn444pMwLFKSy14umGYR39M2lWnqa1htJ/FZBR3Itb09B6LibIzWd1pnjPi0jgD2EZebh/k7XS6TMT672xRposaiBOewR9VHvyIOew==",
   "signed_payload": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: -3.3898389, -51.8509861\n- Latitude: -3.3898389\n- Longitude: -51.8509861\n- Species: Cacau - Hybrid\n- Planter: Paulo (CEPOTX)\n- Planting Time: 2026-09-07T12:00:00-03:00\n- Submission Source: autopilot-sophia\n--------",
   "signed_text": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: -3.3898389, -51.8509861\n- Latitude: -3.3898389\n- Longitude: -51.8509861\n- Species: Cacau - Hybrid\n- Planter: Paulo (CEPOTX)\n- Planting Time: 2026-09-07T12:00:00-03:00\n- Submission Source: autopilot-sophia\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: koa7ECFdWk3H272cQDDAfN1rurUkKxMBcVmGWMSzPHiaBWCxDMQdyitN/K9VVOw+1vqAm1myd4Yg/fJuSWduOnswLe/RC+rgGA5vMBTF7k+r2HN1Kpbr6SW7uvZD5iDtJlkUi0WDwT+YtUZUK6wQ9S9Zf5m+MmqqGvnKRzI5VAtfPED8UILLHJBGNAHCxlIvxGI/TzP2+UdSe5Eveka24gbL7Ff1CMGu3kbWhmYc60cEnQkTPn444pMwLFKSy14umGYR39M2lWnqa1htJ/FZBR3Itb09B6LibIzWd1pnjPi0jgD2EZebh/k7XS6TMT672xRposaiBOewR9VHvyIOew==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
