@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-08T12:30:08Z",
+  "generated_at": "2026-09-08T13:30:08Z",
   "event_type": "[DAO Inventory Expense Event]",
-  "count": 203,
+  "count": 204,
   "events": {
     "6596": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/6596.json",
@@ -1221,6 +1221,12 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20260906012253_009.json",
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-09-06",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260908125702_253": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20260908125702_253.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-08",
       "contributor_name": "Edgar"
     }
   }
