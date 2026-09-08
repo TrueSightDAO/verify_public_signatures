@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "Edgar_20260908005943_051",
+  "telegram_update_id": "Edgar_20260908005943_052",
+  "submitted_at": "2026-09-08",
+  "contributor_name": "Sophia Truesight",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "oGIjBmCL2HIxG1ah+gkLgiu4Eo0TuJy8MKBcCOEURkUudOyjCdrNvKsFhR3uZt7CX7iNFk/84FATnOQKKDtJ0NKin1YBJOUmNjM+Dehv+BUJ9rqdKbUicEXMutCX/m+P5y8cc7ybtMSnYvhqZHrNGlQfLGmY9QHW/7MiM9JdDzTlKLXlQnMz3qJW3nXwhXXgc4CZOmIide5OKoT3z5B+Ama3u2pjnuvg0xskyyT3Yjs8GlvrtDoGEhSTr7T7MItILBXNWOzk7T57r+YjhPrL0cXeyR83F+sjbs5pN/mCZgz+sbsGf8CcDF6KHQ/sCwkt9HV3uf2m7sUcMUxdxOzcXA==",
+  "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: -3.3882278\n- Location: -3.3882278, -51.8517528\n- Longitude: -51.8517528\n- Planter: Paulo (CEPOTX)\n- Planting Time: 2026-09-07T14:34:11-03:00\n- Species: Cacau - Hybrid\n- Submission Source: autopilot-sophia\n- Tree Count: 1\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\n- Latitude: -3.3882278\n- Location: -3.3882278, -51.8517528\n- Longitude: -51.8517528\n- Planter: Paulo (CEPOTX)\n- Planting Time: 2026-09-07T14:34:11-03:00\n- Species: Cacau - Hybrid\n- Submission Source: autopilot-sophia\n- Tree Count: 1\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: oGIjBmCL2HIxG1ah+gkLgiu4Eo0TuJy8MKBcCOEURkUudOyjCdrNvKsFhR3uZt7CX7iNFk/84FATnOQKKDtJ0NKin1YBJOUmNjM+Dehv+BUJ9rqdKbUicEXMutCX/m+P5y8cc7ybtMSnYvhqZHrNGlQfLGmY9QHW/7MiM9JdDzTlKLXlQnMz3qJW3nXwhXXgc4CZOmIide5OKoT3z5B+Ama3u2pjnuvg0xskyyT3Yjs8GlvrtDoGEhSTr7T7MItILBXNWOzk7T57r+YjhPrL0cXeyR83F+sjbs5pN/mCZgz+sbsGf8CcDF6KHQ/sCwkt9HV3uf2m7sUcMUxdxOzcXA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "SunMint Tree Planting",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
