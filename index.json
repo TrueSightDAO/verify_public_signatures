@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-09T08:30:08Z",
-  "total_count": 4191,
+  "generated_at": "2026-09-09T09:30:08Z",
+  "total_count": 4192,
   "test_events_count": 138,
   "excluded_pii_count": 1658,
   "other_signed_count": 5,
@@ -32,7 +32,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/index.json"
     },
     "dao_inventory_expense_event": {
-      "count": 205,
+      "count": 206,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
     },
     "donation_mint_event": {
