@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "Edgar_20260910213152_397",
+  "telegram_update_id": "Edgar_20260910213152_397",
+  "submitted_at": "2026-09-10T21:31:52Z",
+  "contributor_name": "Sophia Truesight",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n-----END PUBLIC KEY-----",
+  "signature": "ZaS28Okx5nrZ2dIIvMppH/6P4InC9hqR6nC57QMxSMa7RLqaQolmcx1f8itX8H5LxyVLKaATLGy4j8OllMTodt8x6CJ3sEL751miRfzbHRGj/fQe+wNd/alP4438A7j5/KrRlu01cIzQ/0E/6gjWlppjhvrWzVow9lJwnWYlXuPIs9TLAJGYrjFUaxtZEPrTQty5vm/10SNiHs8/zgDaNq48aKq0p6I0sFkY2pvCLUhkfD9Z1YpnY83saxKVxL6VA0+svTBF5kCznJLLJa+T8gl5+ifwgbEHHwOUAE8I3VmIEItURHnY3C5q6qJo679JWPEjTqdEB/IjZEuA0QkKlA==",
+  "signed_payload": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: \"-3.557206, -51.103547\"\n- Latitude: -3.557206\n- Longitude: -51.103547\n- Plot ID: CR-PA-P2\n- Species: Cacau - Hybrid\n- Planting Time: 2026-09-09T12:02:56-03:00\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260909120256_0297dd5c.jpg\n- Submission Source: autopilot-sophia\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: \"-3.557206, -51.103547\"\n- Latitude: -3.557206\n- Longitude: -51.103547\n- Plot ID: CR-PA-P2\n- Species: Cacau - Hybrid\n- Planting Time: 2026-09-09T12:02:56-03:00\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260909120256_0297dd5c.jpg\n- Submission Source: autopilot-sophia\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: ZaS28Okx5nrZ2dIIvMppH/6P4InC9hqR6nC57QMxSMa7RLqaQolmcx1f8itX8H5LxyVLKaATLGy4j8OllMTodt8x6CJ3sEL751miRfzbHRGj/fQe+wNd/alP4438A7j5/KrRlu01cIzQ/0E/6gjWlppjhvrWzVow9lJwnWYlXuPIs9TLAJGYrjFUaxtZEPrTQty5vm/10SNiHs8/zgDaNq48aKq0p6I0sFkY2pvCLUhkfD9Z1YpnY83saxKVxL6VA0+svTBF5kCznJLLJa+T8gl5+ifwgbEHHwOUAE8I3VmIEItURHnY3C5q6qJo679JWPEjTqdEB/IjZEuA0QkKlA==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
