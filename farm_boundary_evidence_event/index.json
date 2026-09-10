@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-10T03:30:11Z",
+  "generated_at": "2026-09-10T04:30:09Z",
   "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
-  "count": 16,
+  "count": 17,
   "events": {
     "Edgar_20260901104419_001": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/Edgar_20260901104419_001.json",
@@ -97,6 +97,12 @@
     },
     "Edgar_20260910031042_313": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/Edgar_20260910031042_313.json",
+      "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
+      "submitted_at": "2026-09-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260910035642_323": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/Edgar_20260910035642_323.json",
       "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
       "submitted_at": "2026-09-10",
       "contributor_name": "Edgar"
