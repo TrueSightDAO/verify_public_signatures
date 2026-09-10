@@ -1,11 +1,11 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-10T16:30:09Z",
-  "total_count": 4217,
+  "generated_at": "2026-09-10T17:30:15Z",
+  "total_count": 4223,
   "test_events_count": 138,
   "excluded_pii_count": 1662,
-  "other_signed_count": 5,
+  "other_signed_count": 6,
   "event_types": {
     "asset_receipt_event": {
       "count": 13,
@@ -20,7 +20,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2251,
+      "count": 2253,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "credentialing_attestation_event": {
@@ -32,7 +32,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/index.json"
     },
     "dao_inventory_expense_event": {
-      "count": 213,
+      "count": 214,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
     },
     "donation_mint_event": {
@@ -68,11 +68,11 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization/index.json"
     },
     "notarization_event": {
-      "count": 42,
+      "count": 43,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/index.json"
     },
     "other_signed_events": {
-      "count": 5,
+      "count": 6,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/other_signed_events/index.json"
     },
     "partner_check_in_event": {
@@ -128,7 +128,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/index.json"
     },
     "tree_planting": {
-      "count": 141,
+      "count": 142,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/index.json"
     },
     "tree_planting_link": {
