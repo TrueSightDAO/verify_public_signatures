@@ -1,0 +1,14 @@
+{
+  "event_type": "[FARM BOUNDARY EVIDENCE EVENT]",
+  "telegram_message_id": "Edgar_20260910031019_311",
+  "telegram_update_id": "Edgar_20260910031019_312",
+  "submitted_at": "2026-09-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwrKjSzyKXrV1KDeKliMijyMdvHU3J3ndZTTrgEgzhhdJCCJIEjM7/Er9TzqcF2KxNrgnJMGRTraT1cEWJ+SwtqiRrcE9Q+RfLXc8U+yNhKuIF8Vyn+/dQOi7fWZrarWTGrdZ24/gvTEk4yZjIyZ+fP8byggjVAjKcEBhUyKrW7UIS4xAWAuLSelC2qSV45xA7F3KNMygphRnvYOHM9Jos/9hUSrjIB4pOFJiqtEVMqqyjFSsIlNzTCYjAYdJAYvMZGRLbSejgCSFPVeP3s6z3qJNQH0A0uTDK2BgxYJQKyFYx91lrKRKZRMik6nICpHv1urvofe5WbyPuO4xri0R3wIDAQAB",
+  "signature": "d30dhVWOffpvA1LeWWxhc+YEZGAbbMXeRvNRnpE711upqXJcZHgsvp3xLGKszZ8dgzHbTISBhzqLNMGfbpVUyJUt6bcrEcliOhXQk/bn/XugjSFIVpyMm8vtNP/rxXmi7D6jYpsl/M5a8rGjiQovFPvFLmBNzEalrrfZvMqO313/Izm5MNONHmX6dsI6t8+M7NJ2lCb9Ake6l3VDZcF/1GZ020qodK33tcbEsRf3JYNnm8Eg4FWPuTgCgRucg4BSFjqqvOFwv4C9eftPoVIa/CDhIEPiJUuFJwl6aNzssyETn/PlV6qqkQStIsMv3V3wMGX07qt1BPv5ZWrtep4PTA==",
+  "signed_payload": "[FARM BOUNDARY EVIDENCE EVENT]\n- Farm Name: ZZ_TEST_SOPHIA_PLOTTYPE_E2E\n- Plot Type: maturing\n- Is New Farm: yes\n- Media URLs: test.png\n- Media Count: 1\n- Captured At: 2026-09-10T03:10:18.957Z\n- Device GPS: {\"lat\":-3.2,\"lng\":-52.2}\n- Submission Source: sunmint-limites-da-fazenda\n--------",
+  "signed_text": "[FARM BOUNDARY EVIDENCE EVENT]\r\n- Farm Name: ZZ_TEST_SOPHIA_PLOTTYPE_E2E\r\n- Plot Type: maturing\r\n- Is New Farm: yes\r\n- Media URLs: test.png\r\n- Media Count: 1\r\n- Captured At: 2026-09-10T03:10:18.957Z\r\n- Device GPS: {\"lat\":-3.2,\"lng\":-52.2}\r\n- Submission Source: sunmint-limites-da-fazenda\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwrKjSzyKXrV1KDeKliMijyMdvHU3J3ndZTTrgEgzhhdJCCJIEjM7/Er9TzqcF2KxNrgnJMGRTraT1cEWJ+SwtqiRrcE9Q+RfLXc8U+yNhKuIF8Vyn+/dQOi7fWZrarWTGrdZ24/gvTEk4yZjIyZ+fP8byggjVAjKcEBhUyKrW7UIS4xAWAuLSelC2qSV45xA7F3KNMygphRnvYOHM9Jos/9hUSrjIB4pOFJiqtEVMqqyjFSsIlNzTCYjAYdJAYvMZGRLbSejgCSFPVeP3s6z3qJNQH0A0uTDK2BgxYJQKyFYx91lrKRKZRMik6nICpHv1urvofe5WbyPuO4xri0R3wIDAQAB\r\n\r\nRequest Transaction ID: d30dhVWOffpvA1LeWWxhc+YEZGAbbMXeRvNRnpE711upqXJcZHgsvp3xLGKszZ8dgzHbTISBhzqLNMGfbpVUyJUt6bcrEcliOhXQk/bn/XugjSFIVpyMm8vtNP/rxXmi7D6jYpsl/M5a8rGjiQovFPvFLmBNzEalrrfZvMqO313/Izm5MNONHmX6dsI6t8+M7NJ2lCb9Ake6l3VDZcF/1GZ020qodK33tcbEsRf3JYNnm8Eg4FWPuTgCgRucg4BSFjqqvOFwv4C9eftPoVIa/CDhIEPiJUuFJwl6aNzssyETn/PlV6qqkQStIsMv3V3wMGX07qt1BPv5ZWrtep4PTA==\r\n\r\nThis submission was generated using https://beta.sunmint.truesight.me/limites-da-fazenda/index.html?cb=1789009816501\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
