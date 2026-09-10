@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-10T01:00:08Z",
+  "generated_at": "2026-09-10T05:00:07Z",
   "event_type": "[TREE PLANTING REJECT EVENT]",
-  "count": 48,
+  "count": 50,
   "events": {
     "Edgar_20260830022857_102": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260830022857_102.json",
@@ -289,6 +289,18 @@
     },
     "Edgar_20260910000140_309": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260910000140_309.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260910033437_319": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260910033437_319.json",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260910034314_321": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/Edgar_20260910034314_321.json",
       "event_type": "[TREE PLANTING REJECT EVENT]",
       "submitted_at": "2026-09-10",
       "contributor_name": "Edgar"
