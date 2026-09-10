@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-10T09:30:08Z",
-  "total_count": 4209,
+  "generated_at": "2026-09-10T10:30:09Z",
+  "total_count": 4210,
   "test_events_count": 138,
-  "excluded_pii_count": 1660,
+  "excluded_pii_count": 1662,
   "other_signed_count": 5,
   "event_types": {
     "asset_receipt_event": {
@@ -44,7 +44,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/email_verification_event/index.json"
     },
     "farm_boundary_evidence_event": {
-      "count": 17,
+      "count": 18,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_boundary_evidence_event/index.json"
     },
     "farm_registration": {
