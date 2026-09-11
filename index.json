@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-11T19:30:07Z",
-  "total_count": 4270,
+  "generated_at": "2026-09-11T20:30:07Z",
+  "total_count": 4271,
   "test_events_count": 138,
   "excluded_pii_count": 1662,
   "other_signed_count": 8,
@@ -80,7 +80,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/index.json"
     },
     "practice_event": {
-      "count": 183,
+      "count": 184,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
