@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20260910213155_399",
-  "telegram_update_id": "Edgar_20260910213155_399",
-  "submitted_at": "2026-09-10T21:31:56Z",
+  "telegram_update_id": "Edgar_20260910213155_400",
+  "submitted_at": "2026-09-10",
   "contributor_name": "Sophia Truesight",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n-----END PUBLIC KEY-----",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
   "signature": "rHyXFv/syf0SHt08Y/M3tVCzSXtd68O/vmAfInRgXWpxEUs1/CYUp9npK0RPZEG0duSuxWWoPxayhAAtgxRJx6XOLPQVvya+jWdvWn56RMxWPttoQDCFfgF5mqm/eusf7Fe0g7f0ZEQSECxXH4hJvcpQNvYuKQokfN+sVU4Td5GXkgGod4H3ff5aNVDslly4n6g6mHUztdnPvj6OTaiBiykNmDoTxksRmcRfPTzDj9VxaIZzZNBFibF6LxoF5ZrdH/hfkQF8csiT+WXvU99OwZZjr4j8veT6Z/JO8U7Ux+oLqE3UJzcx+YdXRa7HcFhlM1PqL2rtAkTYC1rwo+6xSA==",
   "signed_payload": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: \"-3.5573, -51.103328\"\n- Latitude: -3.5573\n- Longitude: -51.103328\n- Plot ID: CR-PA-P2\n- Species: Cacau - Hybrid\n- Planting Time: 2026-09-09T12:03:30-03:00\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260909120330_590ed044.jpg\n- Submission Source: autopilot-sophia\n--------",
   "signed_text": "[TREE PLANTING EVENT]\n- Tree Count: 1\n- Location: \"-3.5573, -51.103328\"\n- Latitude: -3.5573\n- Longitude: -51.103328\n- Plot ID: CR-PA-P2\n- Species: Cacau - Hybrid\n- Planting Time: 2026-09-09T12:03:30-03:00\n- Photo URL: https://raw.githubusercontent.com/TrueSightDAO/sunmint/main/images/20260909120330_590ed044.jpg\n- Submission Source: autopilot-sophia\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: rHyXFv/syf0SHt08Y/M3tVCzSXtd68O/vmAfInRgXWpxEUs1/CYUp9npK0RPZEG0duSuxWWoPxayhAAtgxRJx6XOLPQVvya+jWdvWn56RMxWPttoQDCFfgF5mqm/eusf7Fe0g7f0ZEQSECxXH4hJvcpQNvYuKQokfN+sVU4Td5GXkgGod4H3ff5aNVDslly4n6g6mHUztdnPvj6OTaiBiykNmDoTxksRmcRfPTzDj9VxaIZzZNBFibF6LxoF5ZrdH/hfkQF8csiT+WXvU99OwZZjr4j8veT6Z/JO8U7Ux+oLqE3UJzcx+YdXRa7HcFhlM1PqL2rtAkTYC1rwo+6xSA==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
