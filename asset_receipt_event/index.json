@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-12T15:30:08Z",
+  "generated_at": "2026-09-12T16:30:08Z",
   "event_type": "[ASSET RECEIPT EVENT]",
-  "count": 13,
+  "count": 17,
   "events": {
     "Edgar_20260507015715_030": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260507015715_030.json",
@@ -81,6 +81,30 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260829125450_004.json",
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-08-29",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260912162125_469": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260912162125_469.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-12",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260912162135_471": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260912162135_471.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-12",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260912162254_473": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260912162254_473.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-12",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260912162407_475": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260912162407_475.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-12",
       "contributor_name": "Edgar"
     }
   }
