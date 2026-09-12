@@ -1,14 +1,14 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-12T15:30:08Z",
-  "total_count": 4272,
+  "generated_at": "2026-09-12T16:30:08Z",
+  "total_count": 4277,
   "test_events_count": 138,
   "excluded_pii_count": 1662,
   "other_signed_count": 8,
   "event_types": {
     "asset_receipt_event": {
-      "count": 13,
+      "count": 17,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/index.json"
     },
     "batch_qr_code_request": {
@@ -32,7 +32,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/index.json"
     },
     "dao_inventory_expense_event": {
-      "count": 214,
+      "count": 215,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
     },
     "donation_mint_event": {
