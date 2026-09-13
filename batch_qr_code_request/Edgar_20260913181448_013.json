@@ -1,0 +1,14 @@
+{
+  "event_type": "[BATCH QR CODE REQUEST]",
+  "telegram_message_id": "Edgar_20260913181448_013",
+  "telegram_update_id": "Edgar_20260913181448_014",
+  "submitted_at": "2026-09-13",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "beMUwMZKU/mjX5DC24JUAbTqydAa19d0I/W3LgEmgYrZnhV3J1Lb8aMA4Vqb9+Z1ujWsmlQwYAi00ruDBfCe14Fq8oQOze/FaAk6Ry+s4Uqvl7BSHK8wUlobQ7tdMCWAb2Aw7QYBbMIgqrYYyAktWP4z42h9EfZ/O77gTrt/YjTl2wm+iZvnakk8XRnjyeVGZOJQETeUuu2YnF/d/Ob1Ip8Ux17lZADs1kY6o0HQpQUcledFcnXxbdQscBSnBqEuItp+biiq9MVgS4m1YmcJZbc058uaEUOy6urUvbK5em4XUxe+r0WNBqj7SNKvu9wNEXXVWag+aNXAlESrVn2ndA==",
+  "signed_payload": "[BATCH QR CODE REQUEST]\n- Currency: TEST QR Currency 2026-09-13\n- Quantity: 1\n--------",
+  "signed_text": "[BATCH QR CODE REQUEST]\n- Currency: TEST QR Currency 2026-09-13\n- Quantity: 1\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: beMUwMZKU/mjX5DC24JUAbTqydAa19d0I/W3LgEmgYrZnhV3J1Lb8aMA4Vqb9+Z1ujWsmlQwYAi00ruDBfCe14Fq8oQOze/FaAk6Ry+s4Uqvl7BSHK8wUlobQ7tdMCWAb2Aw7QYBbMIgqrYYyAktWP4z42h9EfZ/O77gTrt/YjTl2wm+iZvnakk8XRnjyeVGZOJQETeUuu2YnF/d/Ob1Ip8Ux17lZADs1kY6o0HQpQUcledFcnXxbdQscBSnBqEuItp+biiq9MVgS4m1YmcJZbc058uaEUOy6urUvbK5em4XUxe+r0WNBqj7SNKvu9wNEXXVWag+aNXAlESrVn2ndA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
