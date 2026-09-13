@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-13T16:30:09Z",
+  "generated_at": "2026-09-13T18:30:10Z",
   "event_type": "[BATCH QR CODE REQUEST]",
-  "count": 12,
+  "count": 13,
   "events": {
     "Edgar_20250901194420_126": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20250901194420_126.json",
@@ -75,6 +75,12 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260710212015_060.json",
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2026-07-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260913181448_013": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20260913181448_013.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-09-13",
       "contributor_name": "Edgar"
     }
   }
