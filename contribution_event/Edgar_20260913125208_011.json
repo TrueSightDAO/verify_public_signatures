@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260913125208_011",
+  "telegram_update_id": "Edgar_20260913125208_012",
+  "submitted_at": "2026-09-13",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "Hn1rQzyx5PIcyEiywpUyJN2hrDVvUSm53gdq1+mhzWhtPRI/y/PzA9AEOGJ6GuYr9Jw+VzGXZZNyc+qZmzxojYi8cvTBRNt6jhVOQ0GFj/ReuwpTUEz6NWDh1ViYxMdb+kHYQHi01BG1Di/RB/KX/uks0Rq+yOXz8uVD8FKqDoeh2q2wAnRpAGWST+wxSBCFdz76hZ2TY+AUE+8+YMhoT8ODVN5ZUlOX+jhRqIidyxUDHO4U7OhnK2sy+445BmCuddvmKiUOQUdDasa0Twj+3vaePHJigS4HvWPGwRYVkpLFHalDF2xOWREWlaN1EkUWDlZUzObTtPzRSifBd5wf1A==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Gary Teh direct time — Black King shipment manifest Rev-6→Rev-9 (thread 26215). Governor directions and decisions: exclude Shipments 8 & 13, widen scope beyond US to FounderHaus/Brazil + Europe, lead values in local currency (a/b), indicate currencies clearly in the generated PDF, and approve each rev (go-signals/merges).\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Gary Teh direct time — Black King shipment manifest Rev-6→Rev-9 (thread 26215). Governor directions and decisions: exclude Shipments 8 & 13, widen scope beyond US to FounderHaus/Brazil + Europe, lead values in local currency (a/b), indicate currencies clearly in the generated PDF, and approve each rev (go-signals/merges).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Hn1rQzyx5PIcyEiywpUyJN2hrDVvUSm53gdq1+mhzWhtPRI/y/PzA9AEOGJ6GuYr9Jw+VzGXZZNyc+qZmzxojYi8cvTBRNt6jhVOQ0GFj/ReuwpTUEz6NWDh1ViYxMdb+kHYQHi01BG1Di/RB/KX/uks0Rq+yOXz8uVD8FKqDoeh2q2wAnRpAGWST+wxSBCFdz76hZ2TY+AUE+8+YMhoT8ODVN5ZUlOX+jhRqIidyxUDHO4U7OhnK2sy+445BmCuddvmKiUOQUdDasa0Twj+3vaePHJigS4HvWPGwRYVkpLFHalDF2xOWREWlaN1EkUWDlZUzObTtPzRSifBd5wf1A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
