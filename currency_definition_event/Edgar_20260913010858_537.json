@@ -1,0 +1,14 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20260913010858_537",
+  "telegram_update_id": "Edgar_20260913010858_538",
+  "submitted_at": "2026-09-13",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "TA+HIg4VwCLJiAcMu7KtCUMrUGlmM822rTy8RyrMsGkn/tRY2xmL7863bqed7jnfUmEGj9R/MGF/TqpywnM8KkbhF7YyH0rzGLdppMSd8iZhgtX8fj46vBOrfKm6CvfrVlJ/2AK+lSs2hd+2s1FmXrX6hgYDirmhsBcx6HM/SDo1b89eVl4vA1otDlMuCbvDSsS9uDQJu1ZqLrK6eqkSZVrL+MUAYPJHc1fpsUwCCbfXNO5MMqrLkeqs5HizuRpAjjqBFUElM0NQCmOpLAd+d7mLYuslX+8lIF/NZfUm2GSsB1yCj7n8nv3nlrrvF8NxdKWKhWCLsbaMscsvbPfD8w==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: zz-uat-currency-test-1789261732881\n- Price in USD: 1.23\n- Serializable: TRUE\n- Product Image: https://github.com/TrueSightDAO/.github/tree/main/assets/currency_image_1789261737193_uat-e2e.png\n- Landing Page: \n- Ledger: Select a ledger\n- Farm Name: UAT Farm\n- State: Bahia\n- Country: Brazil\n- Year: 2026\n- Unit Weight (grams): 250\n- SKU Product ID: \n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\r\n- Currency: zz-uat-currency-test-1789261732881\r\n- Price in USD: 1.23\r\n- Serializable: TRUE\r\n- Product Image: https://github.com/TrueSightDAO/.github/tree/main/assets/currency_image_1789261737193_uat-e2e.png\r\n- Landing Page: \r\n- Ledger: Select a ledger\r\n- Farm Name: UAT Farm\r\n- State: Bahia\r\n- Country: Brazil\r\n- Year: 2026\r\n- Unit Weight (grams): 250\r\n- SKU Product ID: \r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\r\n\r\nRequest Transaction ID: TA+HIg4VwCLJiAcMu7KtCUMrUGlmM822rTy8RyrMsGkn/tRY2xmL7863bqed7jnfUmEGj9R/MGF/TqpywnM8KkbhF7YyH0rzGLdppMSd8iZhgtX8fj46vBOrfKm6CvfrVlJ/2AK+lSs2hd+2s1FmXrX6hgYDirmhsBcx6HM/SDo1b89eVl4vA1otDlMuCbvDSsS9uDQJu1ZqLrK6eqkSZVrL+MUAYPJHc1fpsUwCCbfXNO5MMqrLkeqs5HizuRpAjjqBFUElM0NQCmOpLAd+d7mLYuslX+8lIF/NZfUm2GSsB1yCj7n8nv3nlrrvF8NxdKWKhWCLsbaMscsvbPfD8w==\r\n\r\nThis submission was generated using https://beta.dapp.truesight.me/define_currency.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
