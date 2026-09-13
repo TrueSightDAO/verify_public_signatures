@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-13T17:30:10Z",
+  "generated_at": "2026-09-13T18:30:10Z",
   "event_type": "[CURRENCY DEFINITION EVENT]",
-  "count": 3,
+  "count": 6,
   "events": {
     "Edgar_20260913010858_537": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913010858_537.json",
@@ -19,6 +19,24 @@
     },
     "Edgar_20260913171136_001": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913171136_001.json",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260913181404_011": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913181404_011.json",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260913181535_015": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913181535_015.json",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260913181929_021": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913181929_021.json",
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-09-13",
       "contributor_name": "Edgar"
