@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260915143743_009",
+  "telegram_update_id": "Edgar_20260915143743_010",
+  "submitted_at": "2026-09-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
+  "signature": "vR/ibBi57nEWRD8/q2oM6UYT9Bfw+Bb8esiOO4vfFYBasZfH76WUrxAFrkaFDgbKGuspZ47KDZEYEV5Jf7/SdOaCZmkAT3gW9jvyzuLWBOuWFgzxVLlMj/h/liebZ1gfpJYm/3usznV5/iRDff/l6fmNwEhIM7BRI4X1S0BIPppm98Wz+i3Dag+2X1qcTx3OCUDk/BJPJnIYwWPrMwpoL8pwDVuxiHCGgvMORmYTkrDmSHxqX80jF7i1q5ErwU9DULT0Yz2Os+TAOPpD8arKr7Upr6n78slNaM9+xG1wpktThSfGNBpBO0xnTldgkYHNVUmZfLh5hIXMfF9RfRm0KQ==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Currency: Coopercabruca Cacao Butter (KG)\n- Amount: 5\n- Description: Placed in warehouse, delivered by Gary. For shipment to USA. The black box\n- Fund Handler: Matheus Reis\n- Attached Filename: IMG_0130.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1789483038240_IMG_0130.jpeg\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\r\n- Currency: Coopercabruca Cacao Butter (KG)\r\n- Amount: 5\r\n- Description: Placed in warehouse, delivered by Gary. For shipment to USA. The black box\r\n- Fund Handler: Matheus Reis\r\n- Attached Filename: IMG_0130.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1789483038240_IMG_0130.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: vR/ibBi57nEWRD8/q2oM6UYT9Bfw+Bb8esiOO4vfFYBasZfH76WUrxAFrkaFDgbKGuspZ47KDZEYEV5Jf7/SdOaCZmkAT3gW9jvyzuLWBOuWFgzxVLlMj/h/liebZ1gfpJYm/3usznV5/iRDff/l6fmNwEhIM7BRI4X1S0BIPppm98Wz+i3Dag+2X1qcTx3OCUDk/BJPJnIYwWPrMwpoL8pwDVuxiHCGgvMORmYTkrDmSHxqX80jF7i1q5ErwU9DULT0Yz2Os+TAOPpD8arKr7Upr6n78slNaM9+xG1wpktThSfGNBpBO0xnTldgkYHNVUmZfLh5hIXMfF9RfRm0KQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_asset_receipt.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
