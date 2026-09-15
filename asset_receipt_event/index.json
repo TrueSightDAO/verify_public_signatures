@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-15T14:30:13Z",
+  "generated_at": "2026-09-15T16:00:36Z",
   "event_type": "[ASSET RECEIPT EVENT]",
-  "count": 22,
+  "count": 23,
   "events": {
     "Edgar_20260507015715_030": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260507015715_030.json",
@@ -135,6 +135,12 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260914203528_025.json",
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-09-14",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260915143743_009": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260915143743_009.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-15",
       "contributor_name": "Edgar"
     }
   }
