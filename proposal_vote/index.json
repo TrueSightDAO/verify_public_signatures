@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-18T17:00:10Z",
+  "generated_at": "2026-09-18T18:00:12Z",
   "event_type": "[PROPOSAL VOTE]",
-  "count": 19,
+  "count": 22,
   "events": {
     "Edgar_20250905181725_050": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/Edgar_20250905181725_050.json",
@@ -117,6 +117,24 @@
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/Edgar_20260628192700_086.json",
       "event_type": "[PROPOSAL VOTE]",
       "submitted_at": "2026-06-28",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260918170130_007": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/Edgar_20260918170130_007.json",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-09-18",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260918170136_009": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/Edgar_20260918170136_009.json",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-09-18",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260918170147_011": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/Edgar_20260918170147_011.json",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-09-18",
       "contributor_name": "Edgar"
     }
   }
