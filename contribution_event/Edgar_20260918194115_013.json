@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20260918194115_013",
+  "telegram_update_id": "Edgar_20260918194115_014",
+  "submitted_at": "2026-09-18",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "GfG+b3QkiCxJLMWwZZYCw/ATLDwcFdFgTHf291j8dBCe45aV+GeYlCAjGA3gXewNElDU0+ArBHtGFG1jYENlbxhpnV2HNNqZ2A3ww9+jUtqsjDyIUp0ZFHVZlgLb0tgD8r6qFRx8rXm+8z2d8TA5o03Z007zdG6rbhwgr+22bU/+j/jaTZ/fKdH/W88X2a8jG5huMeznaY9yGT+vsSJUHzx7l6/vBcm/HQw9T9stjfFlin4CfXRtsup+0j1frri+lnYQ4GsJazlloFTcjdNdsqPQ1QDWOfZTL6+GbtqOy/GsbdwnQuEqVCA9bK3cSpN+WF7N1HbmHnFVFC5FuRhHpA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 86\n- Contributor(s): Envoy TrueSight\n- Description: Thread 31220 (GAS drift audit -> gas_orphan_mirror_dispositions.md -> credentials-survivability guard hardening): 86 PRODUCTIVE minutes verification/supervision on nelanco-claude across 2026-09-17..2026-09-18. Attributed per Gary's direction (book 86 for Envoy as well).\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 86\n- Contributor(s): Envoy TrueSight\n- Description: Thread 31220 (GAS drift audit -> gas_orphan_mirror_dispositions.md -> credentials-survivability guard hardening): 86 PRODUCTIVE minutes verification/supervision on nelanco-claude across 2026-09-17..2026-09-18. Attributed per Gary's direction (book 86 for Envoy as well).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: GfG+b3QkiCxJLMWwZZYCw/ATLDwcFdFgTHf291j8dBCe45aV+GeYlCAjGA3gXewNElDU0+ArBHtGFG1jYENlbxhpnV2HNNqZ2A3ww9+jUtqsjDyIUp0ZFHVZlgLb0tgD8r6qFRx8rXm+8z2d8TA5o03Z007zdG6rbhwgr+22bU/+j/jaTZ/fKdH/W88X2a8jG5huMeznaY9yGT+vsSJUHzx7l6/vBcm/HQw9T9stjfFlin4CfXRtsup+0j1frri+lnYQ4GsJazlloFTcjdNdsqPQ1QDWOfZTL6+GbtqOy/GsbdwnQuEqVCA9bK3cSpN+WF7N1HbmHnFVFC5FuRhHpA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
