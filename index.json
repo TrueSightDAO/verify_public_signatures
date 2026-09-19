@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-18T23:00:10Z",
+  "generated_at": "2026-09-19T00:00:10Z",
   "total_count": 4404,
   "test_events_count": 138,
-  "excluded_pii_count": 1671,
+  "excluded_pii_count": 1672,
   "other_signed_count": 8,
   "event_types": {
     "asset_receipt_event": {
