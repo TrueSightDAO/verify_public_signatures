@@ -1,0 +1,14 @@
+{
+  "event_type": "[ASSET RECEIPT EVENT]",
+  "telegram_message_id": "Edgar_20260921113513_067",
+  "telegram_update_id": "Edgar_20260921113513_068",
+  "submitted_at": "2026-09-21",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
+  "signature": "uo7sU9rqhe6ulbPF1ZwXCk8vhd++m4APx5m5I/HQqbf5uWabEoJsTbC6dyU69mAvyaDoTaNU/jkrlo+npES5lWNU62k8n5j4yAQEOdrUnvlI4EsHSY3tsgRL6xiT5HTZEahbgsNqDuciqBYb/6YyBUBGBzfgIgCEa/gUMbV92bqAWmGocOKDm0ET9eKmCbz7gVhpnQcPTL9rF3CaSkfrf1ftAM/wMj/KA+IMHeIztkSpmDNwFfNx5NPCP+pXnQ34iEgbm18cQURpeP2RN9ziBqZKXGsPEszrIbh4a1V1sFei5zzz+Ttjfbt08WhtqE8O7abnZjwWWPzj5TzgQlCLLA==",
+  "signed_payload": "[ASSET RECEIPT EVENT]\n- Currency: Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd\n- Amount: 10\n- Description: Received 10 chocolate molds\n- Fund Handler: Elizabeth Wong\n- Attached Filename: 8996.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1789990508332_8996.jpeg\n--------",
+  "signed_text": "[ASSET RECEIPT EVENT]\r\n- Currency: Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd\r\n- Amount: 10\r\n- Description: Received 10 chocolate molds\r\n- Fund Handler: Elizabeth Wong\r\n- Attached Filename: 8996.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/asset_receipt_1789990508332_8996.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: uo7sU9rqhe6ulbPF1ZwXCk8vhd++m4APx5m5I/HQqbf5uWabEoJsTbC6dyU69mAvyaDoTaNU/jkrlo+npES5lWNU62k8n5j4yAQEOdrUnvlI4EsHSY3tsgRL6xiT5HTZEahbgsNqDuciqBYb/6YyBUBGBzfgIgCEa/gUMbV92bqAWmGocOKDm0ET9eKmCbz7gVhpnQcPTL9rF3CaSkfrf1ftAM/wMj/KA+IMHeIztkSpmDNwFfNx5NPCP+pXnQ34iEgbm18cQURpeP2RN9ziBqZKXGsPEszrIbh4a1V1sFei5zzz+Ttjfbt08WhtqE8O7abnZjwWWPzj5TzgQlCLLA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_asset_receipt.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
