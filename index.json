@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-23T14:00:11Z",
-  "total_count": 4439,
+  "generated_at": "2026-09-23T15:00:13Z",
+  "total_count": 4443,
   "test_events_count": 138,
   "excluded_pii_count": 1676,
   "other_signed_count": 8,
@@ -20,7 +20,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2379,
+      "count": 2381,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "credentialing_attestation_event": {
@@ -40,7 +40,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/index.json"
     },
     "dao_inventory_expense_event": {
-      "count": 233,
+      "count": 234,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
     },
     "donation_mint_event": {
@@ -88,7 +88,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/index.json"
     },
     "practice_event": {
-      "count": 197,
+      "count": 198,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
