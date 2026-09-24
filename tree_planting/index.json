@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-24T11:30:11Z",
+  "generated_at": "2026-09-24T12:00:12Z",
   "event_type": "[TREE PLANTING EVENT]",
-  "count": 168,
+  "count": 172,
   "events": {
     "171": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/171.json",
@@ -1009,6 +1009,30 @@
     },
     "Edgar_20260924003104_023": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924003104_023.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-24",
+      "contributor_name": "Unknown"
+    },
+    "Edgar_20260924115448_047": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924115448_047.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-24",
+      "contributor_name": "Unknown"
+    },
+    "Edgar_20260924115503_049": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924115503_049.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-24",
+      "contributor_name": "Unknown"
+    },
+    "Edgar_20260924115509_051": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924115509_051.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-24",
+      "contributor_name": "Unknown"
+    },
+    "Edgar_20260924115515_053": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924115515_053.json",
       "event_type": "[TREE PLANTING EVENT]",
       "submitted_at": "2026-09-24",
       "contributor_name": "Unknown"
