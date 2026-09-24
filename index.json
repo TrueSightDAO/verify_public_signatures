@@ -1,8 +1,8 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-24T19:30:17Z",
-  "total_count": 4491,
+  "generated_at": "2026-09-24T20:30:11Z",
+  "total_count": 4493,
   "test_events_count": 138,
   "excluded_pii_count": 1682,
   "other_signed_count": 8,
@@ -144,7 +144,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/index.json"
     },
     "tree_planting_link": {
-      "count": 11,
+      "count": 13,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/index.json"
     },
     "tree_planting_reject": {
