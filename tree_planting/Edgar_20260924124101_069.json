@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20260924124101_069",
-  "telegram_update_id": "Edgar_20260924124101_069",
-  "submitted_at": "2026-09-24T12:41:02Z",
-  "contributor_name": "",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\n-----END PUBLIC KEY-----",
+  "telegram_update_id": "Edgar_20260924124101_070",
+  "submitted_at": "2026-09-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB",
   "signature": "d3igEoWQAtvhdQnBzV/rrpG1NPdRkkA57nbnWXti2ZbDSTPkJ1qzqQ+WV43b1eAQpaTcx6g0lV3EaT7fqnof7u3lxRnzJBhyIqzPlNUgZPUN5tBCtmpUnYB31Yi0W0C1PTh6XivAz7lqZejTXWD8ttw6uskP83RrpN68H6ZIlmABUqxtLveUN8TooWjt4Lqb58lmAbtH/sUe6mgfho1ewI4cKzwhkW7ubJfrCg7dby7taZyJV95VwNrwtVrKtaaXJwx0qwSRqoCaXq8h0QSp2IygjQrIbXAgpzG640wxVv79B3hMlc+dOcR/UXY/c92BQpn0bNVGb2CDK/z7AogMhg==",
   "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: -3.522919\n- Longitude: -51.574971\n- Species: Cacao - Criolla\n- Planting Time: 2026-09-24T12:40:57.860Z\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20260924094057_MIIBIjANBgkqhkiG9w0B.jpg\n- Submission Source: https://cfr.truesight.me/\n--------",
   "signed_text": "[TREE PLANTING EVENT]\r\n- Latitude: -3.522919\r\n- Longitude: -51.574971\r\n- Species: Cacao - Criolla\r\n- Planting Time: 2026-09-24T12:40:57.860Z\r\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20260924094057_MIIBIjANBgkqhkiG9w0B.jpg\r\n- Submission Source: https://cfr.truesight.me/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\r\n\r\nRequest Transaction ID: d3igEoWQAtvhdQnBzV/rrpG1NPdRkkA57nbnWXti2ZbDSTPkJ1qzqQ+WV43b1eAQpaTcx6g0lV3EaT7fqnof7u3lxRnzJBhyIqzPlNUgZPUN5tBCtmpUnYB31Yi0W0C1PTh6XivAz7lqZejTXWD8ttw6uskP83RrpN68H6ZIlmABUqxtLveUN8TooWjt4Lqb58lmAbtH/sUe6mgfho1ewI4cKzwhkW7ubJfrCg7dby7taZyJV95VwNrwtVrKtaaXJwx0qwSRqoCaXq8h0QSp2IygjQrIbXAgpzG640wxVv79B3hMlc+dOcR/UXY/c92BQpn0bNVGb2CDK/z7AogMhg==\r\n\r\nThis submission was generated using https://cfr.truesight.me/\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
