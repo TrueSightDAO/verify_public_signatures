@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-24T00:30:11Z",
+  "generated_at": "2026-09-24T01:30:12Z",
   "event_type": "[TREE PLANTING EVENT]",
-  "count": 167,
+  "count": 168,
   "events": {
     "171": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/171.json",
@@ -1006,6 +1006,12 @@
       "event_type": "[TREE PLANTING EVENT]",
       "submitted_at": "2026-09-10",
       "contributor_name": "Sophia Truesight"
+    },
+    "Edgar_20260924003104_023": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20260924003104_023.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-09-24",
+      "contributor_name": "Unknown"
     }
   }
 }
