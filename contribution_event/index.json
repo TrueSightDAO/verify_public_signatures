@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-25T14:30:13Z",
+  "generated_at": "2026-09-25T15:30:16Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2397,
+  "count": 2398,
   "events": {
     "6718": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/6718.json",
@@ -14383,6 +14383,12 @@
     },
     "Edgar_20260925141206_023": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260925141206_023.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-25",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260925143105_025": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260925143105_025.json",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-09-25",
       "contributor_name": "Edgar"
