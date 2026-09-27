@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[STORE ADD EVENT]",
   "count": 3,
   "events": {
@@ -22,6 +22,30 @@
       "event_type": "[STORE ADD EVENT]",
       "submitted_at": "2026-04-28",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 3,
+  "txids": {
+    "0b3127bf77d2c2c6d0f783f0225269d5dc21de37f42c287f1a8b69bf744d4dd1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/0b3127bf77d2c2c6d0f783f0225269d5dc21de37f42c287f1a8b69bf744d4dd1.json",
+      "request_transaction_id": "QKVu6iXB7gBmHWdZ5wmNHlOm2aKl+CvjfnafntPFOpaqITw3ZzQExcqMZWFUbL8d4GXw3XCkvmIztc0D2/bsqCHBrebwOYZpW0LCI5hmYDzWPCteeP2mMzTkbxO6dT+59kFJTkRt4osiJaYDLILNwZ0AZd9p+GG2eVAaOXITTRo5o+MA69VVidTtMW/VLBZNYc/7aGmhhb1PEiGJWJaLhB7kpz7Ux65Ivhc1xTKQgkAd4hX25TNQM2rbQlln22UpTCQ/JtALDGRlFPvjXijzyZJ6BszkCY/PFkYffMMw9rv7zKUH9UglEyIkyWLmjPCcqZZ9zHPEU5AUJdOwEFXqmQ==",
+      "telegram_message_id": "Edgar_20260428181127_002",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28"
+    },
+    "78e9200f0725e5563e8e959da298d1b3b99b6ec8d742e020cf371c5f34bd3f46": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/78e9200f0725e5563e8e959da298d1b3b99b6ec8d742e020cf371c5f34bd3f46.json",
+      "request_transaction_id": "Qk0uGzLYH0s9ECJnXGNBuB2shQCFNHh2J/lWqF84WP7tAZyS2hZzvE8iQTaSObQhabm9eTfgXGdKfXNN8DtDYeSDLrQipS05AUa3xITay6C0WnwDrjekGDo/jX7M4mxzEYXFgNRHUrMxH3QKw+ZOPSp8Ai62LdWscPBsT/qAM7W3yu0saL5VH4uIwo6IgEX37Q2T4kucPBNTZeBZG+v3829XVZ4btxYlwUawyn3oxkx25XFvy5ubsY9w7frccm4xbR7ydP1BFiIqgcUCKPRQRNKvuKdHy7C83XRMf3pVgfsHMgE7Z5w36zYR/9vrpnQBOhWgKJQEIOBeyUPhINlA5g==",
+      "telegram_message_id": "Edgar_20260428181538_004",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28"
+    },
+    "8acbe8db4223074ddb412c4ac42513964b5bada3193f26264a83c17d5785caae": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/8acbe8db4223074ddb412c4ac42513964b5bada3193f26264a83c17d5785caae.json",
+      "request_transaction_id": "MMZzLXi+lFT58xNmg59qdYMUbFlqN0SUJp8zQglUNmBW0QerMSkSBt8cYGAN1t0YI449cVv9f0k6gz57pzVBBbH4gXOwn3VpUXNEhQ/DgDL9vVEE+xdlZeTdJSzDVG11p8r/C2dSFwTkkk88lwb0jmLPoBF3g8pI3EFYzdgqEneDH1GBXjWZ17KYF1Mq4ydMU/07SdaY6tdMilk0SWvPTzdnrKuETMY1XxO/wjTBuCm7NcYwjWUyLWppk4cGChCUbDVaJt/SZWH6iB9cmMZhHn8JeksR7Uxdqn+mouFROQ0xc5OgzWBmgT2GIcAjFRks6ccq+jPqp2JxhS0Lp++t1g==",
+      "telegram_message_id": "Edgar_20260428181544_006",
+      "event_type": "[STORE ADD EVENT]",
+      "submitted_at": "2026-04-28"
     }
   }
 }
