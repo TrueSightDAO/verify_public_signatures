@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[QR CODE EVENT]",
   "count": 2,
   "events": {
@@ -16,6 +16,23 @@
       "event_type": "[QR CODE EVENT]",
       "submitted_at": "2025-10-12",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 2,
+  "txids": {
+    "78d6d43d215b325d4a6fc125d471916295f15d7af05429c220844ad03eb737ba": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_event/78d6d43d215b325d4a6fc125d471916295f15d7af05429c220844ad03eb737ba.json",
+      "request_transaction_id": "c+eEHa6nKdREyvYh5MEMPz5y/VK8g1OYT3/Jz+Jns9qhlxupTJXxm0ytrpmkfUogi/wXZn58mtDpujj9AtKIEGD1cfLtLmlx2HHdEx3mMvPIqPYZoj+yhxiPE+QxSpXi7VGQdVSlE1DbViGBI5mA4KJpecMz124rx4BfpH50xhp2Ks8IKTXTlVS6Ff/uTCE1f6KOMyy4GYnGiRMmlHQgvaVIXeXcQgDjd/i1yPiQdu8VJOu2wEgOLSYKnEBrekqoFV3pcyN9dhK1XcvQb1WgXpvF7C/BBrQdlWJqZD7ZB04HoivoxpjaOKU7PsUzKJP9b2zyUMpbGKzihbufQzS8Iw==",
+      "telegram_message_id": "Edgar_20251012025800_162",
+      "event_type": "[QR CODE EVENT]",
+      "submitted_at": "2025-10-12"
+    },
+    "d75791eb53f65268a994b4198b969e37a5b15ed09b709ca1d0a53b55bce3e067": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_event/d75791eb53f65268a994b4198b969e37a5b15ed09b709ca1d0a53b55bce3e067.json",
+      "request_transaction_id": "FKxp8Ona91/0is5NwCB0lGw7FhmMdBQTHLGkjgnffaYp14Y6Rig7tx8e1gNbp8y8KoVkvTx4dVGFy6HtU9XiewpKlPBWX+tjZru4vSEpD9ZLj1TzKcGucXD7V5FY+Mt7yqk7MGXZxO/RSyhmumNCN2zKy0fXaBdtQYO5kWlWCQQnc480HJFT10DYqf6i9/18p19kp2C8ETSEXN6ImAbiUgnOMpXWU5SJZ3Vxj6ilxK5zJGBXe0rKkjX2F7EjKJtI1yl/d1DoQ20mNnoz1zO93qkBTijxsyn0FfffAfAaZ9zqoNpFK7kzMTeMcsiZ42ihUvW3vUA+Qzqc2LBAX5HyXA==",
+      "telegram_message_id": "Edgar_20250812190535_130",
+      "event_type": "[QR CODE EVENT]",
+      "submitted_at": "2025-08-12"
     }
   }
 }
