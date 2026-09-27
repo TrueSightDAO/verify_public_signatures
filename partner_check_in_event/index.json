@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[PARTNER CHECK-IN EVENT]",
   "count": 5,
   "events": {
@@ -34,6 +34,44 @@
       "event_type": "[PARTNER CHECK-IN EVENT]",
       "submitted_at": "2026-05-20",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 5,
+  "txids": {
+    "05784a816dfaa531092fe323a15853ea20862a97c63449471dbd9be2f2ea6261": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/05784a816dfaa531092fe323a15853ea20862a97c63449471dbd9be2f2ea6261.json",
+      "request_transaction_id": "IKGh7ZBjyT14iN4pJXdS54UHZHT5vPb2IaJ23g83LC2X17O4YHEai0Dcrdl2ilUx6WWncZOYzi9UtF1z0wqFiXOtohnWVNul5zWzhORbRwEkJHB7GpqfIiZJKuW0MIOrkHvwTkbW8X0QhIXoG6KK99n2sU0Rt4EaJnPuhUr6L32SDTK3wXXchG0D7hax0eio7n21AONFEDBWsdHplB+m834WDGCJ9Iv1B3PmmlVj5iXlGPXABpynYZMD6usTz0xXb8X4f62AIF9YRTzeHsx2w3+AjNoKslTw+iICJiNlezTFCmd2SzA5DYLIEUTAJRtbvi/YRGMJGcPziEVDeaamGQ==",
+      "telegram_message_id": "Edgar_20260519204605_238",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-19"
+    },
+    "5572bcdaa359c898c1c4c87f9e95ede6c61428f33dc747db8df4c5fd855b333b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/5572bcdaa359c898c1c4c87f9e95ede6c61428f33dc747db8df4c5fd855b333b.json",
+      "request_transaction_id": "nVxp0VV8iKPH4DstNKAax9uapcQSJH4CT7nFL0WX4Vc5RBYsvolslIUbNqZ080jwGkJc/yfu5+Mf289mjtgrR58PyZGCLTkP+vRH9NSybc3Og36ifRUex78fW7bLnwzg02eKnV6c6b1lWsTNNvXdCQPgLeA0ZBgMjAEA7Tr3HBv45g/gMsm8SYthi78ch8vh2sWO/W2F4ug9ghMagsefMMpyGCzd3Bbe4aFQUAg8R5mwj50az9lGavO4nIwlHgybcVFaBoTnQT5WS9FQdQePI284nuktl5qIG7LVW8mU3o+QeEVpXX6Pe4g5rL0+NAo59Mfsrfz8H9xw2CzDDF/z/Q==",
+      "telegram_message_id": "Edgar_20260514203420_068",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-14"
+    },
+    "af2358817e9cd4a6cfb6946b8ce87e7669bdd701c6616fb53f2a695999a540a3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/af2358817e9cd4a6cfb6946b8ce87e7669bdd701c6616fb53f2a695999a540a3.json",
+      "request_transaction_id": "gGbi3jPaAfLm39AlWO3UGxYDuOsaOmST0Cp8novZIbwUQYcRB7Dfp43U5lLLmi4cc9IJheTEUKf45N3mCuOq+QaECDPQLo/w8Ta8CySsx8TUkTiaUAuyRmlzKfgt+LNqUX4D3N3qc/jFGi3UQvnAwPd5acdWB5OtTGxNCWgtoTVLgWlZ2Yf8S5Hd4Qe+DTxokCUFxHSTtRExBCGwz+patD7yl2RQSOLAZhrAqZM92/9yHioNv9koYpo3lYT97OXX9ZC1E7war7NnsKEFojuyl6KTKj/OtHcxRlyGkddJt355TKQo7QEbNGYniqzJH2kZoAS8zQlOZHU173OeBBMftg==",
+      "telegram_message_id": "Edgar_20260519204920_242",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-19"
+    },
+    "b4f9016d44b0878a09aefaed9e972d4944c0dfe30609c41ddc7db702957fac19": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/b4f9016d44b0878a09aefaed9e972d4944c0dfe30609c41ddc7db702957fac19.json",
+      "request_transaction_id": "fa9EGh3d/8tz04VqJ4BITH1HaBBBnRotfdFsCujJqSz/5iKYhOFfbPQSJHEITm31bu7ih2DPASZMf0JafaIQvrcb0RwjFgKB23GKOAgRYz5HFRKbLiDYwsvKDfR1lEGdZnZExrrmfbCCOO6LsZLNdohKFozTaZ5+vhyN9cQKSmNwaoJGUoOmuAcJKcp/ZDpgzczL59VVfewCBdKd3QQ49RLjzQ2d6hkrmAw3FeyjDlh3G76x8OqZCyB0G3zKnthQOTUmilKWnc+A2NXGAfpziorn3Pj3tMnG3P2/6QMPDXhwWHVIK3aCFLOQdixtU1wDB89zF4gdVULw1Nnvb6sDRw==",
+      "telegram_message_id": "Edgar_20260512181027_002",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-12"
+    },
+    "e18a9cd97923797cabf0d6e549fe1a737d9268eca439d604cabcc28ef9469792": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/e18a9cd97923797cabf0d6e549fe1a737d9268eca439d604cabcc28ef9469792.json",
+      "request_transaction_id": "cQNgbfhfwwndd0TZlwANknlrt8pgiskHUnNypiu9LyhJO9iN6YB5LLT4xMDkJ6TMIdwYy0cMK4Uo+yFHM9ijqhiV1J2TKMnTb4ZedJcIpwFir83tJ+TSRdPCjhTEY5A07KpEarX8GhZ1RRVUFJE+e6GmJ3X6FNF1MHbKiV23P28CG04KUlnf14xyR0gPvAZeR/SlKfslPUVQUuRE+qV64TLmitED7mIYyzsvyMuKLUt8jOQH4/nwqZtFNGMGxqnS+3AwmbwVp/NQTGkjy3Kl8eAPXx8221iIY3z6k9h85UByHXRksXjHkPTW9RoU3pPzWL4X/QDCf/TeWvT3GTKCKg==",
+      "telegram_message_id": "Edgar_20260520211724_272",
+      "event_type": "[PARTNER CHECK-IN EVENT]",
+      "submitted_at": "2026-05-20"
     }
   }
 }
