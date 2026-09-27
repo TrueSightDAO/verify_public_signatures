@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[DONATION MINT EVENT]",
   "count": 101,
   "events": {
@@ -610,6 +610,716 @@
       "event_type": "[DONATION MINT EVENT]",
       "submitted_at": "2026-06-15",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 101,
+  "txids": {
+    "02f37cd212e53deb681606c490201ce5df363109187ce5c79bdff4ddea372f68": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/02f37cd212e53deb681606c490201ce5df363109187ce5c79bdff4ddea372f68.json",
+      "request_transaction_id": "bCXi3O1/zlIRyIvHbsBvXvpreevYtLaJFyO8cd2uHMbTHtsaPEmzTxSm7INFQZk5/UW9nnpB/gVaSAA42Z+OXUaTOadk0V9psA1j+udWbOQsdK2He9P9bnQn6sVBoEOzI4MK6wDOrbc+AQk55HnFLTNw97z+JJ9+e783PiZBUGkXxh8IiqX3GNn5jsB/bM7S0lIU6cgL7/RIWkql01HgIme4wAW1eMYxa6oLfmD9Z9x4+/bp2AJmQ/TeKVQ836Afdkq9vaqrBynrz26ufW4rz2QkKxCx5gOb188J1yJVRfPafXOwQ7MQYR+nUinY0pu8BxVNE5jVBET3wr24BAYIaA==",
+      "telegram_message_id": "Edgar_20260602224117_156",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "03ca774a8a052738b9859d3953a0016632162a0f78467c7aedb52cd6a8625399": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/03ca774a8a052738b9859d3953a0016632162a0f78467c7aedb52cd6a8625399.json",
+      "request_transaction_id": "lDp5G4s36S0GtvLK08cdJspYPDOQNkmRpSaJTXUYbBgnyudBlh5SD+pscPRCVw+w+t1d4OZl6v4SC70CmNXBP6dyEsZCQSAjQIrQqzAhKoAcFbY/YOd9l0EOt8dEiu+sOSvZh5LmnPKS5BgSH1QYhp5yZ84fYClruPWbNrWCIZvEY2cFRYSHL71UAuckpVesKfXHvNF15kH7Yq9NpaWMMVd0CAToyuidkIb/oOS9jmGHeeLf/wsp68zA4nPmpIm2Q9hOCoAIGupG7tQt2/Dw50q7sRq3IbjYya5X/8lxe9a6QlTlk2KQrNY9wGuYz8IHeBbMRxtImQTWFh9AdKdkbQ==",
+      "telegram_message_id": "Edgar_20260602223616_066",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "04836a4c0808dd3d2c0493103dc5f2e55ecbc6a5ebcd3274826afdbc67680a4a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/04836a4c0808dd3d2c0493103dc5f2e55ecbc6a5ebcd3274826afdbc67680a4a.json",
+      "request_transaction_id": "iJZOtK6T08OK8bYoVWmt5aN1l406mnIEEvp+WN1jSK+nlE+UktToPFrNAw55HNl3MYJQqVudaisefRqIvzTk4t21o0qtiPXUM2bGvKygnXE+u+hivjp1FYKTmRlEmWYAc4WLLE7kTC4Ke2I3ZPwRoHTrRm71Hs9wDj9+MqKSl4IFx4G9OKk5QZY9W/GeB+0deXVk/9v7e90sJ8jV9xr4o0cZJLe+02TGD/TZP+IUpIk55zyMKC6NxprcisB6YIhg+wPfb/hDehqXitanSVhcf+NmX3vo5RkEG9ovR3c4OXDl6+eLVThWg9MImu/23vf8QbhzYLBIhvF3+420q7o6Wg==",
+      "telegram_message_id": "Edgar_20260602223406_020",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "06a496920413053b0d6480576e374f7dc97a8569e63bef66ed86183f15b512fd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/06a496920413053b0d6480576e374f7dc97a8569e63bef66ed86183f15b512fd.json",
+      "request_transaction_id": "Xuksx4kApwiQWVwBLpveXuSvLttgM3CcekWvvTSpQn/5J9O5w+LkHWxghRkklTL8jweOBwuFgI4rz7KhZmv9ovDQmK09sDANxU7HBq9MjWwO9H3j2T4yVc2EAFvzhUb6pY1+V84s+a5LsG+An+eDQY30ZrE6KYOaj/NV681PWKRTgOUhQ7FGUx4Ug8bb/Gy/bjgox9+WDi18/3k5cp/qk/ukActSjoGpqrhzQSUHI9ukTFbS/vWUSXaWrMDFDGrWpYdulhb6B/8pIShg/Mnp6HPA1bpf+DX4NvSTrGdO4FyXI1hofsg5iRXoLrWGdjSy3Sj2oiKBsUadqgGqk5LWXg==",
+      "telegram_message_id": "Edgar_20260602223721_082",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "094ad3692ab63d59a45c158a9c521345476059068d1cccaa66f80be2dd8a5c2a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/094ad3692ab63d59a45c158a9c521345476059068d1cccaa66f80be2dd8a5c2a.json",
+      "request_transaction_id": "kgeKtxnlRkk/2TEGrHj5w3HYSmnG+9dBJO2LWdr1RpXHWkDEgFsOMAWQvcde2Rb4ce8pRUk9nb5+ld08Dn1rp6hExCchx1xYOUmfjpb718HDS1aqCPal0iy/xyEtWsqyKRgOxaNLi+d+CoGfaAKYR1djjTx6xQR8zwETzmm0lr2jacy3mpdl+kUR6g7GaXOEl2aV+y4xLJNw9Qk2mVATFvk74mcxbuT1tvWOjagC7y6tTvrS6cV3c3Yhuo2Otf7xrZ09Ec2Wef4hZRO9Dcf3wZffYgqKS7xpJmPjKf9NgfSJosh7/h/ZvjJBH6IfN75qGO4YRkIkMNngWz/89gj2FQ==",
+      "telegram_message_id": "Edgar_20260602224145_162",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "0c3c6e61c95037191555222dc24917ea101d395e978867d5dbb1d6a12883d43d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/0c3c6e61c95037191555222dc24917ea101d395e978867d5dbb1d6a12883d43d.json",
+      "request_transaction_id": "Hnu6o+B3x+Qwsn0BHBxeOT8tzUxsDhLtfho8mxHfrEuH2eYP//Agx9gvutx3PHGwceMLnfb2wd0One25dW7iZBe1mFsyVzHZIhJ5m4Mfjfge1mbRf6NlYHRCF2VUPz5VUJV1jFFeyw42hCy8ubTJDKRpQrsUaoVjR9ih2xL2D6cWZMWry84r6iw9klcK6zlVbpyDk0nukp8xhQWdXU4UX3PmisIddKUE5OR15iusG7JFygUE3EjX8O5yasrNaskg5n7Lom57E7YuhXeolRYHNQoktSkPu2NhfQF8pSTx/mogFNVfWboGDLQVlk8PBKSsZ/3woPjYWEiubglIG73fvw==",
+      "telegram_message_id": "Edgar_20260602224138_160",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "0e700e6ab2b12403231a5ffd71d9abe51ebc2537a5066e04ebed08c9d2a8195e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/0e700e6ab2b12403231a5ffd71d9abe51ebc2537a5066e04ebed08c9d2a8195e.json",
+      "request_transaction_id": "JPYZ7kN3izjfF8wGLG5QeblaggKnYuFyo7Bzdkz4de5Aap5CmEWqKXGXbaoxUTwaloEs7Y3N1iu2AEpKTZM1xrGJ1zTobU2ki6jYL2m9BB5AgJPJh1g4pRQNClorS4v9MfKAtFYioVMGrRdDEkJfXjp4sXcxcGnv/tZ7K47vXPX1cBkiwMqO/AIzOMGUAow3+aaxALwz2BzjUJuKvkZmtwU9oSkACvyRlPj5hyU2+rUYjRbc9UwsQEpjZF/dCHUIItDHLVKpJ8XS37RhPTul+UK7qflNiKC5zi90RRikHTH32JB0AgopdzbfAoV4zN5vPYD/PqKNw4F5FVB8TzhXgg==",
+      "telegram_message_id": "Edgar_20260602224237_174",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "11970ea7bbc806bf8c86c1718a3e12a0c180e120199807ac4e9bbce5e59dc4b7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/11970ea7bbc806bf8c86c1718a3e12a0c180e120199807ac4e9bbce5e59dc4b7.json",
+      "request_transaction_id": "LGtWhfljKkRf0ZYW6Bx84UcX0rS3tmTvtCfy1MDEjX0ClyU8ZnfXkVtzhl5yq1rebnh2O+PE4uHbK02iESMef7lC+Uw5fQBwrQKyM0kVuMreHY2fzU2KbU/5p0s2LyW4D7sfFWu3t5nui5Q1wCbVU3M+4TCf2RFuFHAoOi1LIRICP+SdY4db+dpdLfzD0HggG76owrihrDmoOCsxY7SsqWq521dzba0fUGfhVXcGQoNwYxySKGbzPQDqlQiY3blNzBfJL6WVwZqgEdzkDdcGBuRQtCRMmVkJOL5V2+dTQFmUuX6EaxhkssoKmjkNRO/PFIzR0N2m8XEHEAcF9URm0g==",
+      "telegram_message_id": "Edgar_20260602223553_060",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "1245cf056f3839c37e2312fb83e7afa468f6ced12baeb05974316cdc2309c1c1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/1245cf056f3839c37e2312fb83e7afa468f6ced12baeb05974316cdc2309c1c1.json",
+      "request_transaction_id": "dVqLbfxkfIzeNgdaFWid0CqQzfE5tn4TH5M5GDrlAI75Jvuz53030JrEFthTUmuXstelUNDxZbGYPfCw0E5zjNP2p8Ee2iir+hxxdcprcoNyamjd/nwPdsz4/Dvaiz2Ax/BkaQytQlsVKkNrcfqFYG5rWxmFPlEWOTgCA18ikGfF5uJQk5R0Ox1RX28YDgRxMJD7tZGw8GuKSlNAflEzQleuT6hnlshG5IAVf03Ggqvyy1VkYlll6pIwieCgyUMm/MbkEBQZM8Qkn+TgUvfo/1XAFyPGdSOj0/naGoy770lBMsBubvLq2r1OlnJwbjKlknJI7ci0pCncED1zQTrioA==",
+      "telegram_message_id": "Edgar_20260602223941_126",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "15219c5d6b1b4d11fa592d8d5ad48fb479d339975b2c7fff73cb4fc05fc67b19": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/15219c5d6b1b4d11fa592d8d5ad48fb479d339975b2c7fff73cb4fc05fc67b19.json",
+      "request_transaction_id": "DplkFxJd8OACApFnX3fdRq9IM/PQB9YzED+OZgdYNpg0eI1AwrJAHy0rWw2eHc4Is1zl0vetXug3lWDcBEBlBV6anNztbgUCS+u7iq5VGOnQvBOYeQ4IbVWS/ZEwESNNZkHpfUb6YpAoVxuoYUrpdrAVuRYEQdDFwAD5jUkhTgPA0r+arzdI3d2hnJgR/P4DRUg9onZrlh1B19YrH47SCPeSlCkAedtjFnyspgKg5shj0TYEfc9GBrzy72F1/mFLoK9+kEP+fgXr7qyWc+gfvHM7a+ERLqOShf05CpIZvVp66Xturk968DFuXl75+yGIFSev3Ym1YJgqtu1OGmFeIw==",
+      "telegram_message_id": "Edgar_20260602223600_062",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "16421b6e7c40e2cb71c918efafc983c9fbb0ae358fa7275a879acb8b08d0ddff": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/16421b6e7c40e2cb71c918efafc983c9fbb0ae358fa7275a879acb8b08d0ddff.json",
+      "request_transaction_id": "acwoxUBUSNSib4cNwFj5eKsUCFU84kMV0n+cbWAOac2mgj02lucQnlFJ0FCGQDJ0+8HFbybyxYdNFgOZZUMABquFw3U2Z8lf7tyoo6NsQvvenZm0tT2ssHE2HIYpCX5VNJIFMare/jQVtr8kzibr7rqxwXgIqQREfK1Ovz2wLkWlmOL/OpSV7O6cnL2EtrU8aGxhgWJMBnW7F7B9gTKvuFOjwBKR7BGn+5Vxu5zyZzHgfbTk/15ZsW5WGgv4DMY7yLkTBnH9Anfg9y8VYKV5WE/Yhxqo/tcmhSWY4nNOYtE3zVrQmXXltx5NeNNnH6ZyAZW2cIeaxkD5jQT1ziW3nA==",
+      "telegram_message_id": "Edgar_20260602223500_044",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "1852b446c04bf4c4c0231711eb45d59cc3e955c06563a5f72018524d7d473ca5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/1852b446c04bf4c4c0231711eb45d59cc3e955c06563a5f72018524d7d473ca5.json",
+      "request_transaction_id": "fGYoa51tS+F/pMsyo0E9E1JWGPB2crlrHJCyespDaVYsfB7nAAIZRgsajC5EeINUhtxqtmQO/vSRDA7qzV/oGoeBsyaaYgi/C1fgcEWSvv7zoD0LqqnWqJnX0VnkrH8+jgCu8AJT9B9RJihFDOnQjEMT829E1/stgjTaydZ54Dq3U1vm+rUDqZnjhZROi3QppBZT5M4gC6R3nSWEvQdCcbEq7LfBvEY+/CrJk3x4aGGti8z6zNzbJZ6/QixdZn+GOBtthAM0U1RyLHBYOg2PrrI7CEZ1ED/ic0SQsSr04EjEv6ephf1ww4lObuRe62fI8hyDj/MJYhKAMxFwRKRGIA==",
+      "telegram_message_id": "Edgar_20260602223545_058",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "1a38b39751780dbc1ff71ec8f9dff3b6b3d11959c8c03100da62653d2fb3e5f3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/1a38b39751780dbc1ff71ec8f9dff3b6b3d11959c8c03100da62653d2fb3e5f3.json",
+      "request_transaction_id": "I30PMBMB9EDwB2u6q5yeTC2jgitmMm7a+U8DG0GLIcGKyboOo/YRlLPBXAUzh8wWNFsYoUiG+T9GKCc2PQyWcD6r38d9pAMvJchxssqE5zliFrmsVDEUc14oTVsb18Y3x2SWwsmPiXGJKdp2jspMAmhdLgX5WogObFPKchGLmDZesmSHJ2OpceLiANFJJH4mvLbOJ6lbnISVN04eN6o+b0KcFFoBUulVVbrWEvCojdD5Lcgg5yk9fYFSvqpSpibtFP8HI+weKgi8Xpkf62Jor/1u3x4CbjAxyL6nzFxdxJr/qMEhln48kzXEjT3KME7kJjoiyTXkioAWpGmBXXTGLw==",
+      "telegram_message_id": "Edgar_20260602215903_406",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "1c9f5ac430acb442d037a8bfea19d0d6dc70c9d6cbb8452a7cbf69ff546e6517": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/1c9f5ac430acb442d037a8bfea19d0d6dc70c9d6cbb8452a7cbf69ff546e6517.json",
+      "request_transaction_id": "bmIGrmAljcYKVNjvSPxuv+/bEa2Z2njaXTGX22rUfqbERsQneFU5HNXgsq0nXpLKQ2ctIKNi/2nkAk+NdjFAMRccgyzGgZEzb5mcrrlpxi+OqO+GxeQVQxUS+eECfxY1jnJoIjdQPZexXojkh1XEpCus2bvuaOXb6/ZswIm6MkGPlm3Z/DDhU1sUXLFiPFio5m6Da97xPX2khjYQq5xuWRPuRL+bll9OXi6pTMHd+D5EqKHpABafY7k7+04uN5exWdhgoeIYAbJJdhnZ45I2HJGzUscegdSiyxEv4W3o/IPDwdAS4Ohg6VxrhsLamJQGLtboEWDXrMvbWmQkV9rtrg==",
+      "telegram_message_id": "Edgar_20260602224154_166",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "216f761dbbc9b1b08e3ebed30e70f7522968ab9c1568ab16780f882ffce59bea": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/216f761dbbc9b1b08e3ebed30e70f7522968ab9c1568ab16780f882ffce59bea.json",
+      "request_transaction_id": "gAuczFsC4HSjhOExUquUvns/yK9m/Z1/802pXhsPiIfVn+EDSnsGl+CaqY1iVF87qItQe9VyzN9qRus1+UKhkw0QHYwSlCm/eLt9+m96QY2DHbX+oYvMKEZbJ7dyz49/fLrOUYObkspcgb/kTl1aUbWXUuM/MGGpODEn23aklv7P6qqcU1C21NfinGiCwT+79XcPLTcCv6u0qd2kBwf5Gs/JqcvGAq/mQWbuckdNVdYUPmDmuibOPS+0qDs7FGbGLMA4QPqdXuRLpF77OD+Kv3KzJP38wCOxBNq9DQmMZRlZAmd9xcGF48Zn7VGE9Kv+13B09M3eFqdpupRowvCkDg==",
+      "telegram_message_id": "Edgar_20260602223748_094",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "2359b303b17f0e6dad58dde6bf370e4d8cff021a6c8bc234c570129e01ff7234": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/2359b303b17f0e6dad58dde6bf370e4d8cff021a6c8bc234c570129e01ff7234.json",
+      "request_transaction_id": "oDguxhWyj1phFIepVFRzcPNLA4WAH27acAze4enE7fa7RNIZlPpGbUPUs8crrgmsQmYBwFvCYmpgGO+e0uOrgbZNlMw2edS2V4A8B3IATMnF65Y5Be1zPgaPsUH9aS9tp/mJaH3T4tgZ/soZSAE4Vb4DObWLB4/Znz6JhlBGA57eM++/sMdz5cBG7vW50044uP1i1d66HDPHFrxDnSH5IcLVVwetCwlcctbjt4MQFFmDAdbMPubJVpXBuT7Gp9i4Ty7+JH+5lWQ+9kNmcFPAiXWtSLTAssyIjAZNulmtGEeKBHM3w+sApHBX/t1HS8w5MtnYsBEvPMtyVoSzK5s87Q==",
+      "telegram_message_id": "Edgar_20260602223834_110",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "242480740a15bd8bc5c6b77713aad94e08e2750a7aae89a42894325ae9e4fa68": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/242480740a15bd8bc5c6b77713aad94e08e2750a7aae89a42894325ae9e4fa68.json",
+      "request_transaction_id": "K2RBlbJY+lb2HAUC2YXL+NmULAdqxYIckiI+88vl8zus5hvCfFctJnKhytud2ponnF1ex1ADmkNGX9fBQqfEocdw/nDyN3Tgs/ut+FtrjY/lH7fPEC8+cryW1Tmx6m2eBOm5snYgBQ+AYqiToSLZYG7dsZKfSOdky1INeF/iy8M8G5sYCOTKH8c2NT51Ce+PCgUWZhujtREZv/0luv7WfRiyz3jU1get9gcl+uCKnNWVsyDZErpeH3b0F+Xvjs0lmveJqcbjX1nOEgKBpoBHokqNegP9GB1CvNJPxZn3yjTxoeDL4iZXktv+a17OtXcNH5p2C+Mc6EmY30zupciqVA==",
+      "telegram_message_id": "Edgar_20260602223446_038",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "248923acc9646dada822be2712954d55fb361ff1aeaff277a9dcb0a5aebc8bfc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/248923acc9646dada822be2712954d55fb361ff1aeaff277a9dcb0a5aebc8bfc.json",
+      "request_transaction_id": "cXH3JBb+sEATZw8BdId4RC1kJE9KYVJQWIX00tZz8qWWb1+kxXWuvsNIWftflovPGR7OMTW+9b0ILXMoEnlU66l60oBGkcSRINBQ5ZrVrbuajhKATjqyoEhwKK4mE9OB5h716iY2eMK1TMzWI3bgwi0Wg/tX0Z6iFwKWrYUZUEUco9HKiW7sQUsmPOkeJevvaSfPUU4iwTYKBVdvHOGuAxVHe9Qf5GTZAzIusxOGZYeQ3KeMyu8/DwUZvp5qh/oI2ycLW2oI6DZ6R+g1DdaFoFXP5QPg7jjMAOQfoIDPLh+lutmAnxyrIbj99qytEOOTkgeY3U5yCdaY+fqWIeFe0w==",
+      "telegram_message_id": "Edgar_20260602224000_134",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "25692da0fdb5ee06fe01b384debbdbab444e4323a12238f2245e475c1ddeb2d4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/25692da0fdb5ee06fe01b384debbdbab444e4323a12238f2245e475c1ddeb2d4.json",
+      "request_transaction_id": "elY5qMYV0fOKkAd00mbX1h8X1EdA416xLYAddQl6XpDATbbgqBcc8r7kEAdxSIT6IxSpWhm+PLy+iH7pV8nBFna40plbMqN/Bv92qaG2DQYyAaeslPooGNavpLjsCOWtAnfvb+ZqpF+mrV1fY+u5qAun7kC7N4DnBInySDWfz7kbWDQn9z+8YIPumMX8YeDWR0h8KuaihuTotSilx8EBY7fV7O2xs1EjWEw3JMFm2iBfSqG3/92Z9G4T+j4Sdx9wCK8TtqWv6Q/4oTdiFxADQMkYHrYoTuoAqoKPwMu36oyAXW6fkLNacJjXisUGTL33WbOID0SSwOIqr6bRmUo9MQ==",
+      "telegram_message_id": "Edgar_20260615235509_026",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-15"
+    },
+    "332124b82427043957d316d25bcbe4a928586115f7cea37a3c8897d6b02ea766": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/332124b82427043957d316d25bcbe4a928586115f7cea37a3c8897d6b02ea766.json",
+      "request_transaction_id": "YhQsI0inOm3tZo3G20XAKa31y+yudQvfc4ZXLPDpB9tDeIV5pqxW7xE19njbQ4aznVZUD1JRPvD+bGZynam8q3foqirAAJwIvoff96eSrGT8HaybWS/eKNG+KjGfxuANsqGSB6Gbp6lFk3Dp1WBtxlSbMqhN/PDVqskXqSo050bNyjYKh/MEtMM2w3tHgaVLV0tBS1Z/u7vmQt07eqD+wt2tF0aDa5+rR7jL2D87lb+PfIclS6jKHQsgjCPrkwE0+ZTejuA+N+gTh9GPwoH9mBJAzxlUnMN3YceDimoZygOvuMFN3TUjGGEYe7y7oJ4WkqdL9ErqMzRXGXMHR3AA2g==",
+      "telegram_message_id": "Edgar_20260602224230_172",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "34b4c79a74ed24c7503b4c15e130f92d22c122b9bf70c1b5c2d775a8f2742812": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/34b4c79a74ed24c7503b4c15e130f92d22c122b9bf70c1b5c2d775a8f2742812.json",
+      "request_transaction_id": "lGP+llJhTgenEapkHo7XnZ8JW3vR6MVu3oqkrTuGwK4uyqPfqEtZr8TFzOg1qMp1imrC9ZdIBMfiOjT5vQ1ddKJ7JF6zTfJ/cU1KhsnUKiTIQVLaWrXK3oCsg0GQar+ItDGFXXconX+XRm1LtAL7vrmdvm79uOqeKvlblG5JJM3QAB4y9CoUnnBu+giBVPX6g0drpj/XSfJyQOC6irDCnBpPrOoOxhZR+tnWLoyG3F4eSu50YzAfwytCFY4fb0IoNyQlSwfQhar9BP+s3Ye4ocELMpzGLtFlHdyR12zjKV9u30uZwinAJF2jIjmjviROc3lkIFlSB399QOExAGQHNA==",
+      "telegram_message_id": "Edgar_20260602223425_028",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "35316e5c58cc531bfb58dc1f77d732b0322d0951117c38b8ec41cd5f0950ab68": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/35316e5c58cc531bfb58dc1f77d732b0322d0951117c38b8ec41cd5f0950ab68.json",
+      "request_transaction_id": "HUpN0zOTm7zMp/+KHSXs0bReQeFunDanfLuKKQz9Q8/kum4GNlnRZFCEvGzYJfQxMVW5bypP94s2xSS2Nz8qRF4jrqzcSxlklOrCeek6sX1hihLG0i2UFy/VrkVGbCS3CAW9crux8wVARPzRrgC+sH10R0PlcYaXTAN0Je9BoWXeFELARDfa1+ac3W+++EoNUajjuzK6qsczMTmEnrMx/cI6pn2MQTSf/OMiB6xw46pD2FhjdosCrIEwV57DZFpDSkpEpM4xNrPc5fbT7mrHEomtQ4GGaOU5NOXSKvbWxQA2FM1KDV1s/y6Lp/C3cFRlDg4PvIzbueztiRJ6NuCHVw==",
+      "telegram_message_id": "Edgar_20260602223655_076",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "37b619bf3d1d299f738df7f16eebcf4e21d649ae1158ef67804d73535c67b5c4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/37b619bf3d1d299f738df7f16eebcf4e21d649ae1158ef67804d73535c67b5c4.json",
+      "request_transaction_id": "YkkNoZ+19nDdCJ3Z/gEthQMOn9JKNtQxyZOtn8dIf8OFBqYSnNO29kD2Odc5vdmkhiShzUFyrUz80aSfygedKiZvS+S5LqexD3oBnhedBmlzEcs8VDgaV20SiayU4/f0qrl1g+wuul0WvrIpafHZcF8ndVgYMAaRQUUwxnlT46rER04huraWQbTFUk9Qh965B8CoC6VaDdSTHfDgpROS2ngd+qzWZ6Ew8RLyFoPZZCb6DTDrY7rXInQvNsgWstKYleUNR6WG8++YSP6eCW7MJQfLiyUg+DuWUw5tYyIq9BOp5YwLrFL/gZgVJE5KRo2QWKuxO7lpyCmt6ZJB87nqlg==",
+      "telegram_message_id": "Edgar_20260602223438_034",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "3aab1c7aebffd424595631b14bd2a19f4698b60fa8ab93cb64a49e4ecfb2c332": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/3aab1c7aebffd424595631b14bd2a19f4698b60fa8ab93cb64a49e4ecfb2c332.json",
+      "request_transaction_id": "AkLWoAxOKE3XDNxUNzQS/Pd+F/2/nm8Dv2AfypZxsWUpaFAj/k0vSCUpBKaDB35oT8sB0ZpItAF4rvMM5/qKMnrnURbbAlJqE6j4qoysX2GcesQYogp5wzKiAbCC4r0BykZOF+V+bv/550+vkMkopw4lrHhDkwiCBHHD3Zm5it5LBIMjAAf5ET/cFBoibwCEu2bO7He31BNh5ChNDTarFTu/F8AcfpMvkhkPAI7/ULojqYVrfoQbZfx/6LCoGUb9KyR8FIzfKrf7159Tn3IW/Tixv21Fd704Xk/thLFs2GIXo45wz+HgaUSy3eZ7VgZx1NJRFOKm6E2J6w60COWfCw==",
+      "telegram_message_id": "Edgar_20260602223856_114",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "3eb88ac372c2a4f0cb4212fd7370fc544bc882587caefdcf158cb5eee4573de4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/3eb88ac372c2a4f0cb4212fd7370fc544bc882587caefdcf158cb5eee4573de4.json",
+      "request_transaction_id": "fd//QtTptEJxtuhdaV5EJZzRVYgF6IMN54QM84LtlCufxkaw9QPczY5qDd2zNPHMM2tg27c6KLhTJdFzrOLwrR/RL/eRVvMiFvGugvjhFdawQ2xy2TTHYD4r7ROmgqsIKkSwYv+NsQjJkBUIvknthksLDVOTOiFdshjZj5bk0jpQKmfJ6xHsAWq4jfcN8tGx6hJOcG08bSPdh9aZuKP8O+v5EujYJetN+FQLAp2YXSLHxfCqThK/Kk8eYKBwmHZSfYVm2iqCqM93+CoUYs72vwlfQFjNu2mZIzpr+yF5aIAEj469pE88tD4QYp5wGW/y1ThoSP6/3wUx9LRcpc/eOA==",
+      "telegram_message_id": "Edgar_20260602223450_040",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "40c0f931bd39f6bbd159bc68fd3eabd6a28dacbfdfe32f7dca83ead71f9559f6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/40c0f931bd39f6bbd159bc68fd3eabd6a28dacbfdfe32f7dca83ead71f9559f6.json",
+      "request_transaction_id": "AMqiFSwPS6TZ7uEgs3c0jaHSHICNDBV5jHNE3SsRtXdDh1FT8YdkpJh2Q/1hIb1HgNiZmRill/p9YdyMNe0fag07XlLNCxVePCYP4e26dKOqbXKZ4fXLDeSUiYFGnJlrsvBwjO5tBdLAmxzLYCkBQ2QIbwqWZPZ0qHiw2dZwcAffVnTagl0t/OKl6ZRf1LnkjjzNL+vTYgvxEF0Wl5Nto+QjN9SANgh7SI1DpFFaI338JIfdyR3NRqJYWvSy9jnPLapVpZ8L/V5R5zpEAa7ww6SYYiK8GMJYSpKb2B8UN/3kCj4PwmuW8h8IeiDSJmJplQ5kA7kggKwS466UKuhfUA==",
+      "telegram_message_id": "Edgar_20260602224222_170",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "42920a9ba43be5f608060bd55840365088ef3d37205d4a60dfd602e402819510": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/42920a9ba43be5f608060bd55840365088ef3d37205d4a60dfd602e402819510.json",
+      "request_transaction_id": "KRIVNiD1eX2xccgsHTGbmcyD7A6lfOcPmwTdeuwYjO+klg4ZZ1pfpSiSb6qouUqh4gF7vWNWm1zqwgNU7NITHSCiz3yl/Yu2/XHyZ9yK0xMh6CpS8KuSjiaK/htj/8vF+GkzYhRtNr0moM520J2VnTUas/mAuFyFtrtElzcpi9zk33McqdgJxOIolE+tTN0SYKzbFbMAfpkCoQz/8OjYpbfSlhO6f8CbfbXgtR27r91l/abwnpaNQzrzdxSUsfWFk4TQOMqzm9Slyc0Im2UypW90DeQUt+Lw38MwNNsL6MkgbWE9fyyj5ieZKrOLLjg7e8QgECsjpffiZDl1L/DaTw==",
+      "telegram_message_id": "Edgar_20260602223329_006",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "44a824587f0d42f87349174e31391c60a3d63376fd8d85de7d099cdb65c4c0f2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/44a824587f0d42f87349174e31391c60a3d63376fd8d85de7d099cdb65c4c0f2.json",
+      "request_transaction_id": "dmyoiMIpQVebRZRJ0NQDSc53FbIVhguAdY2Ll/Guz3uSA43ZDvK5f+7i5dKdsmKErQByxfNww1Go5n3SflXhsEbPCShfQWuy7/TTSa7HsLPLdnNguQ+PDUp6bgiF4jiP5Dn6fNQf1G0ORFy/VHR0JIPglWojZy7IQAaf26+5wvHF9Zy2aicJRjFOZqT2hXZnngh1+gHcZDMqSS65OwyLAk01klqr3wtnMW78In7Ue5m57INo2iC56tYAU8whey3RYW7H9mnSAKC2nXYxRjFGR5310G4dYLhjFtWYw7pWnPtaeBYiB0DwQG6DaFDsBOAU+JkYjILWyi2OienM5zdbPA==",
+      "telegram_message_id": "Edgar_20260602223740_090",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "4598fad9f50b1818a5ffd3cd5f844d11100ff823ed49bfdd8ee53dd290fdc0b3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/4598fad9f50b1818a5ffd3cd5f844d11100ff823ed49bfdd8ee53dd290fdc0b3.json",
+      "request_transaction_id": "AfFlDixw+Tpzk4XQkVgChA4KUZYNBa0I2rDjHpRdnPcgAGKa0Q1xSiEqxWKU7kthm974EAQ5gLwXvWCh0NxNre7U+etgVPtWVKyLk/Y6LgPZn/U/MtcOa0qsTW1g0d2MQIGYGVJkA56wWa8fMA2CHfdXK/XvNRanwlhK7LDwPOyDZTApnzn//hVJD9E6HPUnpYegzO4BTotzmdu55ZfL0xDQJc/qk9Mon455gAox1gKg3al+/fFd1eqFwFnT3uAmhzKznNMSeKI4gkzbr8QfmdZ5uXSqq3GhaG/aqAYBlonf62I72+Tu7HIcslxESqpsn9AfVIaekE4EyzpbUy9gpQ==",
+      "telegram_message_id": "Edgar_20260602223400_018",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "4868b0cc383a8d6008427b92eac8f9bc318668253d1fd228281732dae213fee2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/4868b0cc383a8d6008427b92eac8f9bc318668253d1fd228281732dae213fee2.json",
+      "request_transaction_id": "gbLVSCquj5aKE2/3+ZnWj57Qg+GyBZuCZulrahnCXRscRpchtZ3WjnZ/f5IVPMonUqJhjn+Gce3CUDW4e80vg3Wzc4d5S01OE3kMGkd4spfXvLn6XPSzrSBc5rgRkjt8DxJ0o9ZGvv1HYWb14qI8eX66/oa7lIyPJPxrYQiIIBuDFH0FHAyY2mimXuw69Sxsv4OzK1k0CqeMKrQ9QMY7/xWTV25C6f8DHIlvqAuOL3k9xTz7E6K+Bkc2x6ODkEnf1mcADNG9cnwlSgHP7evBmdZ9nj449sqWC7IFHSq5um/ACVslJ8OE3n3KturffynSaHz+XQko7pvxME04cR01oQ==",
+      "telegram_message_id": "Edgar_20260602223455_042",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "4a37ad3e9fbf844c7f9d5dbc739e760e0dc3dc29b8d72449806da2694ec3715d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/4a37ad3e9fbf844c7f9d5dbc739e760e0dc3dc29b8d72449806da2694ec3715d.json",
+      "request_transaction_id": "dIsz2v0eA16m3oDcn2jbUy+/lEYrXQKQKg7eso6N/3JE0IolaBkQxLKOgGfMZNcO3TuHivITKOOl/S6x4N5rDShzZjfSHuXroaRbL77k1tpUwUVKlbZDrwREMLGG6aVpfY5XBq9cxwVODb0I7n3aYZzkGxI5ArdJi6/9BtBOo8k+K9kvoyz+046ss5zqaAqe0JLiU3+fgc1UOYHJPnzM8QjMC8A9yWVzS4HjsAbP0Lbkp6tQ0K/fYOZnWMNsH5AQZFhT86XNpRLNu9dSuMP6JVVYDreeCLWDoh79ecOKrH8Iiqqj4TSvgYp9/odsBfoT2zakzncpdXc7PlVvIEOf+A==",
+      "telegram_message_id": "Edgar_20260602224026_140",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "4b8b8311f2626f438470fe7551a1606982ea8641ad46951020511bb035fa4bef": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/4b8b8311f2626f438470fe7551a1606982ea8641ad46951020511bb035fa4bef.json",
+      "request_transaction_id": "PlTM6kz5GFZC8+kuKjfgD11WlfXEhJuI+dMpjBKjR1N9SvmTBtm3ydKs+uGh6kZeaUpsoqCYM+8WBWYjBSSCGoQDHUVbJ35wmrNVjrpDiRl7ZUET646imHdf9lcLm1WqXl0tdw9WucsuQryiyfAwQxEXJzEcTuUdGCxpC2YPR6XU2Ztg64ZA1D2SyY66LGcB0mxTwjhWjwW08s5HB9WqWjQYWanekLFPC/gYhdz+NxDZlVHU2hsaW8ApZEKJeQhteym2jVk7ktMK47CGs5WvNy62Qc0KF86Cxth3szkaxSWU5ExEBEi5DpGMjXvsso/hzAHm8xbacxD8j/HsaPCqog==",
+      "telegram_message_id": "Edgar_20260602223509_048",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "4d1f95afc33e8d30b2744d3e26673a7597ea1928be6827c3e7487627a1b68d19": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/4d1f95afc33e8d30b2744d3e26673a7597ea1928be6827c3e7487627a1b68d19.json",
+      "request_transaction_id": "EC6MDijSWDerIjn8UghHedwY3w1FmP7+avZd74L2sytQ7FChHdpoNJf62p8fomb17sJ/3i9Z6zPOfEzGUNdKxzcbFP0n+RYcbiBQJxbhOjgsDpu3MGlmI2UsQ6kWVqP1R2/ACFhziTs1279qBzc59H6K8maSCUJvf5ITaEq4kHbIbWtEcXL0YzFNpMw0qpyvWJtTbvcaSoHMSNKUmUYROWvtRruc/Dm5Hbafpbqmfpvlufdy0yRrA6Q4MXcX8029cCVUkuUmon/EyVb55Gto8RuEU8+t3J9ACchU3TQZNtxPiKOFUoumUA3vhHZpEGdm6Nxgt1psR6nPgnLBjfkhLg==",
+      "telegram_message_id": "Edgar_20260602223430_030",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "51136ddbab55e44a716e05bda5197ef89e2687e6822cc7d8caa6910db52af7bc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/51136ddbab55e44a716e05bda5197ef89e2687e6822cc7d8caa6910db52af7bc.json",
+      "request_transaction_id": "jX5Alo7xcquKyu85FQFcXv81V2C8Rj5zGVGMY60d9WQkedNqNcvyxYkl5bk1oXH9zG9Ysjm9EWRJSniae7lDaDKAIn28XPMDQDkX2cz+IjpN0zg51jPAYFlxUPpAgPNErhKvvvhdhhH71bFwK2ZxvMHvobFZSO41RgBx8blulrBoVs8fXioDqkbHfMWzX/ThO1SxPsaQrVcsmbnuf9Y0XUJ6Nd2pMv9Gwpw46PvQmY8ZIbAbLFsbIWniC09MgXoocTbvhR2D8vd6HlEKnmAGFbWDGSaKz4lQIjrNfI/S7c7VV0nByA1SjKg67+9noziaOtGSX56Gq0uyJsrLhh9y+A==",
+      "telegram_message_id": "Edgar_20260602223646_072",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "5178e20d51195b83cf51cdc0c7aa0ef00e744f8b5447dcc6a54f76f8e03c9f77": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/5178e20d51195b83cf51cdc0c7aa0ef00e744f8b5447dcc6a54f76f8e03c9f77.json",
+      "request_transaction_id": "p19N0J1bBZuXtOYSgQhAnQcQ3SK0mS+O+gmJjPWcaTYmF9DAl2uZ6eaB0Gnbmy5yCq4vimApUPg1cZcsfqMgaNzwa24Gb09zhDo1Lk1c0DS6LZd2tHospOc5L3L7Tmc8D+gLofD3J8Xc5FPj6e4uqw+J+3z31rlh8oPcDKm5t/v+y3GmnrT8SoXZDL3+m3N4NlzG/JormPKOiFsCz4Bb1G33Tc2B9MUhhz8NkdHo97zXS1GEOlaxQKsrH8AYKBKyapPgStfwAh6bXU4tP47F3D0NoyhR3vglRwzzvp4mBj1YMU6Vic7e7aGcPk9TRPXb5jNxjY/s2ZmnIg1AyenKFQ==",
+      "telegram_message_id": "Edgar_20260602223442_036",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "52845c855c9aa7064cd63eeb7893977cd72306c708bee881b29990363345e075": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/52845c855c9aa7064cd63eeb7893977cd72306c708bee881b29990363345e075.json",
+      "request_transaction_id": "O6Gn+ZePfw9RklHaio4Zbgregnxi/zgc6485S0aAu5p4O4G84WuKZAeSbfUbdL1h0axUpyT/+XLEGOR4u1u0tLEFcEwKxuMHcnv/8geGDkzPgY+5x3lhQ4isBfUJ0qduxF6bgpzOPFHohV9p8xIT/KWO+/uV4924bVE5V7LfqOKkTbwxBjvP7xRp0S715fhBSgRbtJb2OgCUotT4YCB9BAzEFqDufh5EQ8JgENRsox/tp02IKY1WbIlCe7cQ6ee5sRA2f6CuZX8Bq6vG6SMHAuAAMHCbNGiDktfDQV8P7SIJWKvV3ZwTn6KQ+4mo0W2EydMEGrNWTLupzhzSnYiT5w==",
+      "telegram_message_id": "Edgar_20260602224017_138",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "5a014854a8003401f1f4d75657c79cf9223fa42f37ec7d66b2754df3944f500c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/5a014854a8003401f1f4d75657c79cf9223fa42f37ec7d66b2754df3944f500c.json",
+      "request_transaction_id": "mKTCwjj+5UDN6Gh1BMp+8mEaGSP66ymiTV0DBVuGCm0HauYX/IujYs/Z23Dk0ZOlLc+vDK1F+BiJNEaYtYt7ZJIbVu3kM0ENIdcS9bud0xNGHycGE8bMoSF+4ID/O8oS4YrA0354zEkdnHKYLchn5GcbonlWUhqDOKtJ9aBLiH0wkSOxpk2DyMyvLkMvn5u9vxrl63z3ZSRcfAu6naEgwcRE6tDQJX1jKdRPNhvKmAn699Sornb+sKjekbhW7pj5xGqCrSlpujQx5F/uAO6sKf1LGuRcj/Jj5pu/hbjLu9GKixD1+qk76iTn2OowXQBdKgOrcBcwd3GSnff7PISc8A==",
+      "telegram_message_id": "Edgar_20260602224316_190",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "617154f71c0d8e12d328dfe20c7e139100681652d2d5cc7b9d18eb116b458540": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/617154f71c0d8e12d328dfe20c7e139100681652d2d5cc7b9d18eb116b458540.json",
+      "request_transaction_id": "b6wmdd5rFMJ67GLg7ET5VjiGLZdbDgac759x877ggXTm1VrqL2k/Y/WFjyVl4ynRcdi2/UubSYTquxd8sFOK0s+qkQ/OQE8LhAqTXihWDaVJKbltkpQrzEVSWdyVMIub2UhjM4PX/88RUi18xmbWNFHNwLGaRdgsAwid/gJdO9/8xhBVGzTc25ymB4VQ0qVrYiLU7vgj02s6yrqQvQ++iBNYBTurK5eyS9aGTHYXH+qWqJ4JAXk28UjiftuDAl4nFcEg8qejzHX0VU4l9HczG0kiFpp9OGFAhOqylIapCDyPPnLpDOqOxIPxV6jAxCsKV4l6qIqTsPy9JtGJHhUV3g==",
+      "telegram_message_id": "Edgar_20260602223759_098",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "62a1acedd07f52074f772707c850cdd322e9f623eba353bf1dc1a78a8ba6eb36": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/62a1acedd07f52074f772707c850cdd322e9f623eba353bf1dc1a78a8ba6eb36.json",
+      "request_transaction_id": "pOLQ4K8qvnxPHVccAW1IBfWkXeN/0K/DMvheILhNIK+7VDIMnljyI8Aoa6EGoYkl6lU7N+AI2qsIAvOUu5lPUVsvrfcTtnmKXDyi/cGp5s5o0M04opPo0/1UJpDkp/YmjrOVYFGkK7m8xB/KYPy7HSjoy43jvh1fo5W/RHA0thr2fOm/bYceBVk+fb9W8Q9Mld/iNDfczLjYT0FASn0/K5QqTB+2qugIsa9pNCsxNUJmFbqfG0lX1LFQAzaQgh6qSNXyMqw+Kk6+dM8w6oic7Wf4ksCu+Xymz8dsV7Z5EYmuRw4mXUJnmJfvLNhbRL4d5NQIpawhIC2kzYgWYrOYrw==",
+      "telegram_message_id": "Edgar_20260602223934_124",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "65669e58ade35f562f1cbc5ec14e106610f4fcd4d8a15c16ed3efb3336728a20": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/65669e58ade35f562f1cbc5ec14e106610f4fcd4d8a15c16ed3efb3336728a20.json",
+      "request_transaction_id": "aN1rpaYJvhurOA4kVqWrAH8B87XKun3OiZUQbbDiDtoF5yfnlfZStODyDfCnnc5u/hJ9ueqI+8dqSi8Kndk+muwOZD1Dd+qGE2m/l3UBY+UIS/MOpA88b2biTozRrDh4kAhMs1w4mgj9yDzr9e9FAIg335CRHJTOoE2RXr2QO0qha/4OYdQY3CN2vmZmgsbpL7b8+JCwqoNtZ061zX547em3bMCFrHD5sprW6jPyA/brnNiqY23Drgidtbt7wtV3+1AFvYpb8LVHmRPHT08f7AgkYHI889jjF2PzoWgevO2xHzshlKaBcJeWg4qu3gqZ3RD+EmOgL/+swz4kHtYYuw==",
+      "telegram_message_id": "Edgar_20260602223340_010",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "6801a126b93dfd0079d20e2e610947eb697fadf3e1ca2db39be1392eafa9ea71": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/6801a126b93dfd0079d20e2e610947eb697fadf3e1ca2db39be1392eafa9ea71.json",
+      "request_transaction_id": "EKWeo3Wc4jcwru7X0d9DcuDozUcH+fB/jp20Gng5z33+FalMpReKSwvn/EgP3tntNLYGYwFBZE9JZW3LMTHpgxLQqEsPVY/B0c0Lf/Swucz+7JAGwEx5JGUzYYvzRpFJnXn/9GigPZfI1DWRkqaT+32PltLvQUFBxWuvV/3N5ggpmeYkG/evMMvpR9Q+t+WJx7Xu9znbe6pUnvrCQPpv+XYxSZHJeC6ygImkgN/i8vlYlHofauy47X0zzbUJPSUifwjJ9IgrEMzR2c/qTTip03vjnjHMUdc4gL/iL0IxvwnQ15InzPbiMTM4kQ8oNMGtz/e8lbbmpb4WSpWaW/C4AQ==",
+      "telegram_message_id": "Edgar_20260602224149_164",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "681f88ba1a73302f1db4d37a7c0e57d86e1aea2a8d300bc8de98094b152650cc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/681f88ba1a73302f1db4d37a7c0e57d86e1aea2a8d300bc8de98094b152650cc.json",
+      "request_transaction_id": "aUEuo+S+16LZKzJa3dJ3unWpZZ8AEIxMNS4OMs2ImEWgOqLiD1Lpk5Erl2LkKXiMM8g8IaSjuM/2XNYAhXr1QPn3O3bykHIB6Vtl+Y0SpaAjvDyTcfQ+VXkj7w65NL0shJ4h0LeTTX0JEYKGdLHLpXstfQ4QU4OTx49IDLZo4TM7KKxvMUjNPIXRhEBz5Mgp1yJzAQaJTfcKMtHvDsmtgyKzf3NMZlnRJPsjJW95uVd5spECRzsyhpUJL5YGxiZSfcEb22ByJ8rEE/bsKKAcHK1A7NmukqR4JggBigyxFPzS0TZshqddP3FGSAbQ9UW3bJ8tgXJMdt5pJKDnyK0h2g==",
+      "telegram_message_id": "Edgar_20260602223945_128",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "6bfe06662f390a3c1d37147a0e7fbb4e145506b863f8e4cf260906528a714906": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/6bfe06662f390a3c1d37147a0e7fbb4e145506b863f8e4cf260906528a714906.json",
+      "request_transaction_id": "Nxct+GybvcHkkcRjCFNs/G5PcifWljGTu2sG1CjD7vXXsPJC6L31BvKC8EJtCxqo+MM7hAqrnRGa6Spmg25yU85CU55JLYSI2WVK41wUiauAC4/eaTfiyi/XwIiYkFyPMRVVBiuz3gDCdBLO+7M7dgdRUM6r/K+yEFl73E9TiDXgIj1zMQuXigWPkUBcFWIhEhaTt+Ki8s6IoVy6GFtfK0Qy5BEGJGowHehlyevA0epz/+qU6Nywe/8Jv27TY6SKd0YKc2IEhPObvt/Zh3WNRQupM8GQMnKQTywQdbqKD6ggDdPK1v6pk5wmJFmDmmIR1P+QR7FQx95ql30io9YShQ==",
+      "telegram_message_id": "Edgar_20260602223504_046",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "6e4373d6f929d69ba74989dd0f4b41b44129a7a05bc9fae00943ca8bf1e77802": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/6e4373d6f929d69ba74989dd0f4b41b44129a7a05bc9fae00943ca8bf1e77802.json",
+      "request_transaction_id": "a6K9Xi7AdPzSEQMBBCxPLeO4r00VkAxCyx1YuweijHBUNHN3d1DnqYGOaGLGOsWrJ81HKnpf4q6U7g9ux4Oft7MvYafPzV1lehyuLi8nbehVFoPMod8RvB1SQi3E8ny+hJa0pf/hpMcPVhOwxmroUkHtxTzBNffG8r2C9B1bxVTsGuYByZeXXKr5dx+Jiab52bOC+7AoXzEudCzbUkBDrQm3bYtSxZSEWxmhEt/llBrFNPNZN8xSmPbNrgCwU4/Lb+O8Gl4e9wuzdFUDs9idKRiryAgH6PhPqzmAbbdA/kyp3lL2uLEpgeDbF6l0AS7KwXPEdM36wqtLfhNmgJSYrQ==",
+      "telegram_message_id": "Edgar_20260602223700_078",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "75bce058970a7e98b2501c2f33057ba5d806b9d820d3176b2f1f6c473b03713c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/75bce058970a7e98b2501c2f33057ba5d806b9d820d3176b2f1f6c473b03713c.json",
+      "request_transaction_id": "oLu1ablAzrBOhf4YAyvIewYJIHbi7CHMj/1qyR36OH3lpB/dyJg77HNP3CEIeXoH/WamvEOpegHFtK+bXpyVotFUVy71J8lbq6iPVP8fq0sW/WApSs2vFribCA3AzvWBifBfwnoMUo1gcBGSlQEIrVjgralc1B6tH3UIbuOZvhI5A4YHa+EeeBqiNodoKZr2Edlm8IPP0ReizOQ9PXQNao2cl4Ge9ohPJGbdsrDEt15ZeP8HQ96z0+bt1KIWZvQGHuYeZwOf1Q0fO2i8nE4cbKixCzC1GTrHU7o2SuD+c1gFiU2pViyl0oGNJ8DVdiUoTgoEeoAdc6xLl9rsG5lMUg==",
+      "telegram_message_id": "Edgar_20260602223410_022",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "75e6547db094eea1ca0b15621dfd6d146ef076153149352773c03d9ff7638277": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/75e6547db094eea1ca0b15621dfd6d146ef076153149352773c03d9ff7638277.json",
+      "request_transaction_id": "dtmH4gdRBQ15Lsq7be+4wAslK6p6oeOeY74d8LUAZqTQavnnLAsqctGGYMGix62VXipZKcAOpurHKc38n42hvkrwNoMvvKO3CC106RmdBfEqWXuFvlOXuzKvzjg1OU1P580BuEKNP49hdL1PXOCSiSN4jNFI8m+KUKMQ3vlSWd9SiKhEDbQY21t7/UW4JW5LL6fPvUdO6X8xhNl92o3Q5xy3z5PLDKsOJkRv4EIkt5SWiLtmy1wpyorswmh7s4/w/Rema+a5bn6CmhOJab1GWOYcYV3taPAcfSZgmlj8IGWTWPynC24kH66/PYAwj5jjWCaxSFrkwJzuh/gPRzjCDA==",
+      "telegram_message_id": "Edgar_20260602223826_108",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "75f79ef1688832af9f3cd9e84d5bc0c3a28c90159707e46fe8e1b9735f3623f5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/75f79ef1688832af9f3cd9e84d5bc0c3a28c90159707e46fe8e1b9735f3623f5.json",
+      "request_transaction_id": "b6i7i7oDBxZNur9LXGy832D3rnGhfKPeIwB6Q6qBXYSsp/oAX/SJk5VxXb6C3xgCRKh/Ynqyd0ZJKv496yemWw68sQuxRR4OB+HUiMb+tNE1A3Wxl/Hf3yot8TQi8PuP801rsyyu0BNXnjYsQl7lgGEFeuhxOq63XuFwqKYyF0TI3VD3rVv26HZaOKpqfVK+po9eB1CCstjH1CBWlPzQA261Dll4cjUqwq5zRuntzn2BerE8yLJf6jlW1iCh3XsP9iWfbQfYc4EzzGR9dadT6Iur3n64et30sw+fIAYHc1wB3XEqBBzs6P9Kdud4gdOijzQKcNDd35M+nxJrww0YZw==",
+      "telegram_message_id": "Edgar_20260602220530_408",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "77b096ea7590765ba2b4a61c7f867f02524e1334ef58e0b55f53a92a22e1d8fb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/77b096ea7590765ba2b4a61c7f867f02524e1334ef58e0b55f53a92a22e1d8fb.json",
+      "request_transaction_id": "SN5666iFkMgrIxfoRbbo6B4aha0gBaag+Ev+8bVf0qcOMmaa7FRmKY49MA/1PnRaRYEWduwdZ+oxle6q70lAasWfuZcMg2hTzYxciQXl5BlL//jElRLIF+NcBsboHxB1728LjTcssMvPUGWF2D5inilR19dXawdbap393OxPevXIe2msy5UugpB5RzBhzmO6owbXF03/Vzo51fTUimWq5nJ0wkfgHjhKL0+PTUZhADXa7v3gywAqiUReLe/T0YZOiDpA6B/fNyWzgBorlDYzY5KdEka2KlzFEG3uZ5vTB1AMTddgUxhx8sN8Vqrp8is+V7OylKaU0dFhEuFdBj/AFA==",
+      "telegram_message_id": "Edgar_20260602223730_086",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "79d7a24c29a4733d8a4bd3522c6adc865e16ea90e7be154c54b05cda413643b2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/79d7a24c29a4733d8a4bd3522c6adc865e16ea90e7be154c54b05cda413643b2.json",
+      "request_transaction_id": "jSyB+Ocr+kGmsz9eLhrLv5+oBPmEuN1dDKMRBf+qSQJk8G15y4L6nfa6YzqxwptKU2x6Nx+02Wl8nwgI3Ef0f7/BqOmRB8DUHj8dNNHrxPDTMSvNBkeQ50FDFUCwKY0wvDLIGYxowkjqvrgeMWIwdXVsiPS+xetkuIgzsOicr0s8edFvXR4qQhMwhhz0xZ1w3Ae1PRUdexq3KJZ7FF63dxcMp+miPNPzP5DgGOcZWABdhgWHhjfIzFw5K5Dd5PWpBNSWmrrZZY5mIE5Xdm7mTeIBr7LEZ1K7EBqfDqsiKIajeiHJ7bxJqeHwaWFX/fNV5ZDlR/7zrMt6ZBGeL1o76A==",
+      "telegram_message_id": "Edgar_20260602224113_154",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "7a5d7f8efbd5d8db6642b4bc820aa39b03556debbfa1cb2a804e4998d965f57c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/7a5d7f8efbd5d8db6642b4bc820aa39b03556debbfa1cb2a804e4998d965f57c.json",
+      "request_transaction_id": "YOXme/qgCVSTEhcumOXhMr/MO7tBgxkuFdGZOtv2d6RY4CbR83uHYPMKncL9GOg7BlY8byEuyYAvzn0yxmua5UV/A3MlKY2oEwqyTKkys8MgXN9PSkv/Bkqxgfn3kybUTbSpiF1KZSe22ioBp4+6VX/XUogWKnb9JQQPokMsWPgGb3LBzfwYeM1fbVNIfUpwTKNzfowB75c+Y3wEw4jIPQYdbCAQx9HX389+AV+23e1uDME+VB1Crx8PT9QLrXkx/Zmhc5y5OzFNaTCglnEELoS74HOgq62krv6pse1DulXf/LR0h7UJcMDpJzjiJDEgD+5pK8lxEJEESMaJuOWTwg==",
+      "telegram_message_id": "Edgar_20260602224242_176",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "7cf175157445c81c1523732f8adb53687e92dcb5626101c8f3a3cb67d24acce7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/7cf175157445c81c1523732f8adb53687e92dcb5626101c8f3a3cb67d24acce7.json",
+      "request_transaction_id": "fjGb9btniJi+Ge78Nun1xzrP+FOnhWdpz2hCZJUh0IlwOOVfomjfyJHc1QqNExfVlS5nC3rDFK2YPpyD0Ydz0EbPJXKL80NzXbokiA5FYP6ZU1HZ+Yv4fTkcgd55XuIpzSRHicp5nwr+9f3/TtiDrVY6ytSz9ZxZTzjiRz1XngG5MWVtUomJpJqJ6E/2ammTbEsLL176mkOHrtU6mVMuEKVcnhYP9yzK25zaEyH5CeAljLREHJCMkk9xHL1xTjfbZlHHlv8m15OORmaxHEqywuAi1hMumRuq/dAYNl2OAsL3K6wTKwimMQvXupCcZxyDRS2VffxECjCf5fTusiJcEw==",
+      "telegram_message_id": "Edgar_20260602223541_056",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "7e01042841c6eeccfb39ef3293ed0fc9fb19a161b8022ae715e20c8cc475c1ff": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/7e01042841c6eeccfb39ef3293ed0fc9fb19a161b8022ae715e20c8cc475c1ff.json",
+      "request_transaction_id": "pHF6KL+VP+odw2Y3eJbKzUrhuaxZqC2NJwsRK5Vwj7/53Yws8QLL7ZIB4voho8u3ioDCU32fBNrYcYBIWru2DEHtw1HQJawLmTldCmSGyY7GPMHZ8U3dR7mPxVysEUPpemMmzyQbUewXHs6oKS30whISNs6evgDIaax/Zt9WDicqZ6resPNdO+coA+VNLmps16q65KTCJ3rX5Hvir66qzI08LmzeL/3ETTDfW017KE4E7Zm7wsPue4ZjewrcztI3LgcDih6gvoIcYw1lkQEu7Nci9/WKe0/PKqbuaq3L6c/SEMqvoCvdmfcPla17C1qX7nGJ7EauRW3oqvFS90nNlw==",
+      "telegram_message_id": "Edgar_20260602224041_146",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "7e2af80880f5fc79eec8e186270ac868cfa260a2b1255a23bd6155dd7fc336dd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/7e2af80880f5fc79eec8e186270ac868cfa260a2b1255a23bd6155dd7fc336dd.json",
+      "request_transaction_id": "HdO3FE2Veq0sFddjh8Hytx5vLvfipFDrvul7kVnJ59GWLU2YDM7vxSaUM0PUIL3aY/DpcGkIA0Fz64sCgXonna3HMCOw9mXkKdIQNuoMNf556KtXcdXPvJqMwQMLu7eUZ2cujQ7sctM7dM2SiEzY+Ik5jeqtPfj4kRsMpC2d0NVNFDT1jUc9jTIa+1A9VSBV7DXcE1LsVQQs0UXSqeGD2jIEaackgGtWz2u7H8XFZN9ZayFwEcHW4Q2dp8J6xlnC9BHlQTFrh3TaL7tjUe02+rdefpYkLN2hND7ddl8tQDm0RRj9wgf9XrguLFCvIHliwbH0+W0+lKEk1OF9XbMBow==",
+      "telegram_message_id": "Edgar_20260602223526_052",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "7fc91e27247ddc1cd808059554163b2d2e5c4faba085f89deffe05d330108af5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/7fc91e27247ddc1cd808059554163b2d2e5c4faba085f89deffe05d330108af5.json",
+      "request_transaction_id": "IrfvNngyDpc5L4OZRe7fZq6Yo2lWQVQ/Jkp76Ihav9OzPE6+ixmPPqyx2AoSss1hR3g0qSzLe0n5Qrseb44cJpHVfHBilaVQnX+AuVnTlZWP/ekp5+mkK1GfrpBJZcw1yW5Fsdlcn2hLHURijI0oeituH2xjkjpO8lnicLgM/UQ2eDLTUDfkKSI/MzNhGS+ZlT7RpE1SmQ74Y2fJHQ1C3+huTrg1ykAlpr8cvm7O7JUJFlu1t153q41/MR3hNhGnj9BWgrglHr9vDdPDsTOmKurI/OZNApVdjfElQ8e774PNbZ7Zhz+5WAfG8ieZ9uHP4HkHL64fMKmy6ODf+DMYBg==",
+      "telegram_message_id": "Edgar_20260602223325_004",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "8001a70bf068d09aedb4afbdb71b10a9e8d52506f9d7d2ead756109949bc5fd5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/8001a70bf068d09aedb4afbdb71b10a9e8d52506f9d7d2ead756109949bc5fd5.json",
+      "request_transaction_id": "X6475gW95fDAsYGQlgtELW6Qd5RJOXrvJ0iloFRdNkLgt5BQyEzHrGO6SCLjfLRYsUlXQ9DBZKyjkeNRxZ75MxQaPHnGAIe/nw7ujN2CK5tx58bEI7kEGWnGJPwslz2DUjpqL6bWA+53tdFMZ31gbPrTCO/45QEf0Rgr1TudBULbeeOn4AwrUkRfMIcOp2WA6MzwnKCguhd2EscbSbdLduy3lpgCooIIE3Zg3f0AffsIUAG3PuvRDsKTGg0d34czm+gy+2C4IWkuKNlFfUkSUKPOvPR2Oc6P7Q021gP/uv6B6ppGEC0YImnRQug142V+5JG7Fq79Jvrrbdft81XUQA==",
+      "telegram_message_id": "Edgar_20260602224301_184",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "827b2c6abf8992c4afd5bfebd71c06f66a08d6c0308c984edf96fb5366aeacdd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/827b2c6abf8992c4afd5bfebd71c06f66a08d6c0308c984edf96fb5366aeacdd.json",
+      "request_transaction_id": "cyNUmq0cInNqds7ta84CozTTRQ00W8+Bv+ZeqVS21IT8gdjcQXqa/7MD8ZgOt9AhdxibmLqZ/0auu96mwhINsCmnxAMAdiQujc5UOyG5QrQR6ipCU2caN+KpCk7fKMnU/PeEiN1L+zbwUHJaQNQgUU/jTCUsQoWhPSUAKQ/j/+lcxVBBQZGizoX3SUQbz4NrP6iVmR3++TYEanRzedsOD7H+RUg9H454vzPBNsuwfz7CGl+ntEmMJw9U9kYT9Spxsu4KD2kN7KRZmI+P/r5P9XaWW3N101/cEJRSrfLlg28BDt1BsMJz7Jra3THdKUTlkYwi8+pz+X2fU6Gptgc18A==",
+      "telegram_message_id": "Edgar_20260602223845_112",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "86d97af04a7144ef6ea28ad7843687fa071cfa1a09909250ead17a3bc9da4c5c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/86d97af04a7144ef6ea28ad7843687fa071cfa1a09909250ead17a3bc9da4c5c.json",
+      "request_transaction_id": "X+CCsOUhHwUnGwusR1jb/8RR051w6aWckItQoXfBY5tmzHmncKJl95w8VsAKxDchG7ypoDT8LXuPcBPFOwgvvpkUJrK9PoYR62xKHq4J2g19wOUKIYg0XcI1/6I2zCpZJgGO95ioVf+T5xU5e/kO8QaFusX7uDNlXJPbnJX6KY7nBpbYAImTKtGerUZrLnH5i3CezWf0aPhupFOs5REfqPdzCx62ai+gBS8LiSJT+QWbpjd/X56fSxvjs0fzgPgSm0zHOd2OG0pNv3BGwmAxGGU0PYFeRKlZ3C1CVWD5AhPl+rQBVAvYtBxXgUJrx0hxYzZX6lrgEfTmQyATCYydpA==",
+      "telegram_message_id": "Edgar_20260602223803_100",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "8af5efda968b4db731dd19182ceda3c8d1020b9d697447ef528685df9c94b1ed": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/8af5efda968b4db731dd19182ceda3c8d1020b9d697447ef528685df9c94b1ed.json",
+      "request_transaction_id": "YspUO10EW/Ek9rYlYvi2s2FhhawjbVDjT9gcgNqDe4XorkxtsbM2xrVdL6Sv08BGPCdD5chzPRF9p9ExIwugkQ5l34W2MjuqTN3Ea9kPAKDNs/Pw8a7rmGZcOWXxMoRhx44KyKFqcbjM5wp7v3Kgty1INTKKU+kTDYTFkFIoNjooGP/5icMFekqiHv0NqUB007G5pSwTKUu/G8inPHDNB3vRe3c5ZhFCDN3GLwLV+Ajh/wu/95grIN0ey8c4uRctcman3qOcDAgy4idRHJ35TiVBznrTDfWtEyTRuSIFGEXzspdedojslxcLTCwV7lMHTFfslMdUoR9jiUxc5lQzfw==",
+      "telegram_message_id": "Edgar_20260602223714_080",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "9515ce109771763be091ac871e4d2fee91957bb64b2f1e380aece53ab4125afa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/9515ce109771763be091ac871e4d2fee91957bb64b2f1e380aece53ab4125afa.json",
+      "request_transaction_id": "M63MV0ViFM53Cla5jjDKubTgLmbuJ/meB87QOtegVQoGFwFYnoN+sRozn+SACQsuBUrqVhEm7zH4P8kwopmTChkmbWkfY0Vh4QWd/eU9JcA18k5wqYPvDANpIeOInKdFO1RRBK7TXeBbp+2urkTv3l4xNcGkQ9zHx7JOuN9+9f9gdS34HDA2fDOln99qxR3oo9jpoPQmY66pjSwNW/0yYCLLhACJYgnYJPVzULXB78y8kNwQ5mN2NmOqKGP4SOCoD98LMCzdMvfhYs3LeId6R8VHCMPT8unCAuKQ0tWCo7yKfRKLnxwzDcjzAORFwColJ34MYonU52/AAzhfEvDKrQ==",
+      "telegram_message_id": "Edgar_20260602223812_104",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "9922fc19bae6e21b42bc3b06649e1ec46f01d9a7f224460165990e83b4e73d60": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/9922fc19bae6e21b42bc3b06649e1ec46f01d9a7f224460165990e83b4e73d60.json",
+      "request_transaction_id": "l9BhSgZGirGyAcaqnB19xXoVeWer4bc9DAhBFv03L2zQlWBsWTXCF79SjQGP2MsEDRDgRy+PpKVFlNTY6Ni7Ki0gP2qGd4CSn9+7T4wUQ13VVjMhvWpp5p60/aTk18zo+69lUYtCFWsEtVGG1V7Ax6z7WXYn8v887G13DqlstdOX7UaZxxdysHK9XlPPne5QlN68Va7FQ70+gj9+qVe/2tkxRGLjuuczYbF8/Ux3r1HONTjgDKBz9C/QInKTuVD3Z5coOv2PfvmKcWnVdx6uP5hMz+nfHGsRtgyuotoOswWHThr7n2z8NaMYp3KfzJkziXrdKyzb9CUeOVoNeGzzjQ==",
+      "telegram_message_id": "Edgar_20260602223355_016",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "9d7b1b090e6f4daa77e37c92ce90964d356fdde5668674488928b1627805ca56": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/9d7b1b090e6f4daa77e37c92ce90964d356fdde5668674488928b1627805ca56.json",
+      "request_transaction_id": "g+jOZh2wbgxhtZgeunxZ/Yv68wa5oanl6VWxM0SqRqncskBjqueDJuco7RT5YKlMm1RKAumsbFJZ3mP/pmVRqCZ34+c9RK63lx99NGxW8Lz7DAepfsS2NbbtwAyj5k6A7R7/LXZLVxNhsXciU++apmd7tBs3jnqRYgLJcwCO2y9hLzoRvXPIScG5iEMowhQ8lrA38CL6zwumOsfuG66CsDVnRmV+isM7Ms2UiAdL63qpYrLps59EORUGMulWT093c/PMYRvWaadMqeuAtol0ELVu++whZByz7m5FUiR4rR63dwJgDRXVmZdnYzUtr9dN65RHNOLpW1sruzenf+kILw==",
+      "telegram_message_id": "Edgar_20260602224253_180",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "9e674fa8251685744018da0233bb4be5aa9b4d610a889abf6722031a4c4dfcd0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/9e674fa8251685744018da0233bb4be5aa9b4d610a889abf6722031a4c4dfcd0.json",
+      "request_transaction_id": "XhKRkbxHp9DbR9QtmjGb+Uepy5vT5ahBsR1pfw6vu/NfzKD9sSe37l79OUlWD//zYrIcPTGUMQ2A9En2bTpa3L6Bd7Yk4YBnER43glhXhGvgQiDgBmtQ/J0iTM9TdbANhi80dDEnfWcvOG72kc+HnO6fB9OUNOIxVj3Hgh9dHlvWg4I/A3rFY6PnyQpT/RDzerEN4Yoo6lXvTzexdQk7lReVDqitcsRr6difvFT+4Xjp+QNADsET5BrCkkNLdJD8GdKZoLElWq/gY2TS7rfNRgsxXHlesOEZt9L2nhhFjnk9YPl66xMy6AOe6kwl8EXxytIEO66hIaffW+AdQL665Q==",
+      "telegram_message_id": "Edgar_20260602223906_118",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "a16f98fc3ad847bf2f6ef7fe5ca9e0a0499268a7cf0556f71865821da0a7bd02": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/a16f98fc3ad847bf2f6ef7fe5ca9e0a0499268a7cf0556f71865821da0a7bd02.json",
+      "request_transaction_id": "exPLqpvHGQxqhetYHHAa3cXKWf7JJHwMgr7t83Mh1D6rE3qLL3GJgdgbtK/4i6W1Dfmu5LVH9lbMHxlk9/VVZHQBTnXkFEdRViXwDIwChKsISee4UwjYNPOkDLtT60c8kIikmCn+YCYn4L3S8nIvuHf3zDG/7P6gOGoxzNQtBzxtukWPoLSi5fL2zXGj9QoycXqmeuLADkC/Ne9UfNEYvwNiDDgZW4KobVwnwx0i50D9kFP9Q83/CP0k5xfchJvZ1jdX3fXzXopWyfBNfTFhSW6MwWGqxhREivL8I/o85te2aKv2BuObnXuKNgfPsNpdQL/H577UgNfRZrf0hSMpOQ==",
+      "telegram_message_id": "Edgar_20260602223807_102",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "a4fdf72b540400059c12c68dde996addaf8aa7ac3caec0b694500449139be60e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/a4fdf72b540400059c12c68dde996addaf8aa7ac3caec0b694500449139be60e.json",
+      "request_transaction_id": "QE7agmLdMH8ZAD7xe6GJ/9RKtPa4J8Il8QeRpAQs1Njx/P8n5RM1adpdDTIRvCLb9j9poA7bhEZyLI+suLwXoWmHxK+z02HuP+qmpOkT2fEHJlGgz72zimpyYnHzPNUvZAbCdsE1ybp+fdxbebX4wpx9fTKVJtEN3lmwJsRo7uOI9/2c3reLQJnrVy+OuyHdVf42GiK0CmY0cGWegQIcUff9TsySh7N59AW1N1VSvbz4iVikjp9TcaU254O1nlce2BKTJRIL4zzCoFVqCM/BV8jkERadbpO5++ANey3F+6MZqViaHoPbdeQ0orQADFlwTc7zk8fivSOnJYDWGkVa3w==",
+      "telegram_message_id": "Edgar_20260602224248_178",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "a882c52c84790a4962db2b22a301a5c295bc6099ad53a52dccc7850cefedd01f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/a882c52c84790a4962db2b22a301a5c295bc6099ad53a52dccc7850cefedd01f.json",
+      "request_transaction_id": "dzhdb9tYpKbDBvW8vOLv3FeBvok+8wTL4c/e1XYKl648DKrapNoEctR8HMFo+58Kh4fvNfva/eNaBbsnazg6BY1aMI8pdoTpd+dRKDRKiUqW1cOpm/jqnYGH4GVfH6rpbNQm9nKhNSeYMW4xTnzcdXbHr4/CngwIMZxi8P0r9U4q3clyyo2M4xfRAbBMowVInFcLeF8/jZC1RX4NTjNRmzPcsgCSU/jQWloLhZT9sCcLyvQlYhIMtVxeCNUWB1JbkfTRwxtlRwPLknDYaNz/+jgpMhRoZjtGJnXQHATibRSr6lD8uT0hgw25dnz3HoFmRPhVOSVWhOJPPHsUWE6t3A==",
+      "telegram_message_id": "Edgar_20260602223911_120",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "b0d0eb479d4f4f622f05523695d7bc434341944e20d8e24de7b724540eae91fe": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/b0d0eb479d4f4f622f05523695d7bc434341944e20d8e24de7b724540eae91fe.json",
+      "request_transaction_id": "pfsVIbVgFsNvQKilNbCmYdh2btxvauDBGCczzXA2FfGmzvCvSvk5BBidpGHXFzylRZlMaIxCvWsdXa0Z33GcBaej2noJ+aPYFV/5i/yuuYrTyThBEPj6o9jNzdyq6SlZFFmu/0vAwCEErHG936AhHe7Not2cmGxgfvTuGpzRvq7HlbLD8DAUYhlQwxIb5NjlWaakBBmgKmI51z+LxeRp5nHPGHOCGkfDqhX7Tudn8v/eNvwUoz2MxevJ452hD9AxZ3pNkFt5+KSd4t7lB0rCvWzG04DyIQTi0HuyXDarQHq9CEK8iLfBkkLv/HSLRQZ7zbq2mhjeYaiS9Pwq45TU9Q==",
+      "telegram_message_id": "Edgar_20260602224036_144",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "b6171963fa362030cf2eba7df0596c6f29ecf619642f37d60273b2a2aca7427f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/b6171963fa362030cf2eba7df0596c6f29ecf619642f37d60273b2a2aca7427f.json",
+      "request_transaction_id": "fEwwXIA//mBMN4UJEI6WI5d5tsXLm4+7Sxy9Gt2PeF6CqPfTLknGmm6v2VopgJAJseZIuRIO0+CTBozRvUishJVfNRwgryL/bhdhlBQw3x50+y5ERbSih0UDSFVC6B36+L1Sto8esP+S5umLsUqX82PAFIaFeuDGWRStJ9j1I4I7sqadogFfxSFROLeDxfPIqfeSu0hbw4vR/dq5cQbS6YAuHKF4KDWtEKEGcC3Z7GSyN3k1NwwPDiG8aDh6Hq+JBp3bUaydQZgOKp89nm2zQ0sahjl1uRx7+v0gR6QWrWSOOoOzK2fFPvcaMfQlnwHQHMRKRVHy9+Pj5/BXIEu58g==",
+      "telegram_message_id": "Edgar_20260602223346_012",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "bba043239db4053cd0e42ed6ef6a2c906e460624e404c6744c884241927ea5be": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/bba043239db4053cd0e42ed6ef6a2c906e460624e404c6744c884241927ea5be.json",
+      "request_transaction_id": "Imh2B5MwD5a6n23qyZMSwVWuYeXfrBlQwgwqvUCNantF2pWZXW/C5tHW1Jx6Z/YfbtJdaeNKq2U7tY6iBdV2bA/CTxlHmtir7H7wifzc8v4xAtkRfUMEgNT44IBkG9TcS7Uqs9CKdnaL7g2SKV2M4u+lgHNjw9m43bxSleBbWgjR2C1/FexEi7wUOXuBwXl+aM6KpS+Csp+5gzRgPQcApkx3h9HFiVU5ehMnLBP+Ze6YFpdwKDVOCj5wd/d5zDH0NQJxnQTyqOvUCYWJBvldQFpZ0GJysBuvKVxX3mtgbDOaXuokdMziy/lw6XfioXTBsVIGazRi/Bbv/366rF3wVQ==",
+      "telegram_message_id": "Edgar_20260602224212_168",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "be8d4fca8e1c18e2a304b9343848aaf0646a006fde36dd479d3e913bf7c7cf80": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/be8d4fca8e1c18e2a304b9343848aaf0646a006fde36dd479d3e913bf7c7cf80.json",
+      "request_transaction_id": "KQBt2l1S89XguT9oxB6zM6Od3VPU95YNf865DLgWhlfZUn/Oef3AJ8a2HJtHyTJnbRaRFm7gi/ynWmfcejoxRggXIpaxoCxAibeacSHsr35WLXSUtggDj1saZwNZT+aihQr78JLSWNPW4yQGydNStrvR2DYJ0Zc5/D5yngUWQTvxDfm94n3UWA0aHj8JUQVN8jOrcVhlmRJgdEy7XPy0sSN3RbWaHy6EwWZNNjcqbEn5LnHsij3Vz+UAye3nvibiscJwOzPDWWgJR1IkNuRWFjTfQfdw3N18Nz3teCfXMHuL8LunbHtDQK4WbTncar5TorKoireEabi1IUXhExZR2w==",
+      "telegram_message_id": "Edgar_20260602223735_088",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c0112848753a747ff0b32ddcd86e5cdfed331e95ee7c29471fe8618834d4073d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c0112848753a747ff0b32ddcd86e5cdfed331e95ee7c29471fe8618834d4073d.json",
+      "request_transaction_id": "QoVRdKKk83f6sN/88cKCDmDttTxQEba+AbEE6HJriWxzXvzmOT/DmAuAXH/otNFiTzeEYbqpcda7yy6cprXSPDuHq9OQWS7F8E9cpP4WbC4Pa6156cHhBgdcwluKUozxranYB95lYjRw+6liQDitYXub0XQFo4UORp3u3WSyMEo/ql7n274XYLwCvT5BhJeBZRbh3V0X9eTdlpxGv80TZrxVURp5cLzBJz0HbGru8DbbiFKFbNIo0KwUVQ709VtqsE1rD8AvytH6XxFe359GO5zvOE3N/SLwzG4p9LPgsMQ7yE5/CiecjmKV+fLGsCg6vOO6zXWpzKHFnB9sn+rVDw==",
+      "telegram_message_id": "Edgar_20260602223744_092",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c5277ab842fb164a76264ae98db49418bbf7febcbba241d7d07e5991b94eddbb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c5277ab842fb164a76264ae98db49418bbf7febcbba241d7d07e5991b94eddbb.json",
+      "request_transaction_id": "pUzkE8qb9Ks65EAsM9HW5wJsesY8OGLo/TdKvudoY3DQlYaYOJD6Jz/hapU4G3Wjcctl09hzBKtC3WyB52ZorE2kNkoCdwsh978lXJnHClaNtrs4xi8aY+DUpGC+fpmvTqp5TqjNCyt4AqIkDMVuWaMclYjpZkzz3wZQ+tSEu5pZK8izMjxg/cTy78zYJSlg56rZlTIEcbfRqXYGxfd+dmoYpGeLpXl/wLkNy1QufKkWeYjtbteLTcPov7/aBkb/eYbucBzu4UedOkxiRcdnIhtWVDj48lv90WB0vdyT2gNdOauXoo1WD3l2nrY5HaQHxEGxUfdMlcQB18tSv+Z8Uw==",
+      "telegram_message_id": "Edgar_20260602223416_024",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c5c1909351831e9c57a92f4d329e0b06b4f79626337e7c583e671fb0b1fef206": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c5c1909351831e9c57a92f4d329e0b06b4f79626337e7c583e671fb0b1fef206.json",
+      "request_transaction_id": "ZQr4pLjyAxt1ol0s3HBcngrpznRYZFQX+6Kwmiq0d7yu1eUIYbumcTbzSpVWF3M5FllFOVa/13QPFlchpUUekbqlQWK1QoEQDfwMzq3hSjxFNooO+8AY6SilxIL95WYCSexSElGuMoFFkbn+gOIX5WLaITdGgEjXat6mvMhEdiX2Um3jwik/h3FacZ41jO8LwN0Xr6LwNMrYmANwSXqt+hyJP6gKc8WhuwBQ5GtOpaGokA0o91RqAGD/egsp5wOQTC2A+0sAp5P8Sph9CWxiJ/1jywUyMu3WGZnCUHLVzEPOcxg73O0It7kStGGVEYxSLI/Ot113QkP3E4PPLNdcQg==",
+      "telegram_message_id": "Edgar_20260602223434_032",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c67eaecc9ac0fb2dca17dd8bbfec45e28c68855e12dabaae3f0a630a1c3c253b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c67eaecc9ac0fb2dca17dd8bbfec45e28c68855e12dabaae3f0a630a1c3c253b.json",
+      "request_transaction_id": "YwDxuiCYGbr//yND1MU2Ri/tKjAPLKbYdpZ97fx2xOWVfabYf6CKcLXGaeZT9IzqQxrSKIEGDt1QQkQbEK9upyY9+Cvb67KgqJUYTDZEe/up8LtvRdcakf7vb4zFATZ+AEXXOnFZ4En2v1kl868RsHUiNvZ9OdHj15WTw8LtrhrbSZ6k6K39JWYZc1ZPQLYQyCQlrmj6EdjaYglfXrT+BfRkLu0KLffctrtl74RJ4rrV5ewbnVFZt9APHQyUENzvTDHpWb6xHEIBsaFy7s7Dcm3Vr+nO3ck+UmgtfwrhNb0osqCb1MnQQh1/TmT+tSF9Jbie7PKqr3tIg+j+HgfSCQ==",
+      "telegram_message_id": "Edgar_20260602223949_130",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c70efd000d7c2e0a35ac5ff005bfa2fc6269bcac9b73d01ac37b1e923ec7bcd1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c70efd000d7c2e0a35ac5ff005bfa2fc6269bcac9b73d01ac37b1e923ec7bcd1.json",
+      "request_transaction_id": "ooMY/dA6ITTVmIb7fZUDK6/c8vrkSSX45Du83FZrBMpk+HCm1bYo/vI33OOcYBXdBZd/AM3XmJ4ot6tazhRPRoiAi8U2yg4bbB76IDVgB2/TBEOiA3TNPtnXDljPjWV59ywQRn+Bfa4slGx1sYzKOxRvRpt3vRGA/22yzOj2HVTEbhw2AGSE+T59ubfcbLFzFqsokISV/9lrrZSdKOWUL7fVGVij4jbydQpalYLbiCQNRtlt2GfBdDgx+aopW2XVzL7l49h3M3+ZS0c+kbKhhAOLrCr+vPhzxkTQrYw4QGp7RA5VxkMsN8wVDy/ZaM/r/efeF/JjiEYV95d135RhKg==",
+      "telegram_message_id": "Edgar_20260602223627_068",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "c8def9d1af599890e5a988d99161354e843bba90ebac91ac3b32ae18bb0d4567": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/c8def9d1af599890e5a988d99161354e843bba90ebac91ac3b32ae18bb0d4567.json",
+      "request_transaction_id": "WT8jyhX/YZO+JVHOMaQve92mq7XgIw80MfLo87VUwzE2dFCqc9nRcO5MfpDwV7OeppjY3oGWayw4HenmWV+FLTh0rwpHU92UXn1IYsu+x+31lsdNkLjuVGEZ91MaP9CLsyR8V5swKaGoiJ29m3EmKoBYKKwCyRjSqCGQvF/gy7+i4f0IVYGQ7RNeoTe2AZU+Mhj2YHlgjSLrShRDWBlV0Y4/T4+OtCjMtClcxEOPVGJvgpaiASgt70fo73x6jOUr9MEegBtNaYNGAuD9XQNL3jNMZu7/sAk2BFbcuG8yk/q4rXP6jqf+0Yh2lVuO5NZnMXyPCYJmpvG+a7qXL/qM6g==",
+      "telegram_message_id": "Edgar_20260602224010_136",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "cad94e57fcf8c7f0fd7c6756dbb447489d55b3cdfd064ef3fac65404497d4ea9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/cad94e57fcf8c7f0fd7c6756dbb447489d55b3cdfd064ef3fac65404497d4ea9.json",
+      "request_transaction_id": "AbA0AsNvQwd00llz8yB9eOZ3crJyUyYayw7yi+qhmcyHbC/Z5dLsEXI/a0iO4oel+XdYv5Ypt6nvaLoD0QdX2UxkpivR3fYIt6uf9ClPJ/vs2r+t+wKudPrLo0z50CNaTNknkaHEwXYfzNbM8WtqFiwx1sRmcA8hdceFAHXrqy7AQqULHzekU+I3z4qgHXTIUuScXtI7b/N6jccqZyFUTUFq+NYLTuWLVavbxTwpIIh8+GJxY86HIg9KpRb83m90v90IrD2/RsEIZsrh+ySkLSSvnyGG9b0FusleKU9ZAeaY7QbpRc8cDAO3cmbFqaasDFJFj99a0W3oWwBZMhO8MQ==",
+      "telegram_message_id": "Edgar_20260602223639_070",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "cce55466ea8da0a8fadc19d67f5cc64ddf9f726af7fa75e5ce7cd3dc7eccd4b0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/cce55466ea8da0a8fadc19d67f5cc64ddf9f726af7fa75e5ce7cd3dc7eccd4b0.json",
+      "request_transaction_id": "ZG0hWS03P/H+GqyrSqCv9E5UnyFXCWwh+PVPSgTB8m+k/zSgFpiiXOMAkiF240peN4TKpBOc9a5aAF2b5k6UQeyLL1VRRn1Hvh5uDk60LS5ZowToTVapca+Ve1MaKSvScLO+EB8atln8h6f30IJ1ymyi+cyF97EbF1fgWyMwm1DFw7ScU78+NyoH9A5fIuVkyEhrEH4s3LyM1pvDp6TQjekDCLgysh++WYcTLVx1tMaPYOaYIGIpnwqmBZKeFAKZaBtYhfoml8zIcVYc0Z+XfjXPmsMWcqL48HuxWDXSZTBfoBuBI6lKljeV+DdZ6IeWyYAa7/2Ia+0+WfTYIZn0UQ==",
+      "telegram_message_id": "Edgar_20260602223901_116",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "cf9d35d4ff8d32acb8d2fa463c1f49d3ac1505ef50e11063f32a3cf854131dc9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/cf9d35d4ff8d32acb8d2fa463c1f49d3ac1505ef50e11063f32a3cf854131dc9.json",
+      "request_transaction_id": "eUiV4ZKJgig7VuDhmRiLvZ/zSeto3f36Hvt9AZX+p7vFSV/YjKtPJyk0oQcxMvdTosTdmkSjU9cfe5sC+t17oWjsguL9yrXZBgYIggByDzQbW4mCsnS+8A62Q7Ur4hCRhpU2e4/ZiZ5QJ0NN/0lO8un13MXt+7/3/dNBTHpmmD5FecXN7svd/mYeVZ91c/mbQt+qzJRd/3xw8FkbDKPisE2fr8Xn1U2WRYqRhZqIl7l6eoXWmpCjFk3+sP6j24R8n1fJ71cjSYC4Xd5/IOfA31VGabflNa3R1JP/i3K27d2CXDD6BU+sUklZdA2peeFmKsSsOLaw4VRPnOVthaS9bg==",
+      "telegram_message_id": "Edgar_20260602221750_410",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d1a4cdfe442722f402debe8bc4761da6dda6cfa3a80cf2f0acb203f74999beee": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d1a4cdfe442722f402debe8bc4761da6dda6cfa3a80cf2f0acb203f74999beee.json",
+      "request_transaction_id": "Vv4nESFBRQ6G5aoFBVp2l2ZsuTFYZaxb1XQdOO7Q8qlDTc8fNvlEzWgTRr2/30/6RnqFgdm4m1imy1EqmY9vAPsddKCpbUoKTBb9ZBJTIs00tJxd5RD+TG5ZJn+bVglQ+7O7pTCDzOFJZi9Te89ZaHCybHE547ysXrVqIUMCZXItaIyDqAMJGX+1kUrshdhIspP7iuLZXZdOv9IAvLrk/yMBDXSYbM0vbTwlbRDiLwWt5BdR3WwJFkFqOdM/k9yD/dVBCYjXaB+PYsgRoO6pMY6JNKdkNdQ76f/BTI09nGHSqNnkYwNxXyN9EqR8bCkpPGYawyjlOTtPv56F/RFlGg==",
+      "telegram_message_id": "Edgar_20260602223514_050",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d22a8c9bd953aeb91bd1c7b3c040bf5aac8dd7c21c80272c4f12614667f7c388": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d22a8c9bd953aeb91bd1c7b3c040bf5aac8dd7c21c80272c4f12614667f7c388.json",
+      "request_transaction_id": "kk4efbXkmGvJZeT4KLcnAW9pwFCi+GTOTgKr2l7aVmusLWZmTVCigUXbs7im85hXdO7wN1hJ6pg3Q/V3TjX0KwAgvlcGxYmL5CWodzZWt7VdbiBhfagvZF70lfkl9fz2AKfAjoGOFH92FdFmPDmqAjLnxmQ9R7/VuawmadZiEront23GwX6usFJfz7Nt0JUM3se788M85LdWN5O1Z1ySOb3MpkKvLUBpyL4IMxl9gGH4/sgu4nDkDAtDLAEZBvICMOr6xIMmmP6NGEV0Q7N5ufI4LLgCEoUWMGepGAhidx5pi7Fc22CDQLpB1tBhVH2zSOmwhq0UnWQs1SqxRI5Fdg==",
+      "telegram_message_id": "Edgar_20260602223420_026",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d237d913ad864113a65c907ceb90f36a39f4300daa92c4cdf03e6626e95a1c68": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d237d913ad864113a65c907ceb90f36a39f4300daa92c4cdf03e6626e95a1c68.json",
+      "request_transaction_id": "jTb7qvegopiHjJshFianhZM50UMxGJgtVnQsLtqUJxAKG4Eem9QNnze30jsSvrn6WcRnqo+0W+AWzxHFdfAxQtvQ9SgLFoBZFI96J+aqI8tRQdn6Cjne9PZPWjuyKv8aMXh+mSNJGaAwC/VWifrZBYfMG260sgXzojyNRKCoN2M0Kg+gwUe29D1vyVzRM1Rtrg7e4qPzp7lVuvQETdXXqQg4qkkUc4tbHXJaKl/RFYNwMETlO0sHPTqCJ+o9W7k2kXjfXqVBUa4YKTIiujLJ0xj+lDoLRgVG9DsaCV9n3++mtM7gHk+5ua1EERMDh+b8YKWxSLIMH55qqAwDN5ka8Q==",
+      "telegram_message_id": "Edgar_20260602224103_152",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d7011887dd158623685da0de14d549d45644131b73682c223711bfdd8fc1e3c6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d7011887dd158623685da0de14d549d45644131b73682c223711bfdd8fc1e3c6.json",
+      "request_transaction_id": "WeM3UOK6QkntiK9bpe8Q7xHfsNpTFc6gMcOY0T1JIcWJJhVrEJFybaciG6Sl5uYhFYW4ayMgnway7skgfgAy1xoonb2H6I0QLJpcY9ByT8nAsp8kOQQWvswBFIJD9ShpWJYDPuBQ2/lE2RHK7GDNvQ7KdIcX/+3vyRVyAiDaT0bi4AlC3HhwpsdHim1LbxhDtXZfHGiRnJWQhkqLrmmOO3BO2JHqBdXhr6LwW4e8oCNkYa/WEoOUxUW5SXGyynfqla59ahXydw64RTBsZNAS76zDFLaBtJD3OHOSZlE/UKf9Co4ENIkxYRwPmJLwPD15TSkx/em7GPs6H+ltmAqxkg==",
+      "telegram_message_id": "Edgar_20260602224054_150",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d7b57fac1ed164b290dc701f006079b3c0e979f7ba492672c274ea7bb1c5b5c5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d7b57fac1ed164b290dc701f006079b3c0e979f7ba492672c274ea7bb1c5b5c5.json",
+      "request_transaction_id": "b1/LIFk046PsvZJQP3HVwtiHcvaSB7JGouU64r+rpf1xKItZ4qUdyjNUfLlKWLpsUZ3dwaJl8rXIl9YJGBlKqBg9CFSgAH/dnJtKtf0pKMrHPRPHO/ja7/srije/ummhc8zlFAUJGX3hVBBvHJdya+oKmskzrGAjF8RDvF2ltktr9QrFb7qIIFO1tI2HBJdFOdtAE5b3/X5OtlVbY1BBR8UmBMjtBzWcPc4zsBTcFe+ymUE/5yzHBhccXVrAwSL+UkJlquHa2oxU7HR4K2i64cDyIdkbVvHz8u1Rs+t7H8/Apr7SzErWolxLQTRWGXCFxZh/7TObResrAsSfYdtsNQ==",
+      "telegram_message_id": "Edgar_20260602223651_074",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "d8bd883a2e7e107b514e8346d1dc88b571f7ef560d4464cbaf78306640a19bf1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/d8bd883a2e7e107b514e8346d1dc88b571f7ef560d4464cbaf78306640a19bf1.json",
+      "request_transaction_id": "PetCEv98CILBxNyfj6QRGhjldzNe7/9x1LkeIgSNVmOTXRPdohIEYRUEj365h29iv4VXMmzVvm/T+hV7seEGJc/5fA3JK7vjnMKla1OU5oE3KWHG2f3LBFYw94rtne9VuGisve6vp2RW5rYYXTrucP0swznw9VMtElW8qOhajUVSWWwBE5WHIrGdKDaN2glNR+BiKIaJKyu4CsCE+ROKmzmCjFwjyNiqM2SL2Z6bHgLAwwxwQMGnvt7FKG/O0znPNpjyR7OxAOKad3VF89WaL/POpLqeNo/NQmftI1ZU687y0jour4bPhTYW7iDI8G0GxyYV+cyIqSZvXYJ9Sk758g==",
+      "telegram_message_id": "Edgar_20260602223350_014",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "db077d2342b05335ef9ff7b980e6a10e0f9ea492e8de7695f2abb73d9f8b92a9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/db077d2342b05335ef9ff7b980e6a10e0f9ea492e8de7695f2abb73d9f8b92a9.json",
+      "request_transaction_id": "FoRFUp7i+UlISOjEyULu0EEz4csoGM1w+JNBurDeAa79WRBThmY21bNL76OB+pJ+kcAj89a9G5DsE6U4ers992tppzDUPkAqm0deEVhQLbpm4X1v66n5LwcD+Xn7Jzn4lXtRj4craVLFSJUw6oOPrXIG53hd6HvIw8pb3ZCRIln9+MGF9mYcfbrkAo7UWle14q76iSUNI+ByGouhTRMhQchDRIgpR69LOixwrd7ZUBtrnHAnd2sB74GMeB53BoGgdQxSxwPj9WveYfaQ4HV+rQcD3ERAB/O0Mkba0obdfFGo6LlSMwy85VMN/6gfljfkPIBSMRCCZJUkgO0Ue+1ybQ==",
+      "telegram_message_id": "Edgar_20260602223753_096",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "dd40ced66c88749a8f266ff41a4e6977f0bab9bef32d45d25988f3a102f4301d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/dd40ced66c88749a8f266ff41a4e6977f0bab9bef32d45d25988f3a102f4301d.json",
+      "request_transaction_id": "piup9PXudOGGvU/8sXx6mDePSdXsjTzHGsvd/AoTKcGzRwGlUUu00MLo5VBomV/BbbJdTXJXAj4bQnfTxYTbgpiPRTc4shFAyl0eMwWdjDR+eynsoH7enq2noVXlyWH1HF1L8d5bHw7KK9PTcWYUDE96hv83M9H+izmy+PSsAY0Th9ArFX7lpe7hDK6SFQhfLZRwi3iti1b5l7rvgfJfdtpLNVLf/TYqKfsqKVDvScTN6gLdN1UBH8e28aKA8BtG12uYfCPf7I6e7yzVHOQ3/K3z3tJD2Bz1pEoP18XpLZ6HP89FGRzQlfHeBYtHJS2RmPjLUaVT6LjEPZvtnNiVqQ==",
+      "telegram_message_id": "Edgar_20260602223919_122",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e1af4f6b164883d76a9030c6341a50d46e7f22a9b700dd27be6c1b17585fdf87": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e1af4f6b164883d76a9030c6341a50d46e7f22a9b700dd27be6c1b17585fdf87.json",
+      "request_transaction_id": "AJcVfwNWNW6yssG7zSF2M0wWPN0Apotboc6Tzq8NC5XgMtEyawlc9T+9kQL7f8VJPBeLQe2HJYdi3yqnmcyoV2jCuarxp9QxSQAgdSieHYmuuBRfGiy80Gp7nT7GU5As5FBIQJPZv6/pAITHUGX+pKLM1p+XjjjfBwDzc0NeURIDg3LMyMFp9zK79r+wuvhi8GyaQkpz4VGN7D7vCeMVQvt83awJK/Pe8j8LLKZh0pIXTNtkZHOCpHgyNP039xEsic4fBk6KfYryBsNvnzfSkwmgYceGrdY0FKoW9pTTiPTJUtNbUHbnFTzi85iyowBbwVB/4NUdwgd3XtD8wyPm3g==",
+      "telegram_message_id": "Edgar_20260602223025_002",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e4d7ac096cf741125007865242abd54ea954c75015bb6a6703dfa0ba167c0db9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e4d7ac096cf741125007865242abd54ea954c75015bb6a6703dfa0ba167c0db9.json",
+      "request_transaction_id": "X8iNJ6hclhhMeUOCQUU+tYlgw4BneX7w2Bsh2hPzUZQRhJutXFhnfJtrq+LADo9Gk2ZLHt31LOhyo5Iq3wg/dVTGk/Jh8iEN3u75WH0VFVVm8qi0J7uTMbKT4yBUYzshDto5m2MQ8VzfomUd5ZHhIck2Z5Xg1/888uNRi0sHkL/qBhzWAM07bxaXstuUCBmSkO2pAM/7Paoi5px0YtKnjqzeeaq2rnixH8M6B8454VlCfWxBmiiZCbEfIwiAPq6BVcO7DZW+VIV0bz4MV3fT6pGkcnJDDtXryOtP9AwSpb1yWnjjs8NH9TKyLvrtuLC2mYHa1ODkVpeCzqhjNeb1HQ==",
+      "telegram_message_id": "Edgar_20260602224312_188",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e66e7dedb9ac2d9f7a5031234358832436792bf264fc13840bd1cffc2877b5b2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e66e7dedb9ac2d9f7a5031234358832436792bf264fc13840bd1cffc2877b5b2.json",
+      "request_transaction_id": "FUwSmA3+he3gwCf4rsrq4BeXhgIVp49/+rXsPkMWaIXRt8CA1yMhhspkHjG7rPUdO8zrEYILMDWF+IYm+uqbDstjtqH2fRtbBYS1l9dwIXmJ593RSZqcgosCqUZltms5TU0TYnXY6JRSnKATrMiMBIiKsRjXcNpj/lFCT2W54pPzwn3TwM9pBcmffuQDnZl9pBEm+P6tu7m7BxT2TJlGQnC0BYrbjONwqttjSuMqtk/6Wnfp0GZd/3miV7Nm4BB7mb4CFZJSM2y0aaCNBoaSlpEjNScztYHUBPAe1fMET7Kzj9zP6aP6KCefJRDIulYizdSIM3w/Wy3aSMSM4eRIpQ==",
+      "telegram_message_id": "Edgar_20260602224128_158",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e7478324726125b5bffb11ca7198d176f3d6abd3c24fabd5ef2cdeec2b2aac17": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e7478324726125b5bffb11ca7198d176f3d6abd3c24fabd5ef2cdeec2b2aac17.json",
+      "request_transaction_id": "k7JpgTLFDNI4fkAVkb0m0FUOZWfo8wKHe7rj83/vET21G1kK599JB4It86HCc0hU5jXRWtyjcj5ep1bgM0GrXDgyUIzZcompNTHdgiLYCiwDXK003bDhOOiDJ8pcaw+/wIlW9h1EYjkIYxmy+FXXEskkDqBQHcaoLy5PZnMTpC9fa0j3ItHfTm7VRtTVvlTqQn5WJwisY9tvfEqyEk7q2b+L5QP3f4eTmsnKqa1RzrSSeHQugL2cUbyN7YUjIkMn7wJxJmkgA2zpLou7FwhEXhF13VlpOfnSSB7hLrfVsBT0z+/qohz8QVfjgTROe4IkEm1CN2TFzQtlRKjk9Ui10Q==",
+      "telegram_message_id": "Edgar_20260602224257_182",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e86af13b97696c04cc55dd0c73dd16834cd6554312a26dc5d6fa0ec8bcd19e1f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e86af13b97696c04cc55dd0c73dd16834cd6554312a26dc5d6fa0ec8bcd19e1f.json",
+      "request_transaction_id": "jePm8u2phTxvZDB2cXMvsQqxTnj0V0KmZyyuidl9WVKWoCm6lBtHTA2qLUTCdzgykv3YC3WdrTWAhx2T9+6j5jlpwwWfFvksyNiVfhTai8dsx4ODtd1DxnPS4JHYrmheAwUlAyyLmPd3vL1T2g1s0oXP1WEG2pd+yzGWQHoXIbtmyM2pEOegI1EUAKLLTYzKQ8JkB0XaXcYVm2L6ZwCDUTEB888JX32VfemXPvOmI2jqhgCMiXfAkOu2XQMPRpTSdofdHJvrCAib0/Lq2BtDEkh2Npfw0+jUi8mivDTzqdhBxV31ZkjzbZYRwFe9DygDbVnvaiyHztVeqELhJdZNEg==",
+      "telegram_message_id": "Edgar_20260602224326_192",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "e8960613cc6143be385ec198163c419daca5e301d3f70af56e5fffcf46d759ba": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/e8960613cc6143be385ec198163c419daca5e301d3f70af56e5fffcf46d759ba.json",
+      "request_transaction_id": "O1XMxPx9DZkwX5QFqV0PA/beh6pGpoGJQt8wqG6BiNQpGuspn+J7W/QMtku0PXrtD87HebpipG8h5O3sJnHaTiYofEI4OYtRQSVv9/+N+aSlcIQ7tniu9eBO8MMM3dLbiqTHBj43Cr21wc+WdropIxzKfmEWb0f8U9VwMY77zQq5l506FsdlEUurXs1HMl0RkcHEpbMP75zjHvn6H5jEZxwPlS/5/0g9ZMLbY+BziQvs00Z92WVNkpetFjZJQl3QaXuNkuf0hNAwygnX6exbA9oXCr4KR6yKTBR5K2IuMZayvpro2zVHMTv59QRhK6FzhCwaNcjztQxNCuO711su+A==",
+      "telegram_message_id": "Edgar_20260602223611_064",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "ec9f49177c9e66adf22f8376970cd7dca802e389c1a48d53577e63e403e2a88d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/ec9f49177c9e66adf22f8376970cd7dca802e389c1a48d53577e63e403e2a88d.json",
+      "request_transaction_id": "R3kp/QljIL1xIZKWlKlScwBWmB15P50+1OPJ9T87iIn4Ik/msk418g0L1rl4Klh8vCYusZiwjXG4c0AvyrPjhb0aOF6AvTdy71wpJvhdpHX9EmB6/1f+EOHI4OGP0oUoxMOTJ09TVLyxHzscyvO1bM12ER0GMFk1wF8wBu4RFi2SMYPxlDLj4+u5o3u7bVwvBhYKZuWh/rnk9gka3bby3bf0SurfCPZR43z3YZZysbzEdd6yWNNaJFTdYdStmctJCwdAa6UyBOmftmBs9JuJIAaCXee1KafvzvmaIJtqGfrmTOT9SsZroDw8mcwN2xHu6YqC0DprrPFf4GNWd/zywA==",
+      "telegram_message_id": "Edgar_20260602223334_008",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "ede006051f16700d81459ffcde606d1d481ff1a5ca4976d149d646054103730d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/ede006051f16700d81459ffcde606d1d481ff1a5ca4976d149d646054103730d.json",
+      "request_transaction_id": "VT8liYBXNdnHxv+XEkg1gyAAEcoArhcQNvtiYpfq58OA33iKTV56G3IGVRYOAK0Dfw7YAXdGcbGZX3612mKtt2Lj8C1T50WZ1UBW8dRWi/eV84o+pZ4Dz9d92mBfhC8FpTaMpGLjpngPSabM8FrKicavnhtk8KSiEEyi3VnKqN22BczMphVCyiKiUYgFyxxDVyh2xkpHJcRStdqoHW4lutmd7FzWmC/3XaUXHHXztXfurcD8YiUN6pmFcLRDexOm2n4gcWrCqIxqBhLquIcDpOZe/C4AdeAMSBqz+fIXPiDEkV3ODOZzXPssUnrhAGK3NZPpwpQTQ8YS/6APm8R1HQ==",
+      "telegram_message_id": "Edgar_20260602224031_142",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "ee7dae9f737bc9bb8bb8a7cded391257641b1ad77d46dffcad8a63f94da9a86b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/ee7dae9f737bc9bb8bb8a7cded391257641b1ad77d46dffcad8a63f94da9a86b.json",
+      "request_transaction_id": "hCu/B1Lu4ylyrDmbEojWn8B2IPGS6z+Gvl1YKWhEZGEuaHt+nL8qxdVFWHCgrcI2yb+pptZebmroa4htOcaT03vxhl0/YT+1pm8w5ubeUSiqbVVsgcOjBjl24TmEfx+1uweYJJjPYURob14GYodkhGYA91RA+uMPenO7mitmewcTRPcGfAwhkzVEI5COWTcP3PFzpj2eemOjUvCJYRJTLAWA+Pmk+0GMgvVSCvAYCVZiTctC6jmff7aJs/3LIZF1gY/o1bWz3pFzPGGHY1RlI7HPdr9kJSPoGMOg3BQEgBHV8P7QzXO+c8EwShEdRiVKOBvBWd99qWMjPscyNUUsdg==",
+      "telegram_message_id": "Edgar_20260602223536_054",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "f34a5532beaab37a7d35f6cdd726bb20787c05a3f61640ada2c28e8c81ba50f7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/f34a5532beaab37a7d35f6cdd726bb20787c05a3f61640ada2c28e8c81ba50f7.json",
+      "request_transaction_id": "hPQIFcpYfu0Ke0rWEqIwTEQo1nzp3LU8veQO3uNtTp6Sn9N7GkxvBER7vqCq+08h7yTxwoIXQaIDkgjVPQn7oD6nFbpMEtMNC6UP7mfIUII/iIoiAjYjCaZ5b83a77A6nwAVBHwF1Af8Y9aso1e01w0PBb5jaXdTjfKdHbmzupqfwhKWCYaPaHnk36hS2LvoeQOVvNOeUcCptmA5LJpp6RSIfSxk4mn0hZqOaOrcUYjZyBg7LlYciXHRT0y4DJcAh1zvmEhTLgc1TSNuRChEH/Ye5AG2y6fX2Gcfk7jIvgv7qW89kadkxisvZG76vZ3Waujfv+8iYn2I6+StzKM/pA==",
+      "telegram_message_id": "Edgar_20260602223816_106",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "f8e071b600a43bb44e3a75b3c8650be499f559042d902723827deed57cc8bab5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/f8e071b600a43bb44e3a75b3c8650be499f559042d902723827deed57cc8bab5.json",
+      "request_transaction_id": "aeu+eC5N97p7xT3zrH1axIN2UhFkeGd6dBtetbgCHvsoq7WFGnDIZ8kGq2dgmuy5CRbZO+owqNZ7wxU9dWDED4l9i32JGQRBXobOfLrydCj/uAo4vNw97mE3YHfLcbbR0htt6+IHzyqaKeqHVHrIXPSPP3V0x3danPL77yx7Iv3Jqe49zAo7taRi6LcxG1OH/80KUWt+LIwwBi4riGTuV9o0zV1aL2OTdfbtdD+DrS+FldCYOpZWLkAkI9y4EZxZPVUnn/NStsIx2DrG/g5me9U91PsudqJUhYjXwl0pt4f0tJ4DB2Ks8howYuWfmiXKtR3oJBFvwz94F9xdKDFtyw==",
+      "telegram_message_id": "Edgar_20260615235505_024",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-15"
+    },
+    "f912972c5e72478294b0f65368e0a375bfac6cbcc9082c7400e15ba8ee356141": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/f912972c5e72478294b0f65368e0a375bfac6cbcc9082c7400e15ba8ee356141.json",
+      "request_transaction_id": "DZfJwq80UU0EEqfUlunN/b1hYz9EmBrDB7PQQEq2EWpF/fIPXfWQkmmQGCij+elYj6T+xJ7Wg1MQwMcQ99OtImRl39LcS25+IUD7utSUESiLI+hLu9BaXxv3/3DSd1jUiEGTm7v4GxIPkwur7D8oojj/p6o5bJR54eKCUO7Bb0rLaAsBgKTqhlJ4k6fw19IKv2C6DJN5xGYTH/jWej+0IeAPMlmcsFP5HjwBgeeb0JFl6n8QXmd5SLWOkku8+V9RID8WCFkVmTszwNS5uOtN8ypKUikTrCEDpseR9vhQGzVa9C9bfRalCTeXTzF3MMdH38WSriHPsnQlK1MO1ujwGQ==",
+      "telegram_message_id": "Edgar_20260602223954_132",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "fae3f6b1b41daebed8ef7bc5af2374c8f13b3b844dcef0bd48372f9161581cef": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/fae3f6b1b41daebed8ef7bc5af2374c8f13b3b844dcef0bd48372f9161581cef.json",
+      "request_transaction_id": "GR5UxpLeKl6KY/8WPNQkAjYDzpZjfQ3AB+QMPb7MgxTfkI/HVja8F+9/Ble+hNF9nhY/cSZxCHA4/UpuzL6JOOXUwpvFElwbklgCivQVo+qhPMiP9H0oPEAv9+NQQn2KGTKDrcA77+2hxIv3fFms64HbJURnAqnTpMjzJnog9RehCQR/lVeHUrPBg9Wdtg/PeW+8lZJ8dIhJEQ8FSiGsSU9DRgyFOLBpOl/up/Bw/2k2z+HMBFTabPvmwZUp1qJUt7knEm32yQcJu5rVEent7gNYARhhDO/oMc2l4TAy41xfjJmZGCgguuZxJilZ0mQRqhuzZHNh/s6g7r9T1wAFow==",
+      "telegram_message_id": "Edgar_20260602224307_186",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "faff6aa953befe7e744eb0a0c7212be9666c7a6480d13d6c6aac29356c7654ed": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/faff6aa953befe7e744eb0a0c7212be9666c7a6480d13d6c6aac29356c7654ed.json",
+      "request_transaction_id": "mWy1DL/sK9zYk91mHUQMhX3nXmgvGzfLnkrQYNGHhPikFsB57wzxvwOD9VB849DUaF93jXG1Hy0ihcVT5bya/pPyNEGIvRYFKskLCs4HjEkTxC6htn2Q211iT6bRYerGYAIEdZOQ2h97wZNSqmt7kIzhKu1w2I9CKPd8xr65wXms1+jMXESWUp572Bk0dHsiHneuKv8htEV8sp0Q6SHF/wB0u4YnV8EJf7z7w6nkCZ+iTFG6Y3TLjoBbTNnuAMSbjNT1C6rmy+vzqC9iv8H21I43NrVn+kQJRtHhSatIhovIXdvkrpwRdM6ZFtGVrjQ6LSHi3E0fLlZ+/DV3hon/kA==",
+      "telegram_message_id": "Edgar_20260602224045_148",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
+    },
+    "fb694c5d36daac6752050abae92d6b5c7f8faedbe5eabacfc7b875bb439873a3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/donation_mint_event/fb694c5d36daac6752050abae92d6b5c7f8faedbe5eabacfc7b875bb439873a3.json",
+      "request_transaction_id": "pp7mNKI6tWccbWuzfhRbxai0dOhLeW0cYYDJ2ZEHOOI/azfWJOm069o0U2GTrUFKdlfWgmELmnQJ56ihzhY9oYKyDyvGW7ARD1foMNTq4Vsp6RTRBb5gDWQF5KmWM0LfbqYIJLzqVmx7moEXPfAXqlstT0L5iA5T6l+GeJqoZNJGLeXdcVQZcd8IXkmk1g2Z6anNum3ioygcpu8lsrL1c6h4FXj+w6HUKqn56Yoi95CazSIssFt+xp8+vEaieCPvyR4hkciVcOyKedXm+dyu/5Dw3B+XYUqCAizSadchx+nnDIgVsCw2JKWQv5dkky3AOuGFMtylCITS3tSA4IoI/Q==",
+      "telegram_message_id": "Edgar_20260602223725_084",
+      "event_type": "[DONATION MINT EVENT]",
+      "submitted_at": "2026-06-02"
     }
   }
 }
