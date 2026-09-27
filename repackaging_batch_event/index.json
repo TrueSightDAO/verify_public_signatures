@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[REPACKAGING BATCH EVENT]",
   "count": 3,
   "events": {
@@ -22,6 +22,30 @@
       "event_type": "[REPACKAGING BATCH EVENT]",
       "submitted_at": "2026-07-10",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 3,
+  "txids": {
+    "96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c.json",
+      "request_transaction_id": "bpp+QYnEUNn3P9+HKCsfuTY0AkZZtLS4d/vaYULs9KvalMevFsdsVCalJQmTfNouVdsZkh6qlnnjlcEtZJJBxUHGbZuZvDjZdouk2f7+KqcCUK1QYdWtAsy5sJdYcR6eGfQDiGh04x4Dwpjd/A7sbDU0kEnB6I0K++US0rvZhsjEJhK9f7/OKP4XQtL4mTnGaScmsnFKOz5QvXpXs+TO83tGOYXmUuTNne/5FzDy/szu3+N5rGzJ1om168l9Q52l7sN09QwLrRWDVLOxvR2XR/Q1YG0JiRZ+T0yusmYNCRncjZAkKqw3cbnp/wWca4h1HDlx7Y8IUJ3koFlNNiM97w==",
+      "telegram_message_id": "Edgar_20260710185310_024",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-07-10"
+    },
+    "cac665292cab378eddc69aefa5bee1cf32c4e02aa5a1369bf6a97913fd44a418": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/cac665292cab378eddc69aefa5bee1cf32c4e02aa5a1369bf6a97913fd44a418.json",
+      "request_transaction_id": "i0g8tbLJNtZOs3wNB+1t6RrCAijpeKI30EsW3J9wSHW60AU3XDkFHV+ShwkCL2ybgFlutQ0Df2XwjgEInMAAEv9GLo4cRb9q4597HwrB4hUqmiGvzKY08th6JFJENJSj+sXoDXDkX3iJoTjTI1ahcxDppiS7xIZ00KHfP/SNFUbKJ8o0iEdHbrDV7Q8cFS4ZdLpThaWn2xZbJcsDgW5VtUQazIxZNEOzPdkl5/jqTUv7bB+JMad/1w0mCG1vZ/KkCoAmxSOECRldNQqaOoe4YN4Mch0YRBMY8QB/MxzhHPBzJF11XU4Zv8WAn5VYttOkNEKRaV7u75aT8IrbPpUoAQ==",
+      "telegram_message_id": "Edgar_20260620225943_004",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-06-20"
+    },
+    "dbdabc220607ba710332b5a69d5cbf85567e98360a2c3296d3f6f9b4d10a5804": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/dbdabc220607ba710332b5a69d5cbf85567e98360a2c3296d3f6f9b4d10a5804.json",
+      "request_transaction_id": "2Da90mjxFnDtamzLPmNofMN50BE9BVislKTGz+VxHXYjmXDZhF06+MQaGEx2rxOEsjOlCbq2TNY8aBdT7dHIeuFKOF8DJ3Zp9pODqp3gsXjA2SAbj6735uddE7xmUfxJfiUsFxa0zrRTsat7DMGvtL0M6KClisgiBq8jVUj78ktMO/tlydVO4sD0V2KfCoDnVTChjJ9u5qHOyt3SHBsb4DVO8NYuzhcHlkvh4y/IjWEQTozTx/CgKZ2lhBZNf7okQMBRRw20PAo8CQp9cjbpBD/q/Jas/Haki6TYogao5fDCs9PaPo7pFSByqO+q9W+CdPn6COzuS65RlAdg2mcxQg==",
+      "telegram_message_id": "Edgar_20260419044111_010",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-04-19"
     }
   }
 }
