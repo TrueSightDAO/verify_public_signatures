@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[FARM REGISTRATION EVENT]",
   "count": 2,
   "events": {
@@ -16,6 +16,23 @@
       "event_type": "[FARM REGISTRATION EVENT]",
       "submitted_at": "2026-09-01",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 2,
+  "txids": {
+    "c4ff1e16ffb1743d64916ab61dcc5e602c30191029bc57d44d6a0fb671ef92b5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/c4ff1e16ffb1743d64916ab61dcc5e602c30191029bc57d44d6a0fb671ef92b5.json",
+      "request_transaction_id": "pp8OTi24tfXbI75AIFj+eUFkVM2p0DIp0/JiPWVZUrHuJYEVHzJlBZadhiqA+JFqnmIc5zgiUNcOPEDoOY/ts5NS/FUGSKy4BPvJTfFNFGrdNxegambCoDSuOaUMH1V3Cu5aTZjPqzl6V+nnLlzY2Ntv+fpkzxQrifK5b0D1rDp2fYT6cqkzNeTHb2Upt3VlrDnUPEuXRWrxp3fF7Ix9LZG5qEVxTZF5PfHKbiWx5OB6D7ITZy/EQ1/yZHZGKCjk8lH4qDcB6YBgMfmMee69OSxTsICj2DObo4bZ3p/VWQVGI2vZeKIcbOgBSAcxkM2NYNMj/xr1iNS5+VjXk0eFRQ==",
+      "telegram_message_id": "Edgar_20260831160900_068",
+      "event_type": "[FARM REGISTRATION EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "fca3f2346188eb7b2d758e40fcf3674763021bdbe01ef565d7f0f1a3a9047297": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/fca3f2346188eb7b2d758e40fcf3674763021bdbe01ef565d7f0f1a3a9047297.json",
+      "request_transaction_id": "RKozJ6DOt/cYLzuOYx+9oKf6+lO0+1/rz3w3NIKZX4MunVPFUG8gAOBCaPzDg5YoaZOrimm8rhzJ6TXar006xL8EZR8orfa420v2ba9nJ1mmuWCdS6Ch7caPo+1nqQcd3ABwMyQWM9+MdPKTits0eEZiWQ0HCjj71ur2tBx4Fw5MXMsuIfq7QkJpdeZ4JGQkh3MhClzZOqnzaG6LZkGykaFi89SfR/AdIMYC36pnypbpGK1Ra10K6LN7sp9c/ScXrs6i9dJHf0lk9P3O27o26VYsroa4fAnGjJDeDoM4aQitOAFdDpqI54PrtMc+l4wP4Mg70A1D9M3gyjJYS+pStg==",
+      "telegram_message_id": "Edgar_20260901164208_001",
+      "event_type": "[FARM REGISTRATION EVENT]",
+      "submitted_at": "2026-09-01"
     }
   }
 }
