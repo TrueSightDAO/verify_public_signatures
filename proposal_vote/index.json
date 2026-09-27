@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[PROPOSAL VOTE]",
   "count": 22,
   "events": {
@@ -136,6 +136,121 @@
       "event_type": "[PROPOSAL VOTE]",
       "submitted_at": "2026-09-18",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 16,
+  "txids": {
+    "353b04e6bc44c2801257001578c90f6c5097a2b992e1ee632244148d42ea9298": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/353b04e6bc44c2801257001578c90f6c5097a2b992e1ee632244148d42ea9298.json",
+      "request_transaction_id": "aj/mTS8ODQpV5ESA4o+c4EoOkiYTpWrwXaHfYYhMIkw2kvVmaLtvv2+qQ+mPFeknH6YhzKEqlDSbBZREyy8P5hMXmCTQGDoI1W7EMyvgipEMqk7ZCCp1MKbeJjQH4Juko6URqbo78nxL+Omd58ptZ6yzxVGSQP/rV6T6zSDNFEs6suyald6oHhiLxf7i2y6mdDlSb7kZ2jh0ntUjfDxchfCUgn4ojaic2uaXLhU4t730jZpP2Lq7U4+3N8CltU0eWFx1y4wt5psZsylgGf3OznwMHJ55Cc3r4ME1wfpJk2Qq6aLUBwAlYi+wCrBACnZ6fleTHpH15j7NNYxssHruPQ==",
+      "telegram_message_id": "Edgar_20250905190456_062",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "39202970f141985c4d70e5b237e63030853b3e270f234c728d9a1efd75375cef": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/39202970f141985c4d70e5b237e63030853b3e270f234c728d9a1efd75375cef.json",
+      "request_transaction_id": "FrexeQYagQGrTUe6LSW7Vzei/0dpoV+uawESiwih2+ediRB8H16orR81hbnxRHf67qgRaop54O5Z7fILh3DHTJmsFcOpZhoj/zJ1TUe1kPU21vShuxtqen/QRIZyOpExc5luRYFCs35oiAlzs6/+/CxP9rYBV8oK+h3qQjj0SbqVH3lfJj4Nz0kBec7faOaYex64wikRjkX4X1z5PoM0lVMPW8eq3f7ubRV6RXdJ8FLps6RW5j23HzH4e9t4oZ5miqhkzgNT66DR+Om/MnlJSDYpIuR8g11vS+g4brs7ZZH9QAkGZMQW9EH2iaa/FDPF7zCvy3A9CdWlIsxEX2Sycg==",
+      "telegram_message_id": "Edgar_20260628172158_084",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-06-28"
+    },
+    "3a5f85d1701d37f94b7292f13cd006c107fcb9390f1428d99cb68fdb9caac451": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/3a5f85d1701d37f94b7292f13cd006c107fcb9390f1428d99cb68fdb9caac451.json",
+      "request_transaction_id": "f5KNRn3Co+Y0clJLTy2/BGMPIFIWBvLfDM+QuqMgRLG4n/6tRxI3OQXH50Lu8VMKTXV055iJTlpUd2ZN6zDiNekf1TpSWeaBWRDQ2XGnd+o9kwVvKdNqRn02VQi+nFfBBHKLPhe1n1bPSoLxjZyRZLor3YbajLbWxeUpmnP3TK+r31F4KLFdGr01NJ9Zwidc6X/xn4I2PGi5o0dvQYBC9Wa4v6A2tYI3hJ0C3TUl6AO1f1JxT2hwHUa+HUu+AKBndy4TI17FOfCJkuK7HCTUfjNmJgeud5s8WXiVEXVTfPCm5HxluBltE/oHOAYBCnTNhjWUvwSiJ7cTPCjDFQeMVw==",
+      "telegram_message_id": "Edgar_20260216053847_008",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-02-16"
+    },
+    "47b728b4be8562080584dcc4ac633e31031bcaa14d9fe83de9861320d4d0f6bd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/47b728b4be8562080584dcc4ac633e31031bcaa14d9fe83de9861320d4d0f6bd.json",
+      "request_transaction_id": "vCmALkhr8AtA7lXjtEj0Fwm8mODkqVaNui0LOmanp9J8Hv8Rac9u6NZQ6kai7P+Ctlb5UoDQ7TwSf7iN/5a+uLFUPa94Yj3+wIdpNYhjOgEIIDqh6LKMZ1wr/hiHmnyyF3NUBA8BCJisPdQPHUg6cruU7Kw9Y5Q5hJHMmyp6ioZTZhubDgW1YzeklDtoglp/S05xXtFO0Q9lNTnhMWhFIBYBF4AVylG7GC32apqs0KkfSs4Wf/zN76g4KsmilczD6EBsh0W/e+9oz6I5+7oQfG5DardznUQIBfYi6T22v0iHKCictTC4KZwVGONW5XsxS9nyHD4ax6hBUovTvig4mw==",
+      "telegram_message_id": "Edgar_20250905195157_072",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "4973d56bb33853c3e4d141ed72757a44272145f08bc2a1f176f11e39172acbbb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/4973d56bb33853c3e4d141ed72757a44272145f08bc2a1f176f11e39172acbbb.json",
+      "request_transaction_id": "oDaGPu2qksyjEZ7vVALJ6sDUvHq1XyYM1Zecgo7+QGSxCvFXt4JJTgGGJXHtRg8Tj816X6P2uOQFNSRcljjIGrBTgtt/2p0KVJex8n/O23lDjQtRY+vhXnpVtAEuWUXjXii/aUU2RhZGC7hr2iyE1Q1C+Id5tdzt5FS53pt3C9qUx7IBW9qJYP0z02HqxEVSPbe8fUwnVQdf8yaXejWNmCPFaEiJK3pkgZd1zrqJnpRJcSycdlKbb8O/NTfoO7UnwwCalh2YP6gZnjJbaAll0Kw+Ulrp0Qxfh2pYNS6hFDkHVRSU3GDwpc3MXS2jVHrea3HsD5ijWRb925VchRH95g==",
+      "telegram_message_id": "Edgar_20260626150812_048",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-06-26"
+    },
+    "54d351afdfc5a12983b5fcb4f235016e3031167d8942f538871028c513670fcd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/54d351afdfc5a12983b5fcb4f235016e3031167d8942f538871028c513670fcd.json",
+      "request_transaction_id": "d4x0ZrfXcrZ0+toUg8ZG9QhoPdCCoNzWcrIEgcssmbeme8h1KQT9uic1V5ObJ8cPenD7IcU6/+0XCC8YDRvqpneiKv5E0doxmfWCqvdQtLarRNwP+aZ5+zHhHQDiIrjZ+iJNpIBLqXOShLgPRYCDtTM/YmULsPouKvPzwcRHZ8XI8mkE0IB7P45LieY61sRfRGRm0XpvbALvSlRSPrjFyGUP2EQ7XRVPssQ6DTMOcXl4MxskVI7hgk6B+qOC35zsgsmmx2sbqy6SFYhZ7LBGbPSYmU+nEWnFsVbI9CZDd65SKPDa7wuIYrJBlmd+vr/WPA2d3sTlgiQKi3AQZNSaAw==",
+      "telegram_message_id": "Edgar_20250905192425_068",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "56c2159e884518d9c7d894e9b3ee8f78f95503f1af0b0d9c1461808ac7c34d06": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/56c2159e884518d9c7d894e9b3ee8f78f95503f1af0b0d9c1461808ac7c34d06.json",
+      "request_transaction_id": "oyZ5+sz4NPs1mSfqj3HoLoU52wYHYSSkdmAI9YkIPzMnrayX4d5B/66FOTmrg5AXbdXN2RMNk6d4f44N9s9D1rafSUs1bQc7b9IIFPpjvLuwa/kdV6GLghcM44kggh66m4IybAvzeOifpIyxj2mRUhoJxesztT3c2elT4gfOEhS40sNNcf06TeZBGCBwngQEz6+rqJEQuHKd1LAX9/wfsd1EKFzoWYyaFfYmxN68O2FYb+7PcR8Oi51HRiKc2xJuvdWKjk0du9/Bdu1h95sS/FZ7lhp9+KuUuJWjyJzwsCymIkW1PvKjMTdQxLogbCkNitmEWGgwYcYkzB0O80c97A==",
+      "telegram_message_id": "Edgar_20260216052621_018",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-02-16"
+    },
+    "8d29ed8582cea6488e5d4727ed4c4966409f15de539335f721d493029d21897b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/8d29ed8582cea6488e5d4727ed4c4966409f15de539335f721d493029d21897b.json",
+      "request_transaction_id": "XRNR4ofHGEDAHXRQpiEp9/ZfnxqUnqgDZqZie+c9ouaMq5uRO0LyAYqCc+PA9mSfZ0fgf3s+jGpNdj38f9cbo2flvT7JTiAadq2UIkrAyuP2boi4Or3jcy2zjLT5t35MQ/25mseJ+W5kuJnK9UPGXZ1XNcZWAi0N5YRP2Gv4X6spXVGCgIBKr7sxKxFtYSxsY6QtIJJAOW1cHrX/zuzb8tkaI8mooASrHTF1ycwqMD3ru3Yl9NTSaj9sRnwZVUiI/djbatLhZYg0dQa5NWKI93wmiA9ehOmT/55LEnTDmAjS139ypJlaGUoE16uOqJ4GFeoBcTnqzdn5e/SI1RPaUg==",
+      "telegram_message_id": "Edgar_20250930142412_128",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-30"
+    },
+    "90a6a63faeaab24ae51a8021b18bfdc82ce3987f215cad394b5e77a9b6698df9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/90a6a63faeaab24ae51a8021b18bfdc82ce3987f215cad394b5e77a9b6698df9.json",
+      "request_transaction_id": "gGojW3xAibrvhySj2U+piMcDo2WzyJdZsecTYSBcB0M7wZmSX8/YFtfaeXZ/CCKEo/vB4k1vuEkOytQu93loDoupSmDLH1i6BD+PGA/AUKDasP8KZXMnooTmBLCFQYVDIF/c+nxFN4YwO+8/nZOaEX66r01TFxE5kYlPnc4ktQrEzLgujsDXyVO7vHDhVVHexpvVgxIOIjuZPdk6I/DnapbwcMhdqakhqWF8Bdq8E7Qvqx7+aLsFJ49okYA3YFs6YlO6yjPvu3umRQv8jgTqoeqDRaHukkHqWssmiYADlyprR1RAxLTt2svObRAAGMIgQZpEOj6qrDl9kuiawGNzXA==",
+      "telegram_message_id": "Edgar_20250906164355_082",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-06"
+    },
+    "b07a41444a4ac1cf0982c99aad3f990afb71c8de2ea0a7a54bd87f4636c2e8e9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/b07a41444a4ac1cf0982c99aad3f990afb71c8de2ea0a7a54bd87f4636c2e8e9.json",
+      "request_transaction_id": "F4wcAPMPuB33mMv7UYD54t4FvQItEdhTcJhlfB7a/HKOsSUDKG6u2P9u/QfUFcPzcBeQmw3TRG0hhbwsVgciwiJxY6W4BOWA2vUPXWXr2oyYN089AdOnFxDq4Hz746PJMjMyFc2Viy2NAnl0AqwR3NjVBhy9kyAiMhijOf+woB0vkdNidGxLiBhT+XtAC76bCZNtu4TlByT/MH5xJ9jYFnmmwaq36EvJQG+N4XIzNU0JXyYdmtyHNSqK+erU/ub1VgkE+10ioUcMgdgSKcmfqsdGrswTFvGFzu9470WwlT1RvOb+i2I23MrxN9akhDfISx6MPeYLjDQx1juOKlGtfw==",
+      "telegram_message_id": "Edgar_20260918170130_007",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-09-18"
+    },
+    "b7e36d3b4bbd75b097bcdc6b92f0d175f994e7931e2a9dfb4b4a3bb8fb27ba52": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/b7e36d3b4bbd75b097bcdc6b92f0d175f994e7931e2a9dfb4b4a3bb8fb27ba52.json",
+      "request_transaction_id": "L+xgyFhDlR1/AqMnvyQxc1aKrkUAFEeHSlMAsfr46Hrj5SHPaaBBlsin4yKf8t4Ug88FUkoPr9R42P6cieFfXHgLxtRL/hFi3UUGP9AvH97jnRb/UCz5iN7VwCgVljoA3VKD8A/aEiU4jZtPO3JQo+2Liyg2TCJHYer0aiRoavl8DwCr7p/Z47xEqpE/FI0AdNbIyUdZmQQRHrNTaKoAuwoWeA9/tY8kotnf7UHTADrEPYwiszGO/gjdFOH0xXN3Vn8lU4n/G//Ots96rPOEDHBFAo/ttrHHh2zlrb0teoaEfnybuLuIQMfd6x+mEZo6bXJ0gcwyUbNXB9LizWW3yQ==",
+      "telegram_message_id": "Edgar_20250905211354_076",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "c76bb4a55daba291dc151ca864e405a2c841911a3c180b4fa1dba2c805dca793": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/c76bb4a55daba291dc151ca864e405a2c841911a3c180b4fa1dba2c805dca793.json",
+      "request_transaction_id": "hzG8l92Ieszvr1qhYlrd3vVi1tQ3SV+9LE8twtxWUkfMD+Z35ts/oCsfPwgOKab9Cfy6MBYFFM7kiiIpGnbLZ/rzXR35C7k/o5aIE8/NtuaVFxbKnVMv30vO3y8E0L9UwWo6qgo72NFqkfBOpHWKcl9/lEm2sq7nEbvzoNlVYTMjREtoB153Ga3CdWu935UHi4lDwjEGonZnJFPvPU1STzv7qkALlIR9rVP93wPno99BF1ogPWlUmbbAJ0gaWMX739w2ElSY4tTIEwzRE+bOi/tveWGiNq4kFvT4kF7bDOo2YyggiS6FpVUEFiJZacJZRF5o5q9FW2IVMdvMLpO1Pw==",
+      "telegram_message_id": "Edgar_20250905191726_064",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "e29333ab87a96ad8efad1eb1d7458b1b83dafd54659cac82f35db3c49aee2c16": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/e29333ab87a96ad8efad1eb1d7458b1b83dafd54659cac82f35db3c49aee2c16.json",
+      "request_transaction_id": "QRCH12g6TYNwAv0ygIzktibnqqNeyCSFLc2jeYUzanqiwyM1gOCyCBMdxmK0cVvJQdxLjtcdfRGhBlEzs7b0MET4i5jtQLfz7VOVP1TCkKEBvSQNfDOJSjYfSeS2ZMnFTAntGFC3zEvZ6QhEHSaErM1x0o6omaMNCCLXrp0pd1htUG5Vqh9yD2Qz62s/k65QXLuPTnpieyGHoZ/BNCzWRuUZ2e1wjOkuT4iCJoYVc1MjesBB4YtuU+DHmNSi+c7zcFB0jvqAO9ju/Upqe8NCwBV/liaLEe41ZZ24dzXUnVu5/a6Njiq3CckYRKMcPENvaejzhwgmyBPI/GDDK+q/CA==",
+      "telegram_message_id": "Edgar_20260628192700_086",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2026-06-28"
+    },
+    "e704b03d3b56da7e2221815b36f0703bb97a009d372a49628f9f6214ed4ebb0e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/e704b03d3b56da7e2221815b36f0703bb97a009d372a49628f9f6214ed4ebb0e.json",
+      "request_transaction_id": "6robqSIt7hO711ETFcFkRTDtPifFdEgYjt1jJZcZs0JNoB3XoRKUheqVOAlqfx2nLaDAgKDyH8G0Juuu7nYaXMrqN49yY7h7JXMMnLZZyCwEe9c0t4cIwLIu96B6/PC03shMfLwZfWeOt4WhTxzPjklOpxw06YBmcESjZ4djH6yKBoFNuR5P/l5JdLDSUmZ3eYaTLy7e5VhosLmv1Pz4m1zLRUB3CMBIIrd2D1MdfHk6RlJnxVKrKwP39SyP8cCbmedfQznv0bN5sFs5sU70N/1cy1H+ISRtVmz/S4FsJtetfe3LaTKSQYHdk/hIWeZdgxHn+s2q9AgHRGlDVmpU4w==",
+      "telegram_message_id": "Edgar_20250930192527_136",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-30"
+    },
+    "f344ed1df457e13e094d4cdefe97e737530c746677ede40f996531004cc66fa7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/f344ed1df457e13e094d4cdefe97e737530c746677ede40f996531004cc66fa7.json",
+      "request_transaction_id": "ooS3qeqyeci7iyPDGgCuYVj9Ny3HODs/gF2Es5bUT09RDQgcawOT7YGwFVy8gzv5DMxJLB6GuC9IWQYHKpKgrdvq601Pi8oYEPckxPH+S18KLgyTmNm20RUpKNQEnumOTqZIQJglSeV5hzto7C5lni4K3OdIFncRnfIZIQnQv1kxTnxDtAkG1FWS2oKWTx8rj4nsTB5TPLQwCXjG8fIbe83DZiaZ/V7bOBur2H23RC49MdREA8iLXDMgLskZI1iZ+DdIpmq/dCL6d6CZFDKBuq2s0iGmLarJtu42QmjTt9Y2TGiE5LNUYVf2YskKvALXKrOg90E1RflAhWEe1pv34Q==",
+      "telegram_message_id": "Edgar_20250905181747_052",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
+    },
+    "fd228e3b178fe6ec406ac5f3454d361d43df604f20be662b86f1605020e5b818": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/proposal_vote/fd228e3b178fe6ec406ac5f3454d361d43df604f20be662b86f1605020e5b818.json",
+      "request_transaction_id": "JxoJPHxq3hVPnV4FmEJZ6nDj4r/T8mQkKFfiUkcKZaNNslKl9XdbpTvVoEwhbxogF2t439QmuqSN4i7v9Qm0XtmDaGTVQLCCSKL0176Ea/ha57fdn1m+Q3BwajzMLABRfBDUoLs5N6HQv762+1qKCTzX7+jmzOAyTjkEW2Z/mebTXbxOeQrKmdJJfD0ZZS/Hv6bpYsm+LvTud10tVA03begNBCeCrv8iQ+ovsNEzK4JRTx4b+WvA2lX3PLaAobU36QXwxemWHQ8BZwIWvSSrVh5K0gdn6EP1fGeB+aHTRHoKP9l994PeucJZ6FHpEwSjjxFKZQ/UzPuZTC788FvCKg==",
+      "telegram_message_id": "Edgar_20250905181725_050",
+      "event_type": "[PROPOSAL VOTE]",
+      "submitted_at": "2025-09-05"
     }
   }
 }
