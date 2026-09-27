@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
   "count": 1,
   "events": {
@@ -10,6 +10,16 @@
       "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
       "submitted_at": "2026-07-03",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 1,
+  "txids": {
+    "0065a9f531024023f190d7905956552407d0fd945643ee3e0f1153249e3c27dc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/voting_rights_withdrawal_settlement_event/0065a9f531024023f190d7905956552407d0fd945643ee3e0f1153249e3c27dc.json",
+      "request_transaction_id": "IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==",
+      "telegram_message_id": "Edgar_20260703041352_016",
+      "event_type": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]",
+      "submitted_at": "2026-07-03"
     }
   }
 }
