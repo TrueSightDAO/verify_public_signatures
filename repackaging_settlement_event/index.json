@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[REPACKAGING SETTLEMENT EVENT]",
   "count": 2,
   "events": {
@@ -16,6 +16,23 @@
       "event_type": "[REPACKAGING SETTLEMENT EVENT]",
       "submitted_at": "2026-07-10",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 2,
+  "txids": {
+    "d5e28d6035ff3f7f71b07c9939efb66c321d95955650ab5015a781c132b0e248": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/d5e28d6035ff3f7f71b07c9939efb66c321d95955650ab5015a781c132b0e248.json",
+      "request_transaction_id": "iGcTwY5WX/7nzO4dCvrcvzG7g0nSF2MR+B7U/DJ4jnyAMia2znSkEZpjGi7I424pNKe+bxCTF/XiD+lQ7yDLZ+eKpE6cKuIcpOXHeGDAB1FhVW67bY+U2ZA6A6Rkxe4yvNw0bJPMa1sOtfmdZn8jW8yhdJjS4ZRYS7imGFhlSwmu7hxydLyJO14P0XlkiZqgelnCQWlnWlLA42RH4ux0Tw99maQGVz+z6WVrAElvq/28Aq3rJ26K/N3nTblUf4sGYJOUJRGn0J3Uq3ATJ7le1I+KeEonSl0l19dMik6uJcOnwWNY3Bj6YkPQE52gGfA6xPpT100qs7EwXtwnvX5u4w==",
+      "telegram_message_id": "Edgar_20260628225150_1958",
+      "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+      "submitted_at": "2026-06-28"
+    },
+    "e0e4cb865f183dd7b1749da4b7468dfa8cb05ccb436c3f9939d42bfe1c676e24": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/e0e4cb865f183dd7b1749da4b7468dfa8cb05ccb436c3f9939d42bfe1c676e24.json",
+      "request_transaction_id": "pEEai/iPRlLgAgtYtJvU7oPfQfGaaGET0s2CN1m+9q+jQ3L7NNkPaRA816K5/pW7cNhGsfqJbVE9T54ygq6m8hOgeps1s8AsLN32v/1z0wI89Coi4Yn0EDE9PuA0wwx0PpLaTpfBbn7JhHsCMrcM0b9qrqyuB+m/DPDlIaNHqhjKmGQkhO+Q/mELT0Ff1iD0VpkLXNtWlWlJ8xGf3rPWf3o2+wI5iycHlGtZPyA/FTKo7zVQxaVVFn4WGLsbawE1LkOVteGYXnkSDslXlzUQMVQ+SoXtpGlGTSUUIcbQIr4sYA9d6Yuup7ippniFZWgpE8Umk3PiHUPHhFsCh5OwtQ==",
+      "telegram_message_id": "Edgar_20260710185419_026",
+      "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+      "submitted_at": "2026-07-10"
     }
   }
 }
