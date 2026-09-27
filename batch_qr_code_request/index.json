@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T18:30:12Z",
+  "generated_at": "2026-09-27T19:00:12Z",
   "event_type": "[BATCH QR CODE REQUEST]",
   "count": 13,
   "events": {
@@ -82,6 +82,100 @@
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2026-09-13",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 13,
+  "txids": {
+    "136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6.json",
+      "request_transaction_id": "rOOunIFhwOz5GIVfEe7Mki7ukht/jPY0pl0FV4tqkxAzginVa+IVzTRytKmF4Q90rJtZUk9YTyGDDnhqsgBGK8b/jLfQJKLudFeWIkjjalJ/dRxwLmie0PHjLy0bq5hqC6izipqA1ZlB1WruIwMpEty4tHCBCavoRvEZkxJdNFVs19CpS5jDzLgfmWUfXE/XKiTZbUFOPit0E6RmR4g1aSRChLSXSIsH7FmPxuTJORFbpBUpcCDoWM9ITps1+00GPK12C7JXzI1ShcAdNIXevxj/FP87Qc85XTV/nPBy1Wp0cOf5VimyS6gqafrL+oPBq8Dw7nY6u/x1ni3CYt16pQ==",
+      "telegram_message_id": "Edgar_20250901195435_130",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
+    },
+    "1a49f21999342435c31d37560c85e3ab25994adf081f690883127edde1402e25": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/1a49f21999342435c31d37560c85e3ab25994adf081f690883127edde1402e25.json",
+      "request_transaction_id": "ktcWNxvgmfLDwWD8eck340Ma4pYztPueSpXvur3eqoRweSlJp0yzqgH6z1RkQCvUtA1NwNGt+JsKDXS833d8adlXqrtBT9gNidveuFDtv7XwFkVq9f2HTV1m7NEv6/3H7+2eXUx7jKV7OYwz3N+DjAepPZGl6RCmA7lEx8FEMMWI4CIamADitKIUAjILoKa1qiQCxr7N39z0X8HFb9hjVDFAGtqJOffuFdUfzSsGTcaZne65hCpExB2ah7ki8lCMwN0e725U8MFcLbg4nGKrz54XnHkzBzluKzpOKxS+L0Qvcfwt805u7bxf3v6ijRTl6a+AXco7pVQa5dpfph8vaw==",
+      "telegram_message_id": "Edgar_20260620230146_008",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-20"
+    },
+    "2592c8de17e0619f9aed66850b9b21a0656011fd96436c8677677e6ea0337bdb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/2592c8de17e0619f9aed66850b9b21a0656011fd96436c8677677e6ea0337bdb.json",
+      "request_transaction_id": "EzBSt415xlcsBP4bMKRPHDnqfXNcucUntWA5GvVcDS3EruBpQlzPTShI2sSKD+XCUD2vR0g/hePS0+GRAxncrfkzQ2YDPcJo0gMIsNlgBOGSQQax1UfgUOO9I3MalekUILK9WyqUfFmQ3KpC8Wir+aWXXHVyfubgWXEj1kwvWWQxLLPby5QKRl/oVLfLjuWlbQfVHuE1OWa+BJhU4G4MmM7zzVWdcy7E/4u8LihFZnFiUFW8RZ2pV6IibZGKxOhcl7UNvW0I4VZK++UClSX8SWaC3yq8UZab75uR3+pxIBqjOep5BmZWThYLb/6SOERY8rBf/LHl7lIbS15+1KDrkQ==",
+      "telegram_message_id": "Edgar_20250902190259_150",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-02"
+    },
+    "416cedea36f01f5eec154e3d4f458b33a6be95672493d4971593c942a9184dcf": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/416cedea36f01f5eec154e3d4f458b33a6be95672493d4971593c942a9184dcf.json",
+      "request_transaction_id": "CvwULdh+vb4RhtR6eSiB97F3VHiECCY6awZKTGUjlxGpjgZ24tS2P+vxp7QN8HThrcTrrd+UsmGt1VtXB5kLjgLsZNgcmVwokLZ4RBQwXNmjVKl9090o6ndCGXHr98wDw0nvm3enJy/EbWo52HO46x/l8+Bat3LXIEsiotD7pKcHUkav25Iv8sosd5frc+lI26HTuy4fs2m9aPxZxIn/3v28fMW/6pEEMMXUKYp2cDnS2fltE6pGcEQHP/EiAfOb1ldJo5/JiEPuCpwLdvXzrgbkGh7j/tViDO7DIsHUsMAEgWYVH1TvLWa4WtpGC+PMFY/VHcVBLLR0lB7livFHgg==",
+      "telegram_message_id": "Edgar_20260710212015_060",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-07-10"
+    },
+    "623ffa7391bbe3b66c0a7a72f63dedd52bd5456bc1dc088c1aa5397c5ebc156e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/623ffa7391bbe3b66c0a7a72f63dedd52bd5456bc1dc088c1aa5397c5ebc156e.json",
+      "request_transaction_id": "0ivwpiqWpiaj3pR+myhWWXHk9x4zKVCQmO+XDRCVSZo5U4mqE+o8PNE/TpZH8sGf+Sre841sQHMq0iH4raaTBhVdgsce6AldbX0CHYicFN2dCFfAE8A0kqOnVH4XJS6DuwOPW4ktsPjsBu/e4azHakRDYG7S1EUmobcdSw1dGuynYxWc6tVDkdFG2IQo3+v8pXXb/E2SoN7ozf2HzT8NHvhKdDRheBW52bXW7O/XkW7UyRNKk1OX5Sevrf1ap1CyyCBH0Gacg0RwBmhwrEWnArEWy/CnRgUfLO5x6ki5XUFqjNAulN6Ac3c0iBp+Qvto5ILyEH360MeiLaGm9a8Zhg==",
+      "telegram_message_id": "Edgar_20250902012327_144",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-02"
+    },
+    "6b19bfefd23422fa6d659cd5ee9c511a99a7f3b1a6ed76209481c0b4e28c6884": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/6b19bfefd23422fa6d659cd5ee9c511a99a7f3b1a6ed76209481c0b4e28c6884.json",
+      "request_transaction_id": "nOAKMTzShCJjUrPx0Pk1Jpwwa75A2XsdVl2TXGZn1xlsyBkyWSt7SRo6TqB4VBAyT3+pNdkUo752OaUJFOPnKqC8GGmdsDQraMC8wB9ZuuZV8l6LU+SfYxjVjOTZKBpP1Uce5OLrDrGBIst+W51vop9mndnxrJponqcQnOAlE+Q87UmkqeujryLgAZqxm3TRnEKYDJxnDofrA8TiDacjHM821XqBMUp9nSn1G1Fza3A+6r7SUmtJBNaV+xNexGedDYq9WicDz1Esv1MQv4VWsp7/5VBCJoJDFoYP3AV34XaxfVRLJlc/MyMW4yDYppEp5WpBCiKBvNUMWE5TSsTb2Q==",
+      "telegram_message_id": "Edgar_20250901224707_136",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
+    },
+    "91c5eccaa703ac418de30db29535c9735a53289961b54f96222ffa75387ed6fe": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/91c5eccaa703ac418de30db29535c9735a53289961b54f96222ffa75387ed6fe.json",
+      "request_transaction_id": "e4S/fMt8Zs3SCrWUfy4C1Qcku5Kz84FidKc0TWCK/gwSRheBDtD4jJA7juviiPxNiAJTjlWohpW4NIZQJEkWBYCXHiiMPyARbnbW9UY9aNxU2xbLJfjEg4MojmibeInHLJSNChOdoWqfHP1SScK5K1TLQwq+JAYpHmmbY29wmGvyqCdeJEIQMxX6A9duTfubEs1gJK+2eI9+d6WIune7A3ZL52/ccdS4njw6CZPnbtkefp7DMTFLIlFjF8GY27kd4qnZ5ir1c9jfmcJ3+UAH0IMy1TEraAB0PJzB8xgq4hdpIFtdO1+CFLvtWFdkjr3j3vf/IJgAkqLZ3/rcbjU2yA==",
+      "telegram_message_id": "Edgar_20260620230144_006",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-20"
+    },
+    "9ce312f622c647e6f310a321654b447b2d62f41a44d4b9beaca147100a0d735b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/9ce312f622c647e6f310a321654b447b2d62f41a44d4b9beaca147100a0d735b.json",
+      "request_transaction_id": "UY9D2P7FnOrFG9HIkG+DLnd0BoVjZsRamPaAsFSXapHJX14znv8LPhC9rkFM1iDx1lKe9ABT5gReoIN/hdgfVbOBMJO0bcadQ/5uq//ZuuK0IN70LeoHmifCJgBYxQmRYhEBZT752Ze2GDP5rC/2Gr9JZT+Y6aDb75aj5dzuB6+iZ9kMVea16e7iDeJq1GEj1BMWbtWpAKr2BhOwH5JyokWbOEH1HqAtkbIuHw9Zcttw3ok1E2NRaMLorAeL5CwgsebhszK0Yjc40pxt5MkVwD+REMMvV0lJwZT9jwlIJ+qG+oLMVlDDACL0LTkAHu7+DlTWTVmm9Y+ru2U5ovpCnA==",
+      "telegram_message_id": "Edgar_20250901211505_134",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
+    },
+    "bd23485bf38ac2fc19e70a502e702f8230524482bdf871d99223a46429641a60": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/bd23485bf38ac2fc19e70a502e702f8230524482bdf871d99223a46429641a60.json",
+      "request_transaction_id": "rHT74KiTUDM3MJ0mDvIDzTw0u3s427aya2z7nze3IrOrm96qnxEgfOliwXD8v6dAX3PpTv7GtB++IFcE+yj4eTuGriRHz1A2jLq80UcsZMZSILyf5MnDIW0SyzH+xIAizFPpaN7fXBjeECK578u+BiRp7UDL9vlNFKCMr+NRcZqzUo1WTcSr/FvmRSKy/2NUQ6vDP1Cys41BquTeq+73IMlc6+CSp+nRYQyLKLJs0xOfU4iflxlHglIS17NOSvRExrBrBU/P5ajtavSQ2w22V3/VlHZxM+4LLNIs2RJWEkbVMs+Hrflmdi3l8HQ6r0V6H6szp3/0Jy+Tv0c0bnr9IQ==",
+      "telegram_message_id": "Edgar_20260622221003_004",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-06-22"
+    },
+    "c501704c5480bd3b0de65c2aa48d01f3ef6b2870d75c87a0d07ed874cab775bc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/c501704c5480bd3b0de65c2aa48d01f3ef6b2870d75c87a0d07ed874cab775bc.json",
+      "request_transaction_id": "beMUwMZKU/mjX5DC24JUAbTqydAa19d0I/W3LgEmgYrZnhV3J1Lb8aMA4Vqb9+Z1ujWsmlQwYAi00ruDBfCe14Fq8oQOze/FaAk6Ry+s4Uqvl7BSHK8wUlobQ7tdMCWAb2Aw7QYBbMIgqrYYyAktWP4z42h9EfZ/O77gTrt/YjTl2wm+iZvnakk8XRnjyeVGZOJQETeUuu2YnF/d/Ob1Ip8Ux17lZADs1kY6o0HQpQUcledFcnXxbdQscBSnBqEuItp+biiq9MVgS4m1YmcJZbc058uaEUOy6urUvbK5em4XUxe+r0WNBqj7SNKvu9wNEXXVWag+aNXAlESrVn2ndA==",
+      "telegram_message_id": "Edgar_20260913181448_013",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-09-13"
+    },
+    "c71ddc03b3fe1466cb67c2bfe4d5c6d78cfe72a2dd19dce2d717ac5aa8c6ddfc": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/c71ddc03b3fe1466cb67c2bfe4d5c6d78cfe72a2dd19dce2d717ac5aa8c6ddfc.json",
+      "request_transaction_id": "TBDgm8QMEKxR/nuCcQbEWVvB2edntH/sXi11/13LaqN7WzXeCSPFHGJKZmmGk+z7H4czXFdOH7XwX41lhktQraAi5NnE0vBomJvIpaqu2KymnW3a54Ra5FW6BEHKkEG53SA7Un1j+5DJ/N6nm53F1lczkcGXClDLwmirz+fVSkOxS2UALLlM32fvxc8UiIjCL2Ei2vdMDGAtacgtaBBs5XkDbGdaFDZQVKI2iHMqta+hFpXDkUrArVihofOQ/Q+qUSkcCYrUVOeAKKVrmQ4ev10ANImH8Wg6oLLgHJFb4l08ntm5h8IcBkke3zcD/uqFDmO8JMrXcI+iijZc9VyhNQ==",
+      "telegram_message_id": "Edgar_20250901194925_128",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
+    },
+    "cea68e28757a8dc4a9e11320180732bded119b6a09a4d5defb8f4c4ba7049c1f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/cea68e28757a8dc4a9e11320180732bded119b6a09a4d5defb8f4c4ba7049c1f.json",
+      "request_transaction_id": "Ie0KrqfLyWvoZ48rHqOZ3PLuC14qT9Rm6VvTfXIcba5RLgNaE9pPhbBXWTcVy/khgP6GPsNWUO9mZX9KZavd8mbURdsHYOfGbIXXsuASx3pbYhe095B/JjO4g+VvbYFciPPv4oxD7w1S0zQtVNp5budq65Ys7deVViNtgIc7VhCK4SgnowyUpiEq6qzVM5DkGSAIOySrye8rQw/bK61fmEI8q+pfFafn24NrLAlkiP5PYHt8L2st3Jz6sMkJHBVeDNF24C5ucNsf9/Yw6s1Y8IgtAGdkTFO/ll+jZFpFviZp0N/Atwq6ZtDmJ3AAKfvMKqOgc+lYsuVdtwIxYvjxLw==",
+      "telegram_message_id": "Edgar_20250901194420_126",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
+    },
+    "d77772139ce75a8906bd8239700c98c89a552b932c3d3f16ea232f26cd745da9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/d77772139ce75a8906bd8239700c98c89a552b932c3d3f16ea232f26cd745da9.json",
+      "request_transaction_id": "iUUtnSc90YyVdkU533GKsUwsDRBgJ22sfHki3LUtx2kqoBVYpfq1pSs3MnWzrW2WyiUW+i0tVLloUvRfT3QXVfB3qbc903hmi1pnJDF9xleSdLO8KyAEXTEBmGDswenJ2v68UK1DXBU4tZyGmomCldl0S1tmpEVbpswfjwFgQoR/7FxLaR8rb03YO4l6XZSrKbathk0ZVFn566IrtfwoR0qerZFdubPudKsQ5tetwWH6f1Z1CDsxW2MPoY0wft/AVoSVejQ3aDBrBOI5fhZpOkotZEhwU+EIOLoeAbMd8Hdo0Xh/sTGfwbOiPxpBdey/hjmqZ6ShxyAuhc5KF+oJvw==",
+      "telegram_message_id": "Edgar_20250901210345_132",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2025-09-01"
     }
   }
 }
