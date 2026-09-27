@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[NOTARIZATION]",
   "count": 1,
   "events": {
@@ -10,6 +10,16 @@
       "event_type": "[NOTARIZATION]",
       "submitted_at": "2026-09-09",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 1,
+  "txids": {
+    "eea2463091139926fbc194e3094ac517796dc7df0620877d5a56aa6592a359e4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization/eea2463091139926fbc194e3094ac517796dc7df0620877d5a56aa6592a359e4.json",
+      "request_transaction_id": "StI9AEMK2sRDw576RyC1w/mGch+EaYOFlYMcXjMsirmp6hy80gMaHisVGuCvXeMINETN8UJ0yFaV/Wd+++iuRjlahvL7oR7IJZdOjEzlRT2b1GIf8AWKdpOHHm1A0J6MUoabRaSXjD2T6A9xCHPqIKKePIYTvg623t/2iLEqZwt+oZR6v9yuO9TLxDNRSqH5WHgWqH2gZjMroUaH82OfYkrCNtLnErFpl+nNxxh8AM9Dg8ZtbYPLcePgsZ5WqRULFudkrxT4iuFoKN9wcBTVtHXLhSJH8fRJAX4s9T9Ln7ivzcCg8830Z7HlsxWLPurmrh/iXi6O9otoWasnUcMYwQ==",
+      "telegram_message_id": "Edgar_20260909003437_265",
+      "event_type": "[NOTARIZATION]",
+      "submitted_at": "2026-09-09"
     }
   }
 }
