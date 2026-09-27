@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[CREDENTIALING ATTESTATION EVENT]",
   "count": 108,
   "events": {
@@ -652,6 +652,765 @@
       "event_type": "[CREDENTIALING ATTESTATION EVENT]",
       "submitted_at": "2026-08-20",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 108,
+  "txids": {
+    "0025c50f062058271a4fbd1f8bc9757dd36eeba92073ca268109c1802eb8fa69": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/0025c50f062058271a4fbd1f8bc9757dd36eeba92073ca268109c1802eb8fa69.json",
+      "request_transaction_id": "cOwpfz9U1prZTJggP2j//69mkyURKbu6HUZD/Ck/V7Oa+WKXZvJ3HYGqECFAwEbWPyTxRXuNKbp26BRIjjg5NSRdh/+CysOlG77t4uWvBeU6SE1u2VHT4EHUH6MkJlRlfcfjEcPW2eXMqPFctML3jkE5cSx9dYB2rQ57RMf6676ma7vJJeGQ9TdcgSnL5k0OJesAIySzjN0MswA0kq4AXB++42uPM6fuPN8KHuvqh9+yDpqZQ+NwnyV1RHsbCHSyDKU3oXsYBOwSlIKyE1NaJXDHuh55g/6aN8gU9acQxclYuytE1ANFM808/ZqfihtOVd/4XLgUOaVT6RObSmK6/Q==",
+      "telegram_message_id": "Edgar_20260531082123_278",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "00d8d20a5a854b9b848cc008ff3f434d01dbaa78b177c6f191dcba0c48f12d18": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/00d8d20a5a854b9b848cc008ff3f434d01dbaa78b177c6f191dcba0c48f12d18.json",
+      "request_transaction_id": "MN/LE8APpJN7j1bD0Uhz7j1epNym4heUoZDg+QQqoasTt8xjmqc/oIp1WYjTlJMFD5q0ssVa0GCHY0HxpTNxBbULmkrrZ09bCaTY0khGJV5F8iEfVSL01shU91yJwUqeawEeS5y2oWF7sCdNVjfTmNJYejdrVTsw0JsTuFkbowKsfPV8p9bM54hy+wCYxneLKTeTOPNLu1dQt0VHkCv91YWRrK8YweP8l7uRlcERlrtksDNJREZNbt7EZeQ9f7D/2w03/zaZrg1bkXeZBG3rzeZBr9OUsotzKxZdsPcT935e/wpMcdBs7T0aQwpPrne5vg6eBcHowayxpqY08Df2NA==",
+      "telegram_message_id": "Edgar_20260522225030_342",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "04984900ffad4469725186fbe7092c8b9daa330d444f7c9bb47cf477a05a3882": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/04984900ffad4469725186fbe7092c8b9daa330d444f7c9bb47cf477a05a3882.json",
+      "request_transaction_id": "Od82PRyuSsWqJoOTdR/ykUwJe3zAky8n2nbIqAOxoiDPmPXttNhuigaTM5dEeM0W7RVT9fWqPR7NdWCd0fjXcBGeiR/LWXjpuym826FO+XdD4okwOT2+RohsOsF5RTzMK4uD5ZHK6T1z6os2UMUKmk1GPCFtQVlAoSewg5Dm5JRXapJP2ZS79isgnvYfKVuV73L0sTIqYWGNa+9C5HIGVKGi4wfq/qr0GewZW/eoO4i8r1IFlAahXYfTildGTIJ3/kfsXKh0jmDuWAJqcyE+UE3sjzXp+JG6hk0KbKPXPTipswzDqDynzesAs7zmbFlCoJoXeo2Nou3kUFqMbQF4yA==",
+      "telegram_message_id": "Edgar_20260531082147_290",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "05cb160973d5770ca3a16efd05dc3e7b6b280d4bd2e8017d01bf20c689a1265a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/05cb160973d5770ca3a16efd05dc3e7b6b280d4bd2e8017d01bf20c689a1265a.json",
+      "request_transaction_id": "cmYM196plLcKJQVVJ/+ZdZkjMxtsVHBFpW8Rs8P+vqYsrHjoUNybwAGZ4/4RMFZ/PGrD1o7+M4j+uLmlAFFnrCe+vhT/oOhb0D49uQhwBafwPCN2VEN30XnVBtVwjETcag6ecAaCcZYgcPJTwEkscHTIw3b61LfvGuDN4IeFRTOY35WVP0t+91FJomfksG6ZwNpeDsoBW9ykEAanzBwH5VyTXrJ7AyzS5uQGb8Dp4qJ5+QDKoOYvzQvqxTrMQMFuu36kQNT4MeDmwkTqPECwBRkw1PSiHf8lqq3U9JltlRBnTp57bSIpdPvrrKwgaZWIirEdb+6j11tSETK0cpLvRg==",
+      "telegram_message_id": "Edgar_20260531082150_294",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "08ba5ce73558359615752f11963e8198f35fce806c46d3271d819d50712b18eb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/08ba5ce73558359615752f11963e8198f35fce806c46d3271d819d50712b18eb.json",
+      "request_transaction_id": "EecI0iql6WQAtZkuMsZbR/B8AU0U4BTpa5hrUpx7ORzmAqp02Zl+kvkyNM78tUE1UNBwP/J1rzktTEutG9D/UTGeiIYPXrKWJOi7tFbycOw6+cfsR0C1/OyThbGdKOuBeNNZL0BpLKIZ61D/15Bg6Ax0UY9TELeNf2zqd4rcjVy7/m6L8O5JLpOkF53+MgJhtLOmqJRtshQ3Qxed8dVD38NQnubzojiyX6e4arqOhydXknkKxulksJ4eD3X7CioZla7pFauOgI3tWSYMhxYQywEPGJFrr7nwOdX9eJjtPlitxs07f40mybA41++oFCsjCs29+ClKkAHngldn0JztQQ==",
+      "telegram_message_id": "Edgar_20260531081354_172",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "0db6f50a978a499c8a89ad41f5bb9396f5174b4810feaf38a2aeeb549157c248": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/0db6f50a978a499c8a89ad41f5bb9396f5174b4810feaf38a2aeeb549157c248.json",
+      "request_transaction_id": "inPUigjb8upxj4gjqWON4vrCh00DSODZQjvSHTC2e+sc+cwGPbbKyXOxzHIyxRTMvQ38yQldfWGTYIaonWXJYJm5Ewt/t1tlzv8e/Bd2hOAzfyB/xqEzBHuW3oKbCi3msYAzDmc9396v/GAaCT6Urv1o3McC4sgbKHOgFMzx62pTXMzizQaFU62UGM8YP1VUaPrYmk1LlCTLEFoOgrEKq46qmsHxqpUna57XZ9pfiSCjJI5gBIujRGSktgJ6uNMRxrUPsOl79qezPucIK2glmSeq30wIr0AlI79pImzTPsP6GTpltQoIf9Z476ZxNhkcqh6KSdTN8kQXFBw0dYlEEA==",
+      "telegram_message_id": "Edgar_20260531081500_208",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "0e1cce28351724738cb390f01d3f2126a46ee3b451bde1075af3f173ad50a3b4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/0e1cce28351724738cb390f01d3f2126a46ee3b451bde1075af3f173ad50a3b4.json",
+      "request_transaction_id": "yLC/AsXorxxB6V0y+IrpYxl+4uJArW1YaEWbxt0MOVXKQCs/NhVd/vybzeKAKUDdYDYeEUQmU7lbNwh4nDuMyYuw5LOAGV9u/PSHEHftw2zJVr37fx75SE7wRBuOGYVaMZCvkeZ/GMcEFcyDoYPvmeI4+sB+hA99uL6f5tPbSTDuIej/HqdyKeXYrm7n4h1+RmkyNR1zIQbJslryQnsHUL2ASDBC82gspNnqJekstd1+XiLKwnslFlZxQNwX4MxkNqJVbeu9DpqHsI3x6L8+o0l539RC0ZyOiYMtUUKiXsYvOTIS29oxY6l5xx0i1NeiWzjQ4v7Q3/rxX2+X567yVQ==",
+      "telegram_message_id": "Edgar_20260531081328_148",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "13899a802f76b16eab4a065a24a9c8d7faa9f37ac59ab22969722ec5de499c62": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/13899a802f76b16eab4a065a24a9c8d7faa9f37ac59ab22969722ec5de499c62.json",
+      "request_transaction_id": "voWsiITsIDVDjcjBsOgCO9oxJ0qOJ81qTfWAcbsgB2QztKmGVMQHTloE4TrwxzoONPHWALSIk7ip8jXB7PLqLkYIrMTjcjZ0PwUCYmrsRvcJiimN6x7610hEqs8H+322MZOnVnBPYoye1w5WJdrVOhGX2c+qnAPLqGUBS2lCbITHXVu5Qt+nNKAiINYIhllx7+EhwpCld56wjbaARhZC/cpwAkqYyJzneSP7UwpE2nk7e6yLv659/KOjwrRb4LxiaUbq9+Ymi7IaytnoxPySIYReDdWD4ikLxjQoz9E19Mv2Nt8zg6RpmWnVAW4ZzsKuKZ6ynuwjuX3Paxj7KRSBHw==",
+      "telegram_message_id": "Edgar_20260531082144_288",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "16bb4ccf4bb5dc67d36f86dff06c9c4b9c93aa1fe3630463b41cf554f7a33e55": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/16bb4ccf4bb5dc67d36f86dff06c9c4b9c93aa1fe3630463b41cf554f7a33e55.json",
+      "request_transaction_id": "IqPpUfug07q0t+m9/dS2NQ224Rlb7AD9nMaApF79FzGUZH1OEWTWqeynYfmyQJRFk+gfzAyJrqyKNwkphuZ2irSmUEBH3invI8QzYiFuucREha7fvlFeUlIH+bBwehAjjYSPwoCSDZo/l2qPlwbT7W2By18iY2D/qMjeyqn1G7YwXOg223HtVB59ffP3z9dMcasRQ9VdDAEioHlzybLKKVK7I+/NPje1JDgMfUa8PKYX/VCsNROVl46MDtUbAJ/ezccHAOH4mdggMs4Wo7TDMGCdHTTCEqdmXpSu45QPtIUUkKNj9ZNgTN9Rwf8PwYWH5uCOABfkj5299eFeR42UDw==",
+      "telegram_message_id": "Edgar_20260531081426_190",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "17a8e2bf4ce646c3177036e29945d726e921f359a796bd972fd89096eb394ef3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/17a8e2bf4ce646c3177036e29945d726e921f359a796bd972fd89096eb394ef3.json",
+      "request_transaction_id": "IpnAi13kx3jzuC1BG7e25PjBYQtHdTbx1S+75TTib0HCKCS3pptrfUGSlCnTjZwYvLi8BiWLch2wWIbCs+5gdjgxPitcvCPeHuqfqIbxjwrajjxoWt6Ptq3MlAtP63FX4MRRx+dxT8rz94/GQd91iBTnaAVYPoW8i3YzJQABKYAjZez9QJKySexBVZYaPLz9EbURtsuZx10DFPH/AlHNDUa6iqekuNrvXOhG2RtgNEYT7m33TiWOOyj4IcdCOtHMVh7a755LDoOO7dMYrSOAXRP9BoeoI82SXyBL4QTHaXgxbWVGfcbakQbltGvLAza+nQZIZDIEl0UiCsy3mZnBWg==",
+      "telegram_message_id": "Edgar_20260531081452_204",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "18f7b81b8bd70caf25dacf3395a54b1e52f472c0c1f4242cf43ceca2aa83c4c2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/18f7b81b8bd70caf25dacf3395a54b1e52f472c0c1f4242cf43ceca2aa83c4c2.json",
+      "request_transaction_id": "c79t0iMcparr1turrpqBUXm81YyEoH//Qp18rf/rKp90SDhMH+C8yKvzZhr4MY/YkY6miVg2GxuWowjTbClKBkSeIONDnoio5ydZQEKstQgU6Peo/14XZACqrzB3ON3dyTgViT973kAGlJVv5fDFWYkeuPnE1ksNTKSA+xMwyCgg7x0iao/rhu5zzdTidzqpLfDoRi/H+XjuvsawJRx30+J2mlK4GaNxLsCKI/2RXFGPHPdk636z1evTZ+bo8C/uMxHVvMA4YeNWuQ4VcSdfeMcmQD9YrlSxKpNzzgQzQXRm4JF5we876tVhJLGthiN6RsyqwXsjIVIQdgvu+BigUw==",
+      "telegram_message_id": "Edgar_20260531081543_234",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "1b24afbeb3306fd6f6942c6f7adb7e9b6fba4e1b0bbd5325bef8c26a5e4e13e9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/1b24afbeb3306fd6f6942c6f7adb7e9b6fba4e1b0bbd5325bef8c26a5e4e13e9.json",
+      "request_transaction_id": "KsFri7E58IA96EqAJhOkvqkEKgK+KsuMubJ6zxyht2cJ/xF4w6xTtVdtpF4XRc1vNLE5sXsZNCAPjoJ8zYmI3h20+11DsmP2ELIfEXCJhLYykQsj/Azx9brLKRDl5eQz9mvrGkKECPBMPijNsIX8Z0UTS076ffNfuZIaGuXshgZR1R0U/+1/zrFD5jnQ/dIVbgGuzWqujcl9w0VAO2FedHJiHLjoAR1IFENOac/2VYszUcyb6T2e6IMh05PtJdSD6kHZ3byr90jP8qKeY63sEoB/oFgUqYBMeukdnOLWRL3yt4QjotzHcnDRjjqNcSkxYpk26+mMICzbZzBC/xS/wA==",
+      "telegram_message_id": "Edgar_20260531082158_298",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "1bb3eec68a8229f71c796fff33a71d45e89616cbf797fab5787b0be0d392e02f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/1bb3eec68a8229f71c796fff33a71d45e89616cbf797fab5787b0be0d392e02f.json",
+      "request_transaction_id": "fUdOM+uvs/wX8RhpghMHNpGPDrtE0g21XJtbXBuKkJo2BSZhBEKcz88BEd/pTb+hiWTfGfQEPkuRaSC7u3BwbtnGYi6o2lhkj7c8rQjGq+69jfwpb28HjRLT1v/m+OtAwc6h+KkA77IjW59skU0RZll25Q2aj4W8h//QYyqegUCPq9lwiv3BW2Qnf27bPeNo7F7iIII2cGBkvQax+NllulIrRhfWeMc2h4z3OVtxBih9jHRHDvxBlOmveGN3SN7b/mDjLTmIjwj3GzZjpr0FzcO2La+vXLPxVyGqXkNMdnTy9w3hfCIgIgpBhA2CyJ9Us5cYersMw+jBT0+QWCR8fA==",
+      "telegram_message_id": "Edgar_20260531081830_240",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "1c2767c04014124a64dcaa0744cb5ef7eeea7c7b67c17fb62ce2ab2bb6879d84": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/1c2767c04014124a64dcaa0744cb5ef7eeea7c7b67c17fb62ce2ab2bb6879d84.json",
+      "request_transaction_id": "py8M4nvU7aUWOD8VJY43G6RWpcqog+FTCcF7WV+NbBW8vdLT/Hvw8ZzKsEmMV3HI5WrzQNMGjimSa0xej4mhM8CF/VOVNHeBAVPONgYuAWPWga73IX02b4Uhejzxr3Mtp90qAVnrJmdz9XWOUsigbTQylCMhREy3bcNJXjotQvZHsvE2n5XKF8CDmo5pl6ZBT2IfnsLqdRt7fa9DgxC5ikmwMLOVv1z73Yf4Xc51MRKhpFf5EcUVh5t9QIyq6+HJsEoDkvKFYbxbVb/qCvsWw+TPu5pr/93dGzVZDsRta0S01AIDxBjAkDAc1pLsv7Bfu+YhigFpu0j+kQ24dEqiUQ==",
+      "telegram_message_id": "Edgar_20260531081517_220",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "1ca59c497e2cc811061593161cb800651e74932457a881997280119bd29bf380": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/1ca59c497e2cc811061593161cb800651e74932457a881997280119bd29bf380.json",
+      "request_transaction_id": "zbpr544nyHj4XbReZGsuDXw7xzVfMXmjbHkDzkf/GpC/NvvvWo6yILf61zcqGLJu+sbXOUk0y7SCQU/0sEpLN57KdEGp0KBMjlZRJIxIZLXDJtB2ER6dymy4fdk8jGwXIy8qgTjZQCCwnHMKBxNtaNy9Iuws4ysRxzhjLEs+QxtyzalhZBcpbjYcShCpLsIBWdvXapteZ0vMTUUuOa0nVPoHr2PERjwcVzYuvHiTD5OGVTjL67s2nKRcPsHmZRMsNZ4A/94pW07/aYflpxfzFevD3q0mm9kzpeGaDwho1Wo0QDXgZDO70UBv02ZGM4b1dFd83+W0el5hZF/XKQH68Q==",
+      "telegram_message_id": "Edgar_20260531081436_196",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "1cac18a01c2afe5eda89dafa182038614008e801ea4030e7f7bcb3d39d45d797": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/1cac18a01c2afe5eda89dafa182038614008e801ea4030e7f7bcb3d39d45d797.json",
+      "request_transaction_id": "lEYHsrRV9wF7f2ly5Ik4fc8IUuE1PXNpxtPyQSsoYVV7rvU6GrxmPMwQt6fY9esEcwFTsFKi3L3nCMl7W2PR3iVuncogEErCKHROIZMvdwPbODNkYPFZswfPOtjg3D+Xd6fdOGXzE3djIW3AfuRUCRDLdiTUrG7Vi9Q5mzxSdRY33oRK/KL5M41YR2HeKpNjpBVIJ2ynPUAsLitDTnlvp0432teC76ccNqM6pDOx39NXHR9kRM5QV2P6RXthLF2WfgT/UF9ZCIyHzUHKF/hPtUzs75RKgStus0ipG/34UuT/RxfclfqC96ETQc4nBBbJgD5SseXh1SZ7iCnCIQllkw==",
+      "telegram_message_id": "Edgar_20260522232207_016",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "220fcd63474f6d905eb7cb790cd81b3040f6abd7842381de2162c97d2b3fbb31": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/220fcd63474f6d905eb7cb790cd81b3040f6abd7842381de2162c97d2b3fbb31.json",
+      "request_transaction_id": "mmsN78rVACrxiBPgxGXEqXFidF+3HOYrfK1HO0Qc7tQIQR47RKUYXSOtLbWEYo/A21w/srxF0YRjqQNhoGAORtiTVfRaWUlq3cUVOxHVEc1M/yTMnaWWJBBOPEkW8aM2Ws06T374JXl4Ktk+c9J5RHArVVu/e6RwB1v4/2WqCRdsGoFJfF91W08tmlx1E0y4PbGlSy9CiFUcawF9G1duJOAxqYZTJxsBkp2z0G5t8GFfgPChhh0vxyII4Mt0e8HsluAREPM/p1UfE7/vKgkaJBAeQOQ/JIX+MGHUPBdYBmrHisWbKb666SPIucVolCuzyRk6SRyZmBcFI3zKJV1lXw==",
+      "telegram_message_id": "Edgar_20260531082211_306",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "223774e2c63b920e5e091c05a15701664dfa4fc2a6276724a0af630e8fb92cb3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/223774e2c63b920e5e091c05a15701664dfa4fc2a6276724a0af630e8fb92cb3.json",
+      "request_transaction_id": "AVQdWxPgHkrprF4JNlGivfWlqbgFHX1w5TQWs3y/SHFb2TzUBthfHXKImQj7cgCoUqKHRM/DLgQTSEeUo55lOm6oDcV5WcsOjDJbjPgN0ku7sPu/oUEC7Q3KvvKjfsE8i3ZtytwQ2gQ1Tdz0oC/L8kd7bt6KU7rBIkjeuFX3y9JhuxKn2Lw7cgkaC753cmlbivVasacwy+dzKLKkAl1APm2CgllmuazyowYagCzbJZtRg+tJuRAGajU+CkV1Ge5IvWVdjZf0MKdMQ38wrtpVDor/IO3J0lAfdjHhzR3Q2hApITqkNcxnCY3IkAUNi9xWqhX3w2J+b2elpGzsiikQig==",
+      "telegram_message_id": "Edgar_20260531081407_176",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "25b5a80eefd743db01e7422a5cdb930e9ec87a5c5b3e5f0ab4d1ac9fe13d64e2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/25b5a80eefd743db01e7422a5cdb930e9ec87a5c5b3e5f0ab4d1ac9fe13d64e2.json",
+      "request_transaction_id": "LvTIx2/iR+ZsMSEMYE7b/j0b4YRS9tnLxViT3DeKaQ4cbKvy1CzxpbNj8ne1yOvm+Ad6YIJOXU3mYLXjlLYvJ71Xs0PYhSiIRVS3cmSzUXXSdc4e6KNjym49X4VzjSF+MPSf5WSsEuqEVi598ByGqAtSKhvLrp1IwC4I79TbXFaAcgNN4xAaxuIDc0zniNa03T5WqomnA91nOg87kxWkj9GGqp42ICr97DhiDz1HHmvoy3kgKOLao0gCi+HA3ecoHZPV014/m2f3dcucf9kh59TkWT+QvYoGDuqcHaaQaLjyem4/4PN2LqSfmXp2/A2bqc4IXcW61gblz/IUD8N6Cw==",
+      "telegram_message_id": "Edgar_20260820142014_090",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "25d1004d01459159b1cb2acee1097e0e1a3c686dc2a6e084cc69fa20061afbe2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/25d1004d01459159b1cb2acee1097e0e1a3c686dc2a6e084cc69fa20061afbe2.json",
+      "request_transaction_id": "bTjhblP+7f04n81f8gQ43lPMOsXxwoOlGsvHT+NlxMyMiNeHZ2SpO1FtiM0pjMQr9C0kQrG5wqPl6ATiCL/S5eZixbluAWx0lf0MtfYTZO3jnkVDsNJv0kjvDqKvcUs0f2Xj2eOQ8rWupNrl95QgXH8Hi/HV5XFr6D6VdBbJoCP9KTod3Zf1VB29uaV7qIAdv9cGKuUY3G9XuNKbg2KVQ5GhH60zFbgtNJp0RctdbUq0oiucEE81FyNHvz0+ik+TXLgOxxdFk39I3LgkAsUFoRxp43+ii93njMxoBN6m8LmB51bQeKoGKYFTPZfHnSbdIVBm8ypvsMv/tR5ZUD99LQ==",
+      "telegram_message_id": "Edgar_20260531081448_200",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "26408be90ca35e4de6341438f5bffb9721d628c28d74c49dd2ae42c3b4f942aa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/26408be90ca35e4de6341438f5bffb9721d628c28d74c49dd2ae42c3b4f942aa.json",
+      "request_transaction_id": "XtTmNjpwtzaOHYT8yGf8vRUgg+cq4eiy09Ep3XK82sHVn2+l/ITCoKcQSN5jJVS+lcTQWG7RNXdGHz2VFghE27334jWXGRYxvR6Md0fqj/ccBVvlAoJczbnuFcXWvVtpjTn+Wr1VuupEGtPJ1Ryl8ntL0zfcKEUGDdE1ycnx9/li8KiTtTLDYy3PYPO9+dhd1iKU6fJm68LjNhG19kZAs5ylb16kF4uea5+YAnSvJvH3f/T2j6Fv+kbZFhb5kAZ6ywqgQNznXLaZKpJP8eXT+jpqBstne+xpks4fxL6JgzQUltRRvtKLj00MN0HevMdbx1vP5P+CqFX5wKffzmS47Q==",
+      "telegram_message_id": "Edgar_20260531081442_198",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "266a15bea01af50b5833b76595558a2dbdbd819e88c6e388f24b671d6e55757b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/266a15bea01af50b5833b76595558a2dbdbd819e88c6e388f24b671d6e55757b.json",
+      "request_transaction_id": "NApW9V58lxVqOUNDdO/f9QaVAS3s+f6icNdV5IGrrp/+DsOw/qAU0Yn3MUq5rK1ZoQ8ptlHYxlfK6ljh+mJThGcBT6oomugjbcc0jf6QtfG5pPXPk0WFBpnGoolWIZUwvAnntJjuhUtw2eNw/Ah7qh1P9UMe3RkH5EusawUSRABj6rEp3x+mkPQnEnCBA1ASw+T8fqjjtb2G79teVFvNDGxFX9CXzR40DDckHGO2iFLMi74oBlMGbk+IqZBNa4/SRliaG5EY8oN2k/E5l7ptx7thGBvH5diZxyPNFyY7szxPMaN6MkOAYUwb3esj9yf6It5JOy+LByTtLTYEX+t7lg==",
+      "telegram_message_id": "Edgar_20260531082203_302",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "290fb9a1f08845c17e0187d2c1c75c1cc62d030885b67bf78857083d7e26b62e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/290fb9a1f08845c17e0187d2c1c75c1cc62d030885b67bf78857083d7e26b62e.json",
+      "request_transaction_id": "hzukeDhaxLVADLAX/46FI9NYOoFmMO5PRr5lGvw9kj6QB+K4YqbQNFmlBr2ZwYs1t0DEqA2qg2D5D76lw77ICj1cGfBJO8Iufz212g4odxrP/qsuqTOtU/VY91HfsyXpxgq/FqwWhoP/6Li7PxkBPElDUPX1Czv2ESmuHHxbgk6zjSuiFvqaAFs9qN2ttpSOY2nc/th+eVpGu6e7YbxSN6j2VYOA+tnuCmNtoJVzvOWo183NMwRkO1lnPAr5oD9TF2GjCGJ/DsHX38nOarVLS0aNxaTwQdXmdRUqtdmmxcuGg/hibpDAiMRBGmkV5lWieWeEbSVoihSmH3is8/tFvw==",
+      "telegram_message_id": "Edgar_20260531081346_164",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "29760d26cc6fb71ab7eb62123d40547a51b68c7047a474bf96573fad4d2abb4c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/29760d26cc6fb71ab7eb62123d40547a51b68c7047a474bf96573fad4d2abb4c.json",
+      "request_transaction_id": "ZT6oDy1QWuOti3Cji2TB5T8BWqasH7KvIKEm9BM+31Nce7LKJ8lLqXZ1Kbha5KpBVaSLBvvNbFgkvJrPH/VmioM40/6n07F1Ep5o0X/90PfEzILMo0VrxwTMu3MPJ+wf0CFJIP5sztUKHIIuj6iV5deevE2aH2mq5ffe2EaOzwBkmlG1bntFoYVswxZQGjfZxnGUTnRJQFywd7yVE+TBSai3EH8ziMX5Bc5K7y2obCehDbaIIxo4uDO+UeZpo9Sm4/YkawvLygbO2t0LzuzoUB9C04ikq1EvB+g+W6/FmIn4/BnWNubDY+6Qn0sCOJuz3joAYI+goMaD34BCFDmYow==",
+      "telegram_message_id": "Edgar_20260820121739_072",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "2be879597defe74e62b7c8c63268202c3163c16f6ea19d074cef2ab191f229b7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/2be879597defe74e62b7c8c63268202c3163c16f6ea19d074cef2ab191f229b7.json",
+      "request_transaction_id": "if6FCtVTpoTQNEcWa76/+/VRRv7HyqcSajMJmekIuXRlu1yjSzY5GPv0UHxx/ZHwTQxq4hWsZ10rQUDrvXFmL4yEREQz3GLph2sCw1VeBzhs2MfbskfKwYcvw2V+zNfc3KxEcR5WDO3RzIvudNkulmGVGi9vf2hdcf7sXjJQKiSytMdAG+HusTg5Mc5v2pVN4iwEQ2JPZr3+JlcdhLl0EvaXENLSJ6rnMJbY3DLG6wsZLORdCHpg11UKX2GFSPl1RygBmcbFuTJakcgjr3i+c0WdwVm8MSb0LRCK4zc3KyFdMMVdhsQjAbkth4No1PRV3+TcS1OQ6jkqhG8SY7AFiQ==",
+      "telegram_message_id": "Edgar_20260531082205_304",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "2e8dc335bdf08a16a215fd84fae9e8aad8130a66812300d153778ffb24202575": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/2e8dc335bdf08a16a215fd84fae9e8aad8130a66812300d153778ffb24202575.json",
+      "request_transaction_id": "cvz7+Jv2D0z9icCexKXGGZKDmIO21BSrSJxLk2opjOP+bfomIbxbfZ0kztjg97ojfKw/xtfg0+nC2tBOnITaR+ztqiaK1CTYLLMKPG6Nz96wilsRL7TAFVX1mMwgLSZVfcPBF/wWD1FLqvQWC1zD2Z78uM68hM+2VHbJgG4aziwovNg6GxFyWGUlCt6S9q0x5p8wfagmkZwZzt8YHoNyxdlbmlcWuTimtYLkhzyOBKRopENZR7APw5x9BORrjaXFHiukmY2UjXgJ0pWyxMUi+5B8/JrpoWOhUMow3GnOQeM0157NmlJqq7Q8AIrdQcBb6VD+XIkP7eomSf7RjdhCrg==",
+      "telegram_message_id": "Edgar_20260531082127_282",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3080849a05d6dfc73f61b64260e9a2290a461e2eec986acdb9eb66fc01222ef0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3080849a05d6dfc73f61b64260e9a2290a461e2eec986acdb9eb66fc01222ef0.json",
+      "request_transaction_id": "MO0XM/S82AhBJ0N9bAan4wHk1hXp4BgBjG4SBCkb4P1m4LXMzMrHLrBzfbKO4v+G3jVFJYZFD53cYhUBlGMSfaj7rcx2hOgEwXcSUuOIHU5mws+fl44MhJVMghQpfAOj5ONBzoihrgq21ydZbPoybudRQAzYy/mVWUQ2zJxEDetSSiEzQzJ7XJCrmDZBdcwb34tkvWyUenqRPNJbD/PiNDr1dB3I1ZNBewdmykbVbXLf47DkOL6DfuuhB5ni7QEWZ1M6YQ3xZGozl78dMiOtIZpvv3eMSmR6XqNTHqSdNJ9zqRAG4ou4/zYgrbK/sY7Nwk91dEVjmNL0RS1MpbXlbg==",
+      "telegram_message_id": "Edgar_20260531081927_254",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "30a78b31b701fb822bd7034a86824f2e87e1747d7280ee1b47e39e1e56c23f43": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/30a78b31b701fb822bd7034a86824f2e87e1747d7280ee1b47e39e1e56c23f43.json",
+      "request_transaction_id": "b0vBG0S8IJj2VrOIaNNmwNCXfJ1OCLzaunBcT6HpN4KFBoHADQAumBffRth6WoJ2WHxl/SSvB/mXmHwvEm8+JEfXO88Az8tfIYmBraFqZ3wdjot+0eGfqiXkdDFDiE3H96YMLp/hPtICJejlBEC0AltzJV4ZXWlwxSkeK93b3yfkSAazUreUEC5JN29EEunWmJcQ28qTCjgfRYfoOAdkVGG7qqW5em4D/WaUw/jveRiXDSHPdTGF3EwnkHi5qzmpov/+PrC3oODNDOam3+E11Wrwn2S6JLsHasUOMQIjDfCJitENZqEA0Jp3qkcwaQvVecBA5wcp2GmOLusfkdH5pg==",
+      "telegram_message_id": "Edgar_20260531082217_310",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "310d06b14ec92dbd70298825a19899b2d50beb77a1e08e49bb774ad7287807d1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/310d06b14ec92dbd70298825a19899b2d50beb77a1e08e49bb774ad7287807d1.json",
+      "request_transaction_id": "Lg0ojmkaa7TJONlgQN97JQAkwSup1o1HvuVmRBSp7Hjl5znNWO283l6TASmpNl+p46jzDHwQORg+oL73rvfd6E4ZDpEvbItz6TWlXPlueJJ1GG2TpvKHSUbV9ZKER6Wr2bJO+eUxG/hw+sdyuThQPyeZoH4TR/58HFbkF4H/bniQRLB0BVosg6ubM/Pq11J/4wR/YAhO2a/VYzJ+oc5EU/O6sQ6hXVIeFnuV+j6cBxWVY4Uxo1r5YCwEl7PvGGbrEbYu6gLOjVuPCal/jfEmBkfFUnkXBh/t/nZ7kC++UgPRIuMdR38pDLBb7P5k9svZD38Wi6rGA8YVI4HS0zKWxg==",
+      "telegram_message_id": "Edgar_20260531081409_178",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "312c2a9b9c9e61083a138094771976553d0435c92afe9a60a3bc1f00874015aa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/312c2a9b9c9e61083a138094771976553d0435c92afe9a60a3bc1f00874015aa.json",
+      "request_transaction_id": "wMxPKIrUilX7CbzVzpssDxViUK56NeMURb2Uh8t58L+OYLEkwNev1Y2pzRgHO8JJpDU5LRN0lom6hvtDEWPLLHLFUZEbApM7HPptAZRmaKeue/2xjVQ8IUNzsa73ivM+KlB5x9QylJdu8Ag0MGxDmmxfaZGYiTh+ExjQkhpD07dWTBkW583FXTlnh7OWUrXOvfTJP24GcCrSVNYT0vDhsqW2nLsgDSlxiUyKfVCpMT96KrQSbsq/gO7LdYDZwtGAWMbhdkAzzd/mrV87NX8K/5ol5UO3h5rtd9jcciHGHoRE7Z4CrI8yOgq5K2FBzsfvqnzk12KOcAjiZ+2fDiBIBg==",
+      "telegram_message_id": "Edgar_20260531081343_160",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3332ad1017c21636cde0b36669076c0d2ebd5b1f9cdd6c3d15d5fa2e7266490c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3332ad1017c21636cde0b36669076c0d2ebd5b1f9cdd6c3d15d5fa2e7266490c.json",
+      "request_transaction_id": "bT2KHuPmF2CSyBWIJ5u9nN7zhTUmaaJdloFOhYhL62rL8T5JNA7blMahIcuIhFejX3poSRPnAKL7FOr2MOFJdf6x9yDLyE0gxePv4vjjAZZ85mu58/nETs9L1IGKGh1XLNGsc7qkxnayMlsC2twB/UHpPoO/q/SwFgL9Tcl85igTtnXx8JpHBNcamxMJuPdHDpFaPmYmsU0mHpiZ4q0L5labxNrSi4jQwChtwOQpQzGff1n1TpI4XUZ5RPbzXxT4zBugFNvmLHEr6OG0aDQ0oSxOiSaQkIs8/MYxqfGDm1Zkc/FbKWyTWRqPl1/SyrIjEEP2z4yNJsUquTj56awE+g==",
+      "telegram_message_id": "Edgar_20260531082214_308",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3767fa165d6445f4a358ccda52088ef605151149007ef993986303dabd16a599": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3767fa165d6445f4a358ccda52088ef605151149007ef993986303dabd16a599.json",
+      "request_transaction_id": "HL+IAqVJDDlbA1o/O10saT+39odlClaZMwEW/MDS+K8cHxOUtVb0oE0QaFYloaR+2zseo0QDeDak3w0VybmGovbNKA/NV41ww8dN+KDLNDOgeQS54mOPv4ku/wMZY/Lvn0fNnf+7ZElFsU6FssbxaF9FOQVYblfjda9oF/nzHSqP+hAuGuTAWxKN1O0zZkXqXfKBZuYtz7Hk+Ihu8wFVyAhXGRJMJjGR7eDQJu+zUIZn+undwYkKVVwNZw0JEpSxzUc4acxmRYSnsIV5uJUDjIQ/9sR7lWSmzpGFZYA/S+5CETn9/OvWGLyZ/eW2tIW4sZ1wrb+2pchSO2uCoZa68A==",
+      "telegram_message_id": "Edgar_20260604073057_012",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-06-04"
+    },
+    "393c34bb240ee9d870b2447a47c49148d2a9e96b702986d999b5a1390a9ed340": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/393c34bb240ee9d870b2447a47c49148d2a9e96b702986d999b5a1390a9ed340.json",
+      "request_transaction_id": "KUYLGKivg1ZZWTxNzBGHoznovOanTzGsakVJBjN/aqpY2nAHDKseE2UhbzkBvSfQlAynJx5ez8zwJ47APgwvvFGQVV5mBWwRyfW/m5bZljwqs9uMTx7VWWWG8gmyYDma00t0v2ypCUgvZZ2O60M+dkwvSfV9zoW9sQ6nTA8vX8NX38l3a0a6vrwk4zWMgOJ9x9bxL99lZco6gIXyV0k891iLMyb98hcyZPAOUMOH11991Thp3q8gVTpHrF9lNsVr0eiJd/VIdpLXZCStpfQtngmI83XUZ9U+jFDpgSh9AxIZlk+B8N4eokTuJ4Fhwt/BJ6vrOsL2QRYaUSHUmAEGAw==",
+      "telegram_message_id": "Edgar_20260531081832_242",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3a45fe8611f490db964fb6581001cd669a9e8844bade2ff5342db470039b401e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3a45fe8611f490db964fb6581001cd669a9e8844bade2ff5342db470039b401e.json",
+      "request_transaction_id": "XeYeKDcZyTq/OjO5HUbn9AgaaoJYCQuNDOO2pqFsXMCMXEhYyeki8CJ10M4xk+HX0cs+Du/Zs48alpwq4mOF7WYmYEjCtcDu7zSUsxhnZZiwClti78b61DgZW8BJcPhPf/6NAUkCMPLrqqnsPpWVc1o4190CC7KhR5yKWbRgtVWprCsrvPZlT38x/U2ZdWH17jdLg5/M9eGd5Yk5VTrki7yoRp/mOSSn0vN/8kqY/w5Gf5k9ZVV9hmlS3G5F+mX3hrPJDd8j795WwRo8uMVpMGRx8P48rlxWzoI0bbOiPgGFOXc2K6Vte7I9VFwKVbeNZhsFLLlcvFhhE/OnfydfOA==",
+      "telegram_message_id": "Edgar_20260604073052_010",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-06-04"
+    },
+    "3b7eb4a79ecb4cf4e90188464e8275d685a8ae75826ba522717b732fc330f52b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3b7eb4a79ecb4cf4e90188464e8275d685a8ae75826ba522717b732fc330f52b.json",
+      "request_transaction_id": "VbWF07tBTpMWfYFbk5FYXEVJ3yoliWwtpUsZTnB7pexU9l1MlurhoqmPl+PPYPcQjMgvREUdrV7K0Hls9ed4OHPQ/RQGTRu0BAIDsdKpjs+tCx8Qf68DpblJhPYdlhpzlFJ2P7GCbFJ/K+z8Wh/Ydl3mClSbcLNNdPlu+Ka/pHjBauRlbHtpgnY6gkhYPKfEGjWDWPeFqeee5SfzjKzGMkdq91FYtLhQVUow8NWiMz5ff/wr7PZxc3tJBIfIiYKvME6cwqPpVoUcKgt/y0JZKNpkXs0vtBWjgyu0QQvP+Xh9dNYvJ/HNIADSb3mJ+Qd3Xx2k4+fBWY1cfSZ6/yvVcQ==",
+      "telegram_message_id": "Edgar_20260531081959_264",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3be8452b8dd52d636ce1790220f915e18bc9364327ab7aefae04ea52a160aaaa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3be8452b8dd52d636ce1790220f915e18bc9364327ab7aefae04ea52a160aaaa.json",
+      "request_transaction_id": "jAmJI38lrBvwUXCCGv7eiCyHfrlrLENKz4utC4Ddvtaj16izHNVco7Jm1puujlXtHlMfFsDIfoPogx7+I1yI9ksnZEotKcp/gfBUX29GVewRyVryMOd2mx1ackJiK3/K9+Nx5noO6OswliRfR2WdKsRwfWvov4bxaSnObZ8pdDRAv/81WT6AhBMVSUqEChQ+Uqkxr9j8ATVUciEHebgEcPxhVb3VHiSu53AaduVF2lR8ISj0GqrmJr37EdjfAqYMhGLEoSgsQuJQKnMoJbEbYgYZrnFeaR2Hx7jo1lFalgs8Pjxq8yAv7JJEk6ME/v+xm8AQuGX2tGWhqEMozHRYbw==",
+      "telegram_message_id": "Edgar_20260531081853_252",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3d335b489344a941b02011da32a6ede3454ceb0ebe6284c78d789e664eab3d01": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3d335b489344a941b02011da32a6ede3454ceb0ebe6284c78d789e664eab3d01.json",
+      "request_transaction_id": "Q/OC/9qbPC6U+pSirqL+25b2ctgvtcXgsZf54HvT2LYCMkd4VPlsBnH6ygVFpEf0H1lWl2yaJIv9GQmteUdm2rNqQIhcd7xP2qR1G82/CyLwX4wg6E9BM9aA/WN6A0UtbJ8+V9SIgw4FeR1EcOb1mt7Vz+fCT/Eramqhz5DXC2sUVE8HpgX7ni6+fES3AL2VpY9xDUnrjLKdwMAOLxl6nEI7lbi/suB4gvTVEDh66ci7KO7k9L+hUBNC53hfVok/hqOHLZ1Ma2y9SF89ilKxElqeQ95WTXaSR5bUYEQGGiMcV+pmsWxpEGd9jbMa8x36H00lZPra8j55t9j8p/9owA==",
+      "telegram_message_id": "Edgar_20260531082155_296",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "3e367927ac4b1e63d307732c72e837238d358c73f7573f98f1e468533cadadba": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/3e367927ac4b1e63d307732c72e837238d358c73f7573f98f1e468533cadadba.json",
+      "request_transaction_id": "PVXle9TH9j0t8gVHtQwojy8feIRx+UQOAQE36ot85cZYFDUg3g0XrYji2zYY/ifVHYi5Vwr4fjwSVwMqhxq7aKD7ds81vOrzcW14NEtLy+5WMsvuwFQ1Jy5DgaIPUPSeCtNFNB3yfh4BySkrJnFmn5u+KhXAcW/d4ilaec30lqCeM/WNQ1DgPMSaPmrrWAoS+84Efu55XQn/agB3h6db18pd/77JzBKomkxBevPUpugThMFElG1J/nxknvxFeRVhFD8UNV+tGLh3eIJkpBKZ3zEp7JOpbXQLx4ulBGANMvcdDtxm57DlfECjXf8U7kFn72bMvc6L5Ae4h6W9FJAugw==",
+      "telegram_message_id": "Edgar_20260820081239_016",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "447d697ed8114e4276d7c947ecc42db53d42924dadf1a5e7710141293325b051": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/447d697ed8114e4276d7c947ecc42db53d42924dadf1a5e7710141293325b051.json",
+      "request_transaction_id": "anApxCDcQ6m+s+//NtIpDpvO193YEPaZQNmMHCSNd/pFjclKOG1EGpkz3Uipr4CEaOnX9rs79g6h7HspZob3rB2xdOQPuOnJzdC0WQ/qMyJoRnmpylnDt6zSy+Kzpa/+zmnjwaJkiDem2mM8WKk7my1fAyAnrTb/spqkp25UNudzvKUyLx39fl+e1nf7AR0aGushHajW31yZd5d89HZVTQWN4p+LgQ0XHzsy22FF8yPtw4mOLSioN0L3CquYUR6Z1oXicHfmXpW3yhD14d6MxVSQCKCnxu3AzTOFOXIh0dyeV6bB+CqHIi4JoLhQ4jug7CDRb/89nk13jnLZhDmm1g==",
+      "telegram_message_id": "Edgar_20260522231104_004",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "45ae3948c5ca39590cef002406f76aa5e73d2102d9d7c111f0fb5aaa7370755e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/45ae3948c5ca39590cef002406f76aa5e73d2102d9d7c111f0fb5aaa7370755e.json",
+      "request_transaction_id": "4KGBwvzABSNuROxqFWj9IpaRPyDHPwlmiXXdNwr8dP8VnyL4vbOKdukwHPe0E1MYuL9Ad9mHJEccZ0tJWnEEBByggFSSQAebkHJGdhuJ1NoIYE5Pk/ieoZPrrgWL4evZB7YkfHamBTgbG/VQQTg89iyWJVf2G8uQfkTfWVZA7V+utOAaRfoeVcaihLyivgFZuyHe+5gLQ+BEf87sTzQncvc5zzSOP6czY9hgh3LxG3IeMxRAwViycVmQX+mbrEs4bwjLwbyNdtwuKswfaAS6e11GZoH/J8KlsVMns20hR9q+bBRPGjSvAOrIExOokTXfKz1jzmY/uj6EoDQ7mwQEvg==",
+      "telegram_message_id": "Edgar_20260531082200_300",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "49bb1c747fd00cd75df3ee489625bfdd6d6a0edf68147dd017af32c39e3ffbb0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/49bb1c747fd00cd75df3ee489625bfdd6d6a0edf68147dd017af32c39e3ffbb0.json",
+      "request_transaction_id": "C8qRjnxtRZqINeYZ5kwclSN/mzu/7rDf+rO5+cQvNpfIHeB9gRt3kLTfLg4V+Hc0C3NMjQX4H3B3WpNllTGPfyDK/2WCVOUIsiX5QuaT6p7dxNZFV32MVFf8hQHnbHgngv+BsW8EU21I3BoOAsYQeRVJo48GHJ+NyR5xrCUzIOyb4bOn41WLh/1lxQxoLy0IigkLvO//HlHE5lc/ZoFPYH7/g8fyS3XLHsdmm5CEr9DNdQt+HD5LLSLradkFXrbUXSNlbRFKSGpoJWKEFdLKepAObMGeexI2Ivlla+8Yx5jks8B4W7kTMkRG55Cm9eJuZ8n4T+3vy3WYexh8PozKcQ==",
+      "telegram_message_id": "Edgar_20260531082014_266",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "4cca59f75e94e97f23490bacee159662c24977d27e9f31eb90eecd19f3eb0f66": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/4cca59f75e94e97f23490bacee159662c24977d27e9f31eb90eecd19f3eb0f66.json",
+      "request_transaction_id": "akp4rUkOUHmixRE8/2k/s8gsRsHm/uPvx387W5AN9uAWTVQCmFEqk3irlFs2VTr1hF6uG9hLSBaSXET+c8m3V1hP5+/k9lkuscoFpZdNS46z0pF+wkl0r4LKTb8UaRqeuz85SmrfpUrdm5OdVaN9TEDsw7HfS5ghMzXMIujlJmTjBCWGDnwDZFDWg0OTy+ftxmJVQQ6Gqcri41SlROCTOlc6+VYoUngd7P7sj98hIXeS0XoCvCTItQr39nALceeXS34RjO55hNEAKx3OBOSzp8dOKtMLd9i3M/l2IR5Yspo7YcBJRuEyWb9UKcF/8gnCsC3jtC0ENa1fmMcqXp/i6A==",
+      "telegram_message_id": "Edgar_20260531081411_180",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "4d0f0cdd4efaaa8748ee38938715da059ed8f2767933e2fae7dd4f9d40b0ef63": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/4d0f0cdd4efaaa8748ee38938715da059ed8f2767933e2fae7dd4f9d40b0ef63.json",
+      "request_transaction_id": "gWqoMH/ehwjehqU3rI5IR/5eDoKg0nYUbVK7X8GXJWZuxOoAlPDpXYq098WoLQlK7537T2tEk/iVT0lzHiKS8qXkoioUg7W19MR03u0a0xHNyVh6oVliZG4iFNAzcGwREbkttoSz6ZcbqEDa2r9cg8ct9cJV11tjGBM+7TZhYNjEP4kaHv9xOLJZhVIGhOmYNND6QjTsrfSwFQ+xVfRVe/tuxuMMPu/1SJmLuOKc9VWsALEwcgkoJJzuflqBSeR/8rzdzD/BcHbYkzZmKctVQBmX2Vp+a4WnaRecYMGU/m0fdWNsaj9e6T2S41KnBhRUfW1U7tEk9JFGqjtwsuuRbg==",
+      "telegram_message_id": "Edgar_20260522231945_008",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "554d010c462d103afcabbc319fb61a3df7e5431ea3f3775b23f951dbd270a926": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/554d010c462d103afcabbc319fb61a3df7e5431ea3f3775b23f951dbd270a926.json",
+      "request_transaction_id": "OjDZfDEjyW7/F8+vnzDvtr5L4VKZGQo4CZ9MQoZ2rl2/9A6WRK1B+mYmzRB4JZOfMyzCXqYjRZOd6zpPLTDIGKJepziu95WHPobzdKpIBVhGJwyun7vERe9r0OAvMakReLffM/uEiEXBjp7V5yI9lkod/LkViETRCqoRRxajBYTKiR4CE7pSWB8cU+lTFxVj6to1awfglbwH4iN14cW+p3d2F3h4LDPWyy/zntj3v3XrDic05LCLyQBfyN+JwA5AA+f0uKrXVGpWKb8qjjr9PlPvdxL6cn6qhR4349KtP9sYBCAEfdkdDTVjkGB71dFGx8bSuacrhiCihC8JyWM4Dw==",
+      "telegram_message_id": "Edgar_20260531081402_174",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "577a9a477dec87e2df4e6489dc29a83063632394d998e062ff1199f49a3c3628": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/577a9a477dec87e2df4e6489dc29a83063632394d998e062ff1199f49a3c3628.json",
+      "request_transaction_id": "EOOyLUhajmzyx4a31wxoQdEfkb40Z1l9IpkvZ2s5lJNN0sEP8KH+nB5tL2p3HvOCfDwdZY3C29mOK/nq30X05x9jSAtrzvS3ZkjtpsJQcIUZCz8jUEPJjDafHhFb/cI/iBP8mtduvdIt0mZ/PTG0VkwFmujMbnnIozHI/pVOENBdmfKii8BUDaqsuKquK9KTSvEJcm9mhq786v3uR5Qog9OY/k/YPDjIa4ccMZxuqfp7TsXDCgzxtHWYb7JSvGg7qvxBEuQWOwZ19dnAdb9o2U6IrKIv/YP3Pk9mO20AT6vIRehYoMN6z0QM4GEUGQ01HJcGTgzXL7pDuY6VsKuUnQ==",
+      "telegram_message_id": "Edgar_20260531082026_270",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "584f7bdd33949f66c554edac13270f9679c1058db7f27a0b1b4b678a1367bf34": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/584f7bdd33949f66c554edac13270f9679c1058db7f27a0b1b4b678a1367bf34.json",
+      "request_transaction_id": "Hi9xrE5yNi96XibgEvi49xMXDcH4YtmCuFx9YJ6RSdB3LqXON7h8Zw3f63aE3Vlv4sikLMk9IZp6j6dgv1Ax2tgMMfOT6mFGzmBcFzNcXdEyk1e4KypTmBUTkumt1P+zDfYHBTqPckfy9eyS6VPvKW+TBXJfXHtOA2mLhqyf0c2xGL2pYL6lDD4qrPU1Me6dGcXh3hUiWVmK6UCi+AZu/kFi1VCwP5aSsrL+3c1t+2qhu+txVMi5MNOY5hieh0JhYL1dLGPJYFyLk4IGdGUBr5UTCz6eNv0JrGHGVyHah27hn4TbNgePeqTEQ2z80Wj07To0rUEImj+5O7NqLCQ0WA==",
+      "telegram_message_id": "Edgar_20260820104515_034",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "59283ad80464e9ce88de35338e8b87c40e56b5f30c28e2a1d97bcadd23f8deb0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/59283ad80464e9ce88de35338e8b87c40e56b5f30c28e2a1d97bcadd23f8deb0.json",
+      "request_transaction_id": "TudgL0PrNUVGcwMaZEc/ZQ9Ursm4ZYrcieUk+ncEdxd7u9vogfoZl1J0qExp8cxxTVyMHa8WblJHTZ2LV79JyoVxZGVGNgX8VcS4mnQJrdy6lKSFP9aKR6Kj/JWKOjqhZhAIajnI3qY6cceT4sy3CXZh21YAFRK8xlWmewdjb+2/nFY9SJov0ZTvOhU87ZQHBbhPC5qtKxrYcS1SXHm1UZwEl6dhG3YaBKHFYtqOrcrNOUf67KrCdfNGnQtrPfROhtnvAWlh3V3dpNRyL1ogXA88R08DrzPwB3wRxYvXrCoGGKGDpOq09v29rI4IXtfiMaT4xIN2YjKtLSuIoHPnEw==",
+      "telegram_message_id": "Edgar_20260522231947_010",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "59bdcde345519ae6bd40523f1489cf59551ff8bc479c2bfa286ae28cd764636a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/59bdcde345519ae6bd40523f1489cf59551ff8bc479c2bfa286ae28cd764636a.json",
+      "request_transaction_id": "E9n1QEofEFvq1TBq0IIF9CgXLXE1A4Uv1GPQtTt6+aEbVloNpl5CjaxIWRpRU2YxhUt6ZlaLVfl/EDoxdX+Eq6ASeB+Y9rFdh2qNlGVWQqmkU9zTS4ExNLCr8f2Zo/h1ANcPJjHzq52gGY//gax1RJTM0tmzezo7e3fw1aDwcLtpYtjIPgXhMzFEkl3q+Zrn6z2SjChNHcl1tCiC1qQitHBEYeTJ20D32AbPKU0KPY8pk6JA5wR8XBIYPlMIfCyi5/91SevafTzn61Dup5xkqzVOgR3fwE5ikZOpeN9cNOlLUEOTMCKlSLjvxWLSJu8CNKosrUUzm0rOC3iza/rObQ==",
+      "telegram_message_id": "Edgar_20260531081350_166",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "5a8915780403e339d844cf5565cc480c81c667731a7cffe502cf3012871ced29": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/5a8915780403e339d844cf5565cc480c81c667731a7cffe502cf3012871ced29.json",
+      "request_transaction_id": "r2xaESbCeQDWlVvZ/zbAMUx/9+wbEBWPTAIytnRMTEODRZWJevGPkYKxfr7E+SsTtxq4eu6thfFzwqvs7nyNC9Ac5tYFN8BgX/jggMC03JA5k9g0xSkSBOY6V56WPjr7Mi6PYiXRgZLIRrvtNk94Ck4bL7VzAMx1JDGIOpBFC1Y4nf2iBa2d59gJx/F/G0fj38inycsdkMgZOLvYcSaLt02uBCcuJovMoeClFMaSJxPb/GdV1e3w3oHu5nyuP42PRnL3wa9Rd/woALHfBPGgJO+bOtEyAzHyto82TY1cgYwlVO479ViL6UCed+1lp69/+aaYBmkORt+7FqeAk9u0Pw==",
+      "telegram_message_id": "Edgar_20260531081353_170",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "5bac5634b48bbe0e41934948d4505eab0a37b424eb9e2e8a807db3c3fa712ca0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/5bac5634b48bbe0e41934948d4505eab0a37b424eb9e2e8a807db3c3fa712ca0.json",
+      "request_transaction_id": "dKHvMeYk8iinyN95uIty+iMhxFv41DdjtU4u79xTmdHGwXHuU6UDNoTN9K/5CLy1V04HI+TSx8O9W7TlbhXHSS9DHh36zzWnbHNDPkRK9mMpFTQv+XqBy1n2fAxe1ZnCk8bZ0Vms6LMVRJ4HaltUJU+wgZTucRBaRT2zN+2/h3rY7fCxh8FAnL1rJxJsPZMwGcCb4ePkIgrEky3+WuyTssPgIyq5YkfGv8+D06OHLanXcNXjfOgSchAgGkNZ6t+KiKGc6WuYhBlUoDXieds4O6HzjVy8JWPrlf/SbA5PV/etcpkYo4b409zNXsDBfhpvlYauLt/r3dLE5l3O5kTC5g==",
+      "telegram_message_id": "Edgar_20260531081421_186",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "5f04c5686b8a925b2ec844adf15a39ef457ad521706747aea5471913bca93a1b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/5f04c5686b8a925b2ec844adf15a39ef457ad521706747aea5471913bca93a1b.json",
+      "request_transaction_id": "3HtdoyvxGHxTFpwYlPHewIyR0zmqG+XMeTRjpiAR83MG5RJpUkgZJB+j7jTDDxcKSkb2at9kXdebvRg4bbTWi1r21IKkBFyc3cNKr4z4M/QrOzAQIJ4T3wzVy0Ibf+lkQjARoAQDx4XWrjy6yUq5epBtX0xVveGIuXsokgnWr1uLMYoGgRmMoTd4k1F21Zu/ves1kYjDVo6MPvQ/TxP5tp9xdlirbn8PO3BJZC1nzzw2Zk/4/GWUrCQL4fKfNEa/giTc1MKHahnKH/d3HvXBDar39CguFYlA+guREjHO3vAZRue/0FVkoERyXxFqCvfwhF/VVWiBsjld5i9hI1gOig==",
+      "telegram_message_id": "Edgar_20260531081932_258",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "65a096da53ba939a13682907713abf7c99977320ed15f987f15c9c7aea939a3f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/65a096da53ba939a13682907713abf7c99977320ed15f987f15c9c7aea939a3f.json",
+      "request_transaction_id": "A8Ww4FBddGSq06NCbNXfv7X47nBJTI1W6QrXkkO8i7CjJT/alHYRBwJWxOBsYWHimKNSLWEJKNrSz2bRyzDJuzII1Hqj8z8pcIRwiJQNOPsSdYYZ5c3iKn/eKx938AToCgPBTED0B6W58ryUfDoko5vEzpxnSTvg5kiEdtUWRXa86G3LhaRcxHfaQRx1b4wsl9tKUg3UTGnMSQOb1niXyx/t5mvYK9IOMcB1gdelzwr5Ih8mruYdCwBPvFt3E2+unCZtuUxZNKr9+YmC/ilZxYkFGBGgcsLCdG+44mZmDi6QH4pG5F1A90Vt56y9lre7TzBKsEIjJa4ABtv1/+YBeQ==",
+      "telegram_message_id": "Edgar_20260531081540_232",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "6e3bf88ae9ece084fae2a276e5cadbf4d726e8e756b3e265a9c8c2e58d3cfec3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/6e3bf88ae9ece084fae2a276e5cadbf4d726e8e756b3e265a9c8c2e58d3cfec3.json",
+      "request_transaction_id": "Z/MmQtNAW7NlISEWFqmWyeqItvp/erSl16k1SjAasNjMOkYI1Cyn1HlexsefXMpnRBUBMh+oaL8qvRmbpIPYYnbTGgR74kR+MW+SDUaBS0fJN1xp+BedbSAck9KGO//SyoIeYam14cAHYiaElUDu+JZBOMaX8w0yx7XNObjigK0fgWp3eQoDCSoB5RgHgcBwYJqO5ahvsxNdD3ZknVXciKQXAt3aRQzREOSXQF3j34BT0uZg7K6zJPfq+q0bmBLE7SgeOlBGEKJMMmkOC4Qkc24L/pgmY01E1WOE02KCU2ydtI7wZcqihl+YIsZ7yFz8H0Luna3t8Q/dV9IJX5KWxA==",
+      "telegram_message_id": "Edgar_20260531081433_194",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "72f55fa17320936527fb86fe78f65df477b7f67070522ab5872ce2cdd3dc4e11": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/72f55fa17320936527fb86fe78f65df477b7f67070522ab5872ce2cdd3dc4e11.json",
+      "request_transaction_id": "r3K5B8gT4yDKf1Rf2CubPB1US5sQYa+ZxLNo8pSyKDDZINU6TtinI/K4rQ2vOZXV48y0RGwmENg9RYRqa/HKv9wtw9Oim182MZdL+5Zd/8QAeGKhSLNkNBEnmbCfictZJsBRNfWk7XMA5YglwoKi73Hjb4+S6GskCA0oww1SddDMUU69UV4yVrV8KouICG4iMgmqJ6qdmYPqQlh55nq+Bnlh5wv/XaPvEzO5ST27/3z/Jam3UudBCKYQsIvNktm7WqqNsfaXjbdxj8ToGGhOxcYYZHBuxsOsxgYgdv/2KLnjlGHHIErvlEXVaMv0SrvtFJ6+gLDZmqpQMCZviu/guQ==",
+      "telegram_message_id": "Edgar_20260522231941_006",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "742d433b5bedde404cbc7cd5365d0d8a39c722da0a6f484b98127258a2c74cfd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/742d433b5bedde404cbc7cd5365d0d8a39c722da0a6f484b98127258a2c74cfd.json",
+      "request_transaction_id": "XNgiljcnuWGLRq+Cpz6uHhXyuYCI7LxEU+nzxsCy0QIRdQ4Nqt9vIM8aeCgNFiB4WJtQOKzLYTxJCTmLgELUd9Mej4+lc/agy2CyBNmLdVTG1S1KNq5LHpH2ZTmvqrmXWU6kRL6AUa167xaJtoEDuzwKevYHKR0HnWjhFvXll6RkifzwtXEDwqUnrgu0Ve+/mftgzk23NNjCEst7TQuaMz+mBD1VFKWvea2QUEbG9eC4H4jvrjLseVncbgGIS1ZTnl56wh6UC4NQfeKN6agLJ9wxHBlxFi4tYKaHl7SG0FGV2wsQo4CmJpLpodG1DlmgFj7fAbN6guV5C+pIS18EZw==",
+      "telegram_message_id": "Edgar_20260820105820_040",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "784c73fcc3829fdb202addbfd93a2b124a58d6d75ce613f4a29529598cecc445": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/784c73fcc3829fdb202addbfd93a2b124a58d6d75ce613f4a29529598cecc445.json",
+      "request_transaction_id": "k7ivuwEATDeOhjdrkW0gEtLYs3lzY4mX0GipWeGo6g3x7KGubkN0VvF/00ceeNr5CyK/+F7a2gDWDWrhrRfcJV5Ibme93wsLRVJrFMuR27RllZBFtaC0uWkYLAVNGtM5NxS4BRfOXhB4Zh7Ki9IvyjfSmmstHcmbNTnlIjTYD+eYGushzricWwTInUzNq/LqxXD2Fdk3Zvd7fudXmBlJqMcfGqSFvtN5p6Q5KCCm861OzJ1ntjBHqXfpv1wZWPcOYcaH/gvaegPMguP/DWA0hUaqaSJWjEWxNG67Thq5JiPXCmDrSP4XIY3aDh4601YxJKnqoT/hhQ4SJJL4tas8hQ==",
+      "telegram_message_id": "Edgar_20260522230903_002",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "7b13213335849cbc23d8c393bde13a2a3f0b9187ae5f3d7848c4faf2a0254490": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/7b13213335849cbc23d8c393bde13a2a3f0b9187ae5f3d7848c4faf2a0254490.json",
+      "request_transaction_id": "mIWJL4X0BjGFLg+lLNbBNOcuw1lxW3Q/CZ/83Dl/K7ykdt9K3EeFjwUsghnr4SaBneAYNl2G7hKQQ+/VQY66ZIXp0+X3QpDKy16fBaRQInDcdCYTgOZaJp61wAWUWxj9EyPmI+amQdt/L5LYEc1GhfLc2d/2IR/QKFOdJrLab8YLl5RJGQPCGnRk/BAHEcXYUBVwM1ipFVa83vMspMynwrQzkQaBM09W7DoqSLn9c8Gcs4BF4hwg8phpTKt9u7pywRRJHbVJ+r9d4Panoreh3Q2tvMONB5U3lxW/CnbSBV0JYPdd4+ShJi70lHYtzIERgCIQu+szLELG5cP53sWW8Q==",
+      "telegram_message_id": "Edgar_20260531081344_162",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "7ba710b310a049f5bfa0f37fdaedb31199c889597b8e515ce39075115ccb9ff4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/7ba710b310a049f5bfa0f37fdaedb31199c889597b8e515ce39075115ccb9ff4.json",
+      "request_transaction_id": "34fyfRawQsxDscqRXblDuEU/mnR+rSKgcIkrZrRLcfus5mihGuK27Ydi39ODJc5SN08Edag+VkGgwFbVPlPVVMC6/6niQ9ZclbAGvYRTA18JDLknOHQBNtjbVxBZn9K5byA+vkp4MnT/NYXcJPgAvqh1VZLtfXVCqkBvHP3mzGKqngK9w3pEgHgM5fkL+deJ4QzjYbqsN2II/6Vt3DaGz5akfE9nYipUTO8ZFfq7uzapsuRBemAL15M9IbPD4rUWV/NatQbl4YOuMoROooBnjy8uMLJsOP2H3gAWz5ENEv6NADsSGw3CKJyDwvNeZ55DaX9pcX2z+jpfo9EUGZyJ0w==",
+      "telegram_message_id": "Edgar_20260531081828_238",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "7ff76beaf997665220b5cf00cacd4735f02d14af767a31fe678be3911f1cf103": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/7ff76beaf997665220b5cf00cacd4735f02d14af767a31fe678be3911f1cf103.json",
+      "request_transaction_id": "TzfQOjHPI+z7E/WK7o54oB9CAM011rLpFG05FT4u+dIPVdKqSTSfRbCk0AdqiI9pZlk1j4s/yvxvBcLGv5K7Jq5L/lkhjgYeMnOxCXIlUqM2gke5JrgveUMtPfsB7BRWkqAYW3j0iwh3+F5eYcjtL9xa0EksGQreVi9dxU0UMFgTDUwfoiB3TQZoOtqXeYsiM0CJVg27CpeTGAfGOEmro/nZq08Yc7VQUh3o/DjAClly3r/spAyJIVk1QP3ty5SdRnvP8Jv1tgJdrseBQnNv1ydt/nl1KGWwqzZ4oheEZXhicf5EF23n6gfKLDG+EZAZC7wa6OllHWtGlGmcCqMyfg==",
+      "telegram_message_id": "Edgar_20260531082143_286",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "839ac30c73f9e0e24d48e6395d283264005f04cf8eb6c2bfb1ef365388a9069f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/839ac30c73f9e0e24d48e6395d283264005f04cf8eb6c2bfb1ef365388a9069f.json",
+      "request_transaction_id": "Q8wwlL0dW5foLjMaaqvB0VFL0KIhz+m3EySzqFhDIMO4GGkOVDKexsliPgNuni8wbQbfGWcr2QEIEUiv6viwOKp8OkvCCWRAGeLcszbYCyzHN1ETvgOaTjtNGY/bApZqrZ6NGWHGvuDEFrON0O2/hLreG/XcCB3oIPCLh7q0ebnc2sixMpcULMwfHfetA0mgfcszzOmgb2MEPy3sblj39xTcKhcujRvHdVy631spPVJgHKR9dEOtMuhweOMrmPg/P+50m5thtg1jnJT2DR6hR76JgIu5+egDIYNHZqeqNLh6hkmveoD4iVGkR00TRZLvEIjnSP6a59CHTUswT/qkqQ==",
+      "telegram_message_id": "Edgar_20260531081341_158",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "851bda5ed46b11870aa9ffab6835a669fa48abc8a3e12f5fd1900be18b7daf91": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/851bda5ed46b11870aa9ffab6835a669fa48abc8a3e12f5fd1900be18b7daf91.json",
+      "request_transaction_id": "achye49xQU3S2v6Z+zg3yguiGjiqYAQPj0PmrDkGqQlrJTQjIz8yMCuiy2uU7qpKhfGaafjr36WXiJ/AfHhjvvvOSSqsKGjTs1ERxyz6lmQtax/QcjpCiirIG76WnflK7K6tdGvAzbGdt7vHLGu/Ft4Dskx3ed58/2TTNk+Sb7nMkh+efhHSUbgpdQjLxCmLko7LmYs638FF1eIIwZvfTJkcnANDVhwA3IRXAvgRdq0wxV/s74oOHFK2sGD20AanUzdWFH6yssFs1RLXmwo3YO+cpYed6BcPWBGvoCOiRA/6TqjH9X3xyRQxtpMdbI64Sg5Ru/ASWnXTBX50FiuWnw==",
+      "telegram_message_id": "Edgar_20260531081412_182",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "888111d2d647fe59d2a1a1ba67347a13bef550ac22bc3ed04d8227b03fc34330": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/888111d2d647fe59d2a1a1ba67347a13bef550ac22bc3ed04d8227b03fc34330.json",
+      "request_transaction_id": "1LGsK/DU3+EH0PTFHU7UnNJOtSrvOB0snreOuzIMMaW188biiwTDN87A2J7psLCHCz+NdhTM8myZ82RPLnksdfWyOX2zwinO7+cTXA1YYfXyt3hSGnEJSbk+/l7Q+mxjy/7Oru6HZKByGuU80fQkm+ob9zrVlWCYyBGcHhVwGcmm/aM033JDKLteMjNr6idtR6jmQRbxro2yig65dO/9ScypS/lfWvFWnHupo6nIQJfu/2AFAQb26B7sLHioWWWkzfODgBN8h7wPM7lZuMiyKdbaRMJZIpoBYAUZ783gqvB/H9THg4OJov4I4GFWmNuUQRuq+cvImlRE+zdUhiZEDw==",
+      "telegram_message_id": "Edgar_20260531072334_144",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "904c49e705ddcbee2d0aa0ffb1fb46be67f038e7528bda23f273279269f04429": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/904c49e705ddcbee2d0aa0ffb1fb46be67f038e7528bda23f273279269f04429.json",
+      "request_transaction_id": "0uZ9MTYmdJi27h+R3DuNH/rlfQO8dBaBsLhZa7K20QDmWMiJaPnZDiEHJxwLZEXgoFd2xY4uAlp4ZZ1r5zcvv0C0PiXIqxqmBue9coF34LJBlLTETmRGLAc4OLsIYTuqZfuqTx8dhVQfKH18KhXbLEQyJlD0qCWT+UrF/YK90MC16ysNQshsafZaMkdWuZBWmMkLmNg83QPkmpyE37ATCbwUMeXu/ytusMzAHSoXZVJMmd8J7Mf4eggx3ap36iGIcVonDRpMiscn4VoDL0WJ8RWE3zlMGDJV453JKAQ8yUWUEs8nbzwO2gSnZKhPYB9hGGv3PujAUZ6mmkLzSDh1zQ==",
+      "telegram_message_id": "Edgar_20260531082139_284",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "9061d7aff40cb9fcad3f7f18f3629a283ecd12332eda084f667bac9d0d6183a2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/9061d7aff40cb9fcad3f7f18f3629a283ecd12332eda084f667bac9d0d6183a2.json",
+      "request_transaction_id": "1nvKZJisIADOPqun+P0S5XUYWdDdOJH7wHhmf89FiddZGsTmUJMV9o4PYKt0POyQc7GK6kHDsaE3wHpOA0JOGVHL3MpisJgc1jcZASeew7CAmckGuZqLkl9imuxEI0CpuNVhbuwIKqVPFbxdtJSJtPTLHdX74pXcRY52FnU9rEKyTgT9OkiO8/CS6nULEOHz96mQKPPQNW8X3mpqeWpGZPB/Mj8PJLKFNnzIPBi/zEOl7WYra5mIR27vI+FWHPeozxXonEAlatYX61ricxaYImcW9my5pQmssjCUhtepUHLVch+9OjtO6pO8jRATxmy89ErRWYmACwK7DGaSVQJnnw==",
+      "telegram_message_id": "Edgar_20260531081956_262",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "96496b0115a57535b6e34fb72ce88b40f7dbbb02ebce687f36a080ed5cb692f8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/96496b0115a57535b6e34fb72ce88b40f7dbbb02ebce687f36a080ed5cb692f8.json",
+      "request_transaction_id": "waHh7JNi4nW8Ugx4wjzxcbra31/pW+1WoHXfc6ap+ozVWBsm0lNECBpRkYz1Ix/jcOBqbs/WyXgWKr+MGxLNJzl9jmGRn1u7KXpLmtZ70A2TEwzWoE6mDsuzwiMPZYuK/cSkHXjAOq5nGflr9E1uh5HupYd0FEK0aK1EEwJ5iHTM7/a2N+Ah4cCi2lze261Qdm7cvAxuL0xdri55jHWB2ZXKQCH0q19Nk2Ns9P3uKVNvIGn0z+jmcFWMgH1uBnuUlihUvybFcdG091ShLZK6GL6UFjTfvicgvQNDlXAldhS9d2UbDTNyFwdfWRrm4G+DMYoGRpP6VZ45vnI9I+D8mg==",
+      "telegram_message_id": "Edgar_20260531081513_216",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "9e77d4304e21766065a59a101e5aa90d07e37c9a92412be6589a529118e03b04": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/9e77d4304e21766065a59a101e5aa90d07e37c9a92412be6589a529118e03b04.json",
+      "request_transaction_id": "mlqqNRP1QUWJZTy6feRfNq04lEKmE+tGcV2wM0Bf4CQthLiFCYghKHlDRPuD/jLfQSZ389AeW/tDp9Zsn94wlap5Zqldfp+u8bI1aGertTfyYvENgjf2v34jzGmDBbS+qley/i/DgXIT5v6fGMClOX0a/VzAwoINgYTWEV+YMRtcIWb3PYxJOJ8dKjSMezpQt8gJc5xXSlddlpGLdEspH7MTcZawf8TSzQ8Sl6pjc+HdqMQR3JbA+zd2940x4Z7GJUYiJo0nlii3ofMxZOXTdhJBWP24yXAfX1THpYAA9X7XfjdvRvWmKs1+qbbf7B8c6i5jnMt3qkCLQ7Cb34uKlQ==",
+      "telegram_message_id": "Edgar_20260531083039_322",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "9fde2fe200e3f0ec31c386e48768703ed8e0e2dc5ce952c461aa1bf97554317d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/9fde2fe200e3f0ec31c386e48768703ed8e0e2dc5ce952c461aa1bf97554317d.json",
+      "request_transaction_id": "Cn6VSxkP2gcTE4l+7ZS0/6z5tRSpx24HbatoPYj1kZMVrySRjpUmRz0qnHtbNhNs441loMlln6J5zDARznVoo0OPD3sbPnws0xFldDMJvXKWH8PB70JHW+irMh3zyDwoRzw6wlpY0XH5RYYc9bMi+pOrKi4wyFYYcwAYKGbJb5o3PnY/9b6kJh3Qrl69UDCLVNipf2n/Uxmb2+0hzmknMCa9WkgIPznZYnnSZ3pq6ofY7AOnNqyEOtHzqAowS5ihI5Wsb4PO9QWVXzax7znxWtcp/zTQz+SjOZx8n1+BUkHT+/T6SUlte1I+4IcmOKI3uCL+tILkO6a/PA5QAnxVhA==",
+      "telegram_message_id": "Edgar_20260531081515_218",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "a022990c4a74e4e18c6e491f2552b71f5c623b89d7b2d872c9c668857be53aa4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/a022990c4a74e4e18c6e491f2552b71f5c623b89d7b2d872c9c668857be53aa4.json",
+      "request_transaction_id": "GIkrtVHZQE1Oc/W9lzTjLYqyL4SJEarvVzUZgPA1LYhgPOVTbAGcXOKenZqHwKIELQHzKiaLTzSR3wHCbXj5lxmkVSkWZo1e7H/lXjum+8cdJ8uTdmGgSRB6bIALfbR0RMSId/6cVLnXuW/gwZITaIaUEmS64HQUHaytz+wC196N9RKLXqqGlOEXlZqZFVA03tF0hAL7rnUmLRL35tFxZX+hloVwFZcSRjYtu4smiJwez72VQNfv290jy8mumHv9Xqce1ideDxb5MxTcxLMx4D2pVGdRqVHR6N8ICrQnDN2X/U7UxHBdSU+DuIzbTEBV4y1RYSND1b6Vm3wG94hKDw==",
+      "telegram_message_id": "Edgar_20260531081454_206",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "a3ea0028106e37f357e6bdbc4108fd593636380bbeffd956799fe10b88faa5af": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/a3ea0028106e37f357e6bdbc4108fd593636380bbeffd956799fe10b88faa5af.json",
+      "request_transaction_id": "NXGkWXu3n13bF3h60/MS5WSSneLxZ+yG4lIlEYy3vZPrGwtsQdC4ny/saKOLrzdjpDsmtTAa6xSG9So/VLULAmSNwQwvc4dg4OURzxTh88XeERkadY7wf1MMUW8fORn6hvOR4nxqT1ioTUUTKiZs23qEIr6cfGeInPNlFkB/c5jNpUfi3DDRUii2VwOYXZXh/fKoUQvONlP7RCOfVl6Y9aTEsMN8sMBfjsGW/bewKL7rIxBPzuC8zHVm9ocsZVmbFk0k49u/+eKnpXglSVvXErPbSDm2o+Pn23IKriyW6vHIgAV7PaAocfHQfLq+7GpUokuy4sqXuRRi6yXHZJFieQ==",
+      "telegram_message_id": "Edgar_20260531081336_156",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "a5cf5bc5c13557daca903114e1e3340a84362f1ba89bf4a71e932ca8c3c30388": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/a5cf5bc5c13557daca903114e1e3340a84362f1ba89bf4a71e932ca8c3c30388.json",
+      "request_transaction_id": "PszzKyt80yk3UYtEp+umUJ+aDFH1am3liYDDeOoC3iiv3lP7qgf4tRuLmRdGQ+evJd9wUJaiK/7fFMi9+1gORVCiL6VUIyqWBMZtb7joD2ZFrjS/HQu0xFNvbB3U79uQmpz8k2+jYyumLkQZOUYYHzeK3VaulUivo13N2zHNtIjElUwwwQlYAYhy3a+7xW7XfnErSoVSo6qC6eW+dWmnSTzT2x6JoUXU6pygozC2J8mHGlk/6ySW+K6eorBtnUhKs4rO9K4Q6blOFb56BzQBNOXGIjUo6xynY/MMtm7hUZMC1h3+ErNnm+gKyUwoaby3ZstpnaPZ9S3mn1qIiK/dnQ==",
+      "telegram_message_id": "Edgar_20260531081837_246",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "aa5377a2f4260407b6bd2391dea186fb3e317d1f3259575caea007792942cd61": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/aa5377a2f4260407b6bd2391dea186fb3e317d1f3259575caea007792942cd61.json",
+      "request_transaction_id": "g7j88cSPqPWOIS4VmLYzutSJ3jOYhqQE6id+JPPTYP9WXHUxkG1+OK1VMa3UL7Tjx5VBGUihXjvdhuYVrc5D8QHNTF4l3yk0h76xaHY4NNyLfAAZvY7EaSHZaO6YPotKUi9+z/66oznr/zI2JObFvUtBio6FBas6rIzcXsVMjhAYcPwD4Ula281dJleOZl/WDrDBKY5AHLlZt6vS1RryCoA7trs+YbPbqBpVmio9BXUp0VQ8YNHCAfTgFJp4+5M/XOfAXleCfLccH8hRYluGwxN1bc8dqdbhnF4rnWxijOl1BuroOlpHSm1qgQGghcEHVwXGZdPmOLZ8+NJPDlmvrQ==",
+      "telegram_message_id": "Edgar_20260531082258_320",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ac294658872c02273cfdefc25ce629f63615a2cf18548bc66ab8ab71a9da2892": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ac294658872c02273cfdefc25ce629f63615a2cf18548bc66ab8ab71a9da2892.json",
+      "request_transaction_id": "efYC5LUGfv5Six4SU+7tCsEDpVVYKw9/LILwSH/MbgM3V8nIPfXlmwoY8EHUJXHAC4g/EweB095cbhZoBUskmEnZaY7BmhkKYgELvgIyrVudjrsDWLm0jodkdbIYqNRbzhsG1qU1nx7dpCDwO1zNSieSgsu8gLgjnX2ABmdrHP06gkMRLytoElkgDgbL5Wm5BWcUYUdVQCDAFrqkOOTGWpniBSdGgCvXmjx/ZGe7vAt67mmlOkrStorNuWmsa7UcdzvJ2mUG+FEiyJj4b2U5BXFo3WH4NLAP+UThkapNBbSUKbke2GpPH9SQ93YApb708OVW85lQzkjwTevoOynVSg==",
+      "telegram_message_id": "Edgar_20260531081450_202",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ae75d46a140b33117dc8e6b6c9d0500e09259ae41ee85a64f53aac93e93608d0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ae75d46a140b33117dc8e6b6c9d0500e09259ae41ee85a64f53aac93e93608d0.json",
+      "request_transaction_id": "URJygxMo53PkopgXLPYSUDtCZfjLfR8WLH3gr3sNEJPC+xSBBgctV1D669LI4YYq7e+uQw9idtAWDqPG8EU/OspJlN2PZjqArHO11a2s4Z/dVH+O+oQ5NjOf0s+Xr+nRFFMYhtb8legq4xRWFXAE+Z3bXbyTURpTwIsh6T7ELNVrBnlQmqYHqo+FTwVUCuvcRPTfkAFKLmEcMopcXMF/eDtoS+xRmQoqJlRb79DEvE+PEGrplyHjbYPU4wJSgm7pzRbF+HMRch8KaZvIPhAHxh/BUO5G0HhXQObEpor8f+d6lzxmzhndJ1K4g3eV3kjwVY18uWy7aPdDxQOTOFI2eQ==",
+      "telegram_message_id": "Edgar_20260531081520_222",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ae7fe148932ad1fe1f5b03323ee6bc64e863f4a7f2465a42a9afb86c045d9470": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ae7fe148932ad1fe1f5b03323ee6bc64e863f4a7f2465a42a9afb86c045d9470.json",
+      "request_transaction_id": "VsLE/hpPugCJgahSoY/ZuhG1lvnzBKCJitrAxCmMqjrSS4vqwAQZSNuP6L8M62L83/lazN6HTxrHRjNBAlIByibFwowFn/owHX5Ow/1KyLiCoz2f3fdufePA9JOUcQcyUwnZLcEsmA4m9stEQkSVKkKK7VI+9g6DkrSkQYhrY1M9eMBkeq9Tq+spvfdMGY8NrpVQ98jwewYCUyhjRXXc/g56dKP3Hj4RWyhS32s7/ELt92r70i/eYZiybhaH7HrN/2UuQtf34ZaIbmFiYQnSKhpYDrG+UewxhTUbnNVmXyXSpondApnhDI3OZu9SdUaLGo5hZSGCL1ha0Yvp46SGbA==",
+      "telegram_message_id": "Edgar_20260531081534_228",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "afe1dcf82797e7905a5319df24316c8756ae50e2c4609c6795898bb3903d473b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/afe1dcf82797e7905a5319df24316c8756ae50e2c4609c6795898bb3903d473b.json",
+      "request_transaction_id": "mCSo37hxHhoEJW43Nborr8dE3zDzLxSpEx/c8+RUF3neta5FxUcRH1qx+cClCWF0zhuPX8Z6aTWJ/odis3UcCdroEzDcR9cuZxIiNUuWFhsEWk8XgyV/03gny1Lnn3qc2D+hXlzLqniNcrSpXhg/fbPszcsaM0hq3oHDfQKdNMwk0GICrbMfwcDEYmFs6HsjbTnVq3IeJpaidy+DFnVdSnUIK5XVQWDH9h6sOhz3+E32LHz31WLTyZhhF0vfN13G3WCjp/HpL2GtKNBLWAAMX2+U1xGVmD6inqZXQ9jJ0cI+xm/fyHUFVdUmBEuxPUXHd7CPjhx2Wv7QYGpQ/PZt7A==",
+      "telegram_message_id": "Edgar_20260531081330_150",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "b277f4573e2234a5f88cd19fee9db77ccb8ab151e7516c96572353f9a1bd1167": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/b277f4573e2234a5f88cd19fee9db77ccb8ab151e7516c96572353f9a1bd1167.json",
+      "request_transaction_id": "h+Pm1GAlmCoslB4DQGDqd51GFg0k0nofdz46NcxJy3sEPCLeq/OksxoAIRV02TAHT3+mMZ9+DBDaeIs740xsG1f8tPNxWNrQpE7+1H5BVC0FVHLhhHL1PYzuo8ttH3X/Lu2U/hCq6gWEB456JCdc3EJ6GrY8/gtcyscRj3gmxK2kHY1yM5+QJkj90uXDCyd/5yjG7iWmTGGonFZPXkfPv3d6F5slT0nE/KWMUiR15UaijFrcpfYTI+hqHSIYpLZg6d5htqBGanHAWyNfpo2NNAzcGOKsGAHU0+BQpqA6vzXTKAkfVYuLfc63/bpzquv2/O4frt8kSjiOj4EWQDD5Lg==",
+      "telegram_message_id": "Edgar_20260531082220_312",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "b3de2c479c6c6aa342880324da1dc4b8f7fb268bf6f501bb9e13c56cca54e086": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/b3de2c479c6c6aa342880324da1dc4b8f7fb268bf6f501bb9e13c56cca54e086.json",
+      "request_transaction_id": "KT5kdGDK9OW/L+DvkF+a/psbjeyB3Z9qcPOVv+9mhaRUyJ3tLlmucWmSfEf3O1rQHW2MbVsWeITb2CiZ9XYBfk6Of4BgnISdEuWJSGz3pr1LQWaJgs9gI9910lviBUImqW2udAI34oId1jjuO42Bn5x1Nq1fjjOGBjmbBiDWIFU+VeCRlhqsfp+QkuDG2SPGcWpKyk2RxiNKpzrBwfEuDNwrLQqapx3Qkb9YslyETxMYAaZF1rigc+0AUpDzYFP4oRtS1jEUcWQ2B3ntDI+W7/9iqaKBVJ6ilIPClf9+cSmNKUDpTn83ZKay2bDtyAwDwACRwG9dgpLtwfuQdtqAwg==",
+      "telegram_message_id": "Edgar_20260531082125_280",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "b5646128b023ba720533b1b07a3506b4ef171f4dd93a84aa1df6fbb721f56b02": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/b5646128b023ba720533b1b07a3506b4ef171f4dd93a84aa1df6fbb721f56b02.json",
+      "request_transaction_id": "YkNTG9gHZi17KsSfJD6SSxzUXXrUQwcZuzyZa6m+m02yLAut/s8Ue9rm0s9KOGfYyFphqyvNb9pIliB+hgiRC7IbUq1QhuL417MDi6WhYFa/Kcc6ru0CIXlB197EsfRz4Fseik/ghg07Mxnb7w1h6M6kOu4K7j4pJcApgU6jXEmFppOVAD2fR/drZyhE7OP+BzUUKV3FgRRfkpxEnPDexYXkHmeMRTrdOQc9dPnVFnKGGfjK7fzj2pqL2SsDt1eOd662hyBGSVTXk3iIJpmh1C/sSSlnj+FdGNJhpGaRyiKh3SAx4mNoHBDkbOqSzH+g76XODA/ueWGXm9WqJ14WPQ==",
+      "telegram_message_id": "Edgar_20260531081548_236",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ba2ab6a50c575a36588bc052226f24a77cdbd5deea2d8c424d54c8ca2bdd43aa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ba2ab6a50c575a36588bc052226f24a77cdbd5deea2d8c424d54c8ca2bdd43aa.json",
+      "request_transaction_id": "CBaEJML7mUEKUe/b9lUT3e3MWEkwC3RhTE4XY4TuolsDCfc0EhfBYS0aSBv38tOR3J3H7tA5DreFXzDAXp2dzpfJhW4a6ea0fPrx75zcLeJSxe6NTkRmdBU1/F3VbPia/Au29OidS3S/ZtTdSspt5L42uw4nUUE5DvJjamjSsyodPsAM1BAffjBCokGsaf9rANi+S8qoaE0bum1pnyejto9EQ6raExUtDKeuwV1QD4Z9qVhom8p6rJZFj+bV3UltlwN8AkMZj32EpDBBotwPep7QqS8tHyxeFLBc8SjgO72XGEO7E002IX5ivIXLfUlCnYxMsY49m7DVlkizA+veeQ==",
+      "telegram_message_id": "Edgar_20260531081423_188",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "c25dc014100771d47b286242fa38bac88c529ca1f859ba16db579e046e6d1bc6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/c25dc014100771d47b286242fa38bac88c529ca1f859ba16db579e046e6d1bc6.json",
+      "request_transaction_id": "b8SFRfzDgEeiZZSFSDa53jQ5z0YhpbiQaSg55Q35RuzmUDd77kyJHFBfqDuJeP8FA5/cWkg3Avuh5XKD5FFuBWWog7vvdcyC0QxYrkKuJPQjr8Sl7acNN2rTNXRJGamSeD+p5c4JEjERd9gJfTHYQp0XbkZ8jc3z95Nq+pMcHoH0ovtMAWkZtWGM11HWd/BJH3FXiDfgL4+6u13K1+s+rNJqY6uSCu475tV6rn/uBr2rVGXGEqNzLTax59UWbbSIkUu4Vkq595NxGQ9lj8LGkQsxwAzQH69nLfpNLUe3cFe/+f4GfrXsI9DthEDQykwqtGCUgBRnL/Uh44PTzOGyJg==",
+      "telegram_message_id": "Edgar_20260531081836_244",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "c322cf3c34c324dccd7912bfaa2430e74d4579eb75582dbcd2debc97c386ac80": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/c322cf3c34c324dccd7912bfaa2430e74d4579eb75582dbcd2debc97c386ac80.json",
+      "request_transaction_id": "EQbUrAxFGSNTj3+mMwisnMVJ0TuO7nK7j/cIT6gcGvrE/41LRKaAhPKk0ILqodhxM5CueNCGuD7i2MO4Kid5sWllfUPSsemp2lG+6u5WrsCIcoGB6qDYc7LL4tvsCO70KecAjko+eaaKF8NwC1jgLYCYL0Nh5WPo+t+KGM14FcLbrr+z9VhKFsc6MLDjaWKPDEahKp/zjzMmn3K/Wqc4wOidu0rXcCkB7VJ7u0SLTvKCMYPhpCNytbRLfv0F/jzil0UUybWyaX/5E4X+hozt0yoXvMSYvez3uF+ijTPOPRxPwLQj6T9yKNnYXRQqulNFYAi98sEjqpgwcEMhikVkKg==",
+      "telegram_message_id": "Edgar_20260531081334_154",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "cda153f8284f8cf497a6b12e391cf240cd151419d2dfdf921b09ea30e69f8eb2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/cda153f8284f8cf497a6b12e391cf240cd151419d2dfdf921b09ea30e69f8eb2.json",
+      "request_transaction_id": "nKUVxZtSqA60KwVgT0v1t0uDfF+XGf+RtxQfl0jENEivHcU4BG/h5frUVih7qQVKNcM6m/8TUUDSSKCWD1Yg/28G3tRnym6t5D13JVAT1aDoRJQ3OYVj0+nOHgKSyLOD1VmB44N61HaKogZ0Ziw/FtDOhaf6LBdsUS6QPziLrtXthhioPQF9IZOXdj27qoU+G6PlfM2HmJgk1MTNUP2gjfBBKxP7920ZqFVOgnjqNj4YvP/+QRgekeHCY8VddeiYhC9Q1lj3ddlXxNdC4AjgyzPJ8sAKhbO7U+WYQ66/wV/3wW1XC43X8CsTSwGbKx5fDpbgXFYNlYDIQllLim6Xcw==",
+      "telegram_message_id": "Edgar_20260531081842_248",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ce970d32453fc568e338f777fccbd776aabca847f9eac4f1fc83df0c3b306251": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ce970d32453fc568e338f777fccbd776aabca847f9eac4f1fc83df0c3b306251.json",
+      "request_transaction_id": "VEpuhLzpLhViaU1PemweQL/0XIXl51j/3E0RISwaDo9cU2Il0o9UHery0zSmIPrydocyBoE+IJpu5B49xgHid/2aMCi4l6rT8bB62+fMC/Ub5BFDPcQaYUTED8K0yQARCmze32HReQE8x65moT0+QCaJv8A1SJJYAKPl9R1HDeR5yNVcMPs0uTDv5CJb4N21GRVm1VlI57NZEluLz87Q6xq/dNC4lFkCiXikVSNA+os/6YXutKk2BHhFHX35Y8/YxRmnO4E3WZs56gxYtSOB7elHc1EfeeM1jnxiq4T9F0aB6R8DZIygpuRfh1s0PEczJgaoybcZwOv8L7xTRC5zEw==",
+      "telegram_message_id": "Edgar_20260531081538_230",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "cf4036e3f57c3a4fd821fc25e3a96f93ea8cc86d4a8e407919a10ff50f4bd787": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/cf4036e3f57c3a4fd821fc25e3a96f93ea8cc86d4a8e407919a10ff50f4bd787.json",
+      "request_transaction_id": "DhPpkIfbMd4J9dG973OA2mlq4eCfIFULeN0qK3Mcz/n8XbLl7AxMjbS5d8zH/l2MNVt4LRZ1/J8+Saj6oiVdzHIYB9CvflrraXyqum5b3b8viDK27xy3/MlE4HzW2YhFgzs5LencayQwaAeUElYIeOXcFSjea0rl9UNATzGXCN/qOMmSEaiBY8PH4TjW2ArrhfKfWol29mptDhkaMo0gykOftH1BcFOluf5Oh4ugZcSXcDTUxWCs/L5nj76DtiPlDn00g8ouQcIyr1yaFs91SyUjM44wq9j60m5bZTW9VejbSpk2qB+KFSn6ZMgduyEx4pATHva34EZSgaJfIpdRsA==",
+      "telegram_message_id": "Edgar_20260531082019_268",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "d1ddac6be8a1c01ef4476e4455073e9d827f91b86a5104404c9139e5e9584163": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/d1ddac6be8a1c01ef4476e4455073e9d827f91b86a5104404c9139e5e9584163.json",
+      "request_transaction_id": "rvaeQMbsU9Ojz5AKgGXLPjMx0FnMpjGcELdMrE69HRPlO1PwQ2vsa5p+AGgwqXtwH295o78ukU6QamoXG8Bgn8/DPUoAqcT9mN4yYo0FNsyGlHEmJnSzuMXnXFglEl4O6EMiWb4XPteM+z9djTsiWbkRrZJMIZ+iAd6sybC2NcmNwlX2MC5fypXjCO711G9ubqxdkHlpcxtKgi3ya5Ga2ZaFMl1oERZIXmEVPIrXH7lKFHUJMwO+QyGvkoI3up7a48F76+sg+Yd3RlUoUndVxNrryTl7VXHBhgfFdmeYiTmayGe7PHJeoXLD34FbyeC8r3Ij/pPjbsTIj0gnWouIdw==",
+      "telegram_message_id": "Edgar_20260531081847_250",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "d28953f4442eb88b9c92c45ab2e1de609ced38c59f7662069038244175836eee": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/d28953f4442eb88b9c92c45ab2e1de609ced38c59f7662069038244175836eee.json",
+      "request_transaction_id": "5OiTd7IzbXyX3W/mPu9Tuep75ABOr3FW4Jk5hKzOE5QVIpZwAq8W7R/OTlDAF3MrcLIgHGF6wMJckucjBxtenAg+XPdOcpQiAncCwKFQwxu2vVompZei85+Q+8jUEGUUahb+YRGSVflvihB7+9LcGW/vKgEWNbwVGvgFBxct7qIAkS/SqIBU8liK/UBhcsotvXx9ADhOenHE5U3QMwnCQgJo16EBo+nOLbV38PUxnt4pMBa3GMWX/JXbneVS3+E4sH1xBysVQzb4wlhC5Trj0qBv0Vfu3J+eANCIdGIRWO9Ny0Im2EPKtF151wiLHxy13dbrOy0L+M+Vzx0Qu1+ASQ==",
+      "telegram_message_id": "Edgar_20260531081953_260",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "d2a7cc800bf5cd4d569c67feaf0c6a04b56aae81c5719078c37dd3c5a332b9b1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/d2a7cc800bf5cd4d569c67feaf0c6a04b56aae81c5719078c37dd3c5a332b9b1.json",
+      "request_transaction_id": "dTjJJ3TAiAYNXot+f04j2D5yJLtouLBqzCwpolxhGc/uHgIdPBN+YHUMf9qovACbWHAnTalb0fCbUjPHqp5R12Djc/KIHHNVtw2+NxqrSC3snkWhXy8n7SLdeIga/bxgR3SUx8ncHtl6sYeve3t25BQVRqCcWeduKGC1msq0UjQk3Pr/8LPUTXg9dXaF/UXKLoNdr+H9ILHn9DvS9itLwSNDaZl8eE4cbmI+4uZMhHaBJGxouFL66wlRvUeF6+0K6OYUfRzG0azHs6OpUGBhZexpcaGYsDCBUp21bn8cEsvqn6lwiqI/yg29s6mk7G0JGZti2zjFAlfV1My9z7z2kA==",
+      "telegram_message_id": "Edgar_20260531082148_292",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "d6fe8bc0405e5b6fd87e4447f9fcef85e50b0d0fd59586e02938b39320c44e0c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/d6fe8bc0405e5b6fd87e4447f9fcef85e50b0d0fd59586e02938b39320c44e0c.json",
+      "request_transaction_id": "d+u9VYDVs2VsdEtuSdhOX3dYHi9ysyYdHRkk/W1WWWCCSJN7XHRu9nVtfqob5AG2BjgBijW9G4WOpG4Tk2Ngd4W8LTkNPYkKlUozEuf8esuMnPu8rj0X7/PNICnRW3e8vNFrjTlmpBFBdHYquyYBz3VCHypIbS52htV48QliYvOFwnb+g8Jn17Hawu8q/OCqe54ztyS/46Uu9NmRZI1pU3drRxG1xVlSn3TgnFGLXSTEVDRTdLiI7Zojn3zn+yRyG3b4aBv1lB0uZK/l6K0PGb7GF1w3pdpviy1cEHjR6LKu2UnWN1KX0IYaZoFgmAjbSBSNgIJhAsSEdGL3BiSw8w==",
+      "telegram_message_id": "Edgar_20260531081510_214",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "d77b3146408bec737edf6bdadd9a398633caaa064fe71f807721427c232f079e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/d77b3146408bec737edf6bdadd9a398633caaa064fe71f807721427c232f079e.json",
+      "request_transaction_id": "pW345DwLZqFpN8aua34b+ZTLMz3FVakLT403yee2EmcXzpXKDW3kTWD76g+F8rwJnQYCXub7Wwuv5sEjAGVH5MqWS2DeaEnO61Tt3m34VyrqvNyePwvfQstn+1JxklGlZrMFBrGXGq8mqDlumzszy3U8ZXFrg6ho4+S15qV0gMc/7SYtB3WQm+tUlO0MI9L1K5kKhRzT0IGYdGikMCtPatYK6mG/Q8FcDqpE7+VDoq/NdIls0o1XxzJbGECDdhSH7xm7uO4xFTmfyvE/u9Sc/lyLvMHRLMkk8Dm1ww6QTgVwBD7huwtOAL99e+BaL7Kr72PV4toM1tyRLn4lwzU9xQ==",
+      "telegram_message_id": "Edgar_20260531072012_142",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "da18c68755cc25e1dd53ee766a479ca00377439c026d284e741d9aac7fb0df3a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/da18c68755cc25e1dd53ee766a479ca00377439c026d284e741d9aac7fb0df3a.json",
+      "request_transaction_id": "ivR0f47fxYLpOq/Ab+HN80PYxs1qySu2mk6ge2chjFJN0WqTnl1J0Edm/X8NZ8a43Vl4YK3WIiqyVLTc0iWvv8jaFhxbl3yWfnmwET8a/LzKtPcZVLEeN6/BrtAk9BNaURRVGqhO1MWFXudTNtkHPI1E/gbKNdAGTyUA1idlCCX0FwUS77EAuC2iFFtSJTXsLgjTVpuV1mCTY8Szra2qh7qWa0jmy7rlZJON1iBQyPWEfAFwAu7m2Q/YDMv2VYO9sTsV8SXEA1+g1XS8VKJ0gs8/UtMNBH6ZcIs5RJBwHcAN4qnfU/kBrU3w9gJOi1BPt7qUUGGSxwczMG8Rs28+Lw==",
+      "telegram_message_id": "Edgar_20260531082222_314",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "df071decefc04c1b9582d586236f7e85a3ae121ddd6e4518585e3f114aef3a7c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/df071decefc04c1b9582d586236f7e85a3ae121ddd6e4518585e3f114aef3a7c.json",
+      "request_transaction_id": "JrDuThcGuFlw6pDvy+ILnWi6nucIHWHRVtaManHHObZZOCEbi1aLysAcJkcOWFpe2GMFXUcpk3iAN71qhOb/G5HN6Paha0R+9rILpWufgoOv3RAar5V+pGOPGyPS/mvgs7cBG98clqDTVztwgcCJFTtqBkKDa9s4W03H5qtfk2pxZEj5VV/8CRP8gMpmD7BgXvnn9p1bUdlkPEolbCfEv7DnkjEYOK7jNWtNdPf9RVdjt/dhLgZxASHqUEeF4TUVNtxpIS20joybdrAWmyghl3it87z1i5UxpEa6PfwTbM+bePsP01ZSAZKvuSYch6Mu1FTOjNgNkfCc2vU5BRKXmg==",
+      "telegram_message_id": "Edgar_20260531081418_184",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "e00d34d37b7e6c55cc74498ee3133113dcc0b0b84167b6260ba81d5651551da8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e00d34d37b7e6c55cc74498ee3133113dcc0b0b84167b6260ba81d5651551da8.json",
+      "request_transaction_id": "ijSkxkNhut9u55WNBXaMjvs7fd8DEEY7R0XFkSpdfQsUzU+tH3PI9gol9lFqVMdcd6GjuHgyJCE3C2X9I/EUuA3DUkvTkLZUpULpTuHKeOtly1Kl8mxYZ7R+9UhG5Efacxo64wWnzhWyU31R9U93fBzesNWskMX60kH7sHstGUvtOzvhOifD8xgWQj1JdloP2kAUGLUJJ+A3pmqdRMiPd1BZLnNjFLhmHLkKsiJ+/WRay4DjSAGWdYGMGg5a2HIbGZpuEQQKOOsE16OdAcS6sKO0yzB0SMer9+pm/sUgpVwUwYvlfWr2gBIm60PgsFJaABhRQBvNREZQ7ABfvoQ4nA==",
+      "telegram_message_id": "Edgar_20260820103235_026",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-08-20"
+    },
+    "e0b516ec391850cb2ff8b99f955a6abb7c88d4e776b0d7c069817dbe4acec1ff": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e0b516ec391850cb2ff8b99f955a6abb7c88d4e776b0d7c069817dbe4acec1ff.json",
+      "request_transaction_id": "UMVhLWSyn/JwSw+CtERkA6rDFxY2q3KaS9ZBQWDJv3ef53/sN/GEgjYecl3Bo7gvhBBy0AePKy0TGrRTkTK8IdzAuXXiIxKBf/ldwg2+g3zMpRT5MI4QBvBnvrMf7JPtcCKqyuXTivT6RjRndMvu3VRazKeBaRlETaM44IdrFqCac0zNcdeJSnSp2Q9jbQQP8nAfKS7RpXpbgh+eLmDmc1Cq3pIv609CJpOgZpxYoKEv30v4TSqut3V3lOXn3n9nembNidCnhLO9pGVv/HrAGXki9bo38os/C9HNFcsf3Bny/czAAS/02zrqloaxLvPB0pNcJYlhLz4HOMYqNkll4A==",
+      "telegram_message_id": "Edgar_20260531082229_316",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "e2154c520b05c778108b04638487e5d94913261748f9e1a0ea122a9501d55ba3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e2154c520b05c778108b04638487e5d94913261748f9e1a0ea122a9501d55ba3.json",
+      "request_transaction_id": "EaNFjtMge4lG/zcUCZL/YOZ55CHExUFd2eZRxukCLRJPszcKJvdiw8LyYgpMdy7JIvidh9cq8uGy6Ll9EUruVdzFKjvtQ9yuzPPcbl6FWmD2FN1vhjBQNK4D2576Of3r1w0nK+tZfVQxkSUQMY4rvbwp7G8p1O+lSS9VYao+t8uYAP3WiCz5MQEiiyN5VBEcsQjJwa0QAiosyXPujTvtdzMBQYMn9q7+5AHvbNZ8btBSWkHefTnRc27XjDJq+QpXQmM/JUpR/CF0Q/f58f4iKdYskGYdgdhBsRvgxPEQMKN1BGOR2eWS/6m1tUC6RIjAtmUj5pIqebAvpG0/e+XG6A==",
+      "telegram_message_id": "Edgar_20260531081431_192",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "e6082cad65fd0ce0266f88eca27a866ba206cd7f99f11bea03fa6e95ab1c0dc3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e6082cad65fd0ce0266f88eca27a866ba206cd7f99f11bea03fa6e95ab1c0dc3.json",
+      "request_transaction_id": "Crcr8zwpLROzAvjs/CxAW1UVZHjhp7uaBJDkXPntbz/RaGRXiMT+iv2tMKL+nQWxJ6jmT2nPSqnHJbgKGG+5/WwjDjZNQ/Ani9Nv2XC25eecAvCO3ulPf6Ro4oigGLY2JwLa4gailJ7gkresecol1trdak8YveHGcMNfjv5KrujQklUJtYDty4YmhXsFCF2gYYSsiFD+KWWVQ9LpiUa/YsPzx6g8bc6ocvoPb1otwlrmrGnyb8yu/g7QHJki5kdV01nlVQEir0eTx6vnp5mhUM2j/iAokZt8aPJwHlxo2PCmIcoMFUr+2I1jXuGa0yDZRa3uLSBA8P+1oRe0g4YwpQ==",
+      "telegram_message_id": "Edgar_20260531081502_210",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "e913c485a651f9a938d167636c228b2e0cd0ab8cbc5bef95153e792ce27c87db": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e913c485a651f9a938d167636c228b2e0cd0ab8cbc5bef95153e792ce27c87db.json",
+      "request_transaction_id": "YT/yQ0jfL8JzGaYV+RqwNHlDQddRpRMM3Xfi37dQ1AWG1Ocb/GsVdlgEAXc1AFY/DBIrn8JrWPpqZHm+YZWUiaYhZNuRTV65UL7euAOyFvOs4uXpZMdiODNgJpWrUI8Bbe2vsa7Web5awzzrflObOdnGyRvSFPYVQYD6e8SGWac6JugyADiLFxvQfUMOjXQq7TpDEtRkSNVVhqwO8fAqFHi6b6DAcFHfK4Ij/slJotkp9p4UQOHruqQ3IjUz7dkfdbP7/CKVedN74FgFS3ezXg0pXVpv91kWc+VkydqjDGM6Gk1hCQJR2CPHAqSmZo+vW1jL/zFuZxBlIoRxVoVVWw==",
+      "telegram_message_id": "Edgar_20260522232205_014",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "e9b01e4127f190230e0a9669992a43426a3323adf17c794017052597a7e519f0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/e9b01e4127f190230e0a9669992a43426a3323adf17c794017052597a7e519f0.json",
+      "request_transaction_id": "jN/JV1hpWSW5oDhdKs8Ocws8KZTq8uImoOqRPMGmiGjg4UQEYhrrRwzG8muumJgzREuhC+fk8aO3KPoBNYInWfN7C+cvkRwQ4mVHhq/0JaOYbycEVfax9hSanaEJrb8BA61lRfNhIZjcTJ5qC3/RuD1i6xdAxG6B0mE+RVl/8Qv1xRcuR+UX9CqUYVVBX/4rgy9Eo8fcQJdbEtmwmjPESHfkBMerh2W3C06n3mlvMKLXvPRX/cannFxW6qo3SGKpkafxpn/HEebJR3SHWpuXWLJ+kZycdXpkYScRZepmXj5MfEq/O05WogdA0FzIT5qkasft5GIlxdrDKllNiHkNAQ==",
+      "telegram_message_id": "Edgar_20260531081531_226",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "ef7f2dd9cc1cb1ab7f60ff83919a4156fe3778138978712d5f96480dd47de973": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/ef7f2dd9cc1cb1ab7f60ff83919a4156fe3778138978712d5f96480dd47de973.json",
+      "request_transaction_id": "G5Lob4qDKNBbRlmktF6XSzZ5zE1fL6NdpHRhfJD/vwxDt/Jx+MIldYEHu0F/5gmlIWMqyEOItzw1ZRUdxL9vk+hCucwUYgqgDXLaHZGcPhhcDwqpXuApKmHnW8BbKGck1dn29fyHvBPKred2ihubqNv5twXyfWHYnNvF9BQ/aaTgsB3YRkrbCjRDJJp6ZVyMxuj1SaFLuSG58YsqROMhhfK2H2gM6drrM/nO5WRGwBwlnKUmX5cdhIT7ZDtV8i11pIjaikX55sRMX0cZOlfrN4+baxZ3P+sPNDrzhaJi046EPN0p2ish5UCW7eXJY3TPWTeJBdE3kdpkVEICjdecYQ==",
+      "telegram_message_id": "Edgar_20260531081331_152",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "f16aaf5da017b8939a8dab3b2bc0abbf1911f9e37ca2fb786a980cb5984278f1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/f16aaf5da017b8939a8dab3b2bc0abbf1911f9e37ca2fb786a980cb5984278f1.json",
+      "request_transaction_id": "nlAgEY8fJ8ArdLNgHNnKqZeS9jWqdCsVMp5ccs0Net/z1svNszdrTNTK6cNq7fNpYOUPK7ln1TbGFttRxKy2qP0TmAW/Ap4eL95Ol6qBtwfcleUfOjIfbwzzFDk/LtxlkxI8w/xpMlesuAVGWAsHaXrgC7nTECj7i1LlszYVKUV+lk0IPhGl1eI4Qcm+kwjiPVYc7a9tNWgyLVqzu1la7cMMSBoZKFiVUcgsuHn6QZODLJV/JymgMTLLfinCEe9LDKMMEpbal55RmjOjQGn/N1v7Eic3LtuNnOO+neBQVt7uznRB6dM+r6i/AR2T4dr1LRnDgfSGRSvPA6ClqrFI4A==",
+      "telegram_message_id": "Edgar_20260531082037_276",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "f57958d8b42475ce5ff7d315ce139bd59f167ed205a9395ed88af1bf2b414004": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/f57958d8b42475ce5ff7d315ce139bd59f167ed205a9395ed88af1bf2b414004.json",
+      "request_transaction_id": "gAfEYAA40a7C3tJxwUlw2guOkHP83utxoPbxwSeOgN3W69LVE1a4Sg55PglkqU5OTf5FSuv2oQkb9vbvA7VXqUpDLvgpLXYaYvvHrLaBKX3f/d4HVdLIiByNfvPft515fJDgM0XBYepcHBLXMG4BxbbY1LEaCzZXKg/BskgFIVwithweCzVuZd1vj0NDpEza+YMima9LOusxxJtmVijsh4BgjL1Ynzkp39UaQTDyG2+qp7HAJ8Az/ifTM0Q7pIi43QKB04sh+aJ3TG7I8VgXGO8Ve+kdCuXQJIiX0ZU8hCc0I5zVdMj2MsBA7TRUOxYTumwx0qPVcj9Z+vGiSb0nqQ==",
+      "telegram_message_id": "Edgar_20260531082231_318",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "f65216dfb2b0f556eb2e94a10665dab315c406c52d67ff798595aae4b8f50568": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/f65216dfb2b0f556eb2e94a10665dab315c406c52d67ff798595aae4b8f50568.json",
+      "request_transaction_id": "b5qffazvNjdT5eSst5YWptckKi3oBrfZQ+38y9IDQOoLri8jtMQkOtoJTIQhC/BVUBsgj2qWu0fm1qlHGmZU6QMssSv4x4wooWC9CBZjNEUb+sayrleYhquXC/iLaJJZmkL9ExijvKIKXLwF9rfeneyAaY8pyDo4bekTGgPhaz8UlhtjrYkxzwrg2E+tU9lNISWIGhAC4BSXvbH8Vkyv74MMXhu6lf54Xnjfe2wL83x6cK8TTkjk2SfWjOoRnI+KsDDEBa/Ens8UQ6Cz3wpTuaPEOjNld0tMPaNrR7fvMB5Rza9NcyCDSndOojNyNMYJ3IolKuHhHXsmgJt4B6DA2A==",
+      "telegram_message_id": "Edgar_20260531081525_224",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "f9326427b7b3d14a66b87c3afbe1c294ff58b774dcf06f9bd5da8ec832a91678": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/f9326427b7b3d14a66b87c3afbe1c294ff58b774dcf06f9bd5da8ec832a91678.json",
+      "request_transaction_id": "fzalvSy+7XC62z5UgNOVhX+b52O/UjfuqHY0iooC5/+x4gqh3OUcVXBTDA/aCJMYNuE9UXCLj/szSYoGoSU/6zZfuXL72qR2vSL/uwrEaljGLWuoWiBYcebNNNVVB0FsOuN/AoR0AigiYkkcM+fyVdnOVurTDYfgIIXX8P41vaq5q5xxM8vYp5dOPRHoSjduuPiNm9YwUiZDiZsNGP3NwuCo1PVz2hwdiR82AmENh7In0o8CbJS9rGgsIUNUy85VRUsJMnheOP9anSoN4MKWm5cfsNANaNOvVOD6ceyRVtfQRj3RovCOtiDR5GOW9DyeIqM1ons4KCuu3clW94ZtkA==",
+      "telegram_message_id": "Edgar_20260531081351_168",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "f9f96bebff5a89a0476b4457736034ba5d814c8e4d59f165aeaa6da7e994c09f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/f9f96bebff5a89a0476b4457736034ba5d814c8e4d59f165aeaa6da7e994c09f.json",
+      "request_transaction_id": "iaTsdBdSlvV51pheaelGd8asrUWRA1bO9PINtLn0iRMQHr9kQ44oO9q/KJ8TNA7VoM8M8ygAdRybyDO4at9FSNKXd8ZctbtnWDeeCHLzX2t9ouHc8pxAGtJ55fX2VEPav1kqsHHt9qFcHmk1J8cq9+qqfM38nsebT1bCAmir5PCgt19qdntqURrY+ERtOZsyvcroDLWBleqKC+Rx4QpmyHJVkJNJ89x88reonwj7X4oE34pb/Cf/TBfsdCqOFktyEVoxPuJWpV50bIOXr9JI/drJoweMYnOsz5uOlUWddFaLVVQdM/VYdNn+z+KCfA4mVgxze1i/cDYbQJl5YIjeeg==",
+      "telegram_message_id": "Edgar_20260522232002_012",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-22"
+    },
+    "fbf02e6218347bef33db6f2ad72b588765983490dec45896238860961c4dac1e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/fbf02e6218347bef33db6f2ad72b588765983490dec45896238860961c4dac1e.json",
+      "request_transaction_id": "puYbxvlOsxYX4xqHEUnGI1L3Cn7DuOuiplIqP9v2tjQ8woGtCkKCYwl8r9Cwjfd+h3FvzI4Gv+urYhs+hmsEPHL+nD5EBPi1VjCKoIArm67o5iVUZjahF1mEDfXifa0PNiN3rHyIZxOpk5adifEnxwrPX0hByUeh+6yN4AVQZydb+YOuMYqpAlEFenP+PO97MR2BOJ5UNTE7IhHObfYn5E3z3wuTWRWgdnfjgyYBseD6K6aJpy5CDZmK2hKUg5pDBbP2J9bXe5CtqEh7Yt4hzd8AbLd/qh2A85DSGskz3O8DoyEafmSS41vX2EeLaXIQu20zfG9SznCD5PMvU3uXBg==",
+      "telegram_message_id": "Edgar_20260531081930_256",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "fcec4bcdd117934b6e5b3521cc6788ab45da75f7486eeabc0cc88cc13656d86b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/fcec4bcdd117934b6e5b3521cc6788ab45da75f7486eeabc0cc88cc13656d86b.json",
+      "request_transaction_id": "rJEg7loLMGfq9wll0euvQWUey3tLqKtdSE9W7G+dMU0sfBPH0dAG42xW1k5TYzwRNmodcGU0ZJkEXriPBmilC/DsXgqOYsrH8LoMkB0/YDa/6unjvtWjIIfEgnJsmUkUDmRRTSYiS/s2ikW5+VysXVjnsxmWioj9l4J9sri3U8a6Jpt6Ptq2vgqhFVR6GXMzd5Z13NBTcwK/CUvSslD4ZMqFZexF22BbMd9CuZwSyt03hrWy7G0UGHuWJnGzZLAiGwSv8JjnnVdxsapOOkfCNA8dd+M0UpAKpHHm9otoEoyAjBjPigxaj0IXPJ5KNaE/wMKNyis88WaSthCf321Daw==",
+      "telegram_message_id": "Edgar_20260531082030_272",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "fcf587db097b1f1fe74115424b90211d756ab83d7fe2c35d9f83c0800ec9394e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/fcf587db097b1f1fe74115424b90211d756ab83d7fe2c35d9f83c0800ec9394e.json",
+      "request_transaction_id": "38xiFyEgKm0C7DP+MZg1/6rUgXHCwVttf1kFg2VR4eA1QHqPPt1E3oY+4GJl8jAZpOdj5kh+fwxzD8hEAwfGSOWCV+gGe6lAqjWLj6CV59fnmfKqlX5ddV5KvfBGS5LYYq8xxxB26ikXnwF+fzbivIKQ0QKyNAxqtwqOemsxcrLY5g+IdCz5vm8X0aTJ2e3eQsIE5dYNLQxiFCRT7v2MVyGpjC8deMUoF0g08XAsjuBTd5huUUh428k7FVAMz5/gUpQi6nrlJMdxgnuPqf/p+97XzLA7by/w9f4uk1xmatLmE1kQWOBdXWL3ClwA0oXcpOXKjt6w8WMkJ46Zlek8AA==",
+      "telegram_message_id": "Edgar_20260531081504_212",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "fd7ac719c3367f6be83016bdddef4d03c60e01b91ceca2102028b3543049adbd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/fd7ac719c3367f6be83016bdddef4d03c60e01b91ceca2102028b3543049adbd.json",
+      "request_transaction_id": "jTufzsCPo91p2BkUqYkhZ+CpmG9dPmL7ShdaChsaIGVwL9Y/4nvxf433qeSSpMBUOG7IJheXWEqYjIQB2KDgH186QFjxTkXIPQ5l3syyZJVD1V4FX0XO3pWom/z7kpwEOG6kKALSKvv3z8pHcdV4+Q+YVcafZrzzF+IiW/FshBATdSr/FSvrca8odZ4JSUOqTzz07M+HwF3AGpX08rZ32U8sOmNc1+aBf0J7GSKUREmKZQ6J0ozUnG8WBHGGqmKOoSEm1W2Am3aEuzXwrh7uwiydJzzawuy56ajaqwIYqcECPPvHbP9eKkvHsktS9XaTKVElGNuCkHKL6fF7XAEROg==",
+      "telegram_message_id": "Edgar_20260531082032_274",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
+    },
+    "fda7f7be4ce7f09fc6228b9345d7f6dd8da820ce53f9b73e72b9cb024bc34de8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/credentialing_attestation_event/fda7f7be4ce7f09fc6228b9345d7f6dd8da820ce53f9b73e72b9cb024bc34de8.json",
+      "request_transaction_id": "vRvPDcxg30OscHjhak7h+KORGHkP0Y+4FHzqT/O59G7ul4OB9/gU5zQUt4vCZipCf+rSOEPGz2OWijYfPvRgm9qSYcV6y/Hd/y+HI33HNxVc6I8iVb/9uabNeWGwRGO4mtAGY9j9OjstZ40Dapu19H3pNmbOvP/1BQnHAj4aarFuCDAbueLbE8JPiEA8BwMWtmTGS/9nq+Dj+jVPNPHsMmzbKr0meBkWS9Iwkh6rNOJ+vHHgWcKqWiLOrDIvMk8hByryzD/TwIZnG1J3c2il5DDBGQ2tz0gmfKE9LeQ2UovmtHcqfyTMuEgFW9T+fCUhe4sKyaYl4GOOyCowCGHGFQ==",
+      "telegram_message_id": "Edgar_20260531080852_146",
+      "event_type": "[CREDENTIALING ATTESTATION EVENT]",
+      "submitted_at": "2026-05-31"
     }
   }
 }
