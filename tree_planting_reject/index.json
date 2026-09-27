@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[TREE PLANTING REJECT EVENT]",
   "count": 50,
   "events": {
@@ -304,6 +304,303 @@
       "event_type": "[TREE PLANTING REJECT EVENT]",
       "submitted_at": "2026-09-10",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 42,
+  "txids": {
+    "01290d6b432ba8e741c7f2194b22205bc4301262a19bb539779fa7913fe2cdc6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/01290d6b432ba8e741c7f2194b22205bc4301262a19bb539779fa7913fe2cdc6.json",
+      "request_transaction_id": "lhkMnwxacRzoHXm8V7Niy1jfdjGDeCbWfRAat5GDBFaWN9EMX2atZHPXXPM5J3TPw6gMRltAKw8mRROqBW02viQf5g/5+XjGdIWLqjcoJAuifwsNOmTn6dXxYA8DVRhMNN7o8VMUlyNXVZ3gl7G/QNU3pOF9fI/TAC9aUc+90pNSy9jbavByhqXCZiS+Q90IGRaB0NzTQfAkR8zNdzXKcKcXX7c1jeq+pkH1p2WavvGw2+qBm89lTUQhnt4+hT+hIaQy/dE1jk94473+E6MbzSHTfvQLNn9Ky1a+t/pF7rQj82+tK2XNLOjsfmbUogX1zl8zCEdJGUIzBvKmrTtT7Q==",
+      "telegram_message_id": "Edgar_20260903091501_027",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "031fc763004f3a6925605d0259bd5b7a11af0fc7bd47d55a916b2a81f30e8d4f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/031fc763004f3a6925605d0259bd5b7a11af0fc7bd47d55a916b2a81f30e8d4f.json",
+      "request_transaction_id": "hQUPP3LetnsmeVP7JeRSa3/o4CeMea3i9Yvf8N+h+qD0SGgpL8wvAzq2v3+FlgqQhNqdqRLuB5PwIUYoACGFBMuv4fwexvkqpk5QDsBEro9YjZh3o7PVmYOGIb2oRJyeGZiXW+DGzAPMPp1tVXPICBx2NJFB8YfH18iSwZMDFSlqwM8A7FPayyMLiNEPkByg0+92ry/LCpw1LVOCGK/mPshlfJnKJdIidxdb1fvBmagx7BaS6n1rijaMAlQpm08XhPJ846aBp646K2FLkzkNlw8D23+xfI0ITohx5m75FtwEcONy/GpIa8R2edYz8qTc1xVbybRY8TmKoUfzppHZeQ==",
+      "telegram_message_id": "Edgar_20260831020840_016",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "19f8298544d1daf3d205800b9b4b0832ab46c94882065675d01b3c8450a3075b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/19f8298544d1daf3d205800b9b4b0832ab46c94882065675d01b3c8450a3075b.json",
+      "request_transaction_id": "VBMQ3qm4f+WLuKrKjx/sWjiJsAiHM8hpMCzEYf+tzCUVeNMV6jyt60066eoaiHg2k0sCSN1/GanUbRvmy9BstVbbtvfJoO18PPGSpTUBM3IhDg0AeR2msBVt3w/Lqru5eNZjxBNCykLa+kkzaNwwC0jYqSm17muSqUcm0Rxhwr+8VGXjpGGYhdRHwB3qYJuGkOQLQzrV1D5OjjsX/CQ4S/6NwsF6YWHzjhufRYqvLeo66efs6upWB7tRk02KkhFrr1VCaGAgV0XGBE7NVsKetpQMWbuXl5giDDWkp6GSF8PA3sTGKdtdE7QWzHXC3oXmOz048+rCEEtu47876yEErw==",
+      "telegram_message_id": "Edgar_20260830022912_104",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "1b7533e9caca13251e54dea7e068c46329a771cd486065004cc76dd106b9defb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/1b7533e9caca13251e54dea7e068c46329a771cd486065004cc76dd106b9defb.json",
+      "request_transaction_id": "C5GkF93gApgNAjlNhvBAO30zjA7C12oX1CcD7ahRYcWE4yvXjVDYeYh539uVnWG1J130vZ57ELy3WA/9I4tvSXn898FtK1k+UX1eYMsWKjrcTQz1CXVJoKVHuSCdpmEK6u/NFatAjb1RqRBdr6WiGtgvP2ICm0IOuw9mBNjiyNkg4ONtD6FF+0jKaihA529J31qRYi8xNdR5uJQ1CBAsT6dP7ZMofw2mLkR+O/RIwqFv+YoMwWigHj4F0BybWDJjKrzncGgonBTx0lnYYbkVj9nSaXhP5O4fNeonqA+LPVmzcLpnckfmN/NCTW37+Ua3X+osinlllDTnlQB/lhCRrQ==",
+      "telegram_message_id": "Edgar_20260831020824_012",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "1d9b6bda4344b6192dd01579e9c9da12412c78738b1bb16ec9c8439f5ac5fe50": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/1d9b6bda4344b6192dd01579e9c9da12412c78738b1bb16ec9c8439f5ac5fe50.json",
+      "request_transaction_id": "Y0QGDkyZwmi3dbBQvjy8RRIW6miZgXplY3nE37IuYQCjMhhrTM50F2HMK6hkHHiii3sLxZk4JTxgOvJD7hCPVAgtrnA71VzPwiYB9FGvghuPG/HHGxdrbUUaI7i2wjsu+r3mG9+WdI++RYYFv+YDrYeovqd9DQD8FesrxqpdpbcG0bgztCU0mgkcNSZBOUjcC6EV1aH503yze/0EnnEvYJwpkHlC/ccVZgPT9Y69ml+f/UMPmNslKpSP/HnsEaIzVq5cZdIL9L5JifhhYF8L6Adg39DzA1UykLsN8QHQng7C8uAf0U5V3uHMAeWLRMlmFQigutXAuJL72mXVbhze4A==",
+      "telegram_message_id": "Edgar_20260831020925_032",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "22a53fd1030ffd18c3b65d3f83f9f6ada68449189a29d537334d5f50622f3090": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/22a53fd1030ffd18c3b65d3f83f9f6ada68449189a29d537334d5f50622f3090.json",
+      "request_transaction_id": "VMs5JxrxMgESRMjRP9pHM8rDuOns1HIND8Me6rYSllRXCqPKaqmNdKMvAUDf7liEahPCzccDz/Iw/SOhQvEB0A9IVqlx7zsyfKst1O36iWtIice/mGrFHSSmAn2ILPZ1LBIsx9UDZumDjf/HREsGY5rz2ywQ6AKUWzo1nuQN00LLFoH9Zn2HHjT0aKKbXa8RdOHem4UlQh6HEK+fpr6eDewfSB14qgb1O8tj0VyI2faGek7joQUrZctSpvx3ncALVH03sNj2DdrINsKZPoThB1KkO9ChGu1bBJet/MhbEB0z9bJdvhWaheMd2thA9gu5sal9E8/5XFT6LWFUCS8DZw==",
+      "telegram_message_id": "Edgar_20260830022940_110",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "2793ebdeff5f44a9a3823fd6715a8490ec4135fed763d5aa82364e98f9c9e59a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/2793ebdeff5f44a9a3823fd6715a8490ec4135fed763d5aa82364e98f9c9e59a.json",
+      "request_transaction_id": "kTcyOh76tZMGsa9kkbQbS+LOHUMKvMeLTiHBGzcJc1Q0OIDTb4cWlI2i3k1IyLLx/3PSe3f3nBd60f0PpCqwWdjZcoue4iYi/ik1tjS4BufV5HESQfRl/HaGkEHomOxwjXUIZCB8L1TMpldfcWe77uHcw8imGKjrkuI7L9piG1eznvNfaJhWc41Z1yTHoFlRE8V+t7mX9IQecZlh+y+ecdPpbZ44YfQ1vRh/RdGa4h3a1sWOwGZxoeO7sWizoVbM1owbolVChbpr3vODkwgNtRE+iDEOsTdrqwbO7sqtWxagNSCGceytKMcYRGLeumqF8HFKHinXOgQ+A48OQwwsPw==",
+      "telegram_message_id": "Edgar_20260903091551_033",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "3434c4e49ca67651b55e7d2a0a567cc2468c360a284a7171b79fd781adba9181": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/3434c4e49ca67651b55e7d2a0a567cc2468c360a284a7171b79fd781adba9181.json",
+      "request_transaction_id": "ciuxHXkrCWku4R9d3Jolsg+ntBTRXQ0PqX7ehTvryCp1ztk67rQMZuvxb4chcdMos0G7nKtq1wmAsbXqyKkCqKOI4Zx+twgDTvwohM7h9ge/SEXeosUYNsM0oY5DTRhf/+dOGuB+xbH6i+Nn0rPGpTm/aenpq7mCpFljmF5d7mIdDcEA8SvaQaxEcTXmmkz/WVKopXNlL37df63nY5rxG9dfG1BeUovklQmeSC7t1dxVeYURaT/VM4s+RSO7n5LpS2VAaJENKEDASHQv0AW1srdwQFGseIVWnTZTXn82PD3AdZ5on5VsO72DfaXoSYbcNjkrBSYc+oULy6wS6tqkvA==",
+      "telegram_message_id": "Edgar_20260831021007_048",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "393f2002a38180175ba1444725b5eba75e51d790247e6484bec6d9813a9bd282": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/393f2002a38180175ba1444725b5eba75e51d790247e6484bec6d9813a9bd282.json",
+      "request_transaction_id": "PEdr7LyD7xkZhI0TAlFI73EYL8kVG5hqqxM2Q7U2Htym58695Kl/Md46/9UacxSeAXhKg+VTz7vCh5MvpnYQL9T7ywsqaLeDaQQlGAeDDOGcdNLLaJiYdLmKAFPG+v/FONIXkYRgfgXwHNtrY3EKrtFrUfm/wbqwDAX7bircNNKa279VsQW1XD8efICR//xJtPUIf9Phxsyju557EuY/7sO1sHOM/tkpZs7uk6qhvubWluJTVoYF2Ouac32oq81vR42pNSRKZE0YXrVNoxjcBWi79BnWeJa4p1OtOh5G5OPahf29hsSdHzvqr6znhgNHWJPgPbd0y+GikLgm4HOfQw==",
+      "telegram_message_id": "Edgar_20260830023118_122",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "3cd077db995707ad70957a88f8576d42f3d8e59e68da2bbc1d4a087966dc6e32": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/3cd077db995707ad70957a88f8576d42f3d8e59e68da2bbc1d4a087966dc6e32.json",
+      "request_transaction_id": "AtOrxZGwvygIaMjkA+IUknMt9pZsFtks4p6GccA05ekkdGaRmGEslT4biDPCIftA1gDAFROhM2DYlXQFr1gnwph6CdCSgM24KUB3AvshcNvdQ+lSQ237vJl6zAlrhzgL12kFtWwT6LZtZc6tOr5LuljSSeKm1T5zem7IG2fH152ByIXmf7qdRKcJoDG6aviPwaUTQ1EQ/OPTQe/vMcP5BIL5smSpZDdDbSkZOfqq2qWn4RMguCG+gE8ixTUUj+j9ROi6XaW3vx8PTcieqMns8uSzASoKny16ijDgD31NUHuV13Pc9pQsvbLnTDJ1IZ0ptv1HUgJOTRGEGPp1vsEN2Q==",
+      "telegram_message_id": "Edgar_20260903091541_029",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "4222e0502f1fc5b784c26c7188e8e7ba4de03a483664998a1151fda9c27dc5f7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/4222e0502f1fc5b784c26c7188e8e7ba4de03a483664998a1151fda9c27dc5f7.json",
+      "request_transaction_id": "fuA5YF4xCBmjiUpYU8XqrHaczf4gm9AbuXFaeMj5V2S3lRk9oieXANtcZXFh7/2cgCVcYRCREpeLRnwjjdQ7q8dirlXDassimhxBaRo/48v2JdsGqrM1Vwx2d5AX8/pNji3KbLpLtnfb+cZPFCmm1sFMUCCqSnBE4BEMcsgfUIqrpXPIefnGsB/k/qqkXtSkCf6PdaN96tueOMVp3NPbylLmWBPC1JM1GGLPqBMMfKs+G7m+EVB28m7DjU6pr0Pu8+c9b5QO8uyR2uIhh9BAPPGrm5x+LN3uSYKwIgS0O10MlKOnn4jPuBqeF7OcbMAvB1XhZBkDcO8LtbbdDn361w==",
+      "telegram_message_id": "Edgar_20260831020853_020",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "4318d309b7c5d981924c39254256f35db6d393094f69cac1acf3130802460adf": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/4318d309b7c5d981924c39254256f35db6d393094f69cac1acf3130802460adf.json",
+      "request_transaction_id": "GiiAp5CNpTVAc3eCBSuyF27PulcCHFkMbMKGdNj5TObImJvCHRvAb6GHUr0l9LpzuCKtPzvM/8RqKUncudCXUNENLIL8BShKVWYsYFfNpm6JZlFNYDwNu4SuQ0J1LeeD4biroJIV1CcICJoMaMpVGHEA1OSMcZ84ly7mPhjhv9GAo1Otcf+n7FIW0smmZxLsZishXnfs33y4nHYugH3FXzwm1DWbHezbk6P8H5mABZNlb8I/5YWffLqiG2f1DVdZTa9JYZG37cDNoE5mdVHGZZW9AsLlHpjtTUUOevhJ2Md05J5St3SmmslxEw29KILsaXi9lAI75HqM3vVYNyKWIw==",
+      "telegram_message_id": "Edgar_20260831020849_018",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "4356838c06a8360277993bedc1ba8dec929080770cfb54411a74db4ae838930d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/4356838c06a8360277993bedc1ba8dec929080770cfb54411a74db4ae838930d.json",
+      "request_transaction_id": "RijzApbcGfjWyANFU0R34XTV6JMKcB0kEZAIbAv6NxMx3KjmoHeq63+2mF6C/6n0csYdEufCPQ31neSlSrN0ypQPigZmnz3hoNXcroFxu83GofCEngOQ45inipYzhnipH4Xl8O/fDkc/E7WdEnbOP3kJ5r3InHEbESC1oY2Zl0lyqOXxZVlvg0Cz5otg7Y+ni6ZxLwodorXjDuZjw+rzAVkHKSF0UDlfaf3n+HJVd1XLAnAMFzc/QSy2j9JSRC/bpxMECQAxL8ElYyPyimZm51nKEud+sg8NGZfxGJ6L3MnhacOI0jQxQDZ8W3l2TF1w+hndsv+2qX1L941s8AE8gw==",
+      "telegram_message_id": "Edgar_20260830022930_108",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "502158052c1f2074005d49bb95c0c5a941542c35fdc840c9b5be7007b7a46aae": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/502158052c1f2074005d49bb95c0c5a941542c35fdc840c9b5be7007b7a46aae.json",
+      "request_transaction_id": "H494OpwZ8tpe5tiagnHHXlZ0ahc9bO/l9w6TxFubWqdvyX6Q2sCk+SZW0aUKZ5bUfx0yc7IqfWGCuK34zZnRuHEmqffg9e92ANQviQx9aK+/GtqNsxzz0y8iO9pkfVbga+EkFhKP0rDNtGfqBfkr0qxD9StO0+PbpLdwykznegxP8Pn9APOaWgy3sv+Nxh7YHQiUm3Nh8mGg4GXUJlZJKa+I+McITem/HnPDdcVAcC/b4iLC4aF+WKhibH+8U2XednxGl4B+Az3GZ+4H5fsK5NZopsI7WoSq+Ba+faZkgaiukGo33LL7LdI10DxL9euBdvMWYtpxZSXFlgIKVenlyw==",
+      "telegram_message_id": "Edgar_20260903091546_031",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "536eeb9cf4b11c52b63fcb03cefec6435381e5d63a36d80e942252cc8c57172e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/536eeb9cf4b11c52b63fcb03cefec6435381e5d63a36d80e942252cc8c57172e.json",
+      "request_transaction_id": "mkTHkf6EolQej3lVPoIN9DA7jlxnvfG0BCgWgjT1lqpZpsEWD0RreJ0GBkg54pwTXYeD1P4hNp7O+V3+IDpRfZ1SdHMzH6WCgcuFdyljr+/1IfgymR5rlClFzu4HjgtZ5zzZ9/bilVNJ90mwCoAhCk0+gjEy3MIfraPPHpHeiZFQv5MHka6SnFdEXKfV7eh29cigMj2yB2xaK495BkTHEhg1h2xv1b68oX3DYto2ndqFaaR/76ymzNmAomc/iwrGGZVApKpeDO2t3vtyOPTjdVoCgBy8v/hhg6g4Gg6EicCUniGHJYNAnP16R8GukMPxbo/zTeK2dtHA571ctChuCA==",
+      "telegram_message_id": "Edgar_20260830024819_124",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "59864ee1add83a874547db30f427482491555bc1d0c0f371e04c58a5f72799fa": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/59864ee1add83a874547db30f427482491555bc1d0c0f371e04c58a5f72799fa.json",
+      "request_transaction_id": "ijQAU1uyoXDG0Vr7D/vFYTiI0Kvp2lHOrjKSyfoW7ucvPs0wQUMhCoYCdQP0Aca1SeHMNEK+PGkrETlyyjJ35Sq+9jZ6V4BGkFOBrJ++dtF91dgm5ct74F+3XevcXmjoZvT/1kCHkOFfDdq8KfCnpqG6HR649+buBaKuQ1mKkW9Kx8j/TgwO766djNFjBurFeYazFM2gweXIqRPGcisWdeR/QMfO2SHZeZDOyG4bBfTn66+epmKNkx5iieW6o9UkG+/Tr97y1/hlK6vPwX5hDoB7vqoO7we1aAlCfgRz6wmHZuHuBmrPCK6/+nKuW1GK1v1VFDOFrm9UOohhmfIt9w==",
+      "telegram_message_id": "Edgar_20260831020910_026",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "5b2d588d947bec091154977a78c98f18f0c9702eea38600774157d9e709e13e0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/5b2d588d947bec091154977a78c98f18f0c9702eea38600774157d9e709e13e0.json",
+      "request_transaction_id": "tglq5/csvJ8J+JV/iINIvDSJ6aQqZFbq5Zv2bnmu2f1GosOZHO6eK6ZnWtsfePbDrnDbVL18u8/ny3uz/fPEBpLj9DR5ejc8b2YoKFUJONI9eO+X1x6oHBoVGcBjlQiG1/WsuiJFqfn8aHZiLjcaZ37XeT+eTVzf5kJuBwjdUoVB+ImtZaNMN8cvihGYgCdJ9P6dLaz9jrXCWDzcJYsGrOyr2jgj/bPrjvrvYxyfwwTN/D39hhEVLsNXnZp6/LKoYBXfQWCORbsqZLg94UFc76tVE/CAl3y9yotPOgpespxJwivOpkXAbhmP+ISm34LFq/AjFphafjz3BlDdEUenFA==",
+      "telegram_message_id": "Edgar_20260830022946_114",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "660182254e481d4ab0dd42aedafc5a1741250dbca9dd0537fedee046cafb3eb6": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/660182254e481d4ab0dd42aedafc5a1741250dbca9dd0537fedee046cafb3eb6.json",
+      "request_transaction_id": "tf5+jXbJlCYONwkNUxTBLafCjoyNB1fDiYUTyemmeyU0bT12s3eRZUnGISbHf8HYqHc364jf83TywpmhR1YUMd3BBTq4TNzGAv4JSKW+61iXCIk/1c6YiNMkSq48bktgEPEoPVADnkmq098DuxdgLHMEijfOOFzHt8EdTm2qoXd6/F01gR+oW9eWrxFdMsMtdXG3ZrBOYdThnRbPd3UIh0Uz/J8PJd+5EWaGajNS3JbX7EUMLudIdd+SkxvbQZ1iZwspzURyHVSWMguiL3TecxryN4Nvz/Ct7bKf4qa9f3BbwA8bXArZPFfxHCUvROGaucaxzRcsZ1JLshf0pk9Qzw==",
+      "telegram_message_id": "Edgar_20260830221906_016",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "6e7da947ce6721786e866e8db4278a379c7113ce65fe60d735f0f9a179619336": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/6e7da947ce6721786e866e8db4278a379c7113ce65fe60d735f0f9a179619336.json",
+      "request_transaction_id": "jhGctGKGezuQl53HvRHwnvKFlwGFNl9/MsKdOKo02on2PNqstbgGVZvuyRzcOYGSqiEzGgCpuHN+1QaNtm1Ec2xiw34lruweBNqDT6FNEqy16Y72e62WaRYEIotMGDqOTnsi7nS/f5Gs82uXEMNyNv8BQUYXz/olEAbi/KRAc6EGsMAkeZpuxl7SIZ+E4eV2n7AQeCeLLMCliZF5wZuXGkqg6eVxvqPul7rpJoKbYhwMNzb6v16Bamuzi0EVZWyrY7NQTMn6C52xzQVV4/ofnJCk23B84AqwlWa4IH5JiU/rtcBVXCJV9IuUACdml557klXQfz13U4SOpsKOt3mD6A==",
+      "telegram_message_id": "Edgar_20260830022857_102",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "6f468db625c78be9bf01052e87069fb08e3c37c73e15d9ff0623fc8e0d7c1642": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/6f468db625c78be9bf01052e87069fb08e3c37c73e15d9ff0623fc8e0d7c1642.json",
+      "request_transaction_id": "o6UT0P5WQXFlxVJmceUPBIMyVPss6hrz8vcaMhNwS0czJIVIBOTZ5uh63+3aa6e+fPkjowzVdC8k3idKgdB2KNujPMuVYGGzt9F9t+UUhgMlv4wSv7gx0dlRx4Bzo4HPXcQFGYo3onCKXFCyajajsbtvZpEd9Ef5ufp3eo4NIzARQ+75Qmziu21PkJaNvkNxZTS0OXSQTHPZs4VkjwjLuirl6iE5+dvwcRsCIZQxuibd6vhAPqG78JPxWfjZEYYJe1yd0EomxICiT7vD47yNiICMNe78OgQzWQhgEdZSOYu8Ak9NxoPS/GJGw9uLtJxF2uHWK/HDn9lbhlw5ZTsyng==",
+      "telegram_message_id": "Edgar_20260910033437_319",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-10"
+    },
+    "76d5b7574b548c64b27beb69d9e38ef3514b123d781270404d3d969a2f102a51": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/76d5b7574b548c64b27beb69d9e38ef3514b123d781270404d3d969a2f102a51.json",
+      "request_transaction_id": "ZdLjUKm4av1Z6HgCiX8aVYzKoelTObVU15fLwC9SJuaCHkKEHp7UAKTOAbMBeoJq/8WCtMuPoTO0kdSn+s/0+/9JS0UUpvObpfdK8YmWPmSix5ZdJ1bHxQgts4tjfQ46R9+gP2PsA1SJh6keEfsxVV/GJiD0Ncymz5vDtO1hog48aSlMQvitUrNOdct06s2NryqaU7NveeHmJVWEomqO/80vvCqFUO4OZsJol99YALpllSbSlyIJSdzNHAkP1PGmKBVJ5EKM6mZGfosn3b2i0Raqt4vsquTK6mXIHSyhlhNVsN5qsv5N49reQ/oHGXQkeBiH71RaTglqyNqg56gPUw==",
+      "telegram_message_id": "Edgar_20260831022935_050",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "7ee33c0b3f1f626c55447e9fdafb5c2ea58effa321eee34f6419f0b0d5d8a7f4": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/7ee33c0b3f1f626c55447e9fdafb5c2ea58effa321eee34f6419f0b0d5d8a7f4.json",
+      "request_transaction_id": "KSI05XAB3DCsfPfawJwVZbcU9Xg+Bo30Wtmv8fhGoApg1IKwu+FiAavEkCiDpgJUJi83AxbwnJN9vxuAvxF7Gx6NbNdbSLY1o9GcF93DBfG7hgQMLLlFcI0UfmZ0yuZ7vrUX6HVs6ALDGrOgiv2x7vsx08zuB0vo/n6y5OnUrOFTS9ZDIGMZalwSoYoIrB9anlhsc05jlCs/mAsQD6958xY5Dh2pc+n6zHBuOwg5lnYQ47GsOJNnluw+s87P4x+AEFPtWMrw1rbI0cK4ZeiGLZ5Ss39ig4OSsPIKzaw8CIlm11nevGFN3+B4jtmult7noD8DvjNCvGfyJMJWvYAm6g==",
+      "telegram_message_id": "Edgar_20260831020834_014",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "7fb6a34d54fe0293f0dcba19d0ab8275b9fb5cb02ed7ee9adbbddb494a677525": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/7fb6a34d54fe0293f0dcba19d0ab8275b9fb5cb02ed7ee9adbbddb494a677525.json",
+      "request_transaction_id": "phCHvr/GJ+TPm1DQHILQsp+cjahx6eyQMNntsTLngldluqDeuLYLCuVl7r1YlMzGclMvZpdZC7ejPVKhMZHF+URPGhTjxhjBSTBvdPE7rusIofCq1VkGGRgdFe1XJiMIzFRBLaKLDtJUrgylN4/bWDh6v4SvmNUBMynGnnZMZ+U5EJF/1atzotuDLNf0J76239/YqLf6pFBVcrid2Exv0wz7eiA1+K4wWzcLiOEn2qMY6FoKPNJ9DOY4PwH7O8Nwhzdn135E3VQwmYYiltPcrXYhOXSuvV8YGA4nEnB+oUX8b+xJBOrW9kolIARkElqufNSKNRwwxl3r/ZK/QteGcg==",
+      "telegram_message_id": "Edgar_20260830022923_106",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "81cb3a730b092b22959621a044f717b4ad952815f6067f77e6c97b599fca0d7d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/81cb3a730b092b22959621a044f717b4ad952815f6067f77e6c97b599fca0d7d.json",
+      "request_transaction_id": "Y2yi0hqOkY5jy0JHTZY19sbIqN/YyyzArW0bYmsdDtwHEFvOaw6XXnLqUTfD51rL6vbH74xNnpOxdCWjEg1VWFvugpbxRGcrWATC4+mCmIWI09Qfejm3pOcErLVUthWapSXG3evRkE/LgJWVrcKu6fHZQb3nP1fP3yayT0FaUuYZUEe0/p3UgijV2Us0d/AI9cLugOPdz5uCXWVtvOapYyoY/QNPHmRF05TL3978nO91JPEkx7pT5i2UsqxWk3OPNQoYLkhr/kwavB2ZUp5V+c2td510tOs87y4gS1eCO60ng4XsNi5IzlSdCMSdbbUZnABR6E8S/O6eorUfZcM/7w==",
+      "telegram_message_id": "Edgar_20260830022948_116",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "85638a06861d6b46fdcdc4276f6522ecf647985ea33bf4614f2ea23fe33849d9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/85638a06861d6b46fdcdc4276f6522ecf647985ea33bf4614f2ea23fe33849d9.json",
+      "request_transaction_id": "Cn/2DI+EWERb325gYkDBgl2qys+gKv3qKFyxMAjlc8/59WlEKS/9G551q4zAyM2rADUBDcLU306kKs7I6wKlqpOF3IKe3CDq0O5yX47HgAnzpUtC3Jh2unik/LDAm7YeHaCL3RAUMOpCMJkf9BpIDkLEWNtbzlT7gOlCd9KCY3fPm19JW6bzD/oG4wNiyrtpxVH5RlZVdEwUu0sOUnQKfY7MCcJ3sRi0oFzDNHtm4FIg/cGoWeocretTKCCQiwhlXWQwRImlxaVB6Sm2erjnvx76rc/zg2prnLQpJ+s8T1IqagCw91VgH5tdtKmuJ52/lf7xY0tPBOxJCX69CYQgBA==",
+      "telegram_message_id": "Edgar_20260831020920_030",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "88580a54021ccee528d722c1f588c5aa561e234859785d36909ff58b05370faf": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/88580a54021ccee528d722c1f588c5aa561e234859785d36909ff58b05370faf.json",
+      "request_transaction_id": "YqxwfaaIHWNPDpx0cIYycZ+EhVhPBDmloy50h9qJWKMXFmA3G9SzQsXOC/Z2L15EHZsJQ4Vgr222bX2zlKXFOfFRNONV6QsZ157v6nfzUDU7sKI1chApnF6Mtyz+AhMknlf3SDD+evr1sZvYDYVHtGdRBYsMpoK8gBKxfqApYIqgrrT02bShMoVBrF7yZ91BI9zOVLU6cGPNooFGRFXYsOGdKqAdTbsXdwGaBHm+8X//h0kvpNp7hRqXx+qPkZRwKITRALXpdeas+eiemky3h9oba2vLHyQVsvz/0QXCyvBuZwETueH1pfNdi9kvH4SXp0f5yr1JGqWAedFH+7hCeg==",
+      "telegram_message_id": "Edgar_20260831020942_038",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "930bce8f7781cae17ae785dadfa902bb0816877e3ff29c526d4923ae437a07c0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/930bce8f7781cae17ae785dadfa902bb0816877e3ff29c526d4923ae437a07c0.json",
+      "request_transaction_id": "WIwtGAF18Yamv8xVp/E8ar/C+WNo6UDgbquME/hq2t5RkfnMtEglv1i9DzYZlxNkFdqOEKkFbuEkUa+Z0dtRfKg4cALKm81xAmxjEGvrcJ6ioNrWEav4ZIaFxhPextJ50ooYlwdYIbcRUogNBvBDN5gRXmzyEPYAFcuNCAgkI0P9cUNw/49IeOI9KbyAJSWJ9gw2gvCyKi1xnlNvmxpjnNm61jmgwMNR5DgTSq/WExNho2nvhiNejEdgIhlk+IDJAMEn/+Q4COqjW9pQyvY+YpJFvDdA0sVSupThJYkx4sDPTIjhTNDbFPN+iKhL6LeYmvWeTnxsNY+eW9JAEy5DIA==",
+      "telegram_message_id": "Edgar_20260831020933_034",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "9fcb0fdc893f36495ed491f2b193d4a101c40744ea24d2a850b73307c6314b75": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/9fcb0fdc893f36495ed491f2b193d4a101c40744ea24d2a850b73307c6314b75.json",
+      "request_transaction_id": "KZSoPZtOhfIYb31cihqLu8xsaqB346l+9PZhGCzKp3LjF0HrIi9IPSXfnKuWysSSDRLLM0NrLyXx00E4uIHeNfnbDI58KhOTV+gL5XBhFQxpQf7QOzveGVaOyln1V3jHJtezTb0tcQmWtSyMc8H0R8vY4dDJBFY0ip+ju/LRGlBnqbFLzpMb++QFbwhUFRXBAzACr5UOMi404Nqc6rflnztPBmXwTweVrsAWcGYUZJElz5mcZufOL1JyhMcCN+3rZ8YPpchYhof0btNlF4U4BaN1YVVfnlt+iEOHvC7wbZOdd+aFg9klVOHopwkqJ6RjPAQvDpMMcCaR2KgM5KNQYQ==",
+      "telegram_message_id": "Edgar_20260831020915_028",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "a4efce127f24d4e817ca8599078d46493277366ec93080ef9c16835cfa5d286e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/a4efce127f24d4e817ca8599078d46493277366ec93080ef9c16835cfa5d286e.json",
+      "request_transaction_id": "kUBRnV8wAmGWWyw8B0Kp7rltk/Sy9DITCFyW2gORmh1sl6iW+N18n7i5XaxsUGdhH5UW0fDF7Gk8MwuPdwwdXdk4BDXmAZP9e0kDgxFcbOInzR93peLM1qanIYEM10SA3B4MKXpuvbqzJAGGjMy2nRr/jQYbQ1dHZkqS5nGCyqCHWftXOSQ1a5SS8a4rku66cxEg4rehm0SGRE4b6gr/8pTpvvLnjTuAFxwa7I+BvkCVUQ5ULLQ8nlMLoXsVKkyEMfnXDr8CXsNUBFcdTUcPSKwx36GJAQii5HTklnzb0hFAenvR2hpuut9K0+jXzxsBUxJ/1FvAuziFkescIVXSJw==",
+      "telegram_message_id": "Edgar_20260831020938_036",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "a4f629f6beb2c2e30260c22729f81c9779be42b4dbccc813c8c7b8fe33fbe39d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/a4f629f6beb2c2e30260c22729f81c9779be42b4dbccc813c8c7b8fe33fbe39d.json",
+      "request_transaction_id": "cFFyzkNFCi2eHEpdV++FdNR3gH1nOzozYnZqvvDSVmvxihqA5GpVySjbWr8KvDQhjlp96PxK8jvi3Q4BnI/xgqjD35/rYo828r31/xJfrWc9uX91LU7664NBtc9TINnQfUu+Sjtt1ddvMsSFirDRi5aDHBUrPLejqfQSKlHzdFd4KL4ABbuAzRSYsBhSAr9NedXT+FXyHpmWP2v2p7e1wDZ5EOyyUfDSWt1wSXGL/SL865c3c9VEucXKXqb0gixhf/UN1OgvCENfBHYyY0+zZXdZhSA28/wMhGBJizvwHJwkNLh1JxKg9UCCFsaXdS0qz7mJXzzKyy7FGsl44W04JQ==",
+      "telegram_message_id": "Edgar_20260831020901_022",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "a89bce83a14f61cdf7b74f0fb5565fab5667fc0bd5986a7cd3900a57d63a251f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/a89bce83a14f61cdf7b74f0fb5565fab5667fc0bd5986a7cd3900a57d63a251f.json",
+      "request_transaction_id": "ccrQgMdH+hwu1boM8AHf3LfK4Q4JGSn9O/di7q+z/y3B+9fTpt1KtOY2Mov3uHlvGK1fAElgfes2bmrKNUe6c7QBfZo+FlWhelsBbWgzbH1Bk1j5KnrYY11v2c+TtqkTkNr994gVmwq871L0wUvTUa/N14QnoSqUBhHt00X4F8fOvHfH21IIdBgm048mcmaQUpILR3T8KbuY+GmKj/8UlVmwJ7qqUR0nYSw2KA99C5Spo4ZcG5gGC0Gx/21q86ejthTFqXduCo+adLGYSq1i6tAwC/QNiCcjGkmDZEbLM28HE71o6CVA8mbB6X1PUi/MXWVvCquHgeZJZCF8WIwMvg==",
+      "telegram_message_id": "Edgar_20260831020947_040",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "a945ba84f4db4e19ffcaf6d535e606c482ce10b560ba9b2a0accd37ed8433a1f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/a945ba84f4db4e19ffcaf6d535e606c482ce10b560ba9b2a0accd37ed8433a1f.json",
+      "request_transaction_id": "bHKjxf311i9r8lRX1H2hXi6xyrlS3GhBFM4HC3rC0p/W5UUgeOsiE1GbkzRFvevGeI6JtSX4UJyniLJYUlmg9nqMB6spRBS7ToGlRSeAUjE1do/pGqOdVMhRUUbS/Pxu/MNkIhK9WoY1DbR320v2pPOmMbZS/TCOMIRAvFVAQnzolSsWFmW/zUrozjBOrPxDWKfn9npQsTuYPRupqBheIlVBAy62+AGz2cnbHMOXmkjHN+/W/EBsfHQG/8eKQtkWXcMIx6YmUdqqquOAoItk4N6zCXWdtaHNPNPn1m5uhI7Ng2rQVqTWy5EKkABuWX30FJiqj9O/2KFGiZcYOoGUzw==",
+      "telegram_message_id": "Edgar_20260830022956_118",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "ac928f8f0489019f85c12a0356a68a76989db39ea8bdabeba870111ab85f6670": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/ac928f8f0489019f85c12a0356a68a76989db39ea8bdabeba870111ab85f6670.json",
+      "request_transaction_id": "ldHDSLCt2p8ZjdssOELktxRKN26MQg9gU6+KtEnsdzaX2DwjpKFltmruWN+1Purk9MxM7S4IVw4KB2J6hCHMPCEnkiQjeKFgmoN77+WXAnVlAGxxpcL2fNlvEubBxOW0aKXtnjLLp4TME0vNqRxSvRjSrC80zeddvQwKLxSmmWBu01n++lu3jcO1u9mRtD3/SD5c2sR0nQ/eBevhbM4CYuBKLI19Qecj0jWekOe2mlmGJ/MyYkSrQzpznrrP8vpLvutlg1ikhJt84FVKidudikcOX6hkptG24vL8guJz79FV9w6/n2lUgXGmKEPPye8FNjD9JR6xdK6C4Io2XwqZwQ==",
+      "telegram_message_id": "Edgar_20260903091558_035",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "ae9566439070e9f4d73dfdf0c9e2f22574852429ebf08a32bb66ae58d1df56de": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/ae9566439070e9f4d73dfdf0c9e2f22574852429ebf08a32bb66ae58d1df56de.json",
+      "request_transaction_id": "iXq39+XKanILv7n82JtriCpGdYvYTejYf6mlxFsC+ta4dB3CmyWNK7roxTnMci8i40K6CNrr8EbCppeSnrFX+D9atmZIboY8PcgG1gVr5ToL/7ryvOgxjYcnssF6f4JVWn9XRefL0BUgVn39ZzxPCh4gZsta28lZDxl8sT67QGK0KEjH+6KDzQocKNkdFizQSxt3qxV2E3STWDCyjdb1MceRW5H/9LyRMxUPbSxIBj9Wtu6TDr/zW3ns0EazNCyIzgjjASw8iflRQN+bgMweVhmksprfBkKfmWWRTxdPoT3Atyf/g4HezSYp07xxrsiBBKuc/lDKu1k3JUNoLncS+A==",
+      "telegram_message_id": "Edgar_20260831020952_042",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "c25c4d72f6e86444fdc3075416100f5828d56b77e9f82129cdce487bdc01384e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/c25c4d72f6e86444fdc3075416100f5828d56b77e9f82129cdce487bdc01384e.json",
+      "request_transaction_id": "JMznel3d4PPdqfTzeXnM+reBdy7eGCK485LzxcqPvj1LmnZIKRuBi0xC36aM1uRP3kam1ZWVLtPzQMbOvVvcHdZjSjxJ2SPMcYCJFbFsM3WcfxKOyfI2ugpDklm8fTSxGu+6ux7PUeHmhO4l3XOproRQwKipXYEzxo91OF9t+blzpPgqXe5UY5dLqLyJbTrBdOmoV+reHGI457OkI2rskjpdJ4+wjShViRFkdIECcSH2l2iyQXe5TwiJKOgoqane0UFbTn9fUSi1yfi6ssxyj8rm5UkV/1Z2U4mG7FzQ9fQV7Zbe2MaC9/8FIidafZ/m3no714nJc07OJ2PZezlv4g==",
+      "telegram_message_id": "Edgar_20260830023000_120",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "c678bb92de760a26a58d3800902fe9e4deb31b97d291c3038133e5ae7ef24f99": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/c678bb92de760a26a58d3800902fe9e4deb31b97d291c3038133e5ae7ef24f99.json",
+      "request_transaction_id": "JwtFO4lqQP437XjI5dttuhEZUH8XUnYgA6QHn4XH/AIp/Tae4J3V8XMcya0Np8VotA0pXFm9vtwB4Dp7V9OvNGaTFtgKPLjhJ/pjDL/qUIqaF1I+kO9tjQKsbjEEwCBVhWIixJEp6V/TAUy4trR+R/NpRWt798g71Gc0TuUxcxgTJLCZz4n6+qRK2hOHQyHjky4QktnofSaH3fxBpAjtk+Y9EICNNIaO1BoDWDHvbFo8MpUvenegkkC1FlE3LwRDIYMiJk/Ch3QgGNvFm4P1Or4YprD5ZDgEt6BUMJQfUgtAMGR6V9iCA8k/PLlEs5zbQHs/ePCSXrWUM8ZoWdjSLg==",
+      "telegram_message_id": "Edgar_20260831020906_024",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "e2e60752cc28121e454e7be8459c9dc1e4cf12b86bc9d4b31c47757a54abd0a7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/e2e60752cc28121e454e7be8459c9dc1e4cf12b86bc9d4b31c47757a54abd0a7.json",
+      "request_transaction_id": "ZOxwj4r1mfQ/i/wwDYp+ShndTbwVCdBml+rkzz1o9iLsK7pltoONheeNgsZAqcLHiNEJ6mIG/ClfSPXHbwbPm8/fVFMdzlnEYhB8ziuFpHOrbSw0CTRix+lp/5k53JOMWqJ7mfVyqTdkXJpVPfdHhJfOXDmF69SpynHBLENZbsZ7vPIU5YvIbYJSHIZ5NFFl03cffgGJEs7Gjrvpd48sATRJEqt0B5WAM9sHyLChygZQI9xLtDd61R+fN/UNSolOaJyW5HdIVD1U10YssCLmJDLEZ4z9bNtB0bAvoGua7anKAXSg0SaFhQmgzoNbgu+SdHdI/zrX16CiFxTWGmHrzw==",
+      "telegram_message_id": "Edgar_20260830032436_002",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-30"
+    },
+    "e632437c37e326718bf9761c1dbfe6aeda874a0ef571d2e93b51aa6afe9fc12e": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/e632437c37e326718bf9761c1dbfe6aeda874a0ef571d2e93b51aa6afe9fc12e.json",
+      "request_transaction_id": "n2BC2/hamXNnxCA9cMtw4XW/vI2wIw3uTtWXrYlJzjy8ZB++/RmU0fJ+Kf/rIx6EDCxAg5sqsGwqZiyjKTl+ZypiOA++tIi+OSyqUy1/jSrDi6Q9iM0rUdhVQgmX9nkmLRrge7w7Wyhx1gZ2Co+xjWQAjHNiqrSMhEym6uX3FbrmoHDxyrRbJYnBHz92T2wu3wTvgRrwzKfEeBlEfXFAx4dQB032e69Ma7Y/sh1OBh6SxBCscALulsHEZ++FGapJ/cc40HXO20dlkLwXs6SnNqALUmoAefmZ6JJr5FbzqckfzkM5zIsfFjYkAM+UhDlTUn+d+3+7ghEghe1blsnH5Q==",
+      "telegram_message_id": "Edgar_20260831020956_044",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "ea24169c3500c5a1ff9382d0716c3e3b195b6b966d9fa19ead41bd691cada9c5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/ea24169c3500c5a1ff9382d0716c3e3b195b6b966d9fa19ead41bd691cada9c5.json",
+      "request_transaction_id": "Brd0QR5o6kT4lfbjVxUOzNIE+iG7wHKRnOAZVt8KSCMMkuVtWLWPXguTyM3D88HZolos9nbtKsPfvJuvr9OK7g4ogcjarVpEVK1vUWtbRh3XvL5qIuzRA9vE1vrLSnhc51BQqlyhHAu/SuJ+gqevSQGesC1E7hfyfA8DWuijF9iMyx/JXF+FUKJ62I3VqctEBVOvg7Tedlql22GocxgVSHZa2XjESGNfOj2ibhIbY+7RFyqQnDzeNwTYNGrj8DKcP3JHzvu8mPb2i88Le4PrPzI41yXmEKkID3hTCI5p9EuqFW48l7JyWKq4ptJadOkICHyDrjyTabG1WPkEh23s+A==",
+      "telegram_message_id": "Edgar_20260910000140_309",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-10"
+    },
+    "ea7ea7d5c5e3f3271c38720b37b3f80ebe5921ef55a93368e5ad9a40d9112669": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/ea7ea7d5c5e3f3271c38720b37b3f80ebe5921ef55a93368e5ad9a40d9112669.json",
+      "request_transaction_id": "jr1/NRKKc5iudorsrdjJ2f6iuB/mMT13xt3LWdUiOqxYENqz4YnDzuk+bXROL0q/0y5sVgVYiCBaJvRn8GKsYb1pL24twIk2qaF/10h03RsekGlom+FRSEApUiawGvFOoB9OdOdtzFYm98j+DaU8ivpaKKLOb8S4BDqhKSyirjXZar8IHQNBJGr5GComyY9Xsjhsm04ZfavnCsn+K642Q4eBFlWtpDvSrwtFFrdbWNK3jWFv+J5bvHH4WmL33+0YHKjWVRB/UMle+rOQY4Tau3oLWJq8Q/oPDqTWJcQMHi0QksMpBT5/fKLqmzfLGsS3+5czFdsSuEGXZReF3vhUkQ==",
+      "telegram_message_id": "Edgar_20260903091437_025",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-09-03"
+    },
+    "f05093c63bc0576917dc9ed70aa798cd10e5d7bdaa8f7eaae2236fde2f77d04d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/f05093c63bc0576917dc9ed70aa798cd10e5d7bdaa8f7eaae2236fde2f77d04d.json",
+      "request_transaction_id": "mjhiji4Wh6wmJedjJz/VA92ZUBCEzLSGf2f1jxMFNyoRA55NBCKoLrbfmaxhukPpRNB93pEdhiKMu9tS6Viy9hTuCvT8fE28ALJT55cSUDAJ4aEUWe/XNT1KUQGScz2NuiBCTUI09kYe93YN59iN0nVPiSU+sQqJHvgC+5TyC2Z0zA07LXcXAYWw6VwIY9Zr+C8A/9bbjt3y+0StgpKuKclOuqL2tVAhCCbTzKCPODYZW1R5mYtYVDleDRNCb1RF/WjTvPsHRGTe1Fx80hBSk6BSm2xKLKbw5BFn/rpvQA2PmO+6kjylFyo5S8E9mghtu050RYE/w9D03+FxT8gjAw==",
+      "telegram_message_id": "Edgar_20260831021002_046",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "f9aba1e6eb44493b3a0354cf93a3be785afac4192b39fc772d7011748ba278b5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_reject/f9aba1e6eb44493b3a0354cf93a3be785afac4192b39fc772d7011748ba278b5.json",
+      "request_transaction_id": "bE3mNGGQ3Kc1iFS0CHswY6/c7Bx975nOf7Pj06xPAzMpccbDtiVfRw7bsFaVpCzty6NqNCLYIxmFpe2eZRS4sKL6XjzbizrzB/PcfbiNrk7eBcEQJlGmnygQzIiyiuoGlVDzbx41Cj7o8MQ7tA3+FeqYshRb2lBJ7HBPt9jFbQebBk51pifaI2chop27ir51QBDsFIv1gU4jyrghjuy82SZlcA7tD34tRZ9YIRe6iq9G4zyaFmWLU/05/UADn18IY+MppO2mHzZ5qOPwYgPFjT9JT6kQHvGq/Hb0fuT4qG2btgKYt/k+YNIm0kG4uBrdydtMrhOsp6QbEzBSOzMp+w==",
+      "telegram_message_id": "Edgar_20260831011334_008",
+      "event_type": "[TREE PLANTING REJECT EVENT]",
+      "submitted_at": "2026-08-31"
     }
   }
 }
