@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[CURRENCY DEFINITION EVENT]",
   "count": 6,
   "events": {
@@ -40,6 +40,51 @@
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-09-13",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 6,
+  "txids": {
+    "3361b7848ad3bbcb42cd3e0e40b8f1d1c9538b22a0256345addf74e9a94c9e83": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/3361b7848ad3bbcb42cd3e0e40b8f1d1c9538b22a0256345addf74e9a94c9e83.json",
+      "request_transaction_id": "OnGLGYCcGda8yGk1uIxbNaK28830vo+71Dd3/3sziBBtdYKhwEs27670w49rUOgzLOWUQ/jzeA3kERzc7p6Biuy7ETz4jVw8giheFjJqApf/ZonsacjFtrK9CilVlaEZV8bhkApffcr053U9PMT7o4KIZFcrJaSa4GCNO9KlYD1kngNlimfOADTG0NrCCbv0tE3zD4arcrm0bl4eL5TxXnKzAkxkqaCYY7zm0/l1uTmSVWneGnQWcYf5u9TlMr2UZGuOnfIVdGhAoXbml8yjZDnJevX9hwsPvkf4HaxDC4UjYkaBFGABe3b3yBgHvnKsqwwoaNkHZEVhCbMMyM+Y4A==",
+      "telegram_message_id": "Edgar_20260913181929_021",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
+    },
+    "3bf136a025e7002934bb09e3fa0d4e9e9f71075332739c04d9e7db80f4f6aa44": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/3bf136a025e7002934bb09e3fa0d4e9e9f71075332739c04d9e7db80f4f6aa44.json",
+      "request_transaction_id": "CTgVbkhCXDYVFD2kx0vLhlWd8yXQjrsTxWOKdnCSSKt/hlG1dLrWuMK1Dca6/K9SLz0hzfp/U39isMDw+/rxNlLHYozE+hTY4sb9Cd7AU0iVGQr6Kba8hofQLOhn+e8JyTEo/LF7cNtw5/54vT1ubE4zobzP2mICkJNXLyKf2E0JMFFEixqgecj4ZCPwjSzL0vyW9UFbTO8qpfici1uvGYruarSw7AGRS/bCjhz7ODw+KYkQ5pLH3QOA1lPdJtc6tpC414B29p3jmCAAnCD5ab7HlJ5CMjPv40p0WTGSjE7rnwz/2AyfxxHs5riU8DIt0jfxDM1WdLedkriAr7nkOQ==",
+      "telegram_message_id": "Edgar_20260913171136_001",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
+    },
+    "8839d34f95279ff004576ab1484ac6388c48f18e0b2f58152ba009dbfa0f5bb0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/8839d34f95279ff004576ab1484ac6388c48f18e0b2f58152ba009dbfa0f5bb0.json",
+      "request_transaction_id": "TA+HIg4VwCLJiAcMu7KtCUMrUGlmM822rTy8RyrMsGkn/tRY2xmL7863bqed7jnfUmEGj9R/MGF/TqpywnM8KkbhF7YyH0rzGLdppMSd8iZhgtX8fj46vBOrfKm6CvfrVlJ/2AK+lSs2hd+2s1FmXrX6hgYDirmhsBcx6HM/SDo1b89eVl4vA1otDlMuCbvDSsS9uDQJu1ZqLrK6eqkSZVrL+MUAYPJHc1fpsUwCCbfXNO5MMqrLkeqs5HizuRpAjjqBFUElM0NQCmOpLAd+d7mLYuslX+8lIF/NZfUm2GSsB1yCj7n8nv3nlrrvF8NxdKWKhWCLsbaMscsvbPfD8w==",
+      "telegram_message_id": "Edgar_20260913010858_537",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
+    },
+    "a6c61479d1b90a8be8a824eb610d22608f4bca3357ae1b0e51bec635053e8a7f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/a6c61479d1b90a8be8a824eb610d22608f4bca3357ae1b0e51bec635053e8a7f.json",
+      "request_transaction_id": "aX3Hhntw3A6hToFd7YIEoPQ3DhuYeWaAKBOT1UjSvDhl97j5nh78VT4i75AOCwCfmaUeLBj1tjV20xH4C57iGnwbxETldwDT7IzxnEye7DVc54utQh8WrM7JuwRq/0dR3u7sxU6IsHhmHWHE1vTyDg2THl5ItxTaO4p3q0tp9jf+lb8OYow3ThtTNyrRWG9i3IjHznn5X7tFhlFsSk4z12I+iSpH5+NGNds++g2qB1+QaxeZZqW8LRbvxXEZvXVp+akET+K84gURCXQZdBbKvEUqUEI5Crnxc7eWPPs2R4NJufhnWWCtSeNiiT+JA8o+CavqFRQyK3s9dQizuSCKng==",
+      "telegram_message_id": "Edgar_20260913011517_539",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
+    },
+    "cf17dd74edd9b5eafc9177ef09b879287103ee5b2449817bc6b575a35eff6d88": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/cf17dd74edd9b5eafc9177ef09b879287103ee5b2449817bc6b575a35eff6d88.json",
+      "request_transaction_id": "bMNk0rhseNMNrtff1qpwzDcN+rx8H2CC4gTL7HxBw0cwWMbd7j6ZzXxCGHsyc8b+YsLEg5vaY5T5YAOvamK8DA1m/H0DJZ5be4+lYtprcy+HWhcRivWAyhfUKlB1NrVnCA8F6LP2jB63ZollB3cKI6fNmDrEF/0Q/SfNRuwkbHPFKlLGwN/wnSJIa6i9s8GtDu3FkqD6GA3aFO3cem1qvy4VqaVJ2hTMJMkNkPisHIBeU3Tn7Ne6UbAsBB8tSBMcej1eQmTLbMOX5p9ggGGwp1bfUVJ7N7h5ShbkYqmRcS3T2i0HqARoPF9hS8NZ7z9kYXPpf4/Gdlg8/pc1+OpwAQ==",
+      "telegram_message_id": "Edgar_20260913181535_015",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
+    },
+    "e69cf5f1b9ed700c2b5b6b8f014a644cc64cac23ce2556b81cd5331d695bd3a3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/e69cf5f1b9ed700c2b5b6b8f014a644cc64cac23ce2556b81cd5331d695bd3a3.json",
+      "request_transaction_id": "VWRN/karsjz4pM6LBSp7/ajc5MnUKLBzdeKjIaOTUA4EQeiZwB34qolc92xb5HQWhc9Ih6oQc+gNWC+fVVw8+ALlU0dNzGnrbXEThiiheTTZ3RgoyQg0IzwO7alNWVhVZ7UJMANKiM0u6eOzmm3gVqzhwu0o1tWoIsHHM81/yofnqtm4AXPvftlrCsMSUxqMHfcBnOs8p3HXo0zYRFyd9byv8YRStNgQbTYhESkm/4eCeY9SRngDcmnNP6WCWyZopFsnoVta+kad+VfVe6jUbXB1AcKxT4tlntcJTwkzqHvKhKjS1FoO4jA522q9sW5Rb6lc7uJj2+KEGRYBkY4uag==",
+      "telegram_message_id": "Edgar_20260913181404_011",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-09-13"
     }
   }
 }
