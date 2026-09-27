@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T18:30:12Z",
+  "generated_at": "2026-09-27T19:00:12Z",
   "event_type": "[CAPITAL INJECTION EVENT]",
   "count": 4,
   "events": {
@@ -28,6 +28,30 @@
       "event_type": "[CAPITAL INJECTION EVENT]",
       "submitted_at": "2026-06-02",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 3,
+  "txids": {
+    "1b27811586da11069ed9bf1abb49996be566ae3b501bbf2dedb67cebd5a96672": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/1b27811586da11069ed9bf1abb49996be566ae3b501bbf2dedb67cebd5a96672.json",
+      "request_transaction_id": "hI2frnvE5Jc6HcYCE67lvUpD6eRap8ENwgQSqywxkLOoWz/lmBl4iuVwDc3VtOO0eliBJ26WHJcH1h9/dpRTBMKLDYz9EbLoMVlUyhbITnxNVv8w+txQkS06Lr4Wbdo4iOo2XJbsJMwskHKgIN6Az/+R7uazmbiHoC30IsVljdTkAMRrk1X3WKigkbtM7eO32QQjeH1Bz0oGcEO4yGECIRaYW4ro5MAbEcIcyPmYfsr2d6ahGxIm1n1CTESH3apCs2JLliG7Z6J8s8dbETRmW7e0qwxXkKiWSD8ay+KqHPElwRzl4t7G8Z+FylktboLB0OT/AUwVJ+8TJqeZgdHICw==",
+      "telegram_message_id": "Edgar_20251003024329_028",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2025-10-03"
+    },
+    "1fbacc72a435a1743591ea933afd540565cdb46a1a62b4a648f8e2fd0de70cda": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/1fbacc72a435a1743591ea933afd540565cdb46a1a62b4a648f8e2fd0de70cda.json",
+      "request_transaction_id": "ePmRZoAhjIDvVkTStt4in+WT4Ly2wUWxeH1LSoCKxyGCOie/C6uEadkyUrVX0NneCqVoLmqjzqRD4pCnWjzzwi9oKShq8GFSSxov3P/sJJuDkexLZVYx2COUwyqOlBfIp6VQQvAku5iym8tfXRQvtc2u3JEKUOajfNUqFREj+nMaI4M7ltSQDknJql71k5du4J2m5KYsCiPKzsppPfPW0H+AwO6efa5L4O128E2pabyGXWHWNj+0ZV1xP5MduzdrbCFH1oPh7LRG9ayzwV/U4veNQKuzUTHar74z5JkVGgxYQwBLCX3ecxrqzxTBd107rKtfUUH6uWHg+Yt2zSAlxQ==",
+      "telegram_message_id": "Edgar_20251003023237_024",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2025-10-03"
+    },
+    "d80bbce59b16b3280a1b358ab58ca0687e34424cc00944395d38ba5ef9827039": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/d80bbce59b16b3280a1b358ab58ca0687e34424cc00944395d38ba5ef9827039.json",
+      "request_transaction_id": "hWJGU8oYQyD1pcYHZpW0Pp83rmsng4+5RYrlW/Sr/9ejNU/kxIFpop/O+OuT0Dt8Y/vy0qRgDJCd2YysXrRVqD0mRJjMS4qFXc6L5l7HbV6qgsRE5De7xDgGNROOJIqREkEUM3fZrLCiLqqhHXzhEMQkcRuXvGIe42WoDKTKogaaFZidwXvpUs3fk7DOIGF372/+AY6BiQi/8tDD+qxYAWAjQtfB8EMiw9YUB9i9ZiHsaw7kATVt722+JXkyJ0eSfSxuXYYL8qOfPHWiqYXrROosFKBNCRi6Yc0ubpOTiKxcd1mx6Iug90EpPHIXcPQ28MxVwamCDhtzq2Qq+lBHIw==",
+      "telegram_message_id": "Edgar_20260602225127_280",
+      "event_type": "[CAPITAL INJECTION EVENT]",
+      "submitted_at": "2026-06-02"
     }
   }
 }
