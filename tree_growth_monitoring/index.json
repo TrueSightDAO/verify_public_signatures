@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[TREE GROWTH MONITORING EVENT]",
   "count": 2,
   "events": {
@@ -16,6 +16,23 @@
       "event_type": "[TREE GROWTH MONITORING EVENT]",
       "submitted_at": "",
       "contributor_name": "Gary Teh"
+    }
+  },
+  "txid_count": 2,
+  "txids": {
+    "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb.json",
+      "request_transaction_id": "kJ9bKewiyJk+dJSGXbjuvQ/y3v/pU5TEqHItSNMzO3yaLUaIHtj7H0oS3dH9omG8P/Goo9o4TiVuUftiXSxQ9WLIGgMPqR13woHB1vIgYEnMQulQA+qiOV+lRRxwdL0ZcgDKE6H3GwyKltUSffDk1q1b+fnlndVq2xst/ZPerH483IjI50ocHbPWR8Pxm1XWMuLCl7xZcTj7z4+3HWLhBZ3pqH8QY+4oNiKuywE+i2UhrTIT/Re5VWQNOVTVb3p6PsxOjZSVDy5ssMcNajtOB+mr3UXmyTjEmIRW2NP3czolTDeM3XQ6iqMxJVKBVjdRQ5m8NPCkkqI9GXFFZdRoQQ==",
+      "telegram_message_id": "Edgar_20260829143953_012",
+      "event_type": "[TREE GROWTH MONITORING EVENT]",
+      "submitted_at": ""
+    },
+    "4ff8ca0942590037f94d7142219a4b2961eced85dc49282b0a3826ba4c943fea": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/4ff8ca0942590037f94d7142219a4b2961eced85dc49282b0a3826ba4c943fea.json",
+      "request_transaction_id": "CPBPczK3amICN46BTiFpYf6lFbUvn67R9kdxx6kkvZih5WmA7UspTnAWeVbNH5OzM7YrB/uY6SJ6kviQ55WEy+Uimrv6BszmMiH+yxA27tTBBzD9Wwe0I6MYrQ/UBPb+/VrwgyyDwWdUXU6F/J3a4NH+QOmISAzMqkOU9as7TePaTzgyyTE8aHXLOaNOSblPUikBspA5hPfI/SH/aPrUo91vd1M4/5870uLZAJvTlQYWlyMY0QJEwNjBoMa6fLukcxh99dWDAv+eIuA7w7biiXVWfVh8IcDuzZw+DSH2B0vRLKTEO5jHWzCSk4qkzOSv6hmszib75WObSJmff9JnOg==",
+      "telegram_message_id": "Edgar_20260902203058_051",
+      "event_type": "[TREE GROWTH MONITORING EVENT]",
+      "submitted_at": ""
     }
   }
 }
