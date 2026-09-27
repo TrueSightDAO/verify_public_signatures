@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[CURRENCY CONVERSION EVENT]",
   "count": 2,
   "events": {
@@ -16,6 +16,23 @@
       "event_type": "[CURRENCY CONVERSION EVENT]",
       "submitted_at": "2026-09-18",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 2,
+  "txids": {
+    "126a553a6fc068bdc984d53a0268b3f9882c4bd38b6d52598b2293673d035af8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/126a553a6fc068bdc984d53a0268b3f9882c4bd38b6d52598b2293673d035af8.json",
+      "request_transaction_id": "AfftDjkAPFz2HBKmtJgOGf9MVTO3eFPI/Ni/iqQQc04k9FXis32VM/lU1JtTZHPtdVIY/w5faoj6tbUhbRYgtdhA8CfHG1QyYq3tmuHeig2TsgOUdoOGKa1OuqnvagwvjhtqqG52UEY5CDTpgheJ8DuhoTvgrvhNMn2DdeUfq8uQZNX20iV7KTTKEBhF04xgREkwdQ1Q3zKODt20M94XCNfJ5bfidjHJ703qVfbztetrBgY4wU+CkR83xt+0D2fCXWtodEvgl1pbCnutUK1YGKhCqeffdPtHHidsOop/iJSQMZX3Y3Oh7AD3CGnSRqvZs6XID4BNby8ZQBR5CWB82Q==",
+      "telegram_message_id": "Edgar_20260511022114_012",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-05-11"
+    },
+    "e3bbfdd563305658f8ad5276dacb4e3053d32bf84e096b9dfe362a5a1f539df9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/e3bbfdd563305658f8ad5276dacb4e3053d32bf84e096b9dfe362a5a1f539df9.json",
+      "request_transaction_id": "llrdBrt26p5hkGX1RBvuKgtoNMY3CRtZuPCPhImEXD0skU55s2qgObjWYmxZPTGSuuadZBU9l6yp/HezsKcJo/zPFgu/6oNMMZne6IC1g0gb9f8z9KSG7o6oYIVu1jrPfHvxN4m+rjdbKQRpxFATRWcZOj/OkZfCZGhBUACTHvY0E1IITsx53gum0ycsI+Tx1iudTEktX1mTErUm4BH0jLUoTBQTfxuO0bpYopPq8oZ828XtebssPKRtN3F1fAJNY8pNP2z+zWzGFl5GYGGfr2YrA37bTBwrOMdXUvwSKCqYY+G/U4sIeXyr0XKzPMLgKOG2rbOGSfx8G5XRuwcjRA==",
+      "telegram_message_id": "Edgar_20260918173535_015",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-09-18"
     }
   }
 }
