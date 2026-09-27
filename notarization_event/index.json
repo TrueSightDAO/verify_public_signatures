@@ -1,7 +1,7 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-27T17:30:11Z",
+  "generated_at": "2026-09-27T19:26:16Z",
   "event_type": "[NOTARIZATION EVENT]",
   "count": 44,
   "events": {
@@ -268,6 +268,310 @@
       "event_type": "[NOTARIZATION EVENT]",
       "submitted_at": "2026-09-18",
       "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 43,
+  "txids": {
+    "0582a19304c64420107221671dc475ba6ba926a196f19711cde4c4d7d6c0ab8c": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/0582a19304c64420107221671dc475ba6ba926a196f19711cde4c4d7d6c0ab8c.json",
+      "request_transaction_id": "HwEqjBmX9sJGy9lJr5c7p+2+Fr0mpME7MqQIAapSiWMtCqZs0M9KRHqaaG6z8vpCdGGONZurqSi0SIIDsET9a5kT9ek7wyeGq2T9Z5ROIOyWFoF0yrW8EeTQQgvd726zb+591DP1AoTqJhLSPLeCzhf7FkGbQUV+ZocohHOFrEIjI+3wBvnclTuWxq5ItOaeFRCvbTEdkdF9UzcWSySjZTQ/4OCwTMeWJJ2XvaVqSaY0qKYnO/RuYW9APAKXFODts3ShtwYmZOiwgf5JXIvpDUVjtdo4LQ/F91cD2RcIq6bmtM7R5S7Knd25FhT4IGSZ9MPRLEkCg2f7lmQhvOnhWg==",
+      "telegram_message_id": "Edgar_20251022214314_054",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "11348edee0e13c266e409178d47b8d10fb36136241ef8ff30a6cb39d4a29908d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/11348edee0e13c266e409178d47b8d10fb36136241ef8ff30a6cb39d4a29908d.json",
+      "request_transaction_id": "WqgLgz+KNT3kP7mzA88PSgzVFwpK0uj+9BZ9jtUmv+rS2JwQas7jNEu+7ZUDiv/J13F8uXeaYvgDCkDENfu/TckS0tVGr63+qqxSFzlDs787d/xsqEwHV55pfmO7Vtw9vJeXBhWyAX0uphuI69gFtqT8JZ8XIX3zDUunKxozsao4pEv3L4r5XxT+5NAc3nwDCiKGCGS0rrdOavGYpFWXXhBnRDMNuFT1K/29CrOtAzW5BCrPRIUzGt7zd1qA5FhB3XBSNYi1iUX7V2kq9m4eGpR0VjHy6fhE3rMtVCp0byEtz0gd9xC9VtlcV+rO/BR1EDu6dU+PWwLK/yPV11fC7A==",
+      "telegram_message_id": "Edgar_20260224135435_028",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-02-24"
+    },
+    "13281fcaffb7746fd806fa89eb78e3cc57bebbb2f4e943cf1f8c69126b6c67af": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/13281fcaffb7746fd806fa89eb78e3cc57bebbb2f4e943cf1f8c69126b6c67af.json",
+      "request_transaction_id": "sEBymwP8QVyuc32uj/ih9ws3rjPxBBfsIR/L7frICFu43s/myJkEniDhI/dqhMdQeK1fLA99a84SwpIIiUcwFn3yvAMsxoI1mQ4ZD+pXlS11GTK304qto+mu/rAMYlrFaj0LlxlABrQAvDD8PhLJ7YXYX5h7d5KDzRVF3uekj985fIjw1QVBKY/DlKoscqoIIcfrtBROlfo539opxWp2xboYGXOpuDo6Gqw14ikNgqgdea0iSKTMm8cQe1xjqU2Txe5FQw3wu6Ztp5Nbk2XXj06ThDP8kjG/8/lA3NJUprIYiqeWLeZuhSFSJ6wrgArxi7W1fCvVVM0UWFzIS00WSg==",
+      "telegram_message_id": "Edgar_20260128221245_070",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-01-28"
+    },
+    "133e37ad8438c902eb41280a4f6f82e5e2647042590d34cc3d71e662a0901c0d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/133e37ad8438c902eb41280a4f6f82e5e2647042590d34cc3d71e662a0901c0d.json",
+      "request_transaction_id": "v8+Dhq+XTrk5PsSUOU2MwiUDsrvzRsHXttH5qJjeqSX6HNYPNSJvtWu7UhQwJKUxMmkq6E1ieSI/hqxbxaZfGLcodRaSAJbneBrquCai9axRDrfNfifgDKMd3cgA1Vf4AHpNolG8r/fbtvFgk9FLHj6S8snzHPtCxhIfLj6rUj+DyK79+VG7tJP17CJw+sqB8wyu405NB9ui/ZHa7a/VlyDEL1eSXPgUive+pk0+dZn0UJA8x9zGnS53uDBwcFURWtaXGso1RfGbEHksGUNqArEIluAJgAsAkGgYUpuhrmuhSGj9ilyxZInV0R/TuFS32WnRLPVsjcHuWWeTJliE+Q==",
+      "telegram_message_id": "Edgar_20251022222549_004",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "13503dbd719edd556701c11ba5bc9bdcd1842587a5c2e2fd6037134f55998749": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/13503dbd719edd556701c11ba5bc9bdcd1842587a5c2e2fd6037134f55998749.json",
+      "request_transaction_id": "2Gf/lgEJx0EyyFJSfv0yjZuNFJM/0KyTEhQL/r7KapXfFUgS1cbfKS1Xw1XFpUu5rBx8SUk/lYcYGcKAOQp+bDdEdlWT2V5bYwBAIfA59vA/CnytRtQW7qavPp6qc3Y6LTkZCDxqIQVDSLEmXUuicceA0CfR7Jp1HPfBy6uhvto20kuCTSItvsQ79oLrMdOUKVHrNaFVMNGS7Bta3ACLJw740JgItqNSk2lRlQZpsY/5uC3QC9t593v6dgZzUN870Jmqb/VtJUjeVOfmnWu6q/8P8bMdiUc+twESuvHShz9jVG3XGmn/cueiE1Ml4LScuYj+vxC0TIbiZ4sCoYXQCg==",
+      "telegram_message_id": "Edgar_20260409235235_018",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-04-09"
+    },
+    "1768b8b30de389d843f55661c51e8793fd228dec1771d8615ba7104142a7a52d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/1768b8b30de389d843f55661c51e8793fd228dec1771d8615ba7104142a7a52d.json",
+      "request_transaction_id": "T/JsRdwuhAXg+7jrZQojRfOoDzjDf7UHT43xa86ySZm9gxtHDGLECIE36yMNxnVdEo+brs5LfhW62QSFX+OspPWl3K4jpgLJRhOUGfS7aA1xmYVM7AbPhKNHzZl6y+M5UKCx8zfMNH/owAvPu+UXC7K7ZhvJNquZL6WB2KFImQgPFQNGgf4l8aRN8dJMiHVPDDWnfBtLXAemJwpOVfvLZMDP9/Vat2+xnbhrS516f1Ctd2uNfhPw3PqhRdabmBUhyffzXpYEiEQZ/MAbfoDxwQCFMaWoxt8Z1sGMgfEvhE1tHWX6ebxa4zqKo99QvjE3xOQYrJAh/kPQuYsTrROL1Q==",
+      "telegram_message_id": "Edgar_20260330040810_150",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-03-30"
+    },
+    "1d156c38ea767729e803b088060075211b025b3db4dabd652d6b14f6512e4e50": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/1d156c38ea767729e803b088060075211b025b3db4dabd652d6b14f6512e4e50.json",
+      "request_transaction_id": "PQ2nzwXfB9qybIWXo5BnNjHjSjI4HF0bfqaO8A0l8cdueFwY45SpdyaWBngP9wz8ah82ZlqRYdv376mtRT8UF5+hYuQ6bgvnSMl4DupPoJ4mLmGN/q4d3pdxRUFaU5GIyBxKwcPfz8jBtxmAKDD+z7O+KWc0hW0zQKGgXkg6tniE7v7yNy0qrFXeBYqHRL2eP+c/cnKJaaZSIhUfxp5VsOXkLUKQ4woO1ViABwUBpY5BY8zB9o3kFPbzocRbbmWWrbjtMiUya5kKv5fBRINzhdOSuG8pAuIA9FaBPgFuZ4nNZPPzElz/gVY0Jwx5cxZaWejeWk8MqELQNzrOKjre1w==",
+      "telegram_message_id": "Edgar_20260224135047_026",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-02-24"
+    },
+    "1fb4c1dbe70cab5ae3f768dbeb9775b51b9853d624f78686e1d2506281cf0882": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/1fb4c1dbe70cab5ae3f768dbeb9775b51b9853d624f78686e1d2506281cf0882.json",
+      "request_transaction_id": "IRFc3+8daY44LMv54fWA8eV/XWnvIIhz28X3ZFeANPUpfLHqtJp0XOuxVWXs5cURomr250uaHEQlsSUSXeE1llQCN6zkdvtLhGJb8T+8pEPz7NbKrSJHT4EPph51ahvKuWGCfYFT9huXd6ZXh8/gUX2eK8Xau7SPn5GPYVfJ0pB8Vqd5iaRazegf8t92u+iIIQmq+bjdzvA+Yj5FELsQ3Cey9mUuelIgepeuJ33aRvNOvPVJq7Ljzc84WdqjHBhUrUYCZN9vSOiObPR9LwAbgwgsI7eIqBdjb5kdIp5cl9a3emEppO14fkFqXCfv9z+E8WYBDhH5LKKnKcw2eEmdww==",
+      "telegram_message_id": "Edgar_20260304154523_062",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-03-04"
+    },
+    "23573a0dcdebe2efcc7938f545c679482740b65ea8d85521dfcbb89550b226d2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/23573a0dcdebe2efcc7938f545c679482740b65ea8d85521dfcbb89550b226d2.json",
+      "request_transaction_id": "BGEDBzUVepWKKoikiCgFKpOHh274Lnctu3Mrr/vxkiKhZAdhQ55H16Hcruk4LhK1Aoa1hRrcvvZHdBaJNhIm+O00Jf9qDIHC5bkSnuXHp0bHxZ3z0sjYA9WW/S6llpbOf6T92xfya14AoD0COhZc9ybtGbwDlhmW9wd83SuXIQ5EsuMYyjq3dZ6XcENN9hQAP4HuS8gVs8XmFf13pxNW6VDI72wjk8YBzu7QcCcN/RWLS9sGbuMhCdgnGfohqYO0TSB92V2QTxPO5NhtJBni2W+32XDcNWt11g+ji8yTBHX0cK++/iMvYu7Sd4XPDDSHCZDecUDHxa0gZeXuUtnyUw==",
+      "telegram_message_id": "Edgar_20260426201709_056",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-04-26"
+    },
+    "24ffb2ca79d0eb5740830d914c941a6f8e6d99495ef4629e31d8221b9df66ba7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/24ffb2ca79d0eb5740830d914c941a6f8e6d99495ef4629e31d8221b9df66ba7.json",
+      "request_transaction_id": "AtpqxGkWwB710twzQ9Tg19D5tBcRNrGH5EqKZASK8DMIBuow9wqIebZgX40vH62dkfBZt6EI4F2f7pdbwquof+d+F7v1NMaiIsnIF1uKUXQbQbVEAznkjUDS9vthm78kjsQJTXWSJVVMOak6VvGcvH1OyOKpGmneYFvgMjDZ1ZLDPB2pOMJr84IScYygDv5GGLoaZ1WDUuRqHMTgAUoyrkcpa7NFmu4vnZy73KTco/bvewNSFIRRb9f3tFSf6IrhvaKneDBrCFUwlJmUA52A9tdVFhQAIx21Vb0nWd9vPkivlGocLV6PjThcn6695z4lBuCUGBG6nu1JCPSVUyltpw==",
+      "telegram_message_id": "Edgar_20260910170542_351",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-10"
+    },
+    "3479028b522e71429cd557807848fd23bf4961afca0db8133a8ffe9d5cc8419b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/3479028b522e71429cd557807848fd23bf4961afca0db8133a8ffe9d5cc8419b.json",
+      "request_transaction_id": "f0ccDmznpsj15VaGXYk86C5nB24rAClxjHJfeAAP41kt/PHjhBnWOYCA5Aa+p6nQzaYWcC3IAd+w3UWk6r7Z1tQWTbsinKrQ5Dj9ruLZ7s4yR+NmwTfB2Wwn1mJKusifdHXIcQMOjEGdmpVmQb5DP8S4ycXJtEBLmhWSG45+RZcYcZaBlLJgQt9XxUdVsEPUtsFN6bygFNx3tmf0vu02syqT4PJm+ImXs6Q2l3vPV7F+GSECltnpkPQY8bn72cQ2Fx008dgBqSWy2FOY199VjICIS/Krv4unbr3TcNBDlaZ5tOJDbafyOOgKbBuua4H/vwNTHlJHf31APRL439jBuA==",
+      "telegram_message_id": "Edgar_20251022214000_052",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "347bba334459f09f7999160b6e63b05f8f3707db1ba423c5ec2700b464820bed": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/347bba334459f09f7999160b6e63b05f8f3707db1ba423c5ec2700b464820bed.json",
+      "request_transaction_id": "BSuLRDr56IW9q+aRJfVWaW9f2ryzIFFvqBHaEpOmHPp9nnVd3yNhG+QJ4zGlzEs3WuxLHL09LHnQAw5V5oS054raixUGNwu5bd9V99sSXxfZCh69wbQuwr01yZpZAcPS/9VyTS8CGZm5SdrjWr1gwE+9ZzdqoAJkStbiGj9+yWkjzjGrvfENiRmKK4O8hcdAs11OEB3Mo/5IVY0AaBLbAWQE7nT1E2WsNmiOGGEDYZz2Q6Tw3f50VzWe23r+0TLwdQryTvM1sJuQEL0fqSd0m0M2/JOJQVWFBRbADvSEx17uFWvtZol/KiKHKKigXoMRuqQLoaX8roxj/IGzbVj53A==",
+      "telegram_message_id": "Edgar_20260908002524_041",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-08"
+    },
+    "3b13b87dde190561056730c9ef915e6facf71a024bd080e64e18e786be5e9f01": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/3b13b87dde190561056730c9ef915e6facf71a024bd080e64e18e786be5e9f01.json",
+      "request_transaction_id": "0OFGwmH2e2CiDUJiGgx3hwestkuR2IUlLZI2jCUX+cNX3j1m0zcOfwciwobNtNlRkYTrOlv0MBwTyKg9HLcwlgS/qCB91FpA59xwUylTNHkPbasY4bMsiEQG1/YuuufLmiOJur/BOaFaYci417R9npEgyljAQe+H0/hN5C9txFLZkafRf53o5Z7NqD6SGhHNdnLVbZ1A44X3I/sXFNOJTOiQlq/JgDULcldzm7fSfHN1qNKBzxfCS2Uhgf7xN1G9A8ryOpBWtFxzAjyccvfqPGd4VwZIRfX16y36aEEmhubgjlrR7DJibg/Z3vFnRuPP9YHG6rz2lbwhqYJmEOMr1Q==",
+      "telegram_message_id": "Edgar_20251227220015_330",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-12-27"
+    },
+    "45b34c805efa21b4b582ebc75d336a079d887259deaa40322a737a0d2adebbad": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/45b34c805efa21b4b582ebc75d336a079d887259deaa40322a737a0d2adebbad.json",
+      "request_transaction_id": "AUP96NQtFlrce/ZGPSlH9SirLPUp9CHDBgfAjgq1nE7kUPsSCahdmWEmxrl3QPGjkWv2GQKB87ldZeSk+6BdqF29V2ZlGfRI5g4SxeSL6NoVMagU0HiEK/cLZv5pxNUfHzTtA1YP5RbbyNOe4bWaDUvrFTNSOOqmTqNjDXkzfJIPgsnDZiG8oZspjgULx+eoS8YDXy2XPV9Xd6PVhDuIQx1Ov4d80ol8mQmacKF8sFUIeeLvfTZ2dSxoOCl1OoxBB3T+hcpqIxAowAM8uXGkhvphqaWQ18ZbRtMy5gvk62hhL7luQI00KJjzECJ5nk91IDzkwGq8q/m4kMNq0WSCbg==",
+      "telegram_message_id": "Edgar_20260905212151_085",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05"
+    },
+    "4ab0774c72dbc581c56c286e20ef8c699361a5710f9d1c9c85e8351a39850957": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/4ab0774c72dbc581c56c286e20ef8c699361a5710f9d1c9c85e8351a39850957.json",
+      "request_transaction_id": "KCKiIpbx2cjvGi8RdkqB9njXXGhOQJ3L7RiSZwY++O+oZacN/ADUC9L1uo+KtCzC6t8JB2svjgxBWlniQMN96+ytvl/iTqN1SIYZKXQKl06H+Xr/P1x0XdHixt1zL0Tvwn0Dxsg9Kc7QE5zBaVZKyAjbb02HDbnN4u0uV1CPQYePtdEvlMh7oGHTO67rjlCzfukUAElxE0Z1Tkk2m2qJQ9r7TFZ94xzFTNgW57j8i0yx+fbPFJSOYCdJQooID2xe4UdSeb1IU/6IG1Q61fgIorscUIs6uOJL2sQNgiTETsTTrJzAfNI3Q7h407112s87DU3TZ+GxwKRIrEMMyczNpw==",
+      "telegram_message_id": "Edgar_20251022221537_006",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "4ddbd8301a88fd2b466680432976d1b48f08b8f89180caff5ec60a2a9fdd557b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/4ddbd8301a88fd2b466680432976d1b48f08b8f89180caff5ec60a2a9fdd557b.json",
+      "request_transaction_id": "h8VHJPqs/Qk63LbmFXSBZ/ji3UTW6We2bTGz18rBSqhBJL1RdzwYQTLKzvo3/LSGp1nrhF8dxFSu8me9pr1wO4Z+JnTZZvq1r8pU0bik0l7XlNyqx/bs6bZdrKNYAIFguh8OpzdLrVWE8tBWq1ORzNBBRCQ5oomW+2z6xXNqg0LEE0D5zJlU36kFug2jAeO5D7ebSZBuJCsD1JkAfKUSPvR+3Q7Lp7HpOTe85erUV7PRHQPShOM6qR0Uw7B5jsgn4oHAQWWaGoZdvminEywm1Iq2iL+GKye8nQ0zqk3eaona1GmVTHEHCcVoIKi7jyJjYhQzCoJM9aPSchCR7++7hg==",
+      "telegram_message_id": "Edgar_20251022220540_002",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "52f4953b3558f7f078a7869d5777210acef313e0d023d1531c6df7a292bade06": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/52f4953b3558f7f078a7869d5777210acef313e0d023d1531c6df7a292bade06.json",
+      "request_transaction_id": "osXhf3RN3LYPkeMH6N2OPxqUHUneWX037D+FvokvoX2wm0wLI5BbbPbjK30jdfc1KBIcnUVIzf/IZUz/ligCn7nnOI221X0Fmfp18UBKBakJ2M2HfeG2yluSCMT0Cb6e+SFPiBUa98JrIQSBLpy2NLJWqTyLrqTYEJhN8oJ2UkKbAKthRgSVa9+GVBbRcq7mo0xWbceYX5/oNqyxCzV0gfvEIjphwwJXJ1k3NFjGNmFdkcUlYAImvIlCTa2PrWN4mCPPAmaHNUi6hngTk1B8jc8xxvWNkpthiXy3QsLwwLewtEhEHUnLNror1Q0ejrNhGdj3ku+/gKB0H9M5LhTd0g==",
+      "telegram_message_id": "Edgar_20260518194736_192",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-05-18"
+    },
+    "552ef0482de294afda1b80807337b7a808a5ef69ed2b8bb02d789832ffbf5eba": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/552ef0482de294afda1b80807337b7a808a5ef69ed2b8bb02d789832ffbf5eba.json",
+      "request_transaction_id": "IaJkPFaLU1S8UtIydSWY4SpinU6/zgGTECPzOIe/TzwpT9eXgi02e44Lxv7/n99lrbEcCOzO/dkr/cI3CUeJGnSzrYJWmsVg/5s5CX4WNFNPja0YWWo4lcUEIoADWWoyduvVUeNpQGUmP4KMZz0IuHRXcj13VQz5EEBK9x9fVjwnrSzwrXK6SznbEnfVJHfqG/xGWutsDMlxDQy57vbJx7p4occOBqj2IiEQ0zv8pXZd1FuSERTMq+bOSc2dut6o4h8Jr8DNHpdZRnYiZ4aaD+jH+opv1xXaLCEBfhWd/VGMixwbCH7FF/1XMJsw1k0U8OxSNBFCF1fZjQ20/FV9Tg==",
+      "telegram_message_id": "Edgar_20251022220335_056",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "563fcc8d12ce191047ec198f39d7c93b8a7a59c0fce56ec0e77939d92867b045": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/563fcc8d12ce191047ec198f39d7c93b8a7a59c0fce56ec0e77939d92867b045.json",
+      "request_transaction_id": "2wRtlIjTcuoqVhaXG7VKZnf4ef1HbOolwJU1AUESZz1cCeaUrhG9gcTzeKLvMlfESxRCie6oybRQxp4RUcri5Psk8mTtO/oQq8mid7VvEegoNXqLw11rBzsvR2dqHeJY0ybowZuOK+oWSKDOLSpdXZQCVf5T/8qnU28JxaV4RhRfD4v5Jx1UGsxPfI5IV2p0914UzM0gwNIEWEIl3N6jaXd/PgE6sdH7ouTXFFhSmkiqFbnj+Y9+i66Ci49kEpU+jnzqsRPajDuMIq31LToWla7TUBWnHWQ4ZrEdTVgZey2p7B/Kj50vyycfmrV0P0M140FINUs1SdvTXFTWBt/KpQ==",
+      "telegram_message_id": "7395",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-09-15"
+    },
+    "579c1e86096a1ba61b59578922df92bdaa324192db5514efd5c5588858fd2d74": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/579c1e86096a1ba61b59578922df92bdaa324192db5514efd5c5588858fd2d74.json",
+      "request_transaction_id": "gSnMf5yMVyROAPE4bKBu4vfdPb9bsT20XgBDbFQPJ+V7am68YXqnp1dmSxl+C07oTHUmizQmvCQufBIaaT/zOgIVvD+dzcZVXWM+ROQSA9hUMEwKTihI17FS1ORvX31CUlJj72tGeRb6Uk62nbNtVozYvJi7Lii6eq+QMAVNlCtUYVTPzWt9YRwucrrs51rqowhK3t0DPALZCZxYnKl3iw3b4jdqUTwAAmc/LYPXg7Kch8UP49INBxjJmY1bXjT+F1wZSvTVwycoLwffLcF3ks71N+ouydMs+VecotM7SnY4+tgSisVCQXr0uLsqkrFvIMCI7oq+XLkZgDBFhRj18g==",
+      "telegram_message_id": "6508",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-07-14"
+    },
+    "77c58473de22505096b89ff3ab833332a4451c99af55062c10fbd988b9462f1b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/77c58473de22505096b89ff3ab833332a4451c99af55062c10fbd988b9462f1b.json",
+      "request_transaction_id": "q7Bj1wLXyHKfrV87IYkFp7ruZ3qgt1fn5/3a/k1Q5ZyOSKmFnT6WDdEvF5JEvMAghqfxiqXYUaBuaxlAXma6aDpp44Dyg41dmzOkYFZ4RkwhwvszHLSS5+Z1zyWiTXmLKyp2yAnMRlcEF2XRIac9usB95loAdCPDa85fFE6FkKmSnw0TdwySaff7+gGtCnQtcFM6N/M95p5AVuOP9cQYkLpwanVWbKYmqEjg/Pxv3tRWZhrfeDYLJaspR6c5QnuoR6lri0iwT8HQcoy58JpgTNvxnuzKWyqzvgHbsIpvMwqo9tHm/FKC4a53B26pyHYiVe02qBZwn1JvyqGCzlG9jA==",
+      "telegram_message_id": "Edgar_20251227215751_328",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-12-27"
+    },
+    "8175530a79878ab3265c32e160e12b903147fe9db72d419b2adcdaadead0b88f": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/8175530a79878ab3265c32e160e12b903147fe9db72d419b2adcdaadead0b88f.json",
+      "request_transaction_id": "sQlHC+NnB/3PtQP3Lym4vWjsocz//va3ceY7rJsLaLOVVnLYJwueNtoFqn0Dic/25sZOP5PsGRAkhPXacCnqV+0z/OLXd91b8sVETRp3g0j/xvV9dWy6vKmIhpE9BIZKDyUtSTkv1IgaXDVK8NJD96TWUBsSpwpBI7Rk+GoLCSsufWrqHyhqAAZ0J+/dF3aTcLKreFNMGdMDveBpt+gjQeMRCWI1AoeCvsUiSGrlgPEUbYv21+5x3Gr/dvoNP006JiIl4g3KTG0/IlcxN1JoGRG4SSG/NgtNpUKvnAbnnBs7i/8X+F0dErydeMoN/Vt8I0F4kc60f+BzEFfa4ej8AA==",
+      "telegram_message_id": "Edgar_20260708023035_124",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-07-08"
+    },
+    "86453f3fa396496eb04a9f54276bc415020510c0d4b45abd0c263ecd17b7f593": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/86453f3fa396496eb04a9f54276bc415020510c0d4b45abd0c263ecd17b7f593.json",
+      "request_transaction_id": "0OHPXdL+KAzEkqA4wtL3dRFk/ka0FTZf7dawxAPInddFQon2W3/Brl+P+mfHJ2CivXX1n5CgOgH8DCWPXBmnbSN1sEuJ0ArEYPKiBBrUZjHJRjI8ppW7ACi71O0hSp67UceEe6DE251vTmzf845BWFvQ6XmZrhjS7Z27Lrhyyb+yhrxeDeU7kmu3uXJO8Np937cPTzoGgGm/xo8si1wqeHMShsE2xGbUSf+jDuZocqMLYNlXCXpsdeEbVdQZI1ri/VG0I5hX+O7IorlYjP6m/DpZdOlWo6Pv63+y3ADw9BErubOY26Aog2+C0fi1Gwa6VWhxsKhYRvMTtcl4QXQCrQ==",
+      "telegram_message_id": "Edgar_20260506181735_088",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-05-06"
+    },
+    "8884488a386de37acfc0ae339c9661d1ec6a607108045b8d8a075f5d5969eefd": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/8884488a386de37acfc0ae339c9661d1ec6a607108045b8d8a075f5d5969eefd.json",
+      "request_transaction_id": "UIckfKoNug2jZRvCPUH7fQrCr57Qs30XEOkKALilvn/9pes2hhj8U4dfyrQ2aSFi/fNd4BYM1dla+w4ykhWhID11CKGLpu9Ky9iaVGtRCa6l/WQYBfyyZBsNbkQKuHTBqh8vauQPGA80WR+VFnTIsqFWhaAURo7xsbILQ04FUqLODZCW4WMI+HT/Jo8yYKe/hf+7532f/195cH/0zb+bQSiQogLmk34Nb5uOdF8CqgfZAzblZf3c5NGufbiVFoVXUzijbLInylf1pBECFjx5HJj5l+9XOh+h6WerT51YjHWlruU+gBxNw2tV7jWgVNI/6/y6hRRZmqGU4uuGSHs8dQ==",
+      "telegram_message_id": "6505",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-07-14"
+    },
+    "920d166ebfa21e0edf34588ea42642aacd286f9fccb03f46040b8dc515bdf8b8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/920d166ebfa21e0edf34588ea42642aacd286f9fccb03f46040b8dc515bdf8b8.json",
+      "request_transaction_id": "jU0/0UPw4qo/ZWDiqf7ovrl79u2SDLDt4C77C83jUTk69dKmnAFFyZgXHLxmVVt2yrg9iJ1S09GfioJLp673uIpQ2vmFNNe6tbU16zdfviWdMQo4yI3U0alxcr2hFlVVUNRPQq1VU6QjYPjGHtEQ7y7fd7r35KNBal7FWZnyUL9j9eJ6HRP3rho3FdqU31pqDCnKa8TUXCsYMwTXq8ULIWhW0qqH09KzbGwlgJfbOLGzHFQMgLkdji8CHqQiT4npS9HqTt3Lt1zIn3uXl2TxdVgK8j/oBz0bzvfV3fKeRF+3I0iXIxUywmOxy0U2C2ObFYOsq9i0iIT6pD4JanfllA==",
+      "telegram_message_id": "Edgar_20251212194519_100",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-12-12"
+    },
+    "9809185646f87892315d8461eef4f85cca1b82f5675c0b8fc0e9613aa540e5be": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/9809185646f87892315d8461eef4f85cca1b82f5675c0b8fc0e9613aa540e5be.json",
+      "request_transaction_id": "SH2RM6mj0/btQugknCjaYnAmrDU+xkrexi4iFz5M/JfMcImfK702cnrrGTCmbxml/sdJ7+lAGaZMPbAhA1F1sy8PZ5f05AuWf8BFAOUFSmUDtKwx/I1caCySUDpIctAzFjPyVkPrQsrc2UJEqySVdNClGY2RqEvH/XimenXUNxWDu1ovdr4QJlCkbVEnuvQdm9fQ+wA9eFfhHKpugPvp0QegQtOc/Wralhchq0F3taI+lCIdD33EiJ0ZH7eQyJr/aaGTByO3ouxsS5BzVok3CgUkK1K7rxa70vIB9MhbfBwCsw57OC3idwcMWWfJv9oTdydx99KPFeoivOmCLgvONw==",
+      "telegram_message_id": "Edgar_20251029182403_068",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-29"
+    },
+    "a27de7a39dc6e7f732f0b7d5d052c100c7eb62c1c0fbd35d9539cb64c205eca0": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/a27de7a39dc6e7f732f0b7d5d052c100c7eb62c1c0fbd35d9539cb64c205eca0.json",
+      "request_transaction_id": "ZiZeYRb83gKWGhRxOj9JHIpSLzv9pyE8KbJX/7+DCEiJKtS2Hpv5guerubOnU2eFvp9ZG3aIXAjJfFP1z1lHOa2WZMO0QyzhC2QhMxRuGoJVEovOM20a9fTy9pTPNilSYnWTmqkpQggcKprOQdHsc6hbNbgvFnVsewpIvN+Vzn4X42wohHtl0bqdRHUiJYx+zEJP8MWizQ5b9k6Jx3JJCcw07Cfh4CRho7tsVk3Of9cI1EYyPlqMwr7V9tnfXtSakSIwJGFxPXIVN3CvMrkeXNKV5TZPKPlkmkxXMYPUSlCj1Qo8aRUYzkS7633cqrbvkff8oewWJB4QTWTEU4ap/Q==",
+      "telegram_message_id": "Edgar_20260216034109_010",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-02-16"
+    },
+    "a428cb9755b38eb392f13c58efd1ef32b95bd01d10baeac9096f762118eb3e90": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/a428cb9755b38eb392f13c58efd1ef32b95bd01d10baeac9096f762118eb3e90.json",
+      "request_transaction_id": "LiCzLCP23Gut+8JLYJ0M56Xy8xcsulpjx+a+ksxcI/GQiNAvUha6hx8LsLjFF1EScN1S1xim98wkoWaFvmzE9H/7jrCyGFkctIzMBRX4oec4/JXGm+WH0N0vlbeJtqEL/GPdCHXRIv3UVyRHpEmUg7MunlLjaVEP/eJj/qlN+F3sGO6hVEmEQ7Cg+GYDvaxt/4YuQNML/XhWW+s6JKWMRfRsFmdjoyxO/o3fKLSOM4UNYY+3l0BcK+lxMcazY21ZlvwNrU/U9JycUtr79cQN/Sz7y1h/91OH2t5KnywhSLrIG2t9nj0lL/MMacz2rfQrfRNdBauQDjOA3HMfwiZlSg==",
+      "telegram_message_id": "7607",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-21"
+    },
+    "a49247dd62c3ec64dd7198bba934a9411690955f1887fea98c0f1078ec5aff62": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/a49247dd62c3ec64dd7198bba934a9411690955f1887fea98c0f1078ec5aff62.json",
+      "request_transaction_id": "fS8TuP/ewFIO6vCgBcNpMI0GGQSaos4kcpAnYiZilfFRYsW+H0qu9FZn3K1F+AC/CRpOTG5a3VKNZbJXOjVytclXvTrDEQ+DwgnppDZIWWSxCTgNteIo0L2KOMt2L/7DrXOeqHQMHy/XK7fGKptGQYtiRRfmFgQaTIb3AfwXotZ7kgqEDyhcVg2zWxXdKZz20Q+spQVNIAwFLPbyTbqz2rNIkFN5SXo4nn6yjecIV8NPXwW8/LN44axOh2cHx5lotKWrxoWCfLLKM5uIlEPfq6qeklhOSz+4pGj5UQmlFESXY5prZ+o5C3WTVw6vUX4s3XtWIhn8vBxtbbGNCVaSgQ==",
+      "telegram_message_id": "Edgar_20260831201409_007",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-08-31"
+    },
+    "a5f68abd17c87c14e72cbee6f419753857e7c5907b77d9c9c3123bc544984568": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/a5f68abd17c87c14e72cbee6f419753857e7c5907b77d9c9c3123bc544984568.json",
+      "request_transaction_id": "1erqqLo1TTNBTvK3tzPtQR8VFHl9OpX6Ry77CR7KOq5qollH4DxBPjydRELSltW3lK6fQYJFczT3MNxExUGRtEiDXbrgncNqDb120U4dwqVElOO5VZXT11rxcRRCiVbTe68ljWMnhyeyWbuR9xdv8K0xu06aZj00wJO1UIzcTX1DR0PTzietjOGwypijlmOOJqSoAHx4oFOvKpR06ufUHum03EEod4UmSKyPJckj769YsP0SdUVkCOWnGoGClNWic6B2tZoW4Qp4tDLD/xXQu860Y4W3FaEJvToAJiwoH6/npexvM6BTEDYNnMPtIPfPevfUrAJxdsSXHJqEqiPgpA==",
+      "telegram_message_id": "Edgar_20260119185508_058",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-01-19"
+    },
+    "b7cfc2a260fea6a68c3e496e5e11e5e21c60570e03c0e7e2fa3d99c5156460fb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/b7cfc2a260fea6a68c3e496e5e11e5e21c60570e03c0e7e2fa3d99c5156460fb.json",
+      "request_transaction_id": "fOaLQiToFjH2E6L0Qipkr+fK8jebgHYVItgd65qD+CmJ/CpQGD76Un2XfRTGRPETOQmvYeI7nix1nW+MnrTTuVRtmAKzv0nVja52wNLqc5ukjUJcb3utzGJd92rS9sm1rTIClBWJoxVWz5aSozQR5lkxHW0+lRrZpktcVQbZ7UsVZMWyy3ffgHTFBQb464ddm6yVnbBFXlfkrTOd6iFFUQTAgIwfVTW//npEq6sPoawOa9KQEmb0BIILPrkiT05t5elF9Hz/oumxnSkJamtLR6/pooJ9BiLfP1K265y79Dl2TFNiV1WTsdcmOIUCzEwsZLDjhADLW0CTzdvsXuDSrw==",
+      "telegram_message_id": "Edgar_20251022220931_004",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "bedf3096ca66973197d9825a4383a87261e6407af7da40b233e356c98b1f1d81": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/bedf3096ca66973197d9825a4383a87261e6407af7da40b233e356c98b1f1d81.json",
+      "request_transaction_id": "UPj6FGGQ/od5kbhuMRPhiy+HhYtAGas2R7UbiM9cKSM9NFDdRiCI/i8rIQEIOceBl2uoQTiRZ4SrW/ijHkfF0Xqp46JtKNFmhvn64pQuZa0G/AW3J2ZJcSIsi94Gb6KPE+9ouyf8FgtocJzRo5cnEYUX+zMrKZ0vig5BlP/odEZUAej+HXrLNRkKsfkZrKdci8/h6w3rk7nNcSRNec1HzIMPaHxzviHsookuWXJ0j0Z0AO11MSqdPAj6o5PWbpmCfJdjK/lYxl7+LpnMegeWy55I3C8nypefEPzEGF4ztqtIMniE+r5nCqx/zhoIWCcIs3+vZ8m5Z/MPmO4PBGCuJg==",
+      "telegram_message_id": "Edgar_20251028184313_048",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-28"
+    },
+    "bf8907a84ea59e5d8ffb09faed2607614c4ec1e1d929938b39a6beb082c61f72": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/bf8907a84ea59e5d8ffb09faed2607614c4ec1e1d929938b39a6beb082c61f72.json",
+      "request_transaction_id": "RLRotReJnXEHl90EIM09qqAPi3wM+mpBjnCsOegrc8a/zTFGobgHKzagGQNvWh/sko7JB9G+kKsTD+zLqu7wX8ShKjSxszzpNV9EM/sJfvWqxEwwWERQtxGMjIQDDJiann4Zb5S/U2DkmaEy9LP3XgQnhNsbwGpXhb9ACWDql5x7J9hSya7LdC4q2CLexwcxDHTSneA+fgNQofuG9WGjftorcLY7Uwt9HrWphGPe6anK7uoKVLWL+KM84HA6k61EKajR2H/EoWDcwhzbDWAepxQRBjPRwyPMhaXlNHEapJvfw1OAe16ON5rtLsUzeb8Ukj+SFFgw6hR7Y3sQ2nagoA==",
+      "telegram_message_id": "Edgar_20260316002906_214",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-03-16"
+    },
+    "c40fd4718b8f5db6d63c12a21589617e30273d69fff660a484d95cd594a281fe": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/c40fd4718b8f5db6d63c12a21589617e30273d69fff660a484d95cd594a281fe.json",
+      "request_transaction_id": "NTmB5a/ePA007NgMSK3nXAeEz976v0de3BD3bvPiR3ThKczqcF7z6i0l/tP2w/aBqbK+ZagYsiEMTh9/33lSpf1DUFt481x5IRoikq04wV9PrngE/NJyjcdky9FsC0nJwaKYygcONslb4bwVoL78l9WGH8r5FUztx4drBSbmIlLsdMYDQYRbsfcozh4IFvKE1LKZyH/HX1LYlSDlFKlyPJPAfa8JiSUCaNlob+a4BZsauXUFYn3fs5DE9GxbgIb8yf6AwWReo++3AUFP2Bt4yFxVgiRZizpjCHxapge8g0ghRIpocRqSxdQOYnRN8pYYwAqrOitzhKoDzQojYswPKg==",
+      "telegram_message_id": "Edgar_20260121202204_086",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-01-21"
+    },
+    "c72be7a3320c3e2c41023bf7abd2f3f5c51a5b39b4f1b9c3abeaa03b1f95aa05": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/c72be7a3320c3e2c41023bf7abd2f3f5c51a5b39b4f1b9c3abeaa03b1f95aa05.json",
+      "request_transaction_id": "ZXBKPGKyJ0qS542tzmDHaQATgBvyO8Wm9TAI6Sp4uxeCCDn7bAPvP5RgZzLzoVhWYj3eIf0eNQlqHiUH+rgRbhlLsPSeRk4c/rzLmcMXuXl9AsxKAUuS3PEtnIpxgRQ/nxqnslmOQwU7SwJ8Ev/rVjm+75QiaJmOi6yOl2RiVEgRBX99/nN2jdWXJIOfCmWEc7HhVfhwYDUsH/62ADmYd0kQG0c6w0hIhIb9O4l5jCEBg2pfI728vR91a6wVLDpBBt6tkBnaWq5s0vjPMG7npsmCgKeayuBnCZpgMyRKonqBNb8Bk/TN6cI6sbOnoKyS2/Lfg5qDIknPq58+KK4TLA==",
+      "telegram_message_id": "Edgar_20260518195142_194",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-05-18"
+    },
+    "d6c0b9d3fa2f1cb80f00175328b162ca6e223633dfde0ab5f0afa82b6db318c3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/d6c0b9d3fa2f1cb80f00175328b162ca6e223633dfde0ab5f0afa82b6db318c3.json",
+      "request_transaction_id": "ocsSmRoMJu0wlit/pPlvqWqHUexXjKNkUfVJ6iZH0yS7WwTCC+vvX+vbRoosBmnM3BE1fydmdDg64XwKifpIPVOhzW9fuKHTqXnpZbRPnOZ9Ds4d/CZMQbhEERIygYOEs3SrcYuVDYQwumfMFrXd3DurqDexaZdGyU3a83XBWXkWF71umskjU/6Lc+/mw9efhmmKAthjwj1sPCB3iKkkLQEeDKFQtXOrhb2CcUaXjRPNm6ovNxvZBj+3l5GFZWCFGTdHm46Uq9KC4MF+97ppOy3BOtU1R3XKfTKUWwH8wkafVQYx0+3VWilb+Zg90NERlAPZsvGBf3txD3e4KGc0mQ==",
+      "telegram_message_id": "7454",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-09-30"
+    },
+    "dbabd8db89e06b1847c4c5678c90e63d2f9c72079abe9374118b102d6726fd01": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/dbabd8db89e06b1847c4c5678c90e63d2f9c72079abe9374118b102d6726fd01.json",
+      "request_transaction_id": "k7gBzZhDdlMK5taZJIrIWYmH0drzUyYc360AxnLQxKOFwHFe+TP+br4sSdBRh03cMViffkCZPp56dKWG7ZlgljWwBC93Ol6EghfBGCLPDowN+E+rhkuZILbFA8ehUyKYdQFAXYDTfs4bMLi+pd9yvNLQ4tJOhOLWUeno+VCl/2lpHUDLbi5cn8H9AIphDo8U4evFW9L0xVM+62JAG2LqEbCjhXdZC2Ny1gD8mHehoJHF42C4OvuBUi45zNQhons3TBGaQH2wFWP8VaRgNiErF4wB4GBls+ZShM9ItnWe7i4TDleA9Ihpg9nj8nFUDUiB7i6zy/XOiRp6VJy+nKy4/w==",
+      "telegram_message_id": "Edgar_20260918121913_003",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-18"
+    },
+    "dc08ff769ee7a4dd0e27d519a7be098850f5a9244364a715ce63861c08fc7b29": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/dc08ff769ee7a4dd0e27d519a7be098850f5a9244364a715ce63861c08fc7b29.json",
+      "request_transaction_id": "Oponiew3JJZKcOroV3V8wRivcYGT+fAYSiTNiGXy/6h/crbr3kZN+WkkAzfgVbHuNj/JbxaXiWxiAE+PYuxNKQszu6JE7Id+J08Z8wovx9H/WmznToHNot2jGwmUu7e428H4h/mYyJapL70lVJOTM+DSvlLbqcX0SIwMXH2nU8mGYYTa8cVEXRl5NtdGQ7zDLh8yJpIYXEteCSw5vfHO+pde5/vN8f3hew5v/UW9I2h7tnRbMuiQF/53Z4qzSCjy8r3Nemm5m546x74fvPhSCw96FPk+kpNtEJb2biVlFhfkOTGHxkT/9JtwbAaD6X40M5fiM+/k2lt2VsrlhiA6zQ==",
+      "telegram_message_id": "Edgar_20251022222336_002",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-22"
+    },
+    "e80a401261e792f8af475575aed75d746769c95be0e28ee7c46026db32368b07": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/e80a401261e792f8af475575aed75d746769c95be0e28ee7c46026db32368b07.json",
+      "request_transaction_id": "HrMJMmQvf9AAJoljBEPTDc6KTQF9f/RlnGA9jLE5Rz3IoROPwb/GX7DndsKmNIwC7iD5o7Aff77JF2h9ip1XT7sCFIXPKOk7A6Iy7w46ACZniLCu7tBeuD00mhto5InkFBEgDPe4SAIn0x0fLnwSABArLTH3jND1lEl53XkSBrEJlfjAQiFpez4cUGT6f5bN9KtjK/6Sg0UeK/SJGfELWB+tSO3anIkGhHa+SewPRimv/Fksi1/YR8BSc5Zu+LqyRtWrk+LoVuIQlbKjjiKAv5WCH1MoLdjeQqqKN+TMVilMFC3zLANNSCrvZpVJaQjsXLL1AQNUuYl/k6ST893VKQ==",
+      "telegram_message_id": "Edgar_20260909003829_267",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-09"
+    },
+    "ebd6d1ce26307c63eb80407a57f5df08332dd74e0aac11034975162d7c45a6da": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/ebd6d1ce26307c63eb80407a57f5df08332dd74e0aac11034975162d7c45a6da.json",
+      "request_transaction_id": "pJxWvjCUjtqHoX5jkS8tHNghTK6X63wiywZ/RtcgdkDUHeUpZZVS9KPSZoHTk0cPxhTYgbOeudsSYbrLGooeK2few7litIHWNB2LWqmKBoaHI93pNafARDIDncw1THbgxqC/YpeKf8ZW+IRMGw7ilwtri7U3DnJlj6dSKvOBuXP6YuZoClOMQYgL0JvWwjMG5onQALGt8lHP/eFK5ZbLqzE4jtq+ZufIkWkj7YcYcoYM2+jttbqOl0D7x+7uz5nEswqw0Bh7v/6H8qjwFB6maBSh+JbZtUT5f+jW9cPIkEduZjEU/Y+GpnwpNTZ+xwKkoUNp6IZr4el/q9uKOCow3g==",
+      "telegram_message_id": "6510",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-07-14"
+    },
+    "f1c62523e99a15f25defbad40153d3ef93924bad4d0eb3d8034b25d99fff6d99": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/f1c62523e99a15f25defbad40153d3ef93924bad4d0eb3d8034b25d99fff6d99.json",
+      "request_transaction_id": "iQiIKHlqA9tXn9mNgwtIAeDupnZYxaWkbZr8371zd1OL5Dz9xGySlWLpQsc5DYuC7mVBcOUceGv9Gxzdznac7FOh2rEv5BfKNWgETmi2T3EhiqBOpxt0AK88xV7WXKaEKlG51CMVI0E0DYFAJgJBb2l5ugYxXkeP/GHaCPPndpqVz27sRq/9W4qwSo09++bAQfA+1nHayjsVoFzjUT3Zj2oVUNNGTZeTwPKA35axF/HVHk106+8/PRusaF1tHIumXnYuQibKXNucg2IEKdTIABMPoLZYGuP+dPwXmJlVStFxZQYOCdYEs2UlCDLLZqbXYJVHkaXrLoGQSxIZks1NOw==",
+      "telegram_message_id": "Edgar_20260905230010_093",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05"
+    },
+    "f6d5b7b9a43fd10b2693e3fd330bf182c01528e3f36b07b837fd4ad71ac0cdf2": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/f6d5b7b9a43fd10b2693e3fd330bf182c01528e3f36b07b837fd4ad71ac0cdf2.json",
+      "request_transaction_id": "sWhBW79da/vdLBuRTGiTl1RkgEhVxv4ti5DujQctLE9C8AxkLHvbJ6yMFQX8o7zFdIWn6KCER79TLNk2MU4biGh28mBhxx4gp6wMjYVOTqhxw/n1mgJBqpfj3RDvWv9cSV4tJofwvRCa8Wz6iKlBDnDfi344p8TGDpfpgpwYcU96+iKh6D/xe/fOvGtcJksUuwY6hjJbMZpYXupV48EOvo6fXWA5HlUQUpD5HKvV+Hm5MsD127zB0j+DjYUvQdoRZAw+gj/OCxbbVkV6c8+wbOhMLxXqtbMsyEV9g2VfDZi7yVvtp3TiqJQMtNlNtW0c+NlbtV3Q8h3FUl9OdsfmmA==",
+      "telegram_message_id": "Edgar_20260905231404_095",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-09-05"
+    },
+    "f9cc72d37f6b71e3fbd9860306f2f2efa7a7d0a0391b49acad5723692fa00df9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/f9cc72d37f6b71e3fbd9860306f2f2efa7a7d0a0391b49acad5723692fa00df9.json",
+      "request_transaction_id": "cMLoj1pSrSovrqsNGvKlXr+1xvUACXUmQujZCWT38X/oJN6VtpOhidTrBEIkfe7+Hz5IwYFirTjgVXaaFgN7cezCp6wcpBknB0XshEIWj126J1Pyufvc7LAXkfi5rc9SJFHe0YgLLe0MhNd0gLCW9fc17sLSxfiq86sjepfRBoCJNy8sbj3e/2gjdG8XJ7UgcJco0/hLztr/qCi2VCuAczdhfh3Ojl7O3A3h7L0IrJoIO4WxPGvBFP1n2hF8PSKt960oFAbH5a7q7jlsdq0zbjgSBKNX93rxO8J4X2y+Fx0/PiO0WiGRaWhDy2NUWppRCZ5EJfgIt/UbH8/BgT3Cgg==",
+      "telegram_message_id": "Edgar_20251028183934_046",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2025-10-28"
     }
   }
 }
