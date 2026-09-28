@@ -1,9 +1,18 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[CURRENCY DEFINITION EVENT]",
   "count": 6,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20260913010858_537",
+    "Edgar_20260913011517_539",
+    "Edgar_20260913171136_001",
+    "Edgar_20260913181404_011",
+    "Edgar_20260913181535_015",
+    "Edgar_20260913181929_021"
+  ],
   "events": {
     "Edgar_20260913010858_537": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20260913010858_537.json",
