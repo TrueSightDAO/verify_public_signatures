@@ -1,9 +1,19 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[RETAIL FIELD REPORT EVENT]",
   "count": 7,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20260424193417_002",
+    "Edgar_20260428182356_008",
+    "Edgar_20260428220019_016",
+    "Edgar_20260428224049_006",
+    "Edgar_20260428230913_014",
+    "Edgar_20260511210159_024",
+    "Edgar_20260606194347_014"
+  ],
   "events": {
     "Edgar_20260424193417_002": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/Edgar_20260424193417_002.json",
