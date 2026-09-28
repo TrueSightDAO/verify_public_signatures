@@ -1,9 +1,16 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[CAPITAL INJECTION EVENT]",
   "count": 4,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20251003023237_024",
+    "Edgar_20251003023713_026",
+    "Edgar_20251003024329_028",
+    "Edgar_20260602225127_280"
+  ],
   "events": {
     "Edgar_20251003023237_024": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/Edgar_20251003023237_024.json",
