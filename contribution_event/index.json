@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T15:00:14Z",
+  "generated_at": "2026-09-28T18:00:12Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2404,
+  "count": 2406,
   "events": {
     "6718": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/6718.json",
@@ -14428,9 +14428,21 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-09-28",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20260928150119_059": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260928150119_059.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-28",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260928170937_061": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260928170937_061.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-28",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 2394,
+  "txid_count": 2396,
   "txids": {
     "001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf.json",
@@ -23434,6 +23446,13 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-05-28"
     },
+    "8ad0c528db10b611fac3f23530a87ed3719b79bc517451b201eaaccc04827c28": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/8ad0c528db10b611fac3f23530a87ed3719b79bc517451b201eaaccc04827c28.json",
+      "request_transaction_id": "TZQnNI+qAr/4H3glmqeHkL/F9duH6G7ayucxvEMBxBrP+6pThFi9yhnkLNlm1nRfD8yF3uZ14BJFb5J6V6bsV2qJmgNRMoEo8rc5onQEAjm2ep4juaehi0iIunlXRFL/++3YcRKcPTPD23PWz0VBUKj0f+LcWAjnOGPJcpUAbGNRirxuu1dWskMwi4b11wCBvq9TF2ZLXjSVCqgOmKEkEkqqIfCowp9Thr/JIml4/rZlxU2wFMPXqaZfuLkf0Ouci8F8RHwSA8Ad3Hs6fj3oBdl/OkpPgtUlRBjezz8zTqJ7RsSqnBW+Rrnea7YWA0wZCqdWqb84e090wrrNAAxQXw==",
+      "telegram_message_id": "Edgar_20260928150119_059",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-28"
+    },
     "8ad7a526a460e16dcfeb86f7a52bc8058be5d4ed4a79e855b9a67c01eec70163": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/8ad7a526a460e16dcfeb86f7a52bc8058be5d4ed4a79e855b9a67c01eec70163.json",
       "request_transaction_id": "zWsL4N7Nzai3kSKcEXnSmJXg+sAQBiEuh6uYTJG6htocB2PcermbvHHDS5eUSbB0rC1T7Z94kXjg5+QQpU4CWyjzcyasXZSn3bCXgszgx52X/44EZfwAQ0/iWY4maC1KQAkoWAMpdzoSCl3PPTT+v227zZQ1tep8CijPb+SmzpT+ESLyiZf6yrF+sE+4MsoKjNmwhgxorJSCroh/Bg2ibv9YdWQeI6dAlpAq4EMKICFOlcFKenZQhx5jAx1l0XBPijnltND/g/yGuiMKKzM2PjoR5AI9+HiJIVffkL5RHDNfGLQuF2x9bSBOBVaGd72886CmK+8e4uiz+r9VjlE4Fw==",
@@ -27990,6 +28009,13 @@
       "telegram_message_id": "Edgar_20260605203203_078",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-06-05"
+    },
+    "d034b37df4fab66513f0ba51bc20c99ce3f595d24a54d1c55674cf6cb97361c7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d034b37df4fab66513f0ba51bc20c99ce3f595d24a54d1c55674cf6cb97361c7.json",
+      "request_transaction_id": "PQNVTrT7wmVfDNbnDVuiUsOhbwJxuryCNSxPoerl/7+hJFTVCbWpWto4a5nqP+FptWXmmLFAUYjftZbN6qUHXnTdRP54Viy/fqnwBCZTR25CGuIgID1mVWGZ/a64zqwOn0F0C3fFFhM2iRkMuAvSjlCUokZ49xiqQUUXnGS0ScM153AVdXEZwSAtsEAowxcMSGjd3YVzoeQp8TYhL9/MOn4uF2s8q1pfFmuFbRgFd4ZTJy8OAo4dQnH+lXqSSLtYttieSMlPUB76yaoqX9ib3fFsoix75aBW5g4KRLkpRrE3QxGtDhoZInqR0+4CO4wYWKIkuQPAyEwSJ1gUgjtvvQ==",
+      "telegram_message_id": "Edgar_20260928170937_061",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-28"
     },
     "d05824549d63218ac8f27d295f58e234f46f436638bccaa90ff702d878a403e7": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d05824549d63218ac8f27d295f58e234f46f436638bccaa90ff702d878a403e7.json",
