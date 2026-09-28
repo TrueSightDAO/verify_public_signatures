@@ -1,9 +1,15 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[STORE ADD EVENT]",
   "count": 3,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20260428181127_002",
+    "Edgar_20260428181538_004",
+    "Edgar_20260428181544_006"
+  ],
   "events": {
     "Edgar_20260428181127_002": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/store_add_event/Edgar_20260428181127_002.json",
