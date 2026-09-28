@@ -1,9 +1,15 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[EMAIL VERIFICATION EVENT]",
   "count": 3,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20260415230217_004",
+    "Edgar_20260415230244_006",
+    "Edgar_20260415230624_002"
+  ],
   "events": {
     "Edgar_20260415230217_004": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/email_verification_event/Edgar_20260415230217_004.json",
