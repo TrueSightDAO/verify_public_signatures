@@ -1,9 +1,17 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:00:12Z",
+  "generated_at": "2026-09-28T20:52:58Z",
   "event_type": "[PARTNER CHECK-IN EVENT]",
   "count": 5,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20260512181027_002",
+    "Edgar_20260514203420_068",
+    "Edgar_20260519204605_238",
+    "Edgar_20260519204920_242",
+    "Edgar_20260520211724_272"
+  ],
   "events": {
     "Edgar_20260512181027_002": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/partner_check_in_event/Edgar_20260512181027_002.json",
