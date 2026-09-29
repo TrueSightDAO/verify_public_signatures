@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-29T05:00:13Z",
+  "generated_at": "2026-09-29T06:30:13Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4457,
+  "count": 4459,
   "events_ordered": [
     "e99ae951240cb4a0013ef4d4c193c9cacb34bf56adbfa0dff0c1e8ccb9b09520",
     "e6e0e9e95b81be10824866802584dbe21162bd50a0bed840d9075a83446b71f4",
@@ -13,6 +13,7 @@
     "d9a84f1bccd7f7f9e8e793b4cbf0cdb4a6a15bf887157c22629310e659cd5c95",
     "d803c132e555900c7210328864898e39f32e1142ec52bbc5ac9e01072f827330",
     "cf16c70f9783c07e3854a2499ec4e8c55ea8d4fa1c69e7273530fed8f17a3c32",
+    "be1b4c803bb58d1a73ad72bc87596123c3611c08a1434938360ed635e1ee84fa",
     "b01156b91a31fe8fe819272f048d2e5854177f20462a8c1d9cac34d84f45eb30",
     "abafd198e08379407dce1c214eb41044a547e5454f4193d90495adafc9c86521",
     "a576c7de9defa58dae64edfe65b54e020d4f787cf3375311f400685bd5fc1b50",
@@ -23,6 +24,7 @@
     "59d007f786dd07e1cbfe2e20b1210af7c76b8e4998ce13dd9ddedd971d817d70",
     "45f0b337f3cb2e453146d18600b78725779c3ebb886aa34206356842fd63a061",
     "19ff33d8073063d2854cb04373a148aa944367ca2dcb4466f0fb4b5a7cc7e002",
+    "00efa77f2daa43d2dc21cd2d95334d5b6f42b5eb3e3250d1a6aadb36c7076fa8",
     "007a9778ad66ead6d1f73d302dadccbcf82bfc2e5fac33e3ecc8b7062f633947",
     "f1f1e501cb5935716edb5e57f6cd058745798f04c878da6c7c39d4372ce3c7ce",
     "d034b37df4fab66513f0ba51bc20c99ce3f595d24a54d1c55674cf6cb97361c7",
@@ -4535,6 +4537,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/cf16c70f9783c07e3854a2499ec4e8c55ea8d4fa1c69e7273530fed8f17a3c32.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260929021144_111.json"
     },
+    "be1b4c803bb58d1a73ad72bc87596123c3611c08a1434938360ed635e1ee84fa": {
+      "txid_hash": "be1b4c803bb58d1a73ad72bc87596123c3611c08a1434938360ed635e1ee84fa",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-29",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20260929055759_145",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/be1b4c803bb58d1a73ad72bc87596123c3611c08a1434938360ed635e1ee84fa.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260929055759_145.json"
+    },
     "b01156b91a31fe8fe819272f048d2e5854177f20462a8c1d9cac34d84f45eb30": {
       "txid_hash": "b01156b91a31fe8fe819272f048d2e5854177f20462a8c1d9cac34d84f45eb30",
       "event_type": "[CONTRIBUTION EVENT]",
@@ -4634,6 +4646,16 @@
       "telegram_message_id": "Edgar_20260929033824_123",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/19ff33d8073063d2854cb04373a148aa944367ca2dcb4466f0fb4b5a7cc7e002.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260929033824_123.json"
+    },
+    "00efa77f2daa43d2dc21cd2d95334d5b6f42b5eb3e3250d1a6aadb36c7076fa8": {
+      "txid_hash": "00efa77f2daa43d2dc21cd2d95334d5b6f42b5eb3e3250d1a6aadb36c7076fa8",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-09-29",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20260929055747_141",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/00efa77f2daa43d2dc21cd2d95334d5b6f42b5eb3e3250d1a6aadb36c7076fa8.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20260929055747_141.json"
     },
     "007a9778ad66ead6d1f73d302dadccbcf82bfc2e5fac33e3ecc8b7062f633947": {
       "txid_hash": "007a9778ad66ead6d1f73d302dadccbcf82bfc2e5fac33e3ecc8b7062f633947",
