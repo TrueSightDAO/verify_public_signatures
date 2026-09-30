@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-30T12:30:12Z",
+  "generated_at": "2026-09-30T14:00:14Z",
   "event_type": "[INVENTORY MOVEMENT]",
-  "count": 663,
+  "count": 664,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6788",
@@ -668,7 +668,8 @@
     "Edgar_20260829112214_108",
     "Edgar_20260914123130_013",
     "Edgar_20260914204114_029",
-    "Edgar_20260914204401_031"
+    "Edgar_20260914204401_031",
+    "Edgar_20260930133833_295"
   ],
   "events": {
     "6788": {
@@ -4648,9 +4649,15 @@
       "event_type": "[INVENTORY MOVEMENT]",
       "submitted_at": "2026-09-14",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20260930133833_295": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/Edgar_20260930133833_295.json",
+      "event_type": "[INVENTORY MOVEMENT]",
+      "submitted_at": "2026-09-30",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 661,
+  "txid_count": 662,
   "txids": {
     "010ff6210790103b42bae7019ea936713a880dc8fc9fb5a36b9934489af0a8de": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/010ff6210790103b42bae7019ea936713a880dc8fc9fb5a36b9934489af0a8de.json",
@@ -6429,6 +6436,13 @@
       "telegram_message_id": "Edgar_20260618181909_024",
       "event_type": "[INVENTORY MOVEMENT]",
       "submitted_at": "2026-06-18"
+    },
+    "608651f113944760f7b1fdf9e5b22e01ab846e9d5e99583d08301e9caab860e5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/608651f113944760f7b1fdf9e5b22e01ab846e9d5e99583d08301e9caab860e5.json",
+      "request_transaction_id": "DGHE0Ar5foWufLw5SyKU6aASPKyTGPEDqZId6d2j49IYMuARRIqjeKTzQNpDlCAWpHeTI3juA5IhQMlegCai8uVgpoeZirA0Qv1Qug6mrvJUHB1gu4FoaJPL3Vgz9JyDfocf28HaFvbrA/1fBHsf/Ne9vUPmq71JVgG3eUEfArrkwNJ3ovPgUxrm5Vk0JkBLTudp7viXY1YJ8UcoMDEDgREM5Nt53UgJ8YbRvEXN0I6MeRQkkNrtOchXRDR+sUOF0r4Zqk/LzGfvhCcKYa4Sb6YLWKejXbAN9p7Y3kg0/+4vetcNwZsOHObCA5ODh/Ieqk4I2sdJGzmh1IBZhQLqTQ==",
+      "telegram_message_id": "Edgar_20260930133833_295",
+      "event_type": "[INVENTORY MOVEMENT]",
+      "submitted_at": "2026-09-30"
     },
     "60c7c8508aa2c9d0fe65f9dd81c40f96e7995ab2cf997bd33346f5213ee63271": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/60c7c8508aa2c9d0fe65f9dd81c40f96e7995ab2cf997bd33346f5213ee63271.json",
