@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-30T14:00:14Z",
+  "generated_at": "2026-09-30T17:00:14Z",
   "event_type": "[DAO Inventory Expense Event]",
-  "count": 243,
+  "count": 246,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6596",
@@ -248,7 +248,10 @@
     "Edgar_20260929204414_243",
     "Edgar_20260930001621_245",
     "Edgar_20260930131557_251",
-    "Edgar_20260930132837_291"
+    "Edgar_20260930132837_291",
+    "Edgar_20260930145053_299",
+    "Edgar_20260930160119_301",
+    "Edgar_20260930163908_303"
   ],
   "events": {
     "6596": {
@@ -1708,9 +1711,27 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-09-30",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20260930145053_299": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20260930145053_299.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260930160119_301": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20260930160119_301.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20260930163908_303": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20260930163908_303.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 243,
+  "txid_count": 246,
   "txids": {
     "02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6.json",
@@ -1858,6 +1879,13 @@
       "telegram_message_id": "Edgar_20260912163341_483",
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-09-12"
+    },
+    "1dd4937f097f6a2c75673614f291ea7a455c955fc929ac3a3b4f1c05b9baa86a": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/1dd4937f097f6a2c75673614f291ea7a455c955fc929ac3a3b4f1c05b9baa86a.json",
+      "request_transaction_id": "MoG/9EJcXMv4xShG+5hiVbNXdsEZ6e3eKypGErqAVUz1uYoP1/74W3CHk2kx8RvkA6oc9NTNzJwgttTjoaOiGY/9JsskMbvz7XHrTtM0YWxPu69ZejWVHb/tUHP7xmWVrMXfXSsCb4ASzYsJ7tQjxKot2vpMR++40t6eivTcBUa7WZobrjCKdi9yP+pJYoTBb6datDHQ97X3ZGwMh8keQ6reZolr3iwbI+/76tNR3hr4FN9p4AYcadPyQ1zwQpaI1bpNgU98qH5Sj5DNqSGCAqjChfZW3633Pno6H0Zl8QnpvcLlDv6A9VpWqu8AHnlFLcT+b1KZhwgRRrl0X/cTRA==",
+      "telegram_message_id": "Edgar_20260930163908_303",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30"
     },
     "1e798f200fffd5035b7cdd50d94ca2c5e8878a4ae825914ab46ba40a9ee5f049": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/1e798f200fffd5035b7cdd50d94ca2c5e8878a4ae825914ab46ba40a9ee5f049.json",
@@ -2398,6 +2426,13 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-09-13"
     },
+    "686f32f8a2833612097f85631d205e3908391be68d8278245052f6394cf44579": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/686f32f8a2833612097f85631d205e3908391be68d8278245052f6394cf44579.json",
+      "request_transaction_id": "YpZrbgBFWWa58Ia5HL04xA00KMDEanTcTUmwxuiuv4lxNV6pOpuTTOD4DJLu2cJjDJiSb5lRmsRpJ3eQZ7YG4nICU/Qsa8BFXqYq5M+U0+MZlUUBm/REYjmWykFX/Gf+E7m5c0L1u8vZzH+Rh0WEhNOWr20Jb/Z7ftm2Y6Xa+RaIjWR8iaMG31zBof4FIZPgrqnGtJqqDKvI3CUADtbhhwCown9fMGIoPAg7Iaj8aNzEocCmTtU4eatRa0CrKotfD+xciXsgqJDRBfwSwI8i8PH/nqfCz1ZP/NSFmdCH7+7QUwN5VLbNO83DtS35b+B5WK4gnPi11ld8WR+Vy1XFHw==",
+      "telegram_message_id": "Edgar_20260930145053_299",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30"
+    },
     "6aec30763ccb18c85fb9f137905ea4805d815599b26475acdd5ca5517a287d8b": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/6aec30763ccb18c85fb9f137905ea4805d815599b26475acdd5ca5517a287d8b.json",
       "request_transaction_id": "UJlcv9eTcnf5x7HR9aVnwJXXn6ar7r5UiAgnK/i3t+sRV27DJEPl9GPnazkV16iJi1BPLILny22WDIjrgtggfojP17/Y/ixTzm5msJ0Lssz13GjskxqIQ4+dGzIATpVV+A3idumsjh2KCcqLX1sxAnt2mHvVRezvMr63gJfPdqjIFWPCdxGcHMEXACfh9B+2FuaITqF7/XRDqhzrtidNASM4bFkmWu4fTh1j0ExD87IyXuZ1YKv/EgiqMIaiZ3fHdIaFe4ZFinFraTowThj8BCqLizHb6nVvgRV8knojV6/3EAQ6kZFx1E+CFYptxujhSK779fDbdstgNEq016fp+A==",
@@ -2474,6 +2509,13 @@
       "telegram_message_id": "Edgar_20251226203931_312",
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2025-12-26"
+    },
+    "718e71e710b6896440e2ff7b609f47d612cd75ffdbf83125474f37990af21ec7": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/718e71e710b6896440e2ff7b609f47d612cd75ffdbf83125474f37990af21ec7.json",
+      "request_transaction_id": "hgIrGl07ziT5akLCKUcecOKOKMGssIv8KuM855PRFCY0N5Qw9DPNwDTHiJcr3/iBYKPtE6JOMn01zRIu1gku99ukfEFRTcEi3J7f0pw+xMFohUZT+vgbWHqpTF5asIbEEv0t7QzPuFgLOjOa3zaQUAPbsKN7ZV9BYimNL5jjN6LZnzdoo2kw4foNas+QxfwLfHdHyBnFJHLgmarluApG5StGZZApwtMFwJ0+VK9yDPApG9ZBHhMUxQAKRCr82x/PKUFCblCr/joaAgruTNSWMEEmllH0Rru8Ci3zC0jSx209smW3RlEpxeEH98J+969r15x/2iFC/jPMFVPph8TjdA==",
+      "telegram_message_id": "Edgar_20260930160119_301",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-09-30"
     },
     "7238dd58044957c3e7512a7237d38890023dca0c404bdd99482d79905d191ef7": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/7238dd58044957c3e7512a7237d38890023dca0c404bdd99482d79905d191ef7.json",
