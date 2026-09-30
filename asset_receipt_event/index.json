@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-30T12:30:12Z",
+  "generated_at": "2026-09-30T14:00:14Z",
   "event_type": "[ASSET RECEIPT EVENT]",
-  "count": 24,
+  "count": 25,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260507015715_030",
@@ -29,7 +29,8 @@
     "Edgar_20260913180924_009",
     "Edgar_20260914203528_025",
     "Edgar_20260915143743_009",
-    "Edgar_20260921113513_067"
+    "Edgar_20260921113513_067",
+    "Edgar_20260930133829_293"
   ],
   "events": {
     "Edgar_20260507015715_030": {
@@ -175,9 +176,15 @@
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-09-21",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20260930133829_293": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20260930133829_293.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-30",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 23,
+  "txid_count": 24,
   "txids": {
     "0a430afcbc34ccb541904e43d757d63f0ab1ad5f36a87e39115431adc0f05b7a": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/0a430afcbc34ccb541904e43d757d63f0ab1ad5f36a87e39115431adc0f05b7a.json",
@@ -311,6 +318,13 @@
       "telegram_message_id": "Edgar_20260912162407_475",
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-09-12"
+    },
+    "be09c4465df92f6d8a571d22b5c53d041b18472018eea2fa1e3e28eec533c5c8": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/be09c4465df92f6d8a571d22b5c53d041b18472018eea2fa1e3e28eec533c5c8.json",
+      "request_transaction_id": "nGtSaNk2/1/2zq3eff1+ai+/YVibQhsQAqPxqgriVDDnwOakBlvUebaN0u6ARCoCbGMM9+QiFRm8NcFEJ9yqw9aUP2plS7dxTpU1bJhUODUysx4q24uCfuVb0l2C7cimvQmbXS+LL+DSlFVFb2WeKCGRviQ1GQYojMFxzpKaQfKoxQ3Io0loMPAn8uBQYFkgp3RBcjLuoS+cCuSanBdTdfy5xfBQny3kFA2ovXPCzkhsHuuec8mv/7V7fUASgeX/C7EPRr/SzwPO/v6ffohAwYD0Paqnpr+M5N5fgiqitEpRC+5GIhZZnnkQc/09gUb26E88ClMJcY6s4nqGSfEc+w==",
+      "telegram_message_id": "Edgar_20260930133829_293",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-09-30"
     },
     "be66c9557829cd17f4bfa490b719b564d45426dd2466e37abd2ec43dc22cb607": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/be66c9557829cd17f4bfa490b719b564d45426dd2466e37abd2ec43dc22cb607.json",
