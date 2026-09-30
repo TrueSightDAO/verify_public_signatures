@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-29T23:00:13Z",
-  "total_count": 4552,
+  "generated_at": "2026-09-30T00:30:13Z",
+  "total_count": 4553,
   "test_events_count": 138,
   "excluded_pii_count": 1740,
   "other_signed_count": 8,
-  "total_txid_count": 4471,
-  "txid_mirror_count": 4471,
+  "total_txid_count": 4472,
+  "txid_mirror_count": 4472,
   "txid_dup_groups": 45,
   "txid_extra_files_collapsed": 73,
   "txid_mirror_collisions": 0,
@@ -45,7 +45,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/index.json"
     },
     "dao_inventory_expense_event": {
-      "count": 240,
+      "count": 241,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/index.json"
     },
     "donation_mint_event": {
