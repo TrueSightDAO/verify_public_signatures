@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-10-03T22:30:13Z",
+  "event_type": "[CONTRIBUTOR ADD EVENT]",
+  "count": 1,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20261003220838_063"
+  ],
+  "events": {
+    "Edgar_20261003220838_063": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contributor_add_event/Edgar_20261003220838_063.json",
+      "event_type": "[CONTRIBUTOR ADD EVENT]",
+      "submitted_at": "2026-10-03",
+      "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 1,
+  "txids": {
+    "3335c5e9ea49380018d9d726ff0b0b40edd13e0d02f0efd01112e215799d1248": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contributor_add_event/3335c5e9ea49380018d9d726ff0b0b40edd13e0d02f0efd01112e215799d1248.json",
+      "request_transaction_id": "YrgS3bNqFOEWjfELG908ydq/JiQYIskd+WS+ojYoQQYFp1TJyk765EcN0edKxv6uXSMyBRb6s5lbVrUvEOYodgpv5rZsU+G/0PLBQRiEvBj0rD6p8bc4tuglrjPQ3BSmD8xsYT6/+kFiMnHWSQxAVR69oe5Jv+TcSfm1sQEq4+E50N1drFYXigBfDxXEv/UhqzDSdIavIlnTv4309ltHiWt6A399JgpWj34tUU1dy9hGhbLy4EU4wOVWqb8n5IafzhsWheYuC0E5QdJ7suAmQRJSvKehxYoJ5AKzeqoDNOOLmO0wV6+oV0Ha11srJX0CoKJvq2PQPtauwSIpGEP0Bg==",
+      "telegram_message_id": "Edgar_20261003220838_063",
+      "event_type": "[CONTRIBUTOR ADD EVENT]",
+      "submitted_at": "2026-10-03"
+    }
+  }
+}
