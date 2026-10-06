@@ -1,0 +1,15 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261006150312_083",
+  "telegram_update_id": "Edgar_20261006150312_084",
+  "submitted_at": "2026-10-06",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "o6Zv1WAqD9XJjU8Bc+26m8o046kH4YbXVXBCt0Coqndf2B8LG4vB5q6t3nTk2tpdX/rLgn9io34bTi9WmkeBjW1ILMcIqCkCB5yB2Ng4p/wPT1WOfJ3VGZFrKygOAANQJrA/xmjV1+xEa8TXdfAphXRkvF8y5x0CK+I6R0tfJeAUdyTJKYUcwm3PlxaE0NHdALDaGonqeKYHknPT+m8b60FJURkVnpy4sen5GQ2Ihzgmmk13vm+E/ioOvUBU6SpRu/ja8WeCkEw7jE4FDIrbs0OfWCNLEIc8yhvPNVimqTLQnW+kclAZEXs8lHyIve8A4kWh4S7S5TCFOLki+BJo1g==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Contributor(s): Gary Teh\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Coordinated tomorrow's trip for Elizabeth (Elizabeth Wong) for AGL16-related matters. Coordination with Santos (Ilheus) to visit Coopercabruca, then bring the China partner to Santos's factory to collect the cacao nibs and cacao tea.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Contributor(s): Gary Teh\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Coordinated tomorrow's trip for Elizabeth (Elizabeth Wong) for AGL16-related matters. Coordination with Santos (Ilheus) to visit Coopercabruca, then bring the China partner to Santos's factory to collect the cacao nibs and cacao tea.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: o6Zv1WAqD9XJjU8Bc+26m8o046kH4YbXVXBCt0Coqndf2B8LG4vB5q6t3nTk2tpdX/rLgn9io34bTi9WmkeBjW1ILMcIqCkCB5yB2Ng4p/wPT1WOfJ3VGZFrKygOAANQJrA/xmjV1+xEa8TXdfAphXRkvF8y5x0CK+I6R0tfJeAUdyTJKYUcwm3PlxaE0NHdALDaGonqeKYHknPT+m8b60FJURkVnpy4sen5GQ2Ihzgmmk13vm+E/ioOvUBU6SpRu/ja8WeCkEw7jE4FDIrbs0OfWCNLEIc8yhvPNVimqTLQnW+kclAZEXs8lHyIve8A4kWh4S7S5TCFOLki+BJo1g==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "o6Zv1WAqD9XJjU8Bc+26m8o046kH4YbXVXBCt0Coqndf2B8LG4vB5q6t3nTk2tpdX/rLgn9io34bTi9WmkeBjW1ILMcIqCkCB5yB2Ng4p/wPT1WOfJ3VGZFrKygOAANQJrA/xmjV1+xEa8TXdfAphXRkvF8y5x0CK+I6R0tfJeAUdyTJKYUcwm3PlxaE0NHdALDaGonqeKYHknPT+m8b60FJURkVnpy4sen5GQ2Ihzgmmk13vm+E/ioOvUBU6SpRu/ja8WeCkEw7jE4FDIrbs0OfWCNLEIc8yhvPNVimqTLQnW+kclAZEXs8lHyIve8A4kWh4S7S5TCFOLki+BJo1g=="
+}
