@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-07T14:30:12Z",
+  "generated_at": "2026-10-07T15:00:14Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2451,
+  "count": 2453,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6718",
@@ -2456,7 +2456,9 @@
     "Edgar_20261006150312_083",
     "Edgar_20261006154835_085",
     "Edgar_20261006171620_087",
-    "Edgar_20261007035317_097"
+    "Edgar_20261007035317_097",
+    "Edgar_20261007145003_111",
+    "Edgar_20261007145101_113"
   ],
   "events": {
     "6718": {
@@ -17164,9 +17166,21 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-10-07",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261007145003_111": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261007145003_111.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-07",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261007145101_113": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261007145101_113.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-07",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 2441,
+  "txid_count": 2443,
   "txids": {
     "001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf.json",
@@ -18924,6 +18938,13 @@
       "telegram_message_id": "Edgar_20260828162241_038",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-08-28"
+    },
+    "1b740c0584fee24a2632cf938d6fe79cd01f2907e04ca61641d4c8e160d1edd9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/1b740c0584fee24a2632cf938d6fe79cd01f2907e04ca61641d4c8e160d1edd9.json",
+      "request_transaction_id": "p2Fwf7OYqu77lNJwmzp9COzM/0yL3GDF9/jdzhqIL8iRt/nim63qeU97uqr31tHIQe5/6qqG/uYeEL3rndHSpIWc1LpooL5hY9l2bnA3jtTM/jXueed7nV2e/Zhh0MIkNnTU3oKztvUBPl2HES+UncHSWr4GVemHrPTPsmSkhvgmlTlK46TDgJXyJkJYb/YYd7VK6X9Rc0sZsmvX5jXSZYZ0a/CcDduvmS6su3TtqZbpwhIlL6wNV4cptKV4/TxbGyMA57OaxMqZvihLLl3iMehEoz+dhSqGvd03pWqz83tkdsFNWLmCpKuu82Namv2Td/IsIt21O0IN/EkFBpKB7w==",
+      "telegram_message_id": "Edgar_20261007145003_111",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-07"
     },
     "1bb5a9e4f23ebaeb1101961993bfd316d477e3785ef3eeab9ed2db778ed5c064": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/1bb5a9e4f23ebaeb1101961993bfd316d477e3785ef3eeab9ed2db778ed5c064.json",
@@ -33603,6 +33624,13 @@
       "telegram_message_id": "Edgar_20250812080122_124",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2025-08-12"
+    },
+    "f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5.json",
+      "request_transaction_id": "gqwzOlYmYzr0F9qsgayiFDHBF/H7Fr28+si1pSg0SdgXmFH6dc9f9NaCharGF0p+ny0b3GkP409Rgn021mTuiqwPgHW0tOB6LdoE4uEbvIvOZv37IQiQewIu2vsLyhkayrLKBgT6cMixfyAyRNvBP0nt41Vx20jjgX7/x2att10FcWjPHH0zFYFA94Ur0PM2JykWYVv5wtWfspUGQF/KE9tUPWYYuiIFHIUOFCQEF3DDaXiZV5le7RQu78+8N0N9GdpsiVltiqUVwWTmgeE5l0OyK5pq8Tz5ttzoTirwH9xxKRGB1sH0CeAWrHjtt8HkZ4kQOWqWwHxx5wSQ5m3c+g==",
+      "telegram_message_id": "Edgar_20261007145101_113",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-07"
     },
     "f6e8a7a299cba4087450f482dab15cdb665f6a7fcfac9084233b015d95545c95": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/f6e8a7a299cba4087450f482dab15cdb665f6a7fcfac9084233b015d95545c95.json",
