@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-07T16:00:13Z",
+  "generated_at": "2026-10-07T17:30:14Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4560,
+  "count": 4561,
   "events_ordered": [
     "f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5",
     "d13161fa93e6afb23feb9d0042ae1c54fc4d4d0d1e3326c8c33189ac6e1da5bb",
@@ -14,6 +14,7 @@
     "a58f1b2cc5ded03d3b2b7273735763f8ab4a24f9fb3fb17f528732056e91aa1c",
     "87301741482d3730da08781147480679d63460423d0ae411d0f8e88ec08bf97f",
     "61f58b40efbaede31b9cf138f101be9234da2ec82a1d0c507707e426f982e687",
+    "5a4f6bf0f4f3d39aac425420778af920f1031eb73da31021fa94d8b2f7c05af7",
     "53db58d0d28082d2785a951a87c58f0b9608a2af45aaf5c00d1f784513eeaef2",
     "2fea62b78bf1dc54a1e61173343ff19e18b8676fdfffa2422cc838168c532acb",
     "1c530b1fe39966e65e9acb346815f52d81bc38b642905283e1a540b78766fc7b",
@@ -4647,6 +4648,16 @@
       "telegram_message_id": "Edgar_20261007001338_093",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/61f58b40efbaede31b9cf138f101be9234da2ec82a1d0c507707e426f982e687.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261007001338_093.json"
+    },
+    "5a4f6bf0f4f3d39aac425420778af920f1031eb73da31021fa94d8b2f7c05af7": {
+      "txid_hash": "5a4f6bf0f4f3d39aac425420778af920f1031eb73da31021fa94d8b2f7c05af7",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-07",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261007161643_117",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/5a4f6bf0f4f3d39aac425420778af920f1031eb73da31021fa94d8b2f7c05af7.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261007161643_117.json"
     },
     "53db58d0d28082d2785a951a87c58f0b9608a2af45aaf5c00d1f784513eeaef2": {
       "txid_hash": "53db58d0d28082d2785a951a87c58f0b9608a2af45aaf5c00d1f784513eeaef2",
