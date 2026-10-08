@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "schema_version": 1,
+  "generated_at": "2026-10-08T18:00:15Z",
+  "event_type": "[MANAGED LEDGER TRANSACTION EVENT]",
+  "count": 1,
+  "ordered_by": "submitted_at",
+  "events_ordered": [
+    "Edgar_20261008174322_133"
+  ],
+  "events": {
+    "Edgar_20261008174322_133": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/managed_ledger_transaction_event/Edgar_20261008174322_133.json",
+      "event_type": "[MANAGED LEDGER TRANSACTION EVENT]",
+      "submitted_at": "2026-10-08",
+      "contributor_name": "Edgar"
+    }
+  },
+  "txid_count": 1,
+  "txids": {
+    "9e10450ae41add9fe5841d5424a41ca0b2923a0c0b1ee9dd769018bfe8abf514": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/managed_ledger_transaction_event/9e10450ae41add9fe5841d5424a41ca0b2923a0c0b1ee9dd769018bfe8abf514.json",
+      "request_transaction_id": "piIy7nNOBKe5Ht611lEfMaLfq33lcYNcOsK6aBcwP6aKVbY2Rl/1rEavP6kGi689CMYuUtOV5I0QAZyYHIZ0y0IED4Ap/sfx6oWl+jb/LIicyOSk9pbafZV1Xrw4JI+xWjuSTHdS8r6HCcmPyn5TfUnCeNfBcoSMzH8dcP0hVxz6mDWnA23RBv3TwFAMHVn/Vyrv9uf4rBCcilSeQy9hU2Bq8uu+ogH6PrGSWEyzqF/jxlPSnNKPgcxZZuNopSOus3+nmU+KgAbzJNS74VjoyggYlvJ8qtfgqM9oc2cS9RDavY5FJt8U+hkbjiSflOIFRdiDivkrdmQijulYUiARdA==",
+      "telegram_message_id": "Edgar_20261008174322_133",
+      "event_type": "[MANAGED LEDGER TRANSACTION EVENT]",
+      "submitted_at": "2026-10-08"
+    }
+  }
+}
