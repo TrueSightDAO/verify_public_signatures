@@ -1,13 +1,14 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-08T18:00:15Z",
+  "generated_at": "2026-10-08T19:30:14Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4568,
+  "count": 4569,
   "events_ordered": [
     "bd0c05cbc9412fd0c34c6507a8e98c20015e53b560c297491dcc4231621783a7",
     "9e10450ae41add9fe5841d5424a41ca0b2923a0c0b1ee9dd769018bfe8abf514",
+    "828fef8547e5645092f9edf94a1ccff8740922845bd00d09899e895bec8ddf93",
     "f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5",
     "d13161fa93e6afb23feb9d0042ae1c54fc4d4d0d1e3326c8c33189ac6e1da5bb",
     "cf097a0ca3f2933835a6cc704f1486e590928eb0f276d252269890b5e988cd07",
@@ -4595,6 +4596,16 @@
       "telegram_message_id": "Edgar_20261008174322_133",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/managed_ledger_transaction_event/9e10450ae41add9fe5841d5424a41ca0b2923a0c0b1ee9dd769018bfe8abf514.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/managed_ledger_transaction_event/Edgar_20261008174322_133.json"
+    },
+    "828fef8547e5645092f9edf94a1ccff8740922845bd00d09899e895bec8ddf93": {
+      "txid_hash": "828fef8547e5645092f9edf94a1ccff8740922845bd00d09899e895bec8ddf93",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-08",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261008191359_135",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/828fef8547e5645092f9edf94a1ccff8740922845bd00d09899e895bec8ddf93.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261008191359_135.json"
     },
     "f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5": {
       "txid_hash": "f6e6e8c57c22d336a697ebcd746095f1b8ad834e8a1d8374300a869dc09122f5",
