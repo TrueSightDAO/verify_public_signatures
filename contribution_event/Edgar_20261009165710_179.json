@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261009165710_179",
+  "telegram_update_id": "Edgar_20261009165710_180",
+  "submitted_at": "2026-10-09",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "NBRP9SC7VBHDSkYGKTLQzPfoY9WWX1GYry320W2joa+eEQ6eaZQfZrmCKTX54ykLFTyNyHyXhWCM/y7vCwNuvfctp7DI6ieBOifE/i1kr0AWW/BXqqmA8pukKOaviJx31WZhUPb9AuTOiJI0gJZniwjIdV6Q+S8xNQYTmf7RZQkyRKJfrd3ZszluxaIYBSRoNBCz27PbsBrelN+pUjeTBS2WAUv9jP66GuESSBwtgxtK7raHuu+Kw78SVuR1A5TMBTEKgCWENbHVvpgHV0FDKJHxDMnJqI0Ea900ag3U4bRqQpVCEPgSBO19AyTNInddn6R2pxL/3a7+DpBUDCZtTg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: QC of chocolate molds to verify correct capacity — filled molds fully with water and weighed to confirm they hold up to ~200 g (measured 207 g water = nominal 200 g bar). 1 hour.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: QC of chocolate molds to verify correct capacity — filled molds fully with water and weighed to confirm they hold up to ~200 g (measured 207 g water = nominal 200 g bar). 1 hour.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: NBRP9SC7VBHDSkYGKTLQzPfoY9WWX1GYry320W2joa+eEQ6eaZQfZrmCKTX54ykLFTyNyHyXhWCM/y7vCwNuvfctp7DI6ieBOifE/i1kr0AWW/BXqqmA8pukKOaviJx31WZhUPb9AuTOiJI0gJZniwjIdV6Q+S8xNQYTmf7RZQkyRKJfrd3ZszluxaIYBSRoNBCz27PbsBrelN+pUjeTBS2WAUv9jP66GuESSBwtgxtK7raHuu+Kw78SVuR1A5TMBTEKgCWENbHVvpgHV0FDKJHxDMnJqI0Ea900ag3U4bRqQpVCEPgSBO19AyTNInddn6R2pxL/3a7+DpBUDCZtTg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
