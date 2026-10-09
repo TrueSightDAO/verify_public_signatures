@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261009205806_185",
+  "telegram_update_id": "Edgar_20261009205806_186",
+  "submitted_at": "2026-10-09",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "ZgOkzuDNQ3hJsnh+qG9MVuRS2zokhobUB0WznDNqRSD19GS9P4BEoU2Ezc9o124pOS7iX+5rNuuowNm+vcGsNqG3hVAODCPVkdzJX7aMeqXlLchaSP3mLALG+jTVwciweKGEBJJMOKtKdBVWDMfa7AMgMwhFaueftLTgRiLSi5gBoyyzmyxxzAtsMF0kzXsMSIX1GJwCsqRmrPDr2y9mI4zrSynhzTKdUx0RKbQ+ZuZ7l/Df1Lxj4VBqEzqevxxtY7Qdz0y0oiVqwCgbB+NLNpWRzQ9UeZoZ1cQNV0QDe4j7GJCVVRp2qKnhJg36O0c4r163XDZzkF6Mkk45sz1ngA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Measured the shipping pallet footprint with a tape measure (HDPE pallets, Ilhéus warehouse) so the bare-pallet dimensions could be recorded — 110 cm span confirmed. Recorded in brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md §2c (PR #1564).\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Measured the shipping pallet footprint with a tape measure (HDPE pallets, Ilhéus warehouse) so the bare-pallet dimensions could be recorded — 110 cm span confirmed. Recorded in brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md §2c (PR #1564).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: ZgOkzuDNQ3hJsnh+qG9MVuRS2zokhobUB0WznDNqRSD19GS9P4BEoU2Ezc9o124pOS7iX+5rNuuowNm+vcGsNqG3hVAODCPVkdzJX7aMeqXlLchaSP3mLALG+jTVwciweKGEBJJMOKtKdBVWDMfa7AMgMwhFaueftLTgRiLSi5gBoyyzmyxxzAtsMF0kzXsMSIX1GJwCsqRmrPDr2y9mI4zrSynhzTKdUx0RKbQ+ZuZ7l/Df1Lxj4VBqEzqevxxtY7Qdz0y0oiVqwCgbB+NLNpWRzQ9UeZoZ1cQNV0QDe4j7GJCVVRp2qKnhJg36O0c4r163XDZzkF6Mkk45sz1ngA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
