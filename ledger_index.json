@@ -1,14 +1,15 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-09T20:30:13Z",
+  "generated_at": "2026-10-09T21:30:12Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4580,
+  "count": 4581,
   "events_ordered": [
     "f205894a1ba3a3758a9acbef1c9e5bf4eba09848e0058794d92c4134dd4d70c9",
     "e83bacb3b93a18880a6265bf18c9c3615c21eafc42dc27cd3d3fb1cc27dc5cd7",
     "e3483eaf672dd59201e01b214c5d58aaa3d7908a6117afba72d722abf35fd0d1",
+    "c25acd367e0b78aeb4d55ada76853db27fb1013ae3220bd93bbcca23a135ccc8",
     "bd416b68aca74641ae5d63acf56525d0e811bee5dccc28f7ef624a6a340e7def",
     "ba03f2dda4d850be347bbb84c51d37424b4d15e15dbd264f1690042c7669fba7",
     "acb7d60094f602c0131820c4ea55160caf2fa1a258bddf1df02218f7e5351ed5",
@@ -4617,6 +4618,16 @@
       "telegram_message_id": "Edgar_20261009140718_171",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/e3483eaf672dd59201e01b214c5d58aaa3d7908a6117afba72d722abf35fd0d1.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261009140718_171.json"
+    },
+    "c25acd367e0b78aeb4d55ada76853db27fb1013ae3220bd93bbcca23a135ccc8": {
+      "txid_hash": "c25acd367e0b78aeb4d55ada76853db27fb1013ae3220bd93bbcca23a135ccc8",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-09",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261009205806_185",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/c25acd367e0b78aeb4d55ada76853db27fb1013ae3220bd93bbcca23a135ccc8.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261009205806_185.json"
     },
     "bd416b68aca74641ae5d63acf56525d0e811bee5dccc28f7ef624a6a340e7def": {
       "txid_hash": "bd416b68aca74641ae5d63acf56525d0e811bee5dccc28f7ef624a6a340e7def",
