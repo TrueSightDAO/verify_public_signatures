@@ -1,0 +1,14 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261010141851_213",
+  "telegram_update_id": "Edgar_20261010141851_214",
+  "submitted_at": "2026-10-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "iGm8uqdboeHNTbcso8iUooOAHGksxPLv/K1mSUVhYtOVtXyPA4v0TbYJ2kpCicLIyHb4txvHYiZStcmF6PURmaxTcvsRX+aSHKVmicX5ogiNqgBPRB++s+2UqtQ2ECiu+gyVkM8gR2PY/5BsDuLYWhBfpiRVBcVZHDW/apN467sIjWT1o6Nxp6YIxKnEZwkCHXqeBgpExsj9vtBPQjpYJ0tE99Ehi9RutGehd/93vlTue+ebp5ebVcKzaftsGKQXGHJVyyrlulg5pgKJ198qnDAKFocPm5KtRXDWDWQdkcShv1p8JUsk+MMI+MzDj3FxZSfxnFH/bb4+xGlyBmZshQ==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Tea (Kilograms) Santos 20261007 - AGL14\n- Price in USD: 13.41775\n- Ledger: AGL14\n- Serializable: FALSE\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Tea (Kilograms) Santos 20261007 - AGL14\n- Price in USD: 13.41775\n- Ledger: AGL14\n- Serializable: FALSE\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: iGm8uqdboeHNTbcso8iUooOAHGksxPLv/K1mSUVhYtOVtXyPA4v0TbYJ2kpCicLIyHb4txvHYiZStcmF6PURmaxTcvsRX+aSHKVmicX5ogiNqgBPRB++s+2UqtQ2ECiu+gyVkM8gR2PY/5BsDuLYWhBfpiRVBcVZHDW/apN467sIjWT1o6Nxp6YIxKnEZwkCHXqeBgpExsj9vtBPQjpYJ0tE99Ehi9RutGehd/93vlTue+ebp5ebVcKzaftsGKQXGHJVyyrlulg5pgKJ198qnDAKFocPm5KtRXDWDWQdkcShv1p8JUsk+MMI+MzDj3FxZSfxnFH/bb4+xGlyBmZshQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
