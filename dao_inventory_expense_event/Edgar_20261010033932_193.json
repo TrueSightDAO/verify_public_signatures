@@ -1,0 +1,14 @@
+{
+  "event_type": "[DAO INVENTORY EXPENSE EVENT]",
+  "telegram_message_id": "Edgar_20261010033932_193",
+  "telegram_update_id": "Edgar_20261010033932_194",
+  "submitted_at": "2026-10-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "Wrqn4G0YKw6mcJFk4vpcr6XRdNs20IV9LTNnsqQwdNQyf93YhpDQZHlM1itVmk+1+ZSSYAoL9uvEvzffWI/oJ5G2ydYLcosvskPQcisWs4mGqOXbic3h9ZYOquDSHQt2s9ecvQaFRSdNe2uzBFYQN8ZRWifzclbr6BCGFQDCIfda5qVZhMromB6ZKq0y+FCZofLSrU52+8axiWc/jcib6HGHaMJPt/TMhR7ZIIfpYVdq994W+rxT2b/FoVpC75Xe/ebh7ka0EmT22dFJ4542j3MWNxbiUJDbS+VgZLXv8qTqa2/aXpGN7uPyHHcb03Wkt8xcrDiPVD7xEM3Xqo8hSQ==",
+  "signed_payload": "[DAO INVENTORY EXPENSE EVENT]\n- DAO Member Name: Gary Teh\n- Inventory Type: USD\n- Inventory Quantity: 54.76\n- Submission Source: sophia-autopilot-sentinel\n--------",
+  "signed_text": "[DAO INVENTORY EXPENSE EVENT]\n- DAO Member Name: Gary Teh\n- Inventory Type: USD\n- Inventory Quantity: 54.76\n- Submission Source: sophia-autopilot-sentinel\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Wrqn4G0YKw6mcJFk4vpcr6XRdNs20IV9LTNnsqQwdNQyf93YhpDQZHlM1itVmk+1+ZSSYAoL9uvEvzffWI/oJ5G2ydYLcosvskPQcisWs4mGqOXbic3h9ZYOquDSHQt2s9ecvQaFRSdNe2uzBFYQN8ZRWifzclbr6BCGFQDCIfda5qVZhMromB6ZKq0y+FCZofLSrU52+8axiWc/jcib6HGHaMJPt/TMhR7ZIIfpYVdq994W+rxT2b/FoVpC75Xe/ebh7ka0EmT22dFJ4542j3MWNxbiUJDbS+VgZLXv8qTqa2/aXpGN7uPyHHcb03Wkt8xcrDiPVD7xEM3Xqo8hSQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
