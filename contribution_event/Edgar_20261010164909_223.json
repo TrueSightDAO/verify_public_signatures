@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261010164909_223",
+  "telegram_update_id": "Edgar_20261010164909_224",
+  "submitted_at": "2026-10-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "gBT3iwb2byvE11VZp4890+7lquJl6ZdEM2bCqnnG+VByB0gul8BD/e+zIh23wRPEhE8zN7jtfgd2bwtQEt4XiMA4/j5eacmAMtCXbmTB+4BhV4WmDOhj+EDN8JUbpNCJW3CFoqjjikfy5LEWUHv6/V1pQmzAvpm5EM576Hf+bZehXqsCQOmrrTNw4d3TJV2EK3UOQMbpjxx4LuNNy26AUCohpyew6ZCXpi3dWIglA+Gt3YhpjmZ7pxTqA4IcDfKfyTMeBMENECSNQG7GuNPpgzxwshUoCCqMtnEG3/X160cjdtJkxKXs893vsNQGZOTMZ6nDuI7Vxa0+A5HqbCrIAg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 150.00\n- Contributor(s): Gary Teh\n- Description: Parking at LAX while traveling to attend to supply chain matters. Merchant: SpotHero (merchant type Parking lots and garages), Oct 10 2026, card ...3752. Evidence: 8b540239c7e4467aa252294cd65490bb.jpg\n- Type: USD\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 150.00\n- Contributor(s): Gary Teh\n- Description: Parking at LAX while traveling to attend to supply chain matters. Merchant: SpotHero (merchant type Parking lots and garages), Oct 10 2026, card ...3752. Evidence: 8b540239c7e4467aa252294cd65490bb.jpg\n- Type: USD\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: gBT3iwb2byvE11VZp4890+7lquJl6ZdEM2bCqnnG+VByB0gul8BD/e+zIh23wRPEhE8zN7jtfgd2bwtQEt4XiMA4/j5eacmAMtCXbmTB+4BhV4WmDOhj+EDN8JUbpNCJW3CFoqjjikfy5LEWUHv6/V1pQmzAvpm5EM576Hf+bZehXqsCQOmrrTNw4d3TJV2EK3UOQMbpjxx4LuNNy26AUCohpyew6ZCXpi3dWIglA+Gt3YhpjmZ7pxTqA4IcDfKfyTMeBMENECSNQG7GuNPpgzxwshUoCCqMtnEG3/X160cjdtJkxKXs893vsNQGZOTMZ6nDuI7Vxa0+A5HqbCrIAg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
