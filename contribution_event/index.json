@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-10T17:00:15Z",
+  "generated_at": "2026-10-10T19:00:15Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2475,
+  "count": 2477,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6718",
@@ -2480,7 +2480,9 @@
     "Edgar_20261010164408_217",
     "Edgar_20261010164646_219",
     "Edgar_20261010164757_221",
-    "Edgar_20261010164909_223"
+    "Edgar_20261010164909_223",
+    "Edgar_20261010180141_227",
+    "Edgar_20261010181133_229"
   ],
   "events": {
     "6718": {
@@ -17332,9 +17334,21 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-10-10",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261010180141_227": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261010180141_227.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261010181133_229": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261010181133_229.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-10",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 2465,
+  "txid_count": 2467,
   "txids": {
     "001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf.json",
@@ -26940,6 +26954,13 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-05-25"
     },
+    "9154b64cfd5ff557264dad8ec1e3fb94f12788548462c41b2b623e2c368225e3": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/9154b64cfd5ff557264dad8ec1e3fb94f12788548462c41b2b623e2c368225e3.json",
+      "request_transaction_id": "bDnpaVFi5e6IZZv3xDc+AwqGvKB8yNIKREyygflPBCaM379BulwB4FwuI3Ts3zV4jQTIzo5P/o++FT/VbfMzuQgCYmWr0497uW/zueBztwUUhtCJykgSMkgpS99zxFcGMAZ6FzXkTX8VbqZslW2YGE8zWxtG7QQyQJoXtkxYGvSjWWwOFhn3vwSIRxBncRtWqq3QiigS3HvDuDa1hIqk5HpFwz4d+kVi0UmITUOtVe6G5AXUafDdAsGOpkR7Q30TQKDMAa9lff8vFwskcJ/BDuoBsvpgK5kpCd/HV5LE9HzwtmW7btL6vtLa9xr1X4rPuaCMj7if77xDYmwNRVkclQ==",
+      "telegram_message_id": "Edgar_20261010180141_227",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-10"
+    },
     "9176bee24af6cc87f7c28e2f62438ee77cedc5f508d08cc907d3d028287967d2": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/9176bee24af6cc87f7c28e2f62438ee77cedc5f508d08cc907d3d028287967d2.json",
       "request_transaction_id": "LJgRkamLbvj6CYjF2C4ri4vHlcAGW1Q3BUkbO4GqmUb75qQCBLW7q0yCokGvQBn3M8fIV2VMqh1L0YQlICh065/eKE4DgcRu/pmzxxYbIqmkFCgB+3ZvjVCK99fCbN9d92slGuVEhZTudLn51PaJvlNytEFfnDmNExJjU6sBZlDP93LP+t+3XlNSwSe/BMq4ZUYyhUVReO0+C+2Q7K6hzosHZRkfoYMqOEsVyxgOv7WJuIGoxaU+VniA8FcI1ikI1frjCKFDU8T4dhw6EnzojtLEluikzFpsIsN5Yym7DG9V1aCr92N6+/2VI9GXe/Fn5dGVf9J+wtSGwUEh5XXvjQ==",
@@ -32196,6 +32217,13 @@
       "telegram_message_id": "Edgar_20251020064420_024",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2025-10-20"
+    },
+    "de25b9c590f8c5cb4d31dfacbe327efc243d21789d6baea577963c2bf9f98f60": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/de25b9c590f8c5cb4d31dfacbe327efc243d21789d6baea577963c2bf9f98f60.json",
+      "request_transaction_id": "EH67xZ8JP2o+DIIp2y9eIWknSKHp4bCQJ153y1be/rY3cXE+WjOFnMl6yZfKho48PdHMt8zuukQH0SmD+fNj+cGVg4BWu/nKvNU7J3Lb0xqtZsVgm2yslfrwnTddPKf8VUrz+j5JfflMkExH69i2rq0sDrEbgkHt7NTyTZHKAz3B/5LvNzl3sijfwQVSpCcSk/gqzT6wkL7Np7WjR2QKeaNcvPUE9qxS+jvwuDyk3FA6N7Yh4vckeeeMzb8mCm7y6gsU+614QbA/qRlrybyRh8q7vYbQMPLjSCsmYMIXWUX/3xUtYzfd8bQYl6bAhAO8Q3HwisypjxIpMg11EhX9aQ==",
+      "telegram_message_id": "Edgar_20261010181133_229",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-10"
     },
     "de2b7b88cba1e93a6b0a5f80f44d706a7ab883116cc1cfa4b777f23c1b538199": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/de2b7b88cba1e93a6b0a5f80f44d706a7ab883116cc1cfa4b777f23c1b538199.json",
