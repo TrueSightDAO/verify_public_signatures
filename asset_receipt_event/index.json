@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-10T13:00:15Z",
+  "generated_at": "2026-10-10T16:00:13Z",
   "event_type": "[ASSET RECEIPT EVENT]",
-  "count": 30,
+  "count": 32,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260507015715_030",
@@ -35,7 +35,9 @@
     "Edgar_20261010033935_195",
     "Edgar_20261010033937_197",
     "Edgar_20261010034457_201",
-    "Edgar_20261010034459_203"
+    "Edgar_20261010034459_203",
+    "Edgar_20261010140916_211",
+    "Edgar_20261010141855_215"
   ],
   "events": {
     "Edgar_20260507015715_030": {
@@ -217,9 +219,21 @@
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-10-10",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261010140916_211": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20261010140916_211.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-10-10",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261010141855_215": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/Edgar_20261010141855_215.json",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-10-10",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 29,
+  "txid_count": 31,
   "txids": {
     "0a430afcbc34ccb541904e43d757d63f0ab1ad5f36a87e39115431adc0f05b7a": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/0a430afcbc34ccb541904e43d757d63f0ab1ad5f36a87e39115431adc0f05b7a.json",
@@ -255,6 +269,13 @@
       "telegram_message_id": "Edgar_20260912173428_487",
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-09-12"
+    },
+    "4b5e68fd5dd9dee36af34b7ca5149d9301e2a6938c6e7ce167fba68f63ad57bb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/4b5e68fd5dd9dee36af34b7ca5149d9301e2a6938c6e7ce167fba68f63ad57bb.json",
+      "request_transaction_id": "ZylFZ8Rw74h+if+RcZW41067sCdaDLlKt0fu6vyDWsDCMqZIl3yIl0qtbnEM+1K8o0wLRW5D0XaQcMnEkozfIwORpTHDHM8fKGgJFMduDbpyF1NyjHQMCkUD2loVqrSTnlQFG1Cl8aOwox0kNS93/5R56kctVhQT8GPj0G7cqhVvmP7EJxgultzlxQrYxIYxmXhsNY8CLbaGOpAPJd5Etxwmarm/+WLKSL3gM2Wa+tZAR49giCw48JsuWGmIJuu0x+P2hCNo7EUG+6p6/A54FL/b9NJ1H5ExdJpN92914CVP3v8mfmO/6FZPfJb/oo77tcO4GI0tyrBKFZTc1hmVsw==",
+      "telegram_message_id": "Edgar_20261010141855_215",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-10-10"
     },
     "58cfb931a6bb86ff2c597008c84d09d37e997654690f03ce6ed418ee1e6bb679": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/58cfb931a6bb86ff2c597008c84d09d37e997654690f03ce6ed418ee1e6bb679.json",
@@ -402,6 +423,13 @@
       "telegram_message_id": "Edgar_20260829125358_002",
       "event_type": "[ASSET RECEIPT EVENT]",
       "submitted_at": "2026-08-29"
+    },
+    "db977196ca10b28c2acf5c99a9c07497266296d8774e1e5e5bd2d9a9ac5ba950": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/db977196ca10b28c2acf5c99a9c07497266296d8774e1e5e5bd2d9a9ac5ba950.json",
+      "request_transaction_id": "pjZldVCLdJ5lRVSVi/4lxNsmyjMOo/WNKBBIYS+rd1JmbvRh4IRpDL/aPUIFhiWin+CC20ts3RYQelk9DF5/8K/aaaeBioGjTQSpBOsvuQCBzncjJmaYSoJ6vzQAPocrDSxbkWgOQPyq59zv/hS8NNkCfrbg0YLyx6jVhMvjWSkgoab+J2ijTjkriuUsvjs/kTgJxO+Ygq3ftFhqcWc/4h3MxnKsGC+h+uEaGrznY3Cn4NuLwVFeqSwVJNOpJtg/LcXw/rTQF88V6Tm7zY6qvWiDoT/BORQWf8oo8RY0S2CWMfhT0AJpU1ljpeLSFWw+b67G1NJ62Ead1nCDxqTvEg==",
+      "telegram_message_id": "Edgar_20261010140916_211",
+      "event_type": "[ASSET RECEIPT EVENT]",
+      "submitted_at": "2026-10-10"
     },
     "e0ab23805489fb5d7fe26ae8dddd53df7cf3948359254fbe23f637ac8c96d277": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/e0ab23805489fb5d7fe26ae8dddd53df7cf3948359254fbe23f637ac8c96d277.json",
