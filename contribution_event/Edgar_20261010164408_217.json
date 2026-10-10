@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261010164408_217",
+  "telegram_update_id": "Edgar_20261010164408_218",
+  "submitted_at": "2026-10-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "uMt+Fnf2BU0zobodL7PZYeo0xoJaY+15gbV62l/KNmLicfjrk9463lyZPdTn0AXBU8xX7zjHcdN3ALT2DKCCkxM0j0COFIq0PmAl3x6zvmpHcRasW/bqbTtNDzUfQCdNvynNWPisjRsfRu2+O5c8OWsAoukcX1c1uAMDeYWUUKyzbIis4wHNJq/VCMZyjmWJROsz4gBedep4yvuCBf9V7E506nxis+XgMOtlg03IyoBxlxaUg4HW8SiEBpmWEkPrnMvlxBZGb7uiFNhhtUJVOQF7Dhcyg+37KNifl+FA/4rsTWVWxGCvzQ+TZLiN9OeeRqQQFFZvCgY8XNv+fGGRaA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 97\n- Contributor(s): Gary Teh\n- Description: Accommodation (7 nights, São Paulo) for getting the legal power of attorney done (e-CAC power of attorney on the CNPJ + SISCOMEX representante registration). Booking.com confirmation 6426637029 — Paradiso Hostel, US$93 + US$4 taxes and fees = US$97, Oct 10-16, Bed in 6-Bed Mixed Dormitory. Evidence: 1eced7ea250d4d2f88eceb1c35771740.jpg\n- Type: USD\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 97\n- Contributor(s): Gary Teh\n- Description: Accommodation (7 nights, São Paulo) for getting the legal power of attorney done (e-CAC power of attorney on the CNPJ + SISCOMEX representante registration). Booking.com confirmation 6426637029 — Paradiso Hostel, US$93 + US$4 taxes and fees = US$97, Oct 10-16, Bed in 6-Bed Mixed Dormitory. Evidence: 1eced7ea250d4d2f88eceb1c35771740.jpg\n- Type: USD\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: uMt+Fnf2BU0zobodL7PZYeo0xoJaY+15gbV62l/KNmLicfjrk9463lyZPdTn0AXBU8xX7zjHcdN3ALT2DKCCkxM0j0COFIq0PmAl3x6zvmpHcRasW/bqbTtNDzUfQCdNvynNWPisjRsfRu2+O5c8OWsAoukcX1c1uAMDeYWUUKyzbIis4wHNJq/VCMZyjmWJROsz4gBedep4yvuCBf9V7E506nxis+XgMOtlg03IyoBxlxaUg4HW8SiEBpmWEkPrnMvlxBZGb7uiFNhhtUJVOQF7Dhcyg+37KNifl+FA/4rsTWVWxGCvzQ+TZLiN9OeeRqQQFFZvCgY8XNv+fGGRaA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
