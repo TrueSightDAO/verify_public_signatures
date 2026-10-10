@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261010164646_219",
+  "telegram_update_id": "Edgar_20261010164646_220",
+  "submitted_at": "2026-10-10",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "F4muE4ZvsxE/HHN9qBjhLcXXhFlIF32drmUVNjF6g/f62XagmcTxRLej4UTXnn8jO9wnvJ4O/47eUJPEUMhl2legVm6bzrJRDDUupGr0qH6YC4RjX/iZS5XWoR6+J6F1SkJ7J1/lua9niWwPjdOKWsJcQXGPCC+E5/KBhMEHbJZfP4ZlRTISLDeyWMfKE4pLyi4TFo0MoUCSGHR7orWIh7x4LeW3iyH80t1cDv1UoKUuoY42fb3bl9ftV0cSkgLoDOcCafNM8UXYBxmmEJsxa8QPwv7F33XTabhxGj3/oaNILLjcDJKI9JD0xPyJXf1biv3tvYZboHXUNwLaKiyBaA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 12.06\n- Contributor(s): Gary Teh\n- Description: Breakfast with Matheus to discuss follow-up action items (Ilheus warehouse operator follow-ups — see Telegram thread 41588 'Matheus follow up items'). Merchant: Pao de Mel Delicatesse, Ilheus BA, Bakeries, Oct 10 2026, card ...3752. Evidence: 77cf28efd5214ecba34690908a1b1411.jpg\n- Type: USD\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 12.06\n- Contributor(s): Gary Teh\n- Description: Breakfast with Matheus to discuss follow-up action items (Ilheus warehouse operator follow-ups — see Telegram thread 41588 'Matheus follow up items'). Merchant: Pao de Mel Delicatesse, Ilheus BA, Bakeries, Oct 10 2026, card ...3752. Evidence: 77cf28efd5214ecba34690908a1b1411.jpg\n- Type: USD\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: F4muE4ZvsxE/HHN9qBjhLcXXhFlIF32drmUVNjF6g/f62XagmcTxRLej4UTXnn8jO9wnvJ4O/47eUJPEUMhl2legVm6bzrJRDDUupGr0qH6YC4RjX/iZS5XWoR6+J6F1SkJ7J1/lua9niWwPjdOKWsJcQXGPCC+E5/KBhMEHbJZfP4ZlRTISLDeyWMfKE4pLyi4TFo0MoUCSGHR7orWIh7x4LeW3iyH80t1cDv1UoKUuoY42fb3bl9ftV0cSkgLoDOcCafNM8UXYBxmmEJsxa8QPwv7F33XTabhxGj3/oaNILLjcDJKI9JD0xPyJXf1biv3tvYZboHXUNwLaKiyBaA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
