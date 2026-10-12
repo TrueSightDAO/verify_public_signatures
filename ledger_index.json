@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-12T20:30:13Z",
+  "generated_at": "2026-10-12T22:00:17Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4679,
+  "count": 4680,
   "events_ordered": [
     "fd4b1489eb6fb10b37b2f80a1aa5b45290cd3b9b467d6cc108379d34ab8de345",
     "f751466dde0a786f1f628f231aae9c99945009b007a9d7048fe9b61823274d18",
@@ -37,6 +37,7 @@
     "ad8a6203f891802aea7ff00f3b09336fdc52b9564182cfd846550d4811ea6c4f",
     "ab2924cffe7fbfc810069b7938bf66f61b8eedf8f47b2bc4ed864b0bc637d76c",
     "a7b72f7b22d9f5f1cfa6273a2a4aaea03d9263620ece45df47674f52eb7c3d37",
+    "a39a5be1127acbded9403f149302f2e40876b1997adc1edb8ad0449ed569cfc1",
     "9f9ba6020eeb1f62c52414e4ab58a42f43944dff6e026b66eb4fc4630ed1e7bd",
     "9e7979ca57a2f20c7e8523f533fdb52bf815f2b0429d14aa9424e931f80a1805",
     "9bae9faadb32491e5c5b334e1f3ef7aa1d4bec86422396c61f2e45b61bc4693e",
@@ -4996,6 +4997,16 @@
       "telegram_message_id": "Edgar_20261012113426_275",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/a7b72f7b22d9f5f1cfa6273a2a4aaea03d9263620ece45df47674f52eb7c3d37.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261012113426_275.json"
+    },
+    "a39a5be1127acbded9403f149302f2e40876b1997adc1edb8ad0449ed569cfc1": {
+      "txid_hash": "a39a5be1127acbded9403f149302f2e40876b1997adc1edb8ad0449ed569cfc1",
+      "event_type": "[PRACTICE EVENT]",
+      "submitted_at": "2026-10-12",
+      "contributor_name": "Edgar",
+      "event_type_folder": "practice_event",
+      "telegram_message_id": "Edgar_20261012211042_411",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/a39a5be1127acbded9403f149302f2e40876b1997adc1edb8ad0449ed569cfc1.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/Edgar_20261012211042_411.json"
     },
     "9f9ba6020eeb1f62c52414e4ab58a42f43944dff6e026b66eb4fc4630ed1e7bd": {
       "txid_hash": "9f9ba6020eeb1f62c52414e4ab58a42f43944dff6e026b66eb4fc4630ed1e7bd",
