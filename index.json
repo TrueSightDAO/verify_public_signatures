@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-12T12:00:14Z",
-  "total_count": 4764,
+  "generated_at": "2026-10-12T15:00:16Z",
+  "total_count": 4768,
   "test_events_count": 138,
-  "excluded_pii_count": 1762,
+  "excluded_pii_count": 1763,
   "other_signed_count": 8,
-  "total_txid_count": 4674,
-  "txid_mirror_count": 4674,
+  "total_txid_count": 4678,
+  "txid_mirror_count": 4678,
   "txid_dup_groups": 53,
   "txid_extra_files_collapsed": 82,
   "txid_mirror_collisions": 0,
@@ -105,7 +105,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/payout_event/index.json"
     },
     "practice_event": {
-      "count": 215,
+      "count": 216,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
@@ -153,7 +153,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/index.json"
     },
     "tree_planting": {
-      "count": 284,
+      "count": 287,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/index.json"
     },
     "tree_planting_link": {
