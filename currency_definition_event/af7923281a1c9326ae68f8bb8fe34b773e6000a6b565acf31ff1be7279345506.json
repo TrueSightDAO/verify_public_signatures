@@ -1,0 +1,15 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261012231107_417",
+  "telegram_update_id": "Edgar_20261012231107_418",
+  "submitted_at": "2026-10-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "E1UvN+OhWnWO56vfUtYBvsPzcctwniOORCcpdlBIy+/LawFaYKG5a5dfgMcuycosWWrtIgT4yoNxGdVMc0zklUZ9ef4NCD3QGHg/yglg5fvfseefempJDYK2JgIQrxGNHZdJgeselgfHGM7UdxKACF+lHPKKSWmE33pr+2fXweUwdKR1PMUsSCgpF1087Xlcu3+M4DBJcIL74Z5+kELBS5w57nGmJcNKY1KVdGRicVfgY0L4oopYF91+3TIdxqpSy+pXUtQJMRIGp22we92Xdzi5cjRGFslFdnarNqBgxXKkf/Aq3j/p3EcwrqPfSl1n0xbFOKZr91dKfhmopNnO9Q==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco\n- Price in USD: 41.69\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco\n- Price in USD: 41.69\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: E1UvN+OhWnWO56vfUtYBvsPzcctwniOORCcpdlBIy+/LawFaYKG5a5dfgMcuycosWWrtIgT4yoNxGdVMc0zklUZ9ef4NCD3QGHg/yglg5fvfseefempJDYK2JgIQrxGNHZdJgeselgfHGM7UdxKACF+lHPKKSWmE33pr+2fXweUwdKR1PMUsSCgpF1087Xlcu3+M4DBJcIL74Z5+kELBS5w57nGmJcNKY1KVdGRicVfgY0L4oopYF91+3TIdxqpSy+pXUtQJMRIGp22we92Xdzi5cjRGFslFdnarNqBgxXKkf/Aq3j/p3EcwrqPfSl1n0xbFOKZr91dKfhmopNnO9Q==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "E1UvN+OhWnWO56vfUtYBvsPzcctwniOORCcpdlBIy+/LawFaYKG5a5dfgMcuycosWWrtIgT4yoNxGdVMc0zklUZ9ef4NCD3QGHg/yglg5fvfseefempJDYK2JgIQrxGNHZdJgeselgfHGM7UdxKACF+lHPKKSWmE33pr+2fXweUwdKR1PMUsSCgpF1087Xlcu3+M4DBJcIL74Z5+kELBS5w57nGmJcNKY1KVdGRicVfgY0L4oopYF91+3TIdxqpSy+pXUtQJMRIGp22we92Xdzi5cjRGFslFdnarNqBgxXKkf/Aq3j/p3EcwrqPfSl1n0xbFOKZr91dKfhmopNnO9Q=="
+}
