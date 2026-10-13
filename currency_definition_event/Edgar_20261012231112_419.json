@@ -1,0 +1,14 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261012231112_419",
+  "telegram_update_id": "Edgar_20261012231112_420",
+  "submitted_at": "2026-10-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "LZmsFGZxuFXUGj2h+gUsj0En0MUUwq91Se49hmqSbBQzFliHdlP25a83dlYbI3IFdV7oy4NRunWncQcGFniM4xDYe11vHIUozV3jTQGDwttom6f+Xd62xS5rpE1HiSK8cadJDAAg/RWLjFuSTjH4TgK4EzAjWhnRaB/NKVQ/9SI0CYkrTMkKOPt2P5pbuTPHHGVsL+ykVE8VbdVLO4ReLiNWFxFY2hljsBKNPZJvqJ5pTUczPNOBxTSBM5ioXTH0r6t6AuFPAmU8Y79kv9YG0HTGATXBGCZ4+oa4IMmwZwGOlfOCRPoT6mN4UTYgB/4Ru2Xvug9zpuy91NVuxyLwsQ==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Almonds (KG) + 047-3175-3223 - San Francisco\n- Price in USD: 35.28\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Almonds (KG) + 047-3175-3223 - San Francisco\n- Price in USD: 35.28\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: LZmsFGZxuFXUGj2h+gUsj0En0MUUwq91Se49hmqSbBQzFliHdlP25a83dlYbI3IFdV7oy4NRunWncQcGFniM4xDYe11vHIUozV3jTQGDwttom6f+Xd62xS5rpE1HiSK8cadJDAAg/RWLjFuSTjH4TgK4EzAjWhnRaB/NKVQ/9SI0CYkrTMkKOPt2P5pbuTPHHGVsL+ykVE8VbdVLO4ReLiNWFxFY2hljsBKNPZJvqJ5pTUczPNOBxTSBM5ioXTH0r6t6AuFPAmU8Y79kv9YG0HTGATXBGCZ4+oa4IMmwZwGOlfOCRPoT6mN4UTYgB/4Ru2Xvug9zpuy91NVuxyLwsQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
