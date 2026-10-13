@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-13T20:00:16Z",
+  "generated_at": "2026-10-13T21:30:14Z",
   "event_type": "[NOTARIZATION EVENT]",
-  "count": 44,
+  "count": 45,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6505",
@@ -49,7 +49,8 @@
     "Edgar_20260908002524_041",
     "Edgar_20260909003829_267",
     "Edgar_20260910170542_351",
-    "Edgar_20260918121913_003"
+    "Edgar_20260918121913_003",
+    "Edgar_20261013204033_455"
   ],
   "events": {
     "6505": {
@@ -315,9 +316,15 @@
       "event_type": "[NOTARIZATION EVENT]",
       "submitted_at": "2026-09-18",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261013204033_455": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/Edgar_20261013204033_455.json",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-10-13",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 43,
+  "txid_count": 44,
   "txids": {
     "0582a19304c64420107221671dc475ba6ba926a196f19711cde4c4d7d6c0ab8c": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/0582a19304c64420107221671dc475ba6ba926a196f19711cde4c4d7d6c0ab8c.json",
@@ -528,6 +535,13 @@
       "telegram_message_id": "Edgar_20260119185508_058",
       "event_type": "[NOTARIZATION EVENT]",
       "submitted_at": "2026-01-19"
+    },
+    "affc5ce27e69dc915b946761889ff6a29f0d2397d5b15747e48866013aa9c959": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/affc5ce27e69dc915b946761889ff6a29f0d2397d5b15747e48866013aa9c959.json",
+      "request_transaction_id": "g1QL/lI7ji5M64rP1Om5GXqm56FO1tBBTC8fr3i/VZ9Y5E39+GDFP4NdnQxMJsO0praSLBNKxuDEsj6f5R7lSSQHEkvSvQyOeHidoRaaFdT6IGvzkpDNAIx2SfG2vqUdzBGsCnTT6LEtKzczMXHA2gRPe/kz8N+YbMZ9y1RzdlJrS4Fsf7F8CrY+Nc+Ad3oLqnjtHL2HLPvrwjOnj+WKOIOh07PdpBcmKtYeZQBaVad+vqsWXPnJta2E1kqk8ha8ds9Um0jEywbOwkoIv8aYwaJLi9W0sIA/Mh2c/BwPe17p3rbmEPpOIk44YxNZKYSRbDdL/I0siMzQ4oB5ELj9iA==",
+      "telegram_message_id": "Edgar_20261013204033_455",
+      "event_type": "[NOTARIZATION EVENT]",
+      "submitted_at": "2026-10-13"
     },
     "b7cfc2a260fea6a68c3e496e5e11e5e21c60570e03c0e7e2fa3d99c5156460fb": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/notarization_event/b7cfc2a260fea6a68c3e496e5e11e5e21c60570e03c0e7e2fa3d99c5156460fb.json",
