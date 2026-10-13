@@ -1,0 +1,14 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261012231138_429",
+  "telegram_update_id": "Edgar_20261012231138_430",
+  "submitted_at": "2026-10-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "JBRl6m7U5EitUlVcGLbQ9pFegJvuL/yChD2dB2RKCluQGueRfgmLKQhN/zx4mSRghfzfk+2ujw/UvMYj4zcwAIzy0QeN7rUDXnpen031zaVrGvbs5NRqKpz4a5tfTOocBQaBK+rBdSWdftte9dJ3TzTFQcTyLG/5+gCQJLLEdLhEinn0uROBPqWBQ0m5yKFdjzaab+P81Mvd+66qwyOlbIl+BvO/OMLkXWPwhj8oaphUJaFDIIj3BLuCK2O0zumCSLFBUrTqHcp7XG55Vkxqy4m29m8vqNDP0ow6uyTJ6FZ9FGeW99GJHX6bVf6/4w77mgvSAkIIkcVUGJOYXAeoeg==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Almonds KG from Paulo's farm - AGL8\n- Price in USD: 18.212\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Almonds KG from Paulo's farm - AGL8\n- Price in USD: 18.212\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: JBRl6m7U5EitUlVcGLbQ9pFegJvuL/yChD2dB2RKCluQGueRfgmLKQhN/zx4mSRghfzfk+2ujw/UvMYj4zcwAIzy0QeN7rUDXnpen031zaVrGvbs5NRqKpz4a5tfTOocBQaBK+rBdSWdftte9dJ3TzTFQcTyLG/5+gCQJLLEdLhEinn0uROBPqWBQ0m5yKFdjzaab+P81Mvd+66qwyOlbIl+BvO/OMLkXWPwhj8oaphUJaFDIIj3BLuCK2O0zumCSLFBUrTqHcp7XG55Vkxqy4m29m8vqNDP0ow6uyTJ6FZ9FGeW99GJHX6bVf6/4w77mgvSAkIIkcVUGJOYXAeoeg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
