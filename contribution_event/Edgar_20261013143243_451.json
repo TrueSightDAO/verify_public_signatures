@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261013143243_451",
+  "telegram_update_id": "Edgar_20261013143243_452",
+  "submitted_at": "2026-10-13",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "kSdP7OGWu/Q6qi9Gs2y2ELIipQjXBx3Z0DzZP0eD6+zvnOtA10PqHc9BIkkxhicndveEfIRhoJmVjarEJwGgFhpnOAlVUR9GV8LBJ1RakA4H+TOUXBM1MR9eAUp1HByhBo8dltlNoB9MxpULMfEIXX/MbJBQyXHFeWAoq6VnpogBbWaG8+Db9g0pnJ+Prn/hxejswGFXbgYynFzZsiBPZMTHvVNZ6COsrDESXDTprHcht7flloiuABYo6twxpgMKIP70YpBv2XIGROYS0UiBqq9bmfq18m9NYBu/yyG7rpOqoiQK8kbTziIuQTbwu1F0MtfspHd/9vok+rruL4Qcuw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: Signing and notarizing power of attorney (procuracao publica) in Sao Paulo to grant Paloma (FounderHaus) authority. Notarized at 8o Cartorio de Notas da Capital, Comarca de Sao Paulo (Livro 01, Folhas 252/253). Supports Brazil export entity structuring. Evidence: 2004db028cf347748497e554e2c8acdb.jpg\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: Signing and notarizing power of attorney (procuracao publica) in Sao Paulo to grant Paloma (FounderHaus) authority. Notarized at 8o Cartorio de Notas da Capital, Comarca de Sao Paulo (Livro 01, Folhas 252/253). Supports Brazil export entity structuring. Evidence: 2004db028cf347748497e554e2c8acdb.jpg\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: kSdP7OGWu/Q6qi9Gs2y2ELIipQjXBx3Z0DzZP0eD6+zvnOtA10PqHc9BIkkxhicndveEfIRhoJmVjarEJwGgFhpnOAlVUR9GV8LBJ1RakA4H+TOUXBM1MR9eAUp1HByhBo8dltlNoB9MxpULMfEIXX/MbJBQyXHFeWAoq6VnpogBbWaG8+Db9g0pnJ+Prn/hxejswGFXbgYynFzZsiBPZMTHvVNZ6COsrDESXDTprHcht7flloiuABYo6twxpgMKIP70YpBv2XIGROYS0UiBqq9bmfq18m9NYBu/yyG7rpOqoiQK8kbTziIuQTbwu1F0MtfspHd/9vok+rruL4Qcuw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
