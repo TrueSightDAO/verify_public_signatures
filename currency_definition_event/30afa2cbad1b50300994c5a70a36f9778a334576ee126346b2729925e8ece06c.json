@@ -1,0 +1,15 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261012231102_415",
+  "telegram_update_id": "Edgar_20261012231102_416",
+  "submitted_at": "2026-10-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "B/1WMO3cgJM4UKCSm6RNqCes5oUEHowi3dYfjesuGsv/0AgSPE38kGz9bGSB4PZ1i5csuvDQkrm826zmo75BYRklcG3oFpsdUddizZ2A4IXMuZ4tT+VM+ArrRiu8OyZpkEndX056Bm5bXPCJmHYDdtoWGJbo3GhAiq+8FGYsH3B+p9DA5VaZ4ZMSEn+1XQQW6Wzi7IpcQM73pW7+ayCjnpIHRSe8L/k55LuxqfAJ3SMrBm0m9JpU3WjO6FiQxnQYXjXISGymj4Lja8aAFef2VWSu9ca1hxu+UAcPjJHKd6+lmn1/1oj9s0cnBShfzud4WsIaQT4e+dN8k/Am8+X7hw==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco\n- Price in USD: 24.23\n- Serializable: FALSE\n- Unit Weight (grams): 500\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco\n- Price in USD: 24.23\n- Serializable: FALSE\n- Unit Weight (grams): 500\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: B/1WMO3cgJM4UKCSm6RNqCes5oUEHowi3dYfjesuGsv/0AgSPE38kGz9bGSB4PZ1i5csuvDQkrm826zmo75BYRklcG3oFpsdUddizZ2A4IXMuZ4tT+VM+ArrRiu8OyZpkEndX056Bm5bXPCJmHYDdtoWGJbo3GhAiq+8FGYsH3B+p9DA5VaZ4ZMSEn+1XQQW6Wzi7IpcQM73pW7+ayCjnpIHRSe8L/k55LuxqfAJ3SMrBm0m9JpU3WjO6FiQxnQYXjXISGymj4Lja8aAFef2VWSu9ca1hxu+UAcPjJHKd6+lmn1/1oj9s0cnBShfzud4WsIaQT4e+dN8k/Am8+X7hw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "B/1WMO3cgJM4UKCSm6RNqCes5oUEHowi3dYfjesuGsv/0AgSPE38kGz9bGSB4PZ1i5csuvDQkrm826zmo75BYRklcG3oFpsdUddizZ2A4IXMuZ4tT+VM+ArrRiu8OyZpkEndX056Bm5bXPCJmHYDdtoWGJbo3GhAiq+8FGYsH3B+p9DA5VaZ4ZMSEn+1XQQW6Wzi7IpcQM73pW7+ayCjnpIHRSe8L/k55LuxqfAJ3SMrBm0m9JpU3WjO6FiQxnQYXjXISGymj4Lja8aAFef2VWSu9ca1hxu+UAcPjJHKd6+lmn1/1oj9s0cnBShfzud4WsIaQT4e+dN8k/Am8+X7hw=="
+}
