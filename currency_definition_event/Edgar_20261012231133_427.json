@@ -1,0 +1,14 @@
+{
+  "event_type": "[CURRENCY DEFINITION EVENT]",
+  "telegram_message_id": "Edgar_20261012231133_427",
+  "telegram_update_id": "Edgar_20261012231133_428",
+  "submitted_at": "2026-10-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "CfFwuL7i41uVnE6EzlqfM+puwl9IFnSmIUzmGKdTYG9bJC/WTGG5AGCVkiNR9a9kT6Uy8V4ibshkhgK3I5i5ncKPGGGpMddVvjF7/b6IbbxsUrHRUTfpSuN1RfxXOCisJhwwQRzjD3EsZgzfxVF7D89aUyxc4Tl0iGNQZSqUYjr/ZL+SZLEbGeVMm2bl6ICTJzp6GEzH9nPC+6+cQbWoSMioTulmSBQivI5SY3hkVmhXShUWft8G3clN8ZUbLERxSRgmZ68A+/1nj22ExcRqMc1LjIAiGrTX9G870kwqGv2ckWKMyJpYV7sGAIUNz6NssO1YgZ2R8pIabkcdZAlEEQ==",
+  "signed_payload": "[CURRENCY DEFINITION EVENT]\n- Currency: Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco\n- Price in USD: 34.40\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------",
+  "signed_text": "[CURRENCY DEFINITION EVENT]\n- Currency: Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco\n- Price in USD: 34.40\n- Serializable: FALSE\n- Unit Weight (grams): 1000\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: CfFwuL7i41uVnE6EzlqfM+puwl9IFnSmIUzmGKdTYG9bJC/WTGG5AGCVkiNR9a9kT6Uy8V4ibshkhgK3I5i5ncKPGGGpMddVvjF7/b6IbbxsUrHRUTfpSuN1RfxXOCisJhwwQRzjD3EsZgzfxVF7D89aUyxc4Tl0iGNQZSqUYjr/ZL+SZLEbGeVMm2bl6ICTJzp6GEzH9nPC+6+cQbWoSMioTulmSBQivI5SY3hkVmhXShUWft8G3clN8ZUbLERxSRgmZ68A+/1nj22ExcRqMc1LjIAiGrTX9G870kwqGv2ckWKMyJpYV7sGAIUNz6NssO1YgZ2R8pIabkcdZAlEEQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
