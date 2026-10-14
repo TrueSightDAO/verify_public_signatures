@@ -1,10 +1,10 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-14T16:00:16Z",
+  "generated_at": "2026-10-14T17:30:13Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4711,
+  "count": 4712,
   "events_ordered": [
     "b10916de55b899ee4bb595a3006cfd5853b7993b6b9a2705806d2112e851b82d",
     "75276aecaeecaf97f1fbeb651ce5f2ed31ca895819d4b29e3e249e2028a93e81",
@@ -12,6 +12,7 @@
     "639c4957bb03234b935aa42217704e05446c46383495efa78be31070f1d08c61",
     "529bdbb4765af57320adc18496b5592f948c4e91e9cf6e860c72d0ee4988cbf3",
     "50930e10c632c67bcf41df661f14807a5992e2117666132ce61d54a9d754b352",
+    "27aadc9bece49a7056640fda2c16ee8a653712b09987476b9dd52215d2e1c5a8",
     "fa905d8c1ad4ea56a89887125db7236a7241040963c8fa5ed4f3735e53a4c848",
     "f2977433cf96180dcaa9dbaeebb24f42b4d197933588fe5e805f8e0ab80d118b",
     "ea4be1581eca77316dbc6be52788575b9c4314624dec5dc4cbcb8b19d80db8de",
@@ -4778,6 +4779,16 @@
       "telegram_message_id": "Edgar_20261014001657_475",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/50930e10c632c67bcf41df661f14807a5992e2117666132ce61d54a9d754b352.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/Edgar_20261014001657_475.json"
+    },
+    "27aadc9bece49a7056640fda2c16ee8a653712b09987476b9dd52215d2e1c5a8": {
+      "txid_hash": "27aadc9bece49a7056640fda2c16ee8a653712b09987476b9dd52215d2e1c5a8",
+      "event_type": "[RETAIL FIELD REPORT EVENT]",
+      "submitted_at": "2026-10-14",
+      "contributor_name": "Edgar",
+      "event_type_folder": "retail_field_report_event",
+      "telegram_message_id": "Edgar_20261014164300_005",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/27aadc9bece49a7056640fda2c16ee8a653712b09987476b9dd52215d2e1c5a8.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/Edgar_20261014164300_005.json"
     },
     "fa905d8c1ad4ea56a89887125db7236a7241040963c8fa5ed4f3735e53a4c848": {
       "txid_hash": "fa905d8c1ad4ea56a89887125db7236a7241040963c8fa5ed4f3735e53a4c848",
