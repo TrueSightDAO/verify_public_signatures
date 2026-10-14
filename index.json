@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-14T16:00:16Z",
-  "total_count": 4801,
+  "generated_at": "2026-10-14T17:30:13Z",
+  "total_count": 4802,
   "test_events_count": 138,
-  "excluded_pii_count": 1775,
+  "excluded_pii_count": 1787,
   "other_signed_count": 8,
-  "total_txid_count": 4711,
-  "txid_mirror_count": 4711,
+  "total_txid_count": 4712,
+  "txid_mirror_count": 4712,
   "txid_dup_groups": 53,
   "txid_extra_files_collapsed": 82,
   "txid_mirror_collisions": 0,
@@ -133,7 +133,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/index.json"
     },
     "retail_field_report_event": {
-      "count": 7,
+      "count": 8,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/index.json"
     },
     "sales_event": {
