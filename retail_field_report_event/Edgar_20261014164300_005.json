@@ -1,0 +1,14 @@
+{
+  "event_type": "[RETAIL FIELD REPORT EVENT]",
+  "telegram_message_id": "Edgar_20261014164300_005",
+  "telegram_update_id": "Edgar_20261014164300_006",
+  "submitted_at": "2026-10-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1/5uwg8fyYXH6UhwwCvup2Rixv6n1Bch2dXlqzRUwUkSQisTl21vUWtWqPkElaW7HGLohQHVArpmmbl6uXD92EnM0XJ9QFH+uQV2twFAZdf7dkx57jN7d8Eb/p4J4zKFTdeXB15FKgbc/gY4Qi+2vf8HZKUb4xDHGIwMaG1UEWBuWcxn+Cvf4laSW1hWiped9GzE2MHmczmqVbgCpaq9NOGYeRSkeLIW5n+8nP3Xo9fMVE56y+gQZcFTrIETkfwfyCIEgdlWJJ+vz7XDrlyYPOqnuH0cUMWnOL420SnW/F0otqB1z5VqwJmQCqE2/tAe6d6nsi+v3N8EJfJZUx+E9QIDAQAB",
+  "signature": "q4/2VdCEgyPviOVYwl0FCHSMspOmX/dkX+9zjCufEOh/AzVvLGUJM6YW50heqj94ie0lxPNz5zqK6vnSzp7c9ZNk5Z+T62R/M1JZh6xYGZJNNJHpAPuxgj8MlAGySqFd2MrtfWE3UIYHHvx4sA60FnlQ9FBBFPHevoyHL6KIncQOJAfML36XgbyRNiO3vQWvLYaXdQJho86Lea3EPycdIg8/hbNQRhz0hVFAcj61fHArecd0SAJPCXpKui1Xj4S+V8U6g3ANF67P9i58LqYwn7SD7xN8vATQ76dVoXtf4nqVs8GhkbwAG5HxhwDatbz00d06w93c8itSztx+EmnTaQ==",
+  "signed_payload": "[RETAIL FIELD REPORT EVENT]\nShop Name: Earth Kandee\nStore Key: earth-kandee__2280-east-main-street__ventura__ca\nUpdate ID: SFR_20261014164241\nNew Status: AI: Warm up prospect\nPrevious Status: AI: Enrich — manual\nShop Type: Natural Goods\nPhone: (231) 580-1502\nWebsite: https://earthkandee.com/\n--------",
+  "signed_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Earth Kandee\r\nStore Key: earth-kandee__2280-east-main-street__ventura__ca\r\nUpdate ID: SFR_20261014164241\r\nNew Status: AI: Warm up prospect\r\nPrevious Status: AI: Enrich — manual\r\nShop Type: Natural Goods\r\nPhone: (231) 580-1502\r\nWebsite: https://earthkandee.com/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1/5uwg8fyYXH6UhwwCvup2Rixv6n1Bch2dXlqzRUwUkSQisTl21vUWtWqPkElaW7HGLohQHVArpmmbl6uXD92EnM0XJ9QFH+uQV2twFAZdf7dkx57jN7d8Eb/p4J4zKFTdeXB15FKgbc/gY4Qi+2vf8HZKUb4xDHGIwMaG1UEWBuWcxn+Cvf4laSW1hWiped9GzE2MHmczmqVbgCpaq9NOGYeRSkeLIW5n+8nP3Xo9fMVE56y+gQZcFTrIETkfwfyCIEgdlWJJ+vz7XDrlyYPOqnuH0cUMWnOL420SnW/F0otqB1z5VqwJmQCqE2/tAe6d6nsi+v3N8EJfJZUx+E9QIDAQAB\r\n\r\nRequest Transaction ID: q4/2VdCEgyPviOVYwl0FCHSMspOmX/dkX+9zjCufEOh/AzVvLGUJM6YW50heqj94ie0lxPNz5zqK6vnSzp7c9ZNk5Z+T62R/M1JZh6xYGZJNNJHpAPuxgj8MlAGySqFd2MrtfWE3UIYHHvx4sA60FnlQ9FBBFPHevoyHL6KIncQOJAfML36XgbyRNiO3vQWvLYaXdQJho86Lea3EPycdIg8/hbNQRhz0hVFAcj61fHArecd0SAJPCXpKui1Xj4S+V8U6g3ANF67P9i58LqYwn7SD7xN8vATQ76dVoXtf4nqVs8GhkbwAG5HxhwDatbz00d06w93c8itSztx+EmnTaQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=earth-kandee__2280-east-main-street__ventura__ca&shop=Earth+Kandee\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
