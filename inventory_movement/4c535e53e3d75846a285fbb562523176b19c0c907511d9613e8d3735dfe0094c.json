@@ -1,0 +1,15 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20261014210530_067",
+  "telegram_update_id": "Edgar_20261014210530_068",
+  "submitted_at": "2026-10-14",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "Ngbckx9kWje6OaG6FZbPLChoqQ5RixF5Inuyr5bpO1KbpfcjyZNsN0X/zxelfscrcNVryHRrHh48+nu5CUnP3sHLe3cd8XmSsAgmSFQP5rPeEODblzjq3Dlpew0+HwDPMcrGVwVmFxvyqBlo8i8ZbsfXJMoBz7KZiRfsxGQsP9ahnaz6wHuMWsxbAmxCxyihexUHyG8PeVSU+9XAv6tZm6mqZpi4BUOrjdeAlp+cHsHvIQdBuyGbbn8qW5Zk5okeazdBvsWB0azBDasZHUjwIkDWDgHT41n8Cq18LmCZNTJHg+me/xkVram081ZS51iN5YXUnd1ogRv4ic0Po6mARQ==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Cacao Tea (Kilograms) Santos 20260213 - AGL13\n- Quantity: 21\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Cacao Tea (Kilograms) Santos 20260213 - AGL13\n- Quantity: 21\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Ngbckx9kWje6OaG6FZbPLChoqQ5RixF5Inuyr5bpO1KbpfcjyZNsN0X/zxelfscrcNVryHRrHh48+nu5CUnP3sHLe3cd8XmSsAgmSFQP5rPeEODblzjq3Dlpew0+HwDPMcrGVwVmFxvyqBlo8i8ZbsfXJMoBz7KZiRfsxGQsP9ahnaz6wHuMWsxbAmxCxyihexUHyG8PeVSU+9XAv6tZm6mqZpi4BUOrjdeAlp+cHsHvIQdBuyGbbn8qW5Zk5okeazdBvsWB0azBDasZHUjwIkDWDgHT41n8Cq18LmCZNTJHg+me/xkVram081ZS51iN5YXUnd1ogRv4ic0Po6mARQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "Ngbckx9kWje6OaG6FZbPLChoqQ5RixF5Inuyr5bpO1KbpfcjyZNsN0X/zxelfscrcNVryHRrHh48+nu5CUnP3sHLe3cd8XmSsAgmSFQP5rPeEODblzjq3Dlpew0+HwDPMcrGVwVmFxvyqBlo8i8ZbsfXJMoBz7KZiRfsxGQsP9ahnaz6wHuMWsxbAmxCxyihexUHyG8PeVSU+9XAv6tZm6mqZpi4BUOrjdeAlp+cHsHvIQdBuyGbbn8qW5Zk5okeazdBvsWB0azBDasZHUjwIkDWDgHT41n8Cq18LmCZNTJHg+me/xkVram081ZS51iN5YXUnd1ogRv4ic0Po6mARQ=="
+}
