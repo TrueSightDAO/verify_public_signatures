@@ -1,14 +1,14 @@
 {
   "event_type": "[TREE PLANTING EVENT]",
   "telegram_message_id": "Edgar_20261015022010_107",
-  "telegram_update_id": "Edgar_20261015022010_107",
-  "submitted_at": "2026-10-15T02:20:11Z",
-  "contributor_name": "",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\n-----END PUBLIC KEY-----",
+  "telegram_update_id": "Edgar_20261015022010_108",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB",
   "signature": "kXw1ZIRnsgcQldxM7KOdtYF5CcmckzTg+CMi1sA83gH1bj+ry9YVNiC45cXIS4WurGRgjlintcA2muwDRWR3ZSZdczaKFaZ0Q+ljr7wh948CiVUwL7D4u9+fZ+qQFWPEhbgVzd9aAyilt3cb+JVCuDt2zRPTTqHsCI7lhiD359CVfSNMBtMGHqZZmU+JZTg5KgAJHthyu55pu1gnLudGLj5XgYgpC88Mbxw0hB3g15PJRiKEex6Nv5Mbyy/LszZCrIxh0QGeM6n7IJ2/qC2HMqq5D5JpFk8cCT20OMfoQkOvy9tlVzvAmxzjmvbFmvM+pMNmTgP+nLfUnfGGzwFeqg==",
   "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: \n- Longitude: \n- Species: Cacao - Forestero\n- Planting Time: 2026-10-15T02:20:09.439Z\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261014232009_MIIBIjANBgkqhkiG9w0B.jpg\n- Submission Source: https://cfr.truesight.me/\n--------",
   "signed_text": "[TREE PLANTING EVENT]\r\n- Latitude: \r\n- Longitude: \r\n- Species: Cacao - Forestero\r\n- Planting Time: 2026-10-15T02:20:09.439Z\r\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261014232009_MIIBIjANBgkqhkiG9w0B.jpg\r\n- Submission Source: https://cfr.truesight.me/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\r\n\r\nRequest Transaction ID: kXw1ZIRnsgcQldxM7KOdtYF5CcmckzTg+CMi1sA83gH1bj+ry9YVNiC45cXIS4WurGRgjlintcA2muwDRWR3ZSZdczaKFaZ0Q+ljr7wh948CiVUwL7D4u9+fZ+qQFWPEhbgVzd9aAyilt3cb+JVCuDt2zRPTTqHsCI7lhiD359CVfSNMBtMGHqZZmU+JZTg5KgAJHthyu55pu1gnLudGLj5XgYgpC88Mbxw0hB3g15PJRiKEex6Nv5Mbyy/LszZCrIxh0QGeM6n7IJ2/qC2HMqq5D5JpFk8cCT20OMfoQkOvy9tlVzvAmxzjmvbFmvM+pMNmTgP+nLfUnfGGzwFeqg==\r\n\r\nThis submission was generated using https://cfr.truesight.me/\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
-  "source_tab": "Telegram Chat Logs",
+  "source_tab": "SunMint Tree Planting",
   "verifiable": true,
   "linked_tree_id": ""
 }
