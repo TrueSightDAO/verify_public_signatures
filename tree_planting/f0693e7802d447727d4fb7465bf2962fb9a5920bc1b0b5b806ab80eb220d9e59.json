@@ -1,0 +1,15 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "Edgar_20261015022226_127",
+  "telegram_update_id": "Edgar_20261015022226_128",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB",
+  "signature": "sIfPk9D2R7YWzAfPci1/RT6e1DKaVJJROMNrmd+bmpcVb7NEPiQBdKMu7L/i+/S5Lc1pKgoqfzD3YEu0QHUC8uGSz8gDq0lcDNAydHjP8m53xXnc19l4F133NTpFoHcKciv3zQWbVri1Al9rr/3bcit+6Fvpai/E2ffX2FN2UJRsxeCzl1p6HhbHcXpVhX8EcsjSLK+prh/L7YW6xmI3Cxv2NhbDSXW5rpDHNhmYAubdICgoWmo7GIIW4xLEtRt0/X0OMb6V3YWTrh3YD5IeAuOcsEYEr6pq4g7ytJ5950XNqvVR4G3fj7LLKZp1YeZ7ZEhrOxl8Y2fKecAt2uhNHw==",
+  "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: \n- Longitude: \n- Species: Cacao - Forestero\n- Planting Time: 2026-10-15T02:22:24.690Z\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261014232224_MIIBIjANBgkqhkiG9w0B.jpg\n- Submission Source: https://cfr.truesight.me/\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\r\n- Latitude: \r\n- Longitude: \r\n- Species: Cacao - Forestero\r\n- Planting Time: 2026-10-15T02:22:24.690Z\r\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261014232224_MIIBIjANBgkqhkiG9w0B.jpg\r\n- Submission Source: https://cfr.truesight.me/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\r\n\r\nRequest Transaction ID: sIfPk9D2R7YWzAfPci1/RT6e1DKaVJJROMNrmd+bmpcVb7NEPiQBdKMu7L/i+/S5Lc1pKgoqfzD3YEu0QHUC8uGSz8gDq0lcDNAydHjP8m53xXnc19l4F133NTpFoHcKciv3zQWbVri1Al9rr/3bcit+6Fvpai/E2ffX2FN2UJRsxeCzl1p6HhbHcXpVhX8EcsjSLK+prh/L7YW6xmI3Cxv2NhbDSXW5rpDHNhmYAubdICgoWmo7GIIW4xLEtRt0/X0OMb6V3YWTrh3YD5IeAuOcsEYEr6pq4g7ytJ5950XNqvVR4G3fj7LLKZp1YeZ7ZEhrOxl8Y2fKecAt2uhNHw==\r\n\r\nThis submission was generated using https://cfr.truesight.me/\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "SunMint Tree Planting",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "sIfPk9D2R7YWzAfPci1/RT6e1DKaVJJROMNrmd+bmpcVb7NEPiQBdKMu7L/i+/S5Lc1pKgoqfzD3YEu0QHUC8uGSz8gDq0lcDNAydHjP8m53xXnc19l4F133NTpFoHcKciv3zQWbVri1Al9rr/3bcit+6Fvpai/E2ffX2FN2UJRsxeCzl1p6HhbHcXpVhX8EcsjSLK+prh/L7YW6xmI3Cxv2NhbDSXW5rpDHNhmYAubdICgoWmo7GIIW4xLEtRt0/X0OMb6V3YWTrh3YD5IeAuOcsEYEr6pq4g7ytJ5950XNqvVR4G3fj7LLKZp1YeZ7ZEhrOxl8Y2fKecAt2uhNHw=="
+}
