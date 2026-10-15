@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-15T14:30:13Z",
+  "generated_at": "2026-10-15T18:00:17Z",
   "event_type": "[DAO Inventory Expense Event]",
-  "count": 282,
+  "count": 285,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6596",
@@ -287,7 +287,10 @@
     "Edgar_20261010140912_209",
     "Edgar_20261013120053_441",
     "Edgar_20261013120656_445",
-    "Edgar_20261013122524_447"
+    "Edgar_20261013122524_447",
+    "Edgar_20261015172457_143",
+    "Edgar_20261015172505_145",
+    "Edgar_20261015172512_147"
   ],
   "events": {
     "6596": {
@@ -1981,9 +1984,27 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-10-13",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261015172457_143": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172457_143.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261015172505_145": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172505_145.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261015172512_147": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172512_147.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 282,
+  "txid_count": 285,
   "txids": {
     "02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6.json",
@@ -2965,6 +2986,13 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2025-08-09"
     },
+    "77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219.json",
+      "request_transaction_id": "puNYUEIdyjt3YDZt/LIL4lHoZNic05GkwwL9QPseNIwzyflB6tIP6q4t4fTj16HswkvDd59LWfxJ3up1I8P3BZRPt7m29feJmNDW+0ex78UaNMCfaiHpdHNpLPF1eSHKSW1TKP4e4eP+O09NZsGo5TsRwn5FSl/dK87yobhQxwxY+UfJf02gp5a6DoJ4dXJnIvtlFJ7Nvct3qAUKIj5ywGbpCpObaIT7bW9pHS7CoD6jpnlQzPDYjqFzODTe7MtfxewpdK4Ope7pVX7nf3WEROe9HXQsBb7QxP9yG/PN+1XFf72yY+W6h+aXcBG+VO6tLrwtjdCsmRJvOWfq/oAFfg==",
+      "telegram_message_id": "Edgar_20261015172457_143",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15"
+    },
     "7802a9737f3ac3b0e7d1ea72cb7f738409a127096407702b078029f024aad155": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/7802a9737f3ac3b0e7d1ea72cb7f738409a127096407702b078029f024aad155.json",
       "request_transaction_id": "dp/jNL2QZNmjlyxJR0JC6NLn7nGNeWtktKyIvHzirZjY6IY1sIGe/RNU/pxmAOnO1A6WdSi/riTVF0CElIhh2Pi8cZBZ2nEVT015Wh1ZCAB34lllqdL2xJr5jDJ1oNjQ1MnZIXGXQtabPpCzNjFKrGmWyVUZeUS2+S4IjXLa20mATgGAR8lC68M3cphLOw/rLvKzKHsG1Zy0EEi+l9ocvpw6Xz2wyK196o7s3Pmo+l45wZGyiUAfXGhkGF9cdQ2VNdTl4RO7OvVI0qy5ilWWfd28EAJH/++bOmARBQ1rZaWEaiDSBnmT2BGAaC2JrrbxRDNY2Q/QzGOi53Eu0wB4bQ==",
@@ -3917,6 +3945,13 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2025-10-24"
     },
+    "f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b.json",
+      "request_transaction_id": "JbFX/MW9bDCZUICEderuQcOog2Au/d20ot0yVhnCxBid15ITvM2iO7GkQWjQhd3o0N5LVAKIzwDMUQGlgyxJYgzsbKlkLs0BJje3aP2ygQZp59RLZAjXD7w1DP8KXK3vowfGkqtlrZrAjBuSLg2QkWzXgx+1QhS1upolWiEsJ8KfszZw8Fcsxb0EDOtHf5hACMJ6a5Sup+2ppiqrPVGd5Ser8CH755Gz97kdkQDMSGmxmTTS4M4btS/jgNZVRNC5c/3IdfM+6jGdT5KBOFnbUAb8i89MN9pZPjbctguhcUwdyfi+/JS0PdXKSdYN4LRPTl0cJ1GmKifN2LuYd5xVZA==",
+      "telegram_message_id": "Edgar_20261015172512_147",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15"
+    },
     "f70e2d8b80d2ea8213f4885eddc1d6453b159b80fba1dc35ab3a68febd3f26c8": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/f70e2d8b80d2ea8213f4885eddc1d6453b159b80fba1dc35ab3a68febd3f26c8.json",
       "request_transaction_id": "K7jeF8pdhsYnJzC0V4An+ybcWXhsALLDk6uIJod3oEeJu8hSiSzHt2n6HSILiy+RKiTqaO1UZ8lzrpmV+0z5erbSMq0fTMjLAjpY934wMYpokWQRkxETKobUiL1EFKGASfmlU6scwfMK6pBGZDFduou2xW8X0v9ezWDpwmjNbcbHe2DT+eSUU6XH35Qu6bAT3RGjshKego+LIiLjglp5DUxuedUvO5J/9AOanmp6uFU0gDG4o29Yo0V52gjkaDkN8/T1zBGvbDNoXiUM7Y2vr+CCM18HMbYfupXzhhGLPm6jud9FMVrkvV9Gb09dQn/pDyJA2hy/8wUmY6MxiGKksA==",
@@ -3958,6 +3993,13 @@
       "telegram_message_id": "Edgar_20260614131512_008",
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-06-14"
+    },
+    "ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9.json",
+      "request_transaction_id": "jjEooaiBrU0pWWDVKfCqOmmu6wIP6/lwo2IxYExyGSp8cbv9I6H9o/hs7XPAo76GcAx26jUV4lbLxcW+Yzd2xpLCYDvnjOlgiyPhf5CGoRQT2hyfLrWwtoTbGoFoM3mApFJuonTdjJ3H3VXvkDYOHfysXBgtKZ0DVn+9BAOdI3CnDltZ7vL20xeDFc8J46feAM8gUPn9d2HRHEI+dZjk8eqcyrMLDDAfmeLcPN/z8LEtY2CyO0nt+l/rh35H7F3JLwz0wx5RxZvF8oRYI3njvGzJBqwerQ1OBAVVP6GAjeOUugV1k9boV8OhcJSFtOm3nbe5KymkswIvntqt2T0XDg==",
+      "telegram_message_id": "Edgar_20261015172505_145",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15"
     }
   }
 }
