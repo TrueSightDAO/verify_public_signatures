@@ -1,11 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-15T14:30:13Z",
+  "generated_at": "2026-10-15T18:00:17Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4754,
+  "count": 4758,
   "events_ordered": [
+    "ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9",
+    "f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b",
     "f3c627769f548306f8d1ad24f8aeb5ada06e89e1f21d79996ab7617bc31c579d",
     "f10bffb2ad47e5addcfc0712e0213660f4330a139c1e1d4afb0c36bd1b3f82e7",
     "f0693e7802d447727d4fb7465bf2962fb9a5920bc1b0b5b806ab80eb220d9e59",
@@ -23,11 +25,13 @@
     "8a8d92abaeac936257b56b621c1c654252ef4b91db9272f7b96ef57a91f8a3c6",
     "839332b312a3f7615f41c56e968b9030ce3506099493da7dc15752060bf8cc20",
     "7c5c788ecb22b1b21d0981a32bb6e650f557693ab428286686a6f5aa86859dc9",
+    "77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219",
     "6d52eb3982e512f69eb20709964939f0c24354e0323de88017aeee22f52e2fff",
     "67f1eb5665359c76b4dad0fb8c491262ed2481b606d5f474b9481c84c7d37c2a",
     "372951dc2c85bc3a077ef88190b4e8f7a03ed91f11030f8d7dddaf9bd30b0c7b",
     "33a7fdb333a9c16090c209a26bc05e5b58221cce8972836039f6c3da1699017c",
     "2b27ee8d7975de8fc3f38d6813b0b27883e3f6614b9eb3b464cf5a9bcb017b52",
+    "0b86b7e54c6b3ffb35e5d0bd4e7157ef832596ba65607e48de8248f3af7b8a45",
     "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708",
     "fc99ee1705f3ff5f95465599933e8b703167876f0306ad63e5923b204889690c",
     "e5cded322d317b502d07d51aa97260e9105621c1010ca6cde27d8fae9e80a883",
@@ -4762,6 +4766,26 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9": {
+      "txid_hash": "ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261015172505_145",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/ff402afed5f42b14b4baa5a1ceaf2ea06db6ba3dfc4051bf0e1c6b9c5db2efc9.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172505_145.json"
+    },
+    "f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b": {
+      "txid_hash": "f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261015172512_147",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/f6a82f7e4e8a1ef339d2f9f14107d378e102e1b46343d236c0ce14e8ad5fe59b.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172512_147.json"
+    },
     "f3c627769f548306f8d1ad24f8aeb5ada06e89e1f21d79996ab7617bc31c579d": {
       "txid_hash": "f3c627769f548306f8d1ad24f8aeb5ada06e89e1f21d79996ab7617bc31c579d",
       "event_type": "[PRACTICE EVENT]",
@@ -4932,6 +4956,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/7c5c788ecb22b1b21d0981a32bb6e650f557693ab428286686a6f5aa86859dc9.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261015142129_137.json"
     },
+    "77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219": {
+      "txid_hash": "77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261015172457_143",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/77dc2263e22e634ad630edc22508c53c1aa22d6a97c27e926d62980abe60c219.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261015172457_143.json"
+    },
     "6d52eb3982e512f69eb20709964939f0c24354e0323de88017aeee22f52e2fff": {
       "txid_hash": "6d52eb3982e512f69eb20709964939f0c24354e0323de88017aeee22f52e2fff",
       "event_type": "[TREE PLANTING EVENT]",
@@ -4981,6 +5015,16 @@
       "telegram_message_id": "Edgar_20261015014804_099",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/2b27ee8d7975de8fc3f38d6813b0b27883e3f6614b9eb3b464cf5a9bcb017b52.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261015014804_099.json"
+    },
+    "0b86b7e54c6b3ffb35e5d0bd4e7157ef832596ba65607e48de8248f3af7b8a45": {
+      "txid_hash": "0b86b7e54c6b3ffb35e5d0bd4e7157ef832596ba65607e48de8248f3af7b8a45",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261015152427_141",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/0b86b7e54c6b3ffb35e5d0bd4e7157ef832596ba65607e48de8248f3af7b8a45.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261015152427_141.json"
     },
     "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708": {
       "txid_hash": "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708",
