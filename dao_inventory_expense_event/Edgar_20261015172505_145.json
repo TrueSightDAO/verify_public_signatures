@@ -1,0 +1,14 @@
+{
+  "event_type": "[DAO Inventory Expense Event]",
+  "telegram_message_id": "Edgar_20261015172505_145",
+  "telegram_update_id": "Edgar_20261015172505_146",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "signature": "jjEooaiBrU0pWWDVKfCqOmmu6wIP6/lwo2IxYExyGSp8cbv9I6H9o/hs7XPAo76GcAx26jUV4lbLxcW+Yzd2xpLCYDvnjOlgiyPhf5CGoRQT2hyfLrWwtoTbGoFoM3mApFJuonTdjJ3H3VXvkDYOHfysXBgtKZ0DVn+9BAOdI3CnDltZ7vL20xeDFc8J46feAM8gUPn9d2HRHEI+dZjk8eqcyrMLDDAfmeLcPN/z8LEtY2CyO0nt+l/rh35H7F3JLwz0wx5RxZvF8oRYI3njvGzJBqwerQ1OBAVVP6GAjeOUugV1k9boV8OhcJSFtOm3nbe5KymkswIvntqt2T0XDg==",
+  "signed_payload": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Target Ledger: AGL8\n- Inventory Type: USD\n- Inventory Quantity: 710.00\n- Description: 5 Continent #1026-08 freight — AGL8 share\n- Submission Source: autopilot\n--------",
+  "signed_text": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Target Ledger: AGL8\n- Inventory Type: USD\n- Inventory Quantity: 710.00\n- Description: 5 Continent #1026-08 freight — AGL8 share\n- Submission Source: autopilot\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: jjEooaiBrU0pWWDVKfCqOmmu6wIP6/lwo2IxYExyGSp8cbv9I6H9o/hs7XPAo76GcAx26jUV4lbLxcW+Yzd2xpLCYDvnjOlgiyPhf5CGoRQT2hyfLrWwtoTbGoFoM3mApFJuonTdjJ3H3VXvkDYOHfysXBgtKZ0DVn+9BAOdI3CnDltZ7vL20xeDFc8J46feAM8gUPn9d2HRHEI+dZjk8eqcyrMLDDAfmeLcPN/z8LEtY2CyO0nt+l/rh35H7F3JLwz0wx5RxZvF8oRYI3njvGzJBqwerQ1OBAVVP6GAjeOUugV1k9boV8OhcJSFtOm3nbe5KymkswIvntqt2T0XDg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
