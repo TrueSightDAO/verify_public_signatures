@@ -1,0 +1,14 @@
+{
+  "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+  "telegram_message_id": "Edgar_20261015022045_111",
+  "telegram_update_id": "Edgar_20261015022045_112",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "signature": "Q8ep1ICYrybSHiq4M39S0PajjNh4mRPtVNg3ygF/9MTZbmIZCTTgy+rkoeCbqM54bW1qr6L3L1TGxNBJhKzpTDel6ZJwKjpVbfyn4nEg+5ar6CTXRg95vGS/r8GSMPcjnvVXxIiK6pVcZ6C9+dyLIEQoGkrtaX0lf7t38pCM5ZK0O5W4GgNHq5Zvae0LOfiMOIs4/oVW++HpO3nsIBajB/6MINxcEQYlwVSrvZxzAYERoqFQjWxc9q6uDDzNaGkC/Kmcfe7W6/rcgJDam5gytQhb8pH28WAGTTTxV51o5lvxa6dccoAMxt/MNP+pPISNFEhkvDUIYHt0e52FFmqAzw==",
+  "signed_payload": "[REPACKAGING SETTLEMENT EVENT]\n- Composition URL: https://raw.githubusercontent.com/TrueSightDAO/agroverse-inventory/main/currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json\n- Holder Name: Matheus Reis\n- Deplete Inputs: true\n- Add Output Locations: true\n- Set Currencies Metadata: true\n- Rebuild Inventory: false\n- Submission Source: Repackaging Settlement CLI\n--------",
+  "signed_text": "[REPACKAGING SETTLEMENT EVENT]\n- Composition URL: https://raw.githubusercontent.com/TrueSightDAO/agroverse-inventory/main/currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json\n- Holder Name: Matheus Reis\n- Deplete Inputs: true\n- Add Output Locations: true\n- Set Currencies Metadata: true\n- Rebuild Inventory: false\n- Submission Source: Repackaging Settlement CLI\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: Q8ep1ICYrybSHiq4M39S0PajjNh4mRPtVNg3ygF/9MTZbmIZCTTgy+rkoeCbqM54bW1qr6L3L1TGxNBJhKzpTDel6ZJwKjpVbfyn4nEg+5ar6CTXRg95vGS/r8GSMPcjnvVXxIiK6pVcZ6C9+dyLIEQoGkrtaX0lf7t38pCM5ZK0O5W4GgNHq5Zvae0LOfiMOIs4/oVW++HpO3nsIBajB/6MINxcEQYlwVSrvZxzAYERoqFQjWxc9q6uDDzNaGkC/Kmcfe7W6/rcgJDam5gytQhb8pH28WAGTTTxV51o5lvxa6dccoAMxt/MNP+pPISNFEhkvDUIYHt0e52FFmqAzw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
