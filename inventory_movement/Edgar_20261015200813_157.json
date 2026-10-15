@@ -1,0 +1,14 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20261015200813_157",
+  "telegram_update_id": "Edgar_20261015200813_158",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB",
+  "signature": "LRvVzlhTqq80BAGzjpAoe41zPXzEC0XMFIKoGzRayofbw33aFbi17ZmB8EjTnW8z6p2VJ0VJURcnYzeqz9NkSQmYQHZtp1jF2JTEAklV686vPgTQYsPb6Ljt+APCpS1Ije7awVYn0uTok7cUp+zcJ6efKb+iwODGRUGc81Mp3L7mIt/dxoaeGLlpwV9E2bX++Diiif3OzWhuXZuT/M5xsMXZgrqiIqpj1fjD87YX9yyEl46N+dj7aEjFUtw6E8g1/v0dnI9U8ma22uj6FslIDa9b2dAB9/65ebKvc93J0esmOKkbwYB3H1D8zPbJFbkbGXY4mA070EQZrUK3sUC8Jw==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Foam container box - 120 kraft pouches capacity\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Foam container box - 120 kraft pouches capacity\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB\n\nRequest Transaction ID: LRvVzlhTqq80BAGzjpAoe41zPXzEC0XMFIKoGzRayofbw33aFbi17ZmB8EjTnW8z6p2VJ0VJURcnYzeqz9NkSQmYQHZtp1jF2JTEAklV686vPgTQYsPb6Ljt+APCpS1Ije7awVYn0uTok7cUp+zcJ6efKb+iwODGRUGc81Mp3L7mIt/dxoaeGLlpwV9E2bX++Diiif3OzWhuXZuT/M5xsMXZgrqiIqpj1fjD87YX9yyEl46N+dj7aEjFUtw6E8g1/v0dnI9U8ma22uj6FslIDa9b2dAB9/65ebKvc93J0esmOKkbwYB3H1D8zPbJFbkbGXY4mA070EQZrUK3sUC8Jw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
