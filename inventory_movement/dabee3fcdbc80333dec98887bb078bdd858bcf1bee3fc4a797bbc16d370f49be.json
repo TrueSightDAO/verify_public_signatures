@@ -1,0 +1,15 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20261015012942_093",
+  "telegram_update_id": "Edgar_20261015012942_094",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "MCxfSjZNz24Eq/mCkGQJbr45cPMk+9/1MaMdHmZFwBOWS+lhjNBm7QtlmKwBdzD6ZbX2iJwGhNZaD8yZx51umTdrKNGYrzLkXE4ITTN/QjbgbMqTQfaDSezRnft8MGHBVQ7eQk8D/RCwAK1iStwxztrXuAYxUTDjolUl7bc34YOu3ZxzWus6nf9YNzlka54puMNfrX5QLt2N/2BHPok5Jzzmq9sRCEI41Iuz7kC4D2wNcP68xMajFEa5GvXWIgG3K5UjTt7Y27HznNQT86M9T6S2pbJ+WyqeSMtuQ/5N/YnOHQA3jVvxMRy5QSDfc/uJsRJG62YH09R+qVGjrcQ5Qg==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: MCxfSjZNz24Eq/mCkGQJbr45cPMk+9/1MaMdHmZFwBOWS+lhjNBm7QtlmKwBdzD6ZbX2iJwGhNZaD8yZx51umTdrKNGYrzLkXE4ITTN/QjbgbMqTQfaDSezRnft8MGHBVQ7eQk8D/RCwAK1iStwxztrXuAYxUTDjolUl7bc34YOu3ZxzWus6nf9YNzlka54puMNfrX5QLt2N/2BHPok5Jzzmq9sRCEI41Iuz7kC4D2wNcP68xMajFEa5GvXWIgG3K5UjTt7Y27HznNQT86M9T6S2pbJ+WyqeSMtuQ/5N/YnOHQA3jVvxMRy5QSDfc/uJsRJG62YH09R+qVGjrcQ5Qg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "MCxfSjZNz24Eq/mCkGQJbr45cPMk+9/1MaMdHmZFwBOWS+lhjNBm7QtlmKwBdzD6ZbX2iJwGhNZaD8yZx51umTdrKNGYrzLkXE4ITTN/QjbgbMqTQfaDSezRnft8MGHBVQ7eQk8D/RCwAK1iStwxztrXuAYxUTDjolUl7bc34YOu3ZxzWus6nf9YNzlka54puMNfrX5QLt2N/2BHPok5Jzzmq9sRCEI41Iuz7kC4D2wNcP68xMajFEa5GvXWIgG3K5UjTt7Y27HznNQT86M9T6S2pbJ+WyqeSMtuQ/5N/YnOHQA3jVvxMRy5QSDfc/uJsRJG62YH09R+qVGjrcQ5Qg=="
+}
