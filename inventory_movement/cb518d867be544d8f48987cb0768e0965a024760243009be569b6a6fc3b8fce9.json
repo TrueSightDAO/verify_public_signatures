@@ -1,0 +1,15 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20261015200816_159",
+  "telegram_update_id": "Edgar_20261015200816_160",
+  "submitted_at": "2026-10-15",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB",
+  "signature": "LOq53sv2VYEOS1EVa6HSMEWZVd2LiOxvrABNQmtZsTahu2+OQ6lwOiU7VZmTCLf0iBYXlNenE0uerr/Y5T0PjEshkuPzqNj044oAIkT5QHNI4OTnWKlCC8oC4Pv/A1vd/QTB5sSFqHEs9B3HVCPTIf4HJoWOxUeG/OnRwduZ7/Wjs53ulN2l6K9bpPtd+csotpylO72cX+JVO+Ok1yJ0Rydp2FtckaB5NYNs5Zoy1R2dqti3/QprOvlbx+WODanHz3gXE7tnFLgc5GzXohVQb7qCxJXzdbTE0ZYAZv5p+iuoMhSTT9SBEBuVzekrHI5y4PxWQfpAxmxiceimLw9opQ==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: Matheus Reis\n- Recipient Name: Kirsten Ritschel\n- Inventory Item: Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)\n- Quantity: 2\n- Destination Inventory File Location: MAIN\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB\n\nRequest Transaction ID: LOq53sv2VYEOS1EVa6HSMEWZVd2LiOxvrABNQmtZsTahu2+OQ6lwOiU7VZmTCLf0iBYXlNenE0uerr/Y5T0PjEshkuPzqNj044oAIkT5QHNI4OTnWKlCC8oC4Pv/A1vd/QTB5sSFqHEs9B3HVCPTIf4HJoWOxUeG/OnRwduZ7/Wjs53ulN2l6K9bpPtd+csotpylO72cX+JVO+Ok1yJ0Rydp2FtckaB5NYNs5Zoy1R2dqti3/QprOvlbx+WODanHz3gXE7tnFLgc5GzXohVQb7qCxJXzdbTE0ZYAZv5p+iuoMhSTT9SBEBuVzekrHI5y4PxWQfpAxmxiceimLw9opQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "LOq53sv2VYEOS1EVa6HSMEWZVd2LiOxvrABNQmtZsTahu2+OQ6lwOiU7VZmTCLf0iBYXlNenE0uerr/Y5T0PjEshkuPzqNj044oAIkT5QHNI4OTnWKlCC8oC4Pv/A1vd/QTB5sSFqHEs9B3HVCPTIf4HJoWOxUeG/OnRwduZ7/Wjs53ulN2l6K9bpPtd+csotpylO72cX+JVO+Ok1yJ0Rydp2FtckaB5NYNs5Zoy1R2dqti3/QprOvlbx+WODanHz3gXE7tnFLgc5GzXohVQb7qCxJXzdbTE0ZYAZv5p+iuoMhSTT9SBEBuVzekrHI5y4PxWQfpAxmxiceimLw9opQ=="
+}
