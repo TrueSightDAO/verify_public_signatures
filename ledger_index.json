@@ -1,11 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-15T01:00:17Z",
+  "generated_at": "2026-10-15T01:30:14Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4731,
+  "count": 4733,
   "events_ordered": [
+    "dabee3fcdbc80333dec98887bb078bdd858bcf1bee3fc4a797bbc16d370f49be",
+    "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708",
     "fc99ee1705f3ff5f95465599933e8b703167876f0306ad63e5923b204889690c",
     "e5cded322d317b502d07d51aa97260e9105621c1010ca6cde27d8fae9e80a883",
     "e049c65b3bbf3b99cd6cb9b67d5fa8a4828dfbbb9925a3a4aae172874864ac85",
@@ -4739,6 +4741,26 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "dabee3fcdbc80333dec98887bb078bdd858bcf1bee3fc4a797bbc16d370f49be": {
+      "txid_hash": "dabee3fcdbc80333dec98887bb078bdd858bcf1bee3fc4a797bbc16d370f49be",
+      "event_type": "[INVENTORY MOVEMENT]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "inventory_movement",
+      "telegram_message_id": "Edgar_20261015012942_093",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/dabee3fcdbc80333dec98887bb078bdd858bcf1bee3fc4a797bbc16d370f49be.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/Edgar_20261015012942_093.json"
+    },
+    "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708": {
+      "txid_hash": "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708",
+      "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+      "submitted_at": "2026-10-15",
+      "contributor_name": "Edgar",
+      "event_type_folder": "repackaging_settlement_event",
+      "telegram_message_id": "Edgar_20261015012951_095",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/Edgar_20261015012951_095.json"
+    },
     "fc99ee1705f3ff5f95465599933e8b703167876f0306ad63e5923b204889690c": {
       "txid_hash": "fc99ee1705f3ff5f95465599933e8b703167876f0306ad63e5923b204889690c",
       "event_type": "[INVENTORY MOVEMENT]",
