@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-16T20:30:14Z",
+  "generated_at": "2026-10-16T23:30:13Z",
   "event_type": "[CURRENCY DEFINITION EVENT]",
-  "count": 17,
+  "count": 18,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260913010858_537",
@@ -22,7 +22,8 @@
     "Edgar_20261012231127_425",
     "Edgar_20261012231133_427",
     "Edgar_20261012231138_429",
-    "Edgar_20261013002905_435"
+    "Edgar_20261013002905_435",
+    "Edgar_20261016204709_215"
   ],
   "events": {
     "Edgar_20260913010858_537": {
@@ -126,9 +127,15 @@
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-10-13",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261016204709_215": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20261016204709_215.json",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-10-16",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 17,
+  "txid_count": 18,
   "txids": {
     "2a877a0fa3db3dee147313559fc09160b9ae6bc52051aa8af0e2f9947d32816f": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/2a877a0fa3db3dee147313559fc09160b9ae6bc52051aa8af0e2f9947d32816f.json",
@@ -248,6 +255,13 @@
       "telegram_message_id": "Edgar_20261012231122_423",
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-10-12"
+    },
+    "ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379.json",
+      "request_transaction_id": "tEkl/qphpHGuvRYPUolHSQh27+kVGUjs3AL4e+Gp6g0WeQ+WEED77mNjTDHGFFOF7f5dRbxdMKGipXytTyIFsdCGHDqHqR0sGt8nOqO9RhQj6PhYJfhxEu0PczN+O63PLi3LKWB1FDl/GBoFAYYuOyNAsa4QSBz4Il5tfZFJfR8AWdanqDfAyUS64AY12dqGAEBOfEwz84FsbphLH5Pb6/rDGSjQROcspJE+XuUKeUSvsuUPApZVgg1wdGymvP8ugYhHvNoUpFdPqVgejhAIUzdN3KGbobN8VCkUf2pzSn521HKqQZukELbZ+j+IwWGfnKQ/Hcz0/cJBBPmYfR7f9A==",
+      "telegram_message_id": "Edgar_20261016204709_215",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-10-16"
     }
   }
 }
