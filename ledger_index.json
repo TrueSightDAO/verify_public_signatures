@@ -1,11 +1,12 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-16T20:30:14Z",
+  "generated_at": "2026-10-16T23:30:13Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4779,
+  "count": 4780,
   "events_ordered": [
+    "ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379",
     "ee875d8de14fadb490e5c14a024d8c57256aec963d6cacff074b9f5e170ac972",
     "c4eb46b1c67268f2c2076fd7d4721d844066a334cba24f8ccecedacf347972e8",
     "bb12566811c840133c9926275433ea5424d308d507b7936ec028ca97aed9f35c",
@@ -4787,6 +4788,16 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379": {
+      "txid_hash": "ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-10-16",
+      "contributor_name": "Edgar",
+      "event_type_folder": "currency_definition_event",
+      "telegram_message_id": "Edgar_20261016204709_215",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/ffbad83c0d992c2465ec1a4ef3df43453695e4ece8a1b55f3e27a7653390b379.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20261016204709_215.json"
+    },
     "ee875d8de14fadb490e5c14a024d8c57256aec963d6cacff074b9f5e170ac972": {
       "txid_hash": "ee875d8de14fadb490e5c14a024d8c57256aec963d6cacff074b9f5e170ac972",
       "event_type": "[CONTRIBUTION EVENT]",
