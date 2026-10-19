@@ -1,0 +1,15 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261019202612_089",
+  "telegram_update_id": "Edgar_20261019202612_090",
+  "submitted_at": "2026-10-19",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "NYHHiJ0qrE2IxEdz+wVVSV+6qF1sBTyuwyfOIh84CBqWcd6bQP9dm+nL5sdKNnTJxsY11kTPVUcmogDwJe6UaUUBRkyYs078fx3QoEipNQSJIt5iRzygoIyUyui5FzsoKZ6MDj9O7BtMLwgkhKVzlFiYoAXxlB0qfY3Sh2BvD7NRPUMoJ+SFqrTmvivcAWE6oUewUP9GmNCHK1LlOpO1A/3lj1FEOhasFOIGSZE9eQcxw/sWJD9aec7Ow4QTtAlmL6P0YXXgFaYsy03RiM1mOYkeIBmLqLAah7vwMPuDJ+61odgIDdNJeCk4301YwrRuXNFECMiyxGr1CWIfXGKBbg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 150\n- Contributor(s): Gary Teh\n- Description: Inventory management (2026-10-19). 2.5 hours of work on DAO inventory records.\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 150\n- Contributor(s): Gary Teh\n- Description: Inventory management (2026-10-19). 2.5 hours of work on DAO inventory records.\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: NYHHiJ0qrE2IxEdz+wVVSV+6qF1sBTyuwyfOIh84CBqWcd6bQP9dm+nL5sdKNnTJxsY11kTPVUcmogDwJe6UaUUBRkyYs078fx3QoEipNQSJIt5iRzygoIyUyui5FzsoKZ6MDj9O7BtMLwgkhKVzlFiYoAXxlB0qfY3Sh2BvD7NRPUMoJ+SFqrTmvivcAWE6oUewUP9GmNCHK1LlOpO1A/3lj1FEOhasFOIGSZE9eQcxw/sWJD9aec7Ow4QTtAlmL6P0YXXgFaYsy03RiM1mOYkeIBmLqLAah7vwMPuDJ+61odgIDdNJeCk4301YwrRuXNFECMiyxGr1CWIfXGKBbg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "NYHHiJ0qrE2IxEdz+wVVSV+6qF1sBTyuwyfOIh84CBqWcd6bQP9dm+nL5sdKNnTJxsY11kTPVUcmogDwJe6UaUUBRkyYs078fx3QoEipNQSJIt5iRzygoIyUyui5FzsoKZ6MDj9O7BtMLwgkhKVzlFiYoAXxlB0qfY3Sh2BvD7NRPUMoJ+SFqrTmvivcAWE6oUewUP9GmNCHK1LlOpO1A/3lj1FEOhasFOIGSZE9eQcxw/sWJD9aec7Ow4QTtAlmL6P0YXXgFaYsy03RiM1mOYkeIBmLqLAah7vwMPuDJ+61odgIDdNJeCk4301YwrRuXNFECMiyxGr1CWIfXGKBbg=="
+}
