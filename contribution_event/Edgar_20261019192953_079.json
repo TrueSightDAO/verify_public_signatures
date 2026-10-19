@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261019192953_079",
+  "telegram_update_id": "Edgar_20261019192953_080",
+  "submitted_at": "2026-10-19",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "WEES/lHxRV5jL/iSG79esIi2ZsqyB6bk3uSVsSeagQo0R08yFB+XwDPqKHm3CdMR0E2cKBIdQB9UKotd4yICVvzJOM37tS1xoM7cSg/AVnYGrvFS3lvU4X1XFyNIsGMjKmXuUZqeOqOgopzHHqGfta3qLbAejRKw+HIvsPa7+gOeuz5Pr88a6PMETV/svUjS4jwc4nRXg0+KqSBglrWtBXmYSel2Omi4aV5l7yzlKMrBnNMNfx5KP+r6sUqXc3HxXWczamAkQ1UVUaTYgwPMok3ah4bp7ao0AGmvOijwhq0zKokm6CEU6r1orOjaRA29xR/2VjAm/a1yAI70sxe2CA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Answered the folks from Vista Flow (Francine Borba) re: shipment/NF-e update — sent over the tracking/EDI reference; Francine to work on the contract and consult their finance team on the nota fiscal.\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Answered the folks from Vista Flow (Francine Borba) re: shipment/NF-e update — sent over the tracking/EDI reference; Francine to work on the contract and consult their finance team on the nota fiscal.\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: WEES/lHxRV5jL/iSG79esIi2ZsqyB6bk3uSVsSeagQo0R08yFB+XwDPqKHm3CdMR0E2cKBIdQB9UKotd4yICVvzJOM37tS1xoM7cSg/AVnYGrvFS3lvU4X1XFyNIsGMjKmXuUZqeOqOgopzHHqGfta3qLbAejRKw+HIvsPa7+gOeuz5Pr88a6PMETV/svUjS4jwc4nRXg0+KqSBglrWtBXmYSel2Omi4aV5l7yzlKMrBnNMNfx5KP+r6sUqXc3HxXWczamAkQ1UVUaTYgwPMok3ah4bp7ao0AGmvOijwhq0zKokm6CEU6r1orOjaRA29xR/2VjAm/a1yAI70sxe2CA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
