@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-20T07:00:15Z",
+  "generated_at": "2026-10-20T09:00:14Z",
   "event_type": "[SALES EVENT]",
-  "count": 281,
+  "count": 283,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6710",
@@ -286,7 +286,9 @@
     "Edgar_20260705041244_040",
     "Edgar_20260705041324_042",
     "Edgar_20260705041351_044",
-    "Edgar_20260705041420_046"
+    "Edgar_20260705041420_046",
+    "Edgar_20261020085340_135",
+    "Edgar_20261020085346_137"
   ],
   "events": {
     "6710": {
@@ -1974,9 +1976,21 @@
       "event_type": "[SALES EVENT]",
       "submitted_at": "2026-07-05",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261020085340_135": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/Edgar_20261020085340_135.json",
+      "event_type": "[SALES EVENT]",
+      "submitted_at": "2026-10-20",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261020085346_137": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/Edgar_20261020085346_137.json",
+      "event_type": "[SALES EVENT]",
+      "submitted_at": "2026-10-20",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 279,
+  "txid_count": 281,
   "txids": {
     "01d0024bf0be7e3e5ca81de1b52f89cb211d1797794f9afc1058fa5dfc6dc50b": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/01d0024bf0be7e3e5ca81de1b52f89cb211d1797794f9afc1058fa5dfc6dc50b.json",
@@ -3210,6 +3224,13 @@
       "event_type": "[SALES EVENT]",
       "submitted_at": "2025-10-04"
     },
+    "a55496f9350dab6cbd6d057a70e988bd96d5154d83b11772a141c31a3990dd6b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/a55496f9350dab6cbd6d057a70e988bd96d5154d83b11772a141c31a3990dd6b.json",
+      "request_transaction_id": "L720l77kGGDBSQ2ea59h7euL3xtQhtCnJYbglmTEKnPRmRw2WuW5IL1pJH7h1cqeb451xgqe/ne/V1NgE+o6QJrQGl97FBANATVMyVDbHHTPlHHFrA4DCMyv6fKGkl8BfntxjXtZ0DHPYxTwj5l1WjkmqR0J83aEBChAnk9CFNI70+ReMtgmxF0UcvqSlze1xlGAz+hlNpYQ5U9N10L+SBKW2ebadLLyXCkKfBqhnIUTy7BIiqo10FXXxhTtu42UgngCrq45U6+3YZKRr4D8ps4zGqSIqRuOBbgW4SyjMUM1atIhTWmWjKwzCz15t9xqFnBEDmHyXOIHtLb9qm7HaQ==",
+      "telegram_message_id": "Edgar_20261020085346_137",
+      "event_type": "[SALES EVENT]",
+      "submitted_at": "2026-10-20"
+    },
     "a5da8cf2f9260381245b74d6fdd534c9ec48d438884b877b175e9e20e298217d": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/a5da8cf2f9260381245b74d6fdd534c9ec48d438884b877b175e9e20e298217d.json",
       "request_transaction_id": "G3YR5x4d+vFbYQAMvTFWricW/iI/Scg5zkJQWxm/hIpcYYgtyivyiK6EyaFFGI2yyOvPqDZaTjEbLa0nqGZ6rjAMKqTnEPVQm+W6DuAfu5opHPuhFLwRJYMz+dyLIYkJi2Xpf9U5UMHQwt2VLo5O86fE6N9SGqvb6HUYAWphKHovmM3q+v3j1bwMqQkjymh2va9tSrXjRD+fo1FK0oGHot79FbBBYzL2SwPoBRHtUFbveV1K2Xr2dp3EB8+pVEg9MSS5w4XjlB57/mG9Pg3rXfEqPpCykbDkkF5EQp42QVshiGirhivNE8cl1qbmXpV9Cv6dKI9glVucvR9EWD/cww==",
@@ -3692,6 +3713,13 @@
       "telegram_message_id": "Edgar_20251217223043_158",
       "event_type": "[SALES EVENT]",
       "submitted_at": "2025-12-17"
+    },
+    "dcad4db01846dad258f09880a0f582a98662360c172f8f13dd1755ab41c3810d": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/dcad4db01846dad258f09880a0f582a98662360c172f8f13dd1755ab41c3810d.json",
+      "request_transaction_id": "HumkG8Gv4BP8LSDy6a63jz/2Yj+scYdhXNdrNAnqOKWY83t0Yx908gJpiYQs2xrlSFZ2Dvt3Wc5zqXlUtxZI6DQSbvv+smnH+4lUkVk0s415CAp92HjKZ2srgVSNFD48H7WxDOlvF8rhgKb9WCznOtZx5NEq8mRlmL/4b5ykY2Ba4M2vFjkrDixwJC56PpUsehCoa8++lt9tctLs17VOojPBL0NSSXeIir3qJT4N07U92zgm+/1Oazp28yr4DgvXtMkFhanDqAJtfVWk7ePirw6GDxsnpUfWCiSoNdOycimg1qjgxFw4HzGKO99fOJ1oU1XhGur49LGQnAB+ePYhWA==",
+      "telegram_message_id": "Edgar_20261020085340_135",
+      "event_type": "[SALES EVENT]",
+      "submitted_at": "2026-10-20"
     },
     "dd45319b7b5d4a6bf94f2eac69445667418267cda92fe01b642070d82aa79860": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/dd45319b7b5d4a6bf94f2eac69445667418267cda92fe01b642070d82aa79860.json",
