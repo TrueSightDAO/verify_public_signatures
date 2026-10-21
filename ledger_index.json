@@ -1,13 +1,14 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-21T07:00:13Z",
+  "generated_at": "2026-10-21T09:00:14Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 4901,
+  "count": 4902,
   "events_ordered": [
     "e8978111460bac3ae47d33937415911a9caf11a410e588e55e2fca5507d6c5b4",
     "3402f0dd1f867fd5eeef81419fd5bba45f3d87fad5b4a79dae5ea9d4ffd55e43",
+    "277593882d6cebe5c1e45efdb62deb6d666b89cfb454654e2b3ee4b0e2ee904f",
     "e966369004255e9aa2f7dfb991bc7487366b765de67560ab46762685a2abb1ef",
     "dcad4db01846dad258f09880a0f582a98662360c172f8f13dd1755ab41c3810d",
     "d7e7b5ec9dc248b86f1bc96b1a42e15ab5d364fcd099102335f43b6904baf391",
@@ -4928,6 +4929,16 @@
       "telegram_message_id": "Edgar_20261021022329_163",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/3402f0dd1f867fd5eeef81419fd5bba45f3d87fad5b4a79dae5ea9d4ffd55e43.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/Edgar_20261021022329_163.json"
+    },
+    "277593882d6cebe5c1e45efdb62deb6d666b89cfb454654e2b3ee4b0e2ee904f": {
+      "txid_hash": "277593882d6cebe5c1e45efdb62deb6d666b89cfb454654e2b3ee4b0e2ee904f",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-21",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261021085011_167",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/277593882d6cebe5c1e45efdb62deb6d666b89cfb454654e2b3ee4b0e2ee904f.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261021085011_167.json"
     },
     "e966369004255e9aa2f7dfb991bc7487366b765de67560ab46762685a2abb1ef": {
       "txid_hash": "e966369004255e9aa2f7dfb991bc7487366b765de67560ab46762685a2abb1ef",
