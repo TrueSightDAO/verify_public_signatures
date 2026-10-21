@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-20T21:00:14Z",
+  "generated_at": "2026-10-21T00:00:17Z",
   "event_type": "[DAO Inventory Expense Event]",
-  "count": 286,
+  "count": 287,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6596",
@@ -291,7 +291,8 @@
     "Edgar_20261015172457_143",
     "Edgar_20261015172505_145",
     "Edgar_20261015172512_147",
-    "Edgar_20261017005508_369"
+    "Edgar_20261017005508_369",
+    "Edgar_20261020231821_159"
   ],
   "events": {
     "6596": {
@@ -2009,9 +2010,15 @@
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-10-17",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261020231821_159": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261020231821_159.json",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-20",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 286,
+  "txid_count": 287,
   "txids": {
     "02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/02fc0d44694f591cf4cb0dd35e6a4a174f9fc89234d5d0e258c63d1d940a74e6.json",
@@ -3853,6 +3860,13 @@
       "telegram_message_id": "Edgar_20260915053007_055",
       "event_type": "[DAO Inventory Expense Event]",
       "submitted_at": "2026-09-15"
+    },
+    "e966369004255e9aa2f7dfb991bc7487366b765de67560ab46762685a2abb1ef": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/e966369004255e9aa2f7dfb991bc7487366b765de67560ab46762685a2abb1ef.json",
+      "request_transaction_id": "JHg9D9ZtvyJubF6lcOei8K7mhwEscrDsYvSE0THP3veerbhIc4AFcyvEjSRUpXCss9cqWA21mTzvyy8HwfBysg7Jw8zwRE3ZCPMcNJh3TmI80VD5kfkXADVg8Dvwc0l/2fV+Uw7uvd6OQpRp1EMS9TxH8thZYhBDKWdop2h6plDGlJB4+nLS4V5GU5kfl2IWluFB/5JUfqvjFbHNFoGhlhtqAzscDqatE8XL+HFMMU9z+BpjbtpcZ2cjNEAoEyHe1g2xo7qq2nCyaq802I4VM/T9Ak3f83czjSvr+iaIrvnA0HkxJujMJUcroGg1Cy67uSV58X4b00AOsaHSCdJorQ==",
+      "telegram_message_id": "Edgar_20261020231821_159",
+      "event_type": "[DAO Inventory Expense Event]",
+      "submitted_at": "2026-10-20"
     },
     "e986203a11e477ec10d04777fd98dc3caec5eef43785222f20afd6145f78e59c": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/e986203a11e477ec10d04777fd98dc3caec5eef43785222f20afd6145f78e59c.json",
