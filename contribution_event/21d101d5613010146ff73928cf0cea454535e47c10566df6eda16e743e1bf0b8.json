@@ -1,0 +1,15 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261023182305_2553",
+  "telegram_update_id": "Edgar_20261023182305_2554",
+  "submitted_at": "2026-10-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArl1iwZ3I/4dxoxDcMRfwUP8SOwulOJbcHbpdqbKcAK6O98NzCZQbfmaVv7mi7JqJeD/ysTR9i2Pjfq7Oia/3YZDGUIJY8psojajz9fGAbBlSWFQYc1PxZOVaR0vOOq/BFewQQjNgo22cE8Qcxs1IfZT8U5s6Hd4AEBxP/XTCS4CpAwNs+usP7XLoitIf5ATXjyUeS+qrFYIWc5dXQe8jwrWbYcmIYPGQfcPNNfm7RatvOIPpeFG6IBz/kubjrq64XSpztRcbxNQLGMFN1iNj6kkdt69sQmZyhShfn0n9H6P/cWgPzM0e2fp0MJt1UhjnkRmdfxN/paJjyWsB22AcDQIDAQAB",
+  "signature": "fuQ4NOvhH5uMG7QMDfRR1X4T2bHFNSh7Bx0PRTbLJJC9YlW9NwbQcA7pRocBm4AOp2MSy8bp5YZjhZoH9EKFBPmNRNO+xTLm/nCZNShPeDoePXoJjym0IB4j7nNTnGP4qppHdp7a6JnyT9vouLwUqPilc0jVv47dJq9sH+vebnVkcDdmCa2dUJPNP3K0xEJIbdISWAzbvkPbAzvLvwu7Rth/mHOPlOFVzSCJu693b55y86Huw9EKbHYDRGZu7gVLGYR+6pl/y2UINYiKp8FKs+9sx63TeI/LwOt8f583wlnnvGK6ieRPv437/jhvmo87Cj5jNvyLDMZeM7HY8AqeRA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 0.01\n- Description: PENTEST-I5186-20261023182256\n- Contributor(s): Pentest Canary\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 0.01\n- Description: PENTEST-I5186-20261023182256\n- Contributor(s): Pentest Canary\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArl1iwZ3I/4dxoxDcMRfwUP8SOwulOJbcHbpdqbKcAK6O98NzCZQbfmaVv7mi7JqJeD/ysTR9i2Pjfq7Oia/3YZDGUIJY8psojajz9fGAbBlSWFQYc1PxZOVaR0vOOq/BFewQQjNgo22cE8Qcxs1IfZT8U5s6Hd4AEBxP/XTCS4CpAwNs+usP7XLoitIf5ATXjyUeS+qrFYIWc5dXQe8jwrWbYcmIYPGQfcPNNfm7RatvOIPpeFG6IBz/kubjrq64XSpztRcbxNQLGMFN1iNj6kkdt69sQmZyhShfn0n9H6P/cWgPzM0e2fp0MJt1UhjnkRmdfxN/paJjyWsB22AcDQIDAQAB\n\nRequest Transaction ID: fuQ4NOvhH5uMG7QMDfRR1X4T2bHFNSh7Bx0PRTbLJJC9YlW9NwbQcA7pRocBm4AOp2MSy8bp5YZjhZoH9EKFBPmNRNO+xTLm/nCZNShPeDoePXoJjym0IB4j7nNTnGP4qppHdp7a6JnyT9vouLwUqPilc0jVv47dJq9sH+vebnVkcDdmCa2dUJPNP3K0xEJIbdISWAzbvkPbAzvLvwu7Rth/mHOPlOFVzSCJu693b55y86Huw9EKbHYDRGZu7gVLGYR+6pl/y2UINYiKp8FKs+9sx63TeI/LwOt8f583wlnnvGK6ieRPv437/jhvmo87Cj5jNvyLDMZeM7HY8AqeRA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "fuQ4NOvhH5uMG7QMDfRR1X4T2bHFNSh7Bx0PRTbLJJC9YlW9NwbQcA7pRocBm4AOp2MSy8bp5YZjhZoH9EKFBPmNRNO+xTLm/nCZNShPeDoePXoJjym0IB4j7nNTnGP4qppHdp7a6JnyT9vouLwUqPilc0jVv47dJq9sH+vebnVkcDdmCa2dUJPNP3K0xEJIbdISWAzbvkPbAzvLvwu7Rth/mHOPlOFVzSCJu693b55y86Huw9EKbHYDRGZu7gVLGYR+6pl/y2UINYiKp8FKs+9sx63TeI/LwOt8f583wlnnvGK6ieRPv437/jhvmo87Cj5jNvyLDMZeM7HY8AqeRA=="
+}
