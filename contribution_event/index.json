@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-23T17:00:14Z",
+  "generated_at": "2026-10-23T18:00:18Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2527,
+  "count": 2529,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6718",
@@ -2532,7 +2532,9 @@
     "Edgar_20261023005806_1727",
     "Edgar_20261023010109_1729",
     "Edgar_20261023054717_1833",
-    "Edgar_20261023072139_1835"
+    "Edgar_20261023072139_1835",
+    "Edgar_20261023175312_2545",
+    "Edgar_20261023175329_2547"
   ],
   "events": {
     "6718": {
@@ -17696,9 +17698,21 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-10-23",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261023175312_2545": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261023175312_2545.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261023175329_2547": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261023175329_2547.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 2517,
+  "txid_count": 2519,
   "txids": {
     "001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf.json",
@@ -19113,6 +19127,13 @@
       "telegram_message_id": "Edgar_20250926183815_108",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2025-09-26"
+    },
+    "15e0bccd201c91fa3c8276f6629e6969d37d5bed9c9309175b2c41a148c2dbfb": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/15e0bccd201c91fa3c8276f6629e6969d37d5bed9c9309175b2c41a148c2dbfb.json",
+      "request_transaction_id": "OJT98KbUf7pfp7xQo++4Q8qbem6zZC/hXD0ZH6mYn+Yv9BXR6u/z2VOWAQu38x/klqSf75lpPhwA+FRb1Pxx/VvPJLL5CNZHOjQIsTyOuGym7TKsldOcJGkZWGUMhmFAK8VjbUqi/miadhx729HBAXSLADTAu0y1HX7Uf9bqk7cJOlBPbuexcxjW1AOfDG7w59vm9orBurY56gtKxX6Vv+aPSi/7LOdDsk3sPPm1TIIyAgZGshYk270XCREo3yoqaJmZGYP79baukh9czZjpzRAljGALyQGsxduVcfw/VpOad1/4gtbJ4xSfVUHoSGllfgwGXQ7GndGTrzxJtxgfPA==",
+      "telegram_message_id": "Edgar_20261023175312_2545",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-23"
     },
     "15e4aaab9198aa16f25f716b0f9f3c05d925c3e6aabc08c5e87774697229a249": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/15e4aaab9198aa16f25f716b0f9f3c05d925c3e6aabc08c5e87774697229a249.json",
@@ -21864,6 +21885,13 @@
       "telegram_message_id": "Edgar_20260831143343_066",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-08-31"
+    },
+    "400ee7b7cea1b329c5a6822e1cde8c65434f0652b92049697304c6acd7a64d28": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/400ee7b7cea1b329c5a6822e1cde8c65434f0652b92049697304c6acd7a64d28.json",
+      "request_transaction_id": "hpwxS3jnWW67+dXvyZXr34S62j0RwP7W1Q5+zxEFkNhRL+lxfHR9iVxZB4ItmHx4yTy0NYg/ZkBqwDwuSQkTeDECLXeL41Y8U0hP28OaVviU/I820B/9fSgUnqJFQH60hSXuO1tBnkWW08Qp3M/YSPli5Pr8nwc87aRAaeR+KJGUSyvU0wDJDkDBVwIwBm40YKBNRj6cofQjqoWb6rW/DBPB3+Aamp0vC0q8p3ousrMIYCix/87kIaduxl/8d2hU1s7L7s7r80Zf5yLs30cX2doGnUq21atXydkttXBmONAVCezMkbpXaIfqj/f5UWynMVsKuNNfkRzOiQkUM3c9hw==",
+      "telegram_message_id": "Edgar_20261023175329_2547",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-23"
     },
     "401bf30ba5910ab7827dec13fee0efcfa0b53d86167b843baa5f990e157d80b0": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/401bf30ba5910ab7827dec13fee0efcfa0b53d86167b843baa5f990e157d80b0.json",
