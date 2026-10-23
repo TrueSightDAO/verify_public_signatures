@@ -1,0 +1,14 @@
+{
+  "event_type": "[TREE PLANTING EVENT]",
+  "telegram_message_id": "Edgar_20261023004147_1601",
+  "telegram_update_id": "Edgar_20261023004147_1602",
+  "submitted_at": "2026-10-23",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB",
+  "signature": "Wr02SiDiKsawnGlaiX3Dsxe67AVCJHuCES/ZzsSPejzaAT3wGfNUdSk4vgZPbxxJsf8qJSwYCgDW/v8eCPuwPlrho/lW2gZyiz4g3thnDTWJtbciDGi/vYe8MSXIBpuxKeDcjDN92jv8s+Xd66ucbhTw21fwwR39wLQSZa+hycrExfeHZhLBDCb7XGdj4dQcwdGz4J29EekB9n/1zlPvv6QnAlryYbsJmswT97aMJWUon9CLaGBPHoDppd2qCHxrfJtfTc/6sl8ojeEHjPucRbMolEL1NYkPBCGDySfp0u3/wYThbT1iQ+C/7mwl57Qb29ecqkM8bsO0dPETiBiOvA==",
+  "signed_payload": "[TREE PLANTING EVENT]\n- Latitude: \n- Longitude: \n- Species: Cacao - Forestero\n- Planting Time: 2026-10-23T00:03:45.971Z\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261022210345_MIIBIjANBgkqhkiG9w0B.jpg\n- Submission Source: https://cfr.truesight.me/\n--------",
+  "signed_text": "[TREE PLANTING EVENT]\r\n- Latitude: \r\n- Longitude: \r\n- Species: Cacao - Forestero\r\n- Planting Time: 2026-10-23T00:03:45.971Z\r\n- Photo URL: https://github.com/TrueSightDAO/sunmint/tree/main/images/20261022210345_MIIBIjANBgkqhkiG9w0B.jpg\r\n- Submission Source: https://cfr.truesight.me/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7W0dHwpLvQ3YaTKkGbYIYi6ff8HaaGLoRYiKmZB4ZbtASp6AoKlqQPs5p1OQuRssPg0huo/UsZ5Ht86uU5mdTLeihA4wdW8qJThcuP9scrFDorg9TtZo8z1FbHA3CN+sBAhGyKzKa4pcxmAFFYcs81hYAYSV1QYh3wpaDW8sGJYSrRGHWWlO4gY0hNLwxODc0jdUSc/xZgvIyPrr1zLHqyquhRCkHuNNiZ6odFPu0RU+4rsWOrfdikOCn/n6LH3dKhHp/Z4AdjFx4G+2vQsfO+nJO0Q8UhMzUUDzrWooQwIxw6RN/IIzIXcNKc71o7V15EBotxCw3VClkEksReH3QIDAQAB\r\n\r\nRequest Transaction ID: Wr02SiDiKsawnGlaiX3Dsxe67AVCJHuCES/ZzsSPejzaAT3wGfNUdSk4vgZPbxxJsf8qJSwYCgDW/v8eCPuwPlrho/lW2gZyiz4g3thnDTWJtbciDGi/vYe8MSXIBpuxKeDcjDN92jv8s+Xd66ucbhTw21fwwR39wLQSZa+hycrExfeHZhLBDCb7XGdj4dQcwdGz4J29EekB9n/1zlPvv6QnAlryYbsJmswT97aMJWUon9CLaGBPHoDppd2qCHxrfJtfTc/6sl8ojeEHjPucRbMolEL1NYkPBCGDySfp0u3/wYThbT1iQ+C/7mwl57Qb29ecqkM8bsO0dPETiBiOvA==\r\n\r\nThis submission was generated using https://cfr.truesight.me/\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
