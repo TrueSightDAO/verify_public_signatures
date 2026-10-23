@@ -1,49 +1,89 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-23T01:00:15Z",
+  "generated_at": "2026-10-23T02:30:15Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5011,
+  "count": 5051,
   "events_ordered": [
+    "fb853489a71c06f83c82c3291e8acc84fcc19b327bbf21fa5c724c36f5577a5b",
+    "f9e626548f84f87f138e2a04d2962ab82cde09710d60082b83e9a848e63716de",
     "f7cf74211058d57a78c23d134c653fb7251dabb70459c0cef6686ff19fd8e9d9",
+    "f6433a5e35f37f781b79cab4488f77d2f5cf79d6da8d64e6fb32d00668f4f207",
     "f35e7c25f35f705635af87c4c27b2f7394fc5f82bbe6bfcc2840408c10a72bb7",
+    "f0da6cbac55d437480e3bb42df820e47ee7963bc33000a3caf72bb479c56740d",
+    "ec068452a52f743a84484b9fb34f065c613b2012080991e774ea5d223c859388",
+    "e9fbb7e3f1f7b82d3e6e6cf7d0cbccebba988a9aea9479f00aab7a976f0362f0",
+    "e6af8d83443529fcfd2d8703e729e5f8126c24afc2dcee11a31474e578c7cf72",
+    "de0317d43be1aa87fa517da3783bb0d8c50c4b6be96c9b551107cf1ca9c87016",
+    "dd72716e71c8f94819096b97677b417c173a49536e2689152e0b3b0e55e85e6d",
+    "dc85a7076f8e424cd2ef597bfecaa4c55fa9cbdbf0e192b81e8cd0ffc91edb41",
     "d7a8b6ed67811a699f6f81965c57a35317c8f24a77262a4719fa9f6502d4bd9c",
     "d7545f63f5a6c34dda81c27455d71cc099fdb74220afc2a01bf3e8f917ad9b7f",
+    "d56399903f9baf57f506f0e6eb74dda088d05aacc1b9a913052df75453eac708",
+    "d2f70b381885e3b02d2241bb8c0f937b186a59d3958c17419580af30d4fce3ab",
     "cd3d9396aa24c0116f4af19f73c6d1857bbf71e5290b8216cb49b7166cd8867b",
+    "cade3de837cd8f190e8105d900aef4d9368d39bd6b66b53b04fd4bcaa694984c",
     "c93e4667692c6a7bf38738fa7e44ebe31f1071e1893b078bb4ecb77a5f95fcf7",
     "c757dda192ca3a08f1c31e768884b79eec6faf201bcdbb0880d91600d1b877cd",
+    "c753ac1b8f865b0cfeba7600ab423bb4f4a6af7c75a532ffcd37154759835937",
     "c6f20a6fc98b00244407476aecd425854fb410d0b9432788baefb2b9fce65b23",
+    "c56f3a32d0838be7db2016f895f317fe66ec3829e59947503b2252f5975205ed",
     "c14d5c2f13c6e957b0095c1e3829cb1b83e9b28a6b0199259edf355dd894b9fe",
+    "bcd37a4caf9405d3f9515b739d4da9d360bff70335523f6161e58e9b09472e07",
+    "bb3a73d9094440bc1fb1be14fb415dcf5eb1b1892a85f6628c18b7895335bda4",
     "ba13a5425c8f40397c4509025c81f66687d2fdc99e2f00d675c48aff7d9a1b80",
     "b7a0037fb2cf5f9baa8c9dc89c90a753171d0f1b2d607a06748b4e96066f55d0",
+    "b76b5db8a5e9207332c4995f36d4be8601c87da778ad7909b4fd5584c21797b9",
     "b4c56d3822d3d98e58aec7a7b1a10e6857de03bed6e1f09ec0323d28e7d8960b",
+    "b441bdf518c4d533085272d9a00f66401eb48a3659f6b10e50aec35c7bceed53",
     "b14b1e22843cf9bbe8d1961cc42695ee4fe2a76e5384a8172383e4555a4f0fc7",
     "9b7c3ad690aaa4b5a30ec00f8b871c4b31be37ec2d2143f89d7d5fb5bc7d6d80",
+    "9b6dc19b4361d5bf06be44f973fcf5c2d54dc8a8eb105122bf0fa5b17cf2c40b",
+    "95a03ba2d95e0c927290d20b4aca4212e02d3ee13316fb787efe369cb2c18c20",
     "954fd8269508b18c2d16c2961e228cc7f08c87c944817a2873230e69dbd1a930",
+    "954346be8d3b6725e9dbc8789b35f061b1bd04ce15ef613d942b8dc214741145",
     "914d0572ce44176d57906481bb66c316ea0191edb0988cd0cc249b932b2b00d9",
     "8902bb1da38cb491b9b15558adbe98ad22cd22aa250185665458cf5f6d453322",
+    "885cc2402481eef3ecc0ae7a49fd237f6b3a4685e61f59ac05c89054ee6c64a0",
+    "86b3125be6171d7ce2eb7c570453e046ac839681f3ab12292ce969a114b4b8cb",
     "8645cd5614ba2cc05280673828c84df78f62677b5978ca50387f68d9e41822ee",
+    "81b55e747f35e2950b6c7ebb4b6e564d519965780648b910773490cfbb41c18f",
     "7ddc5a5f78f2016185437c452bb477f2a68c9d6a7f5c47bf2f62b89dbb545495",
+    "7dd203f834e0ab221d2283629e4cfd65fa08d188e2862abbe979e0d6e2305376",
+    "7d56b4856093983ed826381655c1dcdd3198e8d29ced91dd7dd207760e5f43bd",
     "796b103db7aec30d642825c39501919f53a7814cf0d4f0ba3bb2441103599a22",
+    "76a50d5cc814fea10de76db559f5b2246c5993a1b7382e47dd4bcf1a49c1335d",
+    "75279e130455d31c57e4c1b7e772350c0fad17d7af9332c8ee186c10a618eb10",
+    "751510f55b845702e46182d0dc9979cc504825996931cfc6bb8c478b996a349f",
+    "7336e0235795f635a7755fdcf7e67ff576f44ccd3dbe1a9f3584b4f7d2736f4b",
     "71baabb712f74e240837a308d4a4a56d91aa0e796bcf33a38d197c54be70ef0f",
     "67dbfdab4c938e8ac7177d4711e194182d4fa3adef209856785ff6fac846697a",
     "67b2187a5527ed5c5ad851776041a947c98debdc208f2dffb9838b6392a74ec1",
+    "64a2843ac8aacad3176f29155b897d1f46f11db9af6c036347477e9f880554fc",
     "5e3ef273ef6e5d7bcea825e7b822edd4b4034750f07f4de30ebfb959ae4d4f21",
+    "58d97018384208bb135879b16f3348b76c5d8fd0e28c8bae6c2ca175fd3cfad5",
     "476ce1f0c059649a7a5664ce48a16570c27e52c8e44569a587d054ae081fbc17",
     "418151a02b7bf07f82694d370fdf04dbbca5e5c65932930e00d4b3f50f8fa59d",
     "3ff2604afcaea89703c28bd08e601083b7ddf82f9ffdc0a9792c0162ab03b4e2",
+    "3df85224e07b779d893616e9c6c0b3c49e9f6d87fda373073b8d7a2ea988c45f",
     "3947d709b3ca85a9a02147389000f59bf121d54cb0925739a1360290a05a2472",
+    "35057e5fcfc70d57a5e217aedde2ede8f79514c5dc16001a5c3d4707303c7ade",
     "34ade8a1e0c2838c3bd41b16056a126aeddec5246561ba426babe631f530edbe",
     "3438e0c4f9ebcff23c8284524a20c14e08a8fdc113003249eef8740abfaaaf5b",
     "331d9fa73b8ca1c3888e849cf7d09c734e82c387f805ac65b2b9787b4325ff4f",
+    "2c8c33f2b4e8868acd65ea5da75fc6acce393aff262d368b16f75717cf8e8d32",
     "2343e9e36bf1f942821d070ec13ded9705b05ba8a97f50a9e2c89c577f19ffbf",
     "22e320c759d3f4fee5ddda41454e781a62ddc4cc2e8698764faeb0f82895ab43",
     "2190edb9bb9e38b196334e834bac4f174a5dc5c2c954301699bb7e3aecd8df68",
+    "2165b32dc28e05d334d1b29f56a4ca700772e8ab55a32030885c13ab31f3ace9",
+    "1ae7417ac2a1a911f6c1c0fad0c4221b1191b66d4d03ad859b75c47735e58126",
+    "0f7270f99a828fef91a9a203525b65166c2aaaa7e27c6805e0726ffbde184ae0",
     "0cd1f0c865a9549c48d65870215aa13b1115058a5d5c9375e98caf190b3f2c76",
     "0bdd8e9102606c17702976ca2442c24a4fcbbbe2332626852024910f611d3027",
     "080d3cd63138b59996623390f66199ff6b714100df64eacde976325c3425d49a",
     "018482a6bda9833252a88f91f327ca0be056c4b0f2fa8ecf33970bf3f523b515",
+    "011db42f531a4b49b5b0c25c0ba78531931dad40ae51f6a3aafe8a9c07d73695",
     "fcdf34cad7f47432314316b0fbf67dbf68e47aa6c1dbb7dfd4d95bbb21eb8091",
     "fb7ec0bc1d9c537d1f74f36923ec5859fab4d1a296dd1588a4467f416a7fff09",
     "f9cfad1cf285d69cd46e815870bb5e5488ae05e5e66cbf0a61649aa89fcd31a7",
@@ -5019,6 +5059,26 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "fb853489a71c06f83c82c3291e8acc84fcc19b327bbf21fa5c724c36f5577a5b": {
+      "txid_hash": "fb853489a71c06f83c82c3291e8acc84fcc19b327bbf21fa5c724c36f5577a5b",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011251_1761",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/fb853489a71c06f83c82c3291e8acc84fcc19b327bbf21fa5c724c36f5577a5b.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011251_1761.json"
+    },
+    "f9e626548f84f87f138e2a04d2962ab82cde09710d60082b83e9a848e63716de": {
+      "txid_hash": "f9e626548f84f87f138e2a04d2962ab82cde09710d60082b83e9a848e63716de",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012149_1803",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/f9e626548f84f87f138e2a04d2962ab82cde09710d60082b83e9a848e63716de.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012149_1803.json"
+    },
     "f7cf74211058d57a78c23d134c653fb7251dabb70459c0cef6686ff19fd8e9d9": {
       "txid_hash": "f7cf74211058d57a78c23d134c653fb7251dabb70459c0cef6686ff19fd8e9d9",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5029,6 +5089,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/f7cf74211058d57a78c23d134c653fb7251dabb70459c0cef6686ff19fd8e9d9.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023001245_977.json"
     },
+    "f6433a5e35f37f781b79cab4488f77d2f5cf79d6da8d64e6fb32d00668f4f207": {
+      "txid_hash": "f6433a5e35f37f781b79cab4488f77d2f5cf79d6da8d64e6fb32d00668f4f207",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011258_1763",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/f6433a5e35f37f781b79cab4488f77d2f5cf79d6da8d64e6fb32d00668f4f207.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011258_1763.json"
+    },
     "f35e7c25f35f705635af87c4c27b2f7394fc5f82bbe6bfcc2840408c10a72bb7": {
       "txid_hash": "f35e7c25f35f705635af87c4c27b2f7394fc5f82bbe6bfcc2840408c10a72bb7",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5038,6 +5108,76 @@
       "telegram_message_id": "Edgar_20261023002001_1173",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/f35e7c25f35f705635af87c4c27b2f7394fc5f82bbe6bfcc2840408c10a72bb7.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023002001_1173.json"
+    },
+    "f0da6cbac55d437480e3bb42df820e47ee7963bc33000a3caf72bb479c56740d": {
+      "txid_hash": "f0da6cbac55d437480e3bb42df820e47ee7963bc33000a3caf72bb479c56740d",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011350_1775",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/f0da6cbac55d437480e3bb42df820e47ee7963bc33000a3caf72bb479c56740d.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011350_1775.json"
+    },
+    "ec068452a52f743a84484b9fb34f065c613b2012080991e774ea5d223c859388": {
+      "txid_hash": "ec068452a52f743a84484b9fb34f065c613b2012080991e774ea5d223c859388",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012243_1819",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/ec068452a52f743a84484b9fb34f065c613b2012080991e774ea5d223c859388.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012243_1819.json"
+    },
+    "e9fbb7e3f1f7b82d3e6e6cf7d0cbccebba988a9aea9479f00aab7a976f0362f0": {
+      "txid_hash": "e9fbb7e3f1f7b82d3e6e6cf7d0cbccebba988a9aea9479f00aab7a976f0362f0",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011653_1797",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/e9fbb7e3f1f7b82d3e6e6cf7d0cbccebba988a9aea9479f00aab7a976f0362f0.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011653_1797.json"
+    },
+    "e6af8d83443529fcfd2d8703e729e5f8126c24afc2dcee11a31474e578c7cf72": {
+      "txid_hash": "e6af8d83443529fcfd2d8703e729e5f8126c24afc2dcee11a31474e578c7cf72",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011305_1765",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/e6af8d83443529fcfd2d8703e729e5f8126c24afc2dcee11a31474e578c7cf72.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011305_1765.json"
+    },
+    "de0317d43be1aa87fa517da3783bb0d8c50c4b6be96c9b551107cf1ca9c87016": {
+      "txid_hash": "de0317d43be1aa87fa517da3783bb0d8c50c4b6be96c9b551107cf1ca9c87016",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261023010109_1729",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/de0317d43be1aa87fa517da3783bb0d8c50c4b6be96c9b551107cf1ca9c87016.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261023010109_1729.json"
+    },
+    "dd72716e71c8f94819096b97677b417c173a49536e2689152e0b3b0e55e85e6d": {
+      "txid_hash": "dd72716e71c8f94819096b97677b417c173a49536e2689152e0b3b0e55e85e6d",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011342_1773",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/dd72716e71c8f94819096b97677b417c173a49536e2689152e0b3b0e55e85e6d.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011342_1773.json"
+    },
+    "dc85a7076f8e424cd2ef597bfecaa4c55fa9cbdbf0e192b81e8cd0ffc91edb41": {
+      "txid_hash": "dc85a7076f8e424cd2ef597bfecaa4c55fa9cbdbf0e192b81e8cd0ffc91edb41",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012234_1817",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/dc85a7076f8e424cd2ef597bfecaa4c55fa9cbdbf0e192b81e8cd0ffc91edb41.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012234_1817.json"
     },
     "d7a8b6ed67811a699f6f81965c57a35317c8f24a77262a4719fa9f6502d4bd9c": {
       "txid_hash": "d7a8b6ed67811a699f6f81965c57a35317c8f24a77262a4719fa9f6502d4bd9c",
@@ -5059,6 +5199,26 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/d7545f63f5a6c34dda81c27455d71cc099fdb74220afc2a01bf3e8f917ad9b7f.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023002137_1203.json"
     },
+    "d56399903f9baf57f506f0e6eb74dda088d05aacc1b9a913052df75453eac708": {
+      "txid_hash": "d56399903f9baf57f506f0e6eb74dda088d05aacc1b9a913052df75453eac708",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012216_1813",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/d56399903f9baf57f506f0e6eb74dda088d05aacc1b9a913052df75453eac708.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012216_1813.json"
+    },
+    "d2f70b381885e3b02d2241bb8c0f937b186a59d3958c17419580af30d4fce3ab": {
+      "txid_hash": "d2f70b381885e3b02d2241bb8c0f937b186a59d3958c17419580af30d4fce3ab",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010422_1743",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/d2f70b381885e3b02d2241bb8c0f937b186a59d3958c17419580af30d4fce3ab.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010422_1743.json"
+    },
     "cd3d9396aa24c0116f4af19f73c6d1857bbf71e5290b8216cb49b7166cd8867b": {
       "txid_hash": "cd3d9396aa24c0116f4af19f73c6d1857bbf71e5290b8216cb49b7166cd8867b",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5068,6 +5228,16 @@
       "telegram_message_id": "Edgar_20261023003517_1471",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/cd3d9396aa24c0116f4af19f73c6d1857bbf71e5290b8216cb49b7166cd8867b.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023003517_1471.json"
+    },
+    "cade3de837cd8f190e8105d900aef4d9368d39bd6b66b53b04fd4bcaa694984c": {
+      "txid_hash": "cade3de837cd8f190e8105d900aef4d9368d39bd6b66b53b04fd4bcaa694984c",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010433_1745",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/cade3de837cd8f190e8105d900aef4d9368d39bd6b66b53b04fd4bcaa694984c.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010433_1745.json"
     },
     "c93e4667692c6a7bf38738fa7e44ebe31f1071e1893b078bb4ecb77a5f95fcf7": {
       "txid_hash": "c93e4667692c6a7bf38738fa7e44ebe31f1071e1893b078bb4ecb77a5f95fcf7",
@@ -5089,6 +5259,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/c757dda192ca3a08f1c31e768884b79eec6faf201bcdbb0880d91600d1b877cd.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023003334_1437.json"
     },
+    "c753ac1b8f865b0cfeba7600ab423bb4f4a6af7c75a532ffcd37154759835937": {
+      "txid_hash": "c753ac1b8f865b0cfeba7600ab423bb4f4a6af7c75a532ffcd37154759835937",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010443_1747",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/c753ac1b8f865b0cfeba7600ab423bb4f4a6af7c75a532ffcd37154759835937.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010443_1747.json"
+    },
     "c6f20a6fc98b00244407476aecd425854fb410d0b9432788baefb2b9fce65b23": {
       "txid_hash": "c6f20a6fc98b00244407476aecd425854fb410d0b9432788baefb2b9fce65b23",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5099,6 +5279,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/c6f20a6fc98b00244407476aecd425854fb410d0b9432788baefb2b9fce65b23.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023002554_1285.json"
     },
+    "c56f3a32d0838be7db2016f895f317fe66ec3829e59947503b2252f5975205ed": {
+      "txid_hash": "c56f3a32d0838be7db2016f895f317fe66ec3829e59947503b2252f5975205ed",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010454_1749",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/c56f3a32d0838be7db2016f895f317fe66ec3829e59947503b2252f5975205ed.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010454_1749.json"
+    },
     "c14d5c2f13c6e957b0095c1e3829cb1b83e9b28a6b0199259edf355dd894b9fe": {
       "txid_hash": "c14d5c2f13c6e957b0095c1e3829cb1b83e9b28a6b0199259edf355dd894b9fe",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5108,6 +5298,26 @@
       "telegram_message_id": "Edgar_20261023002424_1255",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/c14d5c2f13c6e957b0095c1e3829cb1b83e9b28a6b0199259edf355dd894b9fe.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023002424_1255.json"
+    },
+    "bcd37a4caf9405d3f9515b739d4da9d360bff70335523f6161e58e9b09472e07": {
+      "txid_hash": "bcd37a4caf9405d3f9515b739d4da9d360bff70335523f6161e58e9b09472e07",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011245_1759",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/bcd37a4caf9405d3f9515b739d4da9d360bff70335523f6161e58e9b09472e07.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011245_1759.json"
+    },
+    "bb3a73d9094440bc1fb1be14fb415dcf5eb1b1892a85f6628c18b7895335bda4": {
+      "txid_hash": "bb3a73d9094440bc1fb1be14fb415dcf5eb1b1892a85f6628c18b7895335bda4",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011609_1789",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/bb3a73d9094440bc1fb1be14fb415dcf5eb1b1892a85f6628c18b7895335bda4.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011609_1789.json"
     },
     "ba13a5425c8f40397c4509025c81f66687d2fdc99e2f00d675c48aff7d9a1b80": {
       "txid_hash": "ba13a5425c8f40397c4509025c81f66687d2fdc99e2f00d675c48aff7d9a1b80",
@@ -5129,6 +5339,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/b7a0037fb2cf5f9baa8c9dc89c90a753171d0f1b2d607a06748b4e96066f55d0.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023001537_1065.json"
     },
+    "b76b5db8a5e9207332c4995f36d4be8601c87da778ad7909b4fd5584c21797b9": {
+      "txid_hash": "b76b5db8a5e9207332c4995f36d4be8601c87da778ad7909b4fd5584c21797b9",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010341_1731",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/b76b5db8a5e9207332c4995f36d4be8601c87da778ad7909b4fd5584c21797b9.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010341_1731.json"
+    },
     "b4c56d3822d3d98e58aec7a7b1a10e6857de03bed6e1f09ec0323d28e7d8960b": {
       "txid_hash": "b4c56d3822d3d98e58aec7a7b1a10e6857de03bed6e1f09ec0323d28e7d8960b",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5138,6 +5358,16 @@
       "telegram_message_id": "Edgar_20261023000925_865",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/b4c56d3822d3d98e58aec7a7b1a10e6857de03bed6e1f09ec0323d28e7d8960b.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023000925_865.json"
+    },
+    "b441bdf518c4d533085272d9a00f66401eb48a3659f6b10e50aec35c7bceed53": {
+      "txid_hash": "b441bdf518c4d533085272d9a00f66401eb48a3659f6b10e50aec35c7bceed53",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011415_1781",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/b441bdf518c4d533085272d9a00f66401eb48a3659f6b10e50aec35c7bceed53.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011415_1781.json"
     },
     "b14b1e22843cf9bbe8d1961cc42695ee4fe2a76e5384a8172383e4555a4f0fc7": {
       "txid_hash": "b14b1e22843cf9bbe8d1961cc42695ee4fe2a76e5384a8172383e4555a4f0fc7",
@@ -5159,6 +5389,26 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/9b7c3ad690aaa4b5a30ec00f8b871c4b31be37ec2d2143f89d7d5fb5bc7d6d80.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023004649_1675.json"
     },
+    "9b6dc19b4361d5bf06be44f973fcf5c2d54dc8a8eb105122bf0fa5b17cf2c40b": {
+      "txid_hash": "9b6dc19b4361d5bf06be44f973fcf5c2d54dc8a8eb105122bf0fa5b17cf2c40b",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012158_1807",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/9b6dc19b4361d5bf06be44f973fcf5c2d54dc8a8eb105122bf0fa5b17cf2c40b.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012158_1807.json"
+    },
+    "95a03ba2d95e0c927290d20b4aca4212e02d3ee13316fb787efe369cb2c18c20": {
+      "txid_hash": "95a03ba2d95e0c927290d20b4aca4212e02d3ee13316fb787efe369cb2c18c20",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011645_1795",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/95a03ba2d95e0c927290d20b4aca4212e02d3ee13316fb787efe369cb2c18c20.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011645_1795.json"
+    },
     "954fd8269508b18c2d16c2961e228cc7f08c87c944817a2873230e69dbd1a930": {
       "txid_hash": "954fd8269508b18c2d16c2961e228cc7f08c87c944817a2873230e69dbd1a930",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5168,6 +5418,16 @@
       "telegram_message_id": "Edgar_20261023004235_1619",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/954fd8269508b18c2d16c2961e228cc7f08c87c944817a2873230e69dbd1a930.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023004235_1619.json"
+    },
+    "954346be8d3b6725e9dbc8789b35f061b1bd04ce15ef613d942b8dc214741145": {
+      "txid_hash": "954346be8d3b6725e9dbc8789b35f061b1bd04ce15ef613d942b8dc214741145",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012225_1815",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/954346be8d3b6725e9dbc8789b35f061b1bd04ce15ef613d942b8dc214741145.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012225_1815.json"
     },
     "914d0572ce44176d57906481bb66c316ea0191edb0988cd0cc249b932b2b00d9": {
       "txid_hash": "914d0572ce44176d57906481bb66c316ea0191edb0988cd0cc249b932b2b00d9",
@@ -5189,6 +5449,26 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/8902bb1da38cb491b9b15558adbe98ad22cd22aa250185665458cf5f6d453322.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023000606_757.json"
     },
+    "885cc2402481eef3ecc0ae7a49fd237f6b3a4685e61f59ac05c89054ee6c64a0": {
+      "txid_hash": "885cc2402481eef3ecc0ae7a49fd237f6b3a4685e61f59ac05c89054ee6c64a0",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011617_1791",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/885cc2402481eef3ecc0ae7a49fd237f6b3a4685e61f59ac05c89054ee6c64a0.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011617_1791.json"
+    },
+    "86b3125be6171d7ce2eb7c570453e046ac839681f3ab12292ce969a114b4b8cb": {
+      "txid_hash": "86b3125be6171d7ce2eb7c570453e046ac839681f3ab12292ce969a114b4b8cb",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012315_1827",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/86b3125be6171d7ce2eb7c570453e046ac839681f3ab12292ce969a114b4b8cb.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012315_1827.json"
+    },
     "8645cd5614ba2cc05280673828c84df78f62677b5978ca50387f68d9e41822ee": {
       "txid_hash": "8645cd5614ba2cc05280673828c84df78f62677b5978ca50387f68d9e41822ee",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5198,6 +5478,16 @@
       "telegram_message_id": "Edgar_20261023005501_1725",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/8645cd5614ba2cc05280673828c84df78f62677b5978ca50387f68d9e41822ee.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023005501_1725.json"
+    },
+    "81b55e747f35e2950b6c7ebb4b6e564d519965780648b910773490cfbb41c18f": {
+      "txid_hash": "81b55e747f35e2950b6c7ebb4b6e564d519965780648b910773490cfbb41c18f",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012209_1811",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/81b55e747f35e2950b6c7ebb4b6e564d519965780648b910773490cfbb41c18f.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012209_1811.json"
     },
     "7ddc5a5f78f2016185437c452bb477f2a68c9d6a7f5c47bf2f62b89dbb545495": {
       "txid_hash": "7ddc5a5f78f2016185437c452bb477f2a68c9d6a7f5c47bf2f62b89dbb545495",
@@ -5209,6 +5499,26 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/7ddc5a5f78f2016185437c452bb477f2a68c9d6a7f5c47bf2f62b89dbb545495.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023001712_1115.json"
     },
+    "7dd203f834e0ab221d2283629e4cfd65fa08d188e2862abbe979e0d6e2305376": {
+      "txid_hash": "7dd203f834e0ab221d2283629e4cfd65fa08d188e2862abbe979e0d6e2305376",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011358_1777",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/7dd203f834e0ab221d2283629e4cfd65fa08d188e2862abbe979e0d6e2305376.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011358_1777.json"
+    },
+    "7d56b4856093983ed826381655c1dcdd3198e8d29ced91dd7dd207760e5f43bd": {
+      "txid_hash": "7d56b4856093983ed826381655c1dcdd3198e8d29ced91dd7dd207760e5f43bd",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011601_1787",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/7d56b4856093983ed826381655c1dcdd3198e8d29ced91dd7dd207760e5f43bd.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011601_1787.json"
+    },
     "796b103db7aec30d642825c39501919f53a7814cf0d4f0ba3bb2441103599a22": {
       "txid_hash": "796b103db7aec30d642825c39501919f53a7814cf0d4f0ba3bb2441103599a22",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5218,6 +5528,46 @@
       "telegram_message_id": "Edgar_20261023005323_1695",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/796b103db7aec30d642825c39501919f53a7814cf0d4f0ba3bb2441103599a22.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023005323_1695.json"
+    },
+    "76a50d5cc814fea10de76db559f5b2246c5993a1b7382e47dd4bcf1a49c1335d": {
+      "txid_hash": "76a50d5cc814fea10de76db559f5b2246c5993a1b7382e47dd4bcf1a49c1335d",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010412_1741",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/76a50d5cc814fea10de76db559f5b2246c5993a1b7382e47dd4bcf1a49c1335d.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010412_1741.json"
+    },
+    "75279e130455d31c57e4c1b7e772350c0fad17d7af9332c8ee186c10a618eb10": {
+      "txid_hash": "75279e130455d31c57e4c1b7e772350c0fad17d7af9332c8ee186c10a618eb10",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012307_1825",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/75279e130455d31c57e4c1b7e772350c0fad17d7af9332c8ee186c10a618eb10.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012307_1825.json"
+    },
+    "751510f55b845702e46182d0dc9979cc504825996931cfc6bb8c478b996a349f": {
+      "txid_hash": "751510f55b845702e46182d0dc9979cc504825996931cfc6bb8c478b996a349f",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011332_1771",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/751510f55b845702e46182d0dc9979cc504825996931cfc6bb8c478b996a349f.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011332_1771.json"
+    },
+    "7336e0235795f635a7755fdcf7e67ff576f44ccd3dbe1a9f3584b4f7d2736f4b": {
+      "txid_hash": "7336e0235795f635a7755fdcf7e67ff576f44ccd3dbe1a9f3584b4f7d2736f4b",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012259_1823",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/7336e0235795f635a7755fdcf7e67ff576f44ccd3dbe1a9f3584b4f7d2736f4b.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012259_1823.json"
     },
     "71baabb712f74e240837a308d4a4a56d91aa0e796bcf33a38d197c54be70ef0f": {
       "txid_hash": "71baabb712f74e240837a308d4a4a56d91aa0e796bcf33a38d197c54be70ef0f",
@@ -5249,6 +5599,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/67b2187a5527ed5c5ad851776041a947c98debdc208f2dffb9838b6392a74ec1.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023001046_909.json"
     },
+    "64a2843ac8aacad3176f29155b897d1f46f11db9af6c036347477e9f880554fc": {
+      "txid_hash": "64a2843ac8aacad3176f29155b897d1f46f11db9af6c036347477e9f880554fc",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011632_1793",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/64a2843ac8aacad3176f29155b897d1f46f11db9af6c036347477e9f880554fc.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011632_1793.json"
+    },
     "5e3ef273ef6e5d7bcea825e7b822edd4b4034750f07f4de30ebfb959ae4d4f21": {
       "txid_hash": "5e3ef273ef6e5d7bcea825e7b822edd4b4034750f07f4de30ebfb959ae4d4f21",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5258,6 +5618,16 @@
       "telegram_message_id": "Edgar_20261023002834_1339",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/5e3ef273ef6e5d7bcea825e7b822edd4b4034750f07f4de30ebfb959ae4d4f21.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023002834_1339.json"
+    },
+    "58d97018384208bb135879b16f3348b76c5d8fd0e28c8bae6c2ca175fd3cfad5": {
+      "txid_hash": "58d97018384208bb135879b16f3348b76c5d8fd0e28c8bae6c2ca175fd3cfad5",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012139_1799",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/58d97018384208bb135879b16f3348b76c5d8fd0e28c8bae6c2ca175fd3cfad5.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012139_1799.json"
     },
     "476ce1f0c059649a7a5664ce48a16570c27e52c8e44569a587d054ae081fbc17": {
       "txid_hash": "476ce1f0c059649a7a5664ce48a16570c27e52c8e44569a587d054ae081fbc17",
@@ -5289,6 +5659,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/3ff2604afcaea89703c28bd08e601083b7ddf82f9ffdc0a9792c0162ab03b4e2.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023003110_1389.json"
     },
+    "3df85224e07b779d893616e9c6c0b3c49e9f6d87fda373073b8d7a2ea988c45f": {
+      "txid_hash": "3df85224e07b779d893616e9c6c0b3c49e9f6d87fda373073b8d7a2ea988c45f",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011407_1779",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/3df85224e07b779d893616e9c6c0b3c49e9f6d87fda373073b8d7a2ea988c45f.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011407_1779.json"
+    },
     "3947d709b3ca85a9a02147389000f59bf121d54cb0925739a1360290a05a2472": {
       "txid_hash": "3947d709b3ca85a9a02147389000f59bf121d54cb0925739a1360290a05a2472",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5298,6 +5678,16 @@
       "telegram_message_id": "Edgar_20261023004702_1679",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/3947d709b3ca85a9a02147389000f59bf121d54cb0925739a1360290a05a2472.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023004702_1679.json"
+    },
+    "35057e5fcfc70d57a5e217aedde2ede8f79514c5dc16001a5c3d4707303c7ade": {
+      "txid_hash": "35057e5fcfc70d57a5e217aedde2ede8f79514c5dc16001a5c3d4707303c7ade",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011314_1767",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/35057e5fcfc70d57a5e217aedde2ede8f79514c5dc16001a5c3d4707303c7ade.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011314_1767.json"
     },
     "34ade8a1e0c2838c3bd41b16056a126aeddec5246561ba426babe631f530edbe": {
       "txid_hash": "34ade8a1e0c2838c3bd41b16056a126aeddec5246561ba426babe631f530edbe",
@@ -5329,6 +5719,16 @@
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/331d9fa73b8ca1c3888e849cf7d09c734e82c387f805ac65b2b9787b4325ff4f.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/Edgar_20261023004228_1615.json"
     },
+    "2c8c33f2b4e8868acd65ea5da75fc6acce393aff262d368b16f75717cf8e8d32": {
+      "txid_hash": "2c8c33f2b4e8868acd65ea5da75fc6acce393aff262d368b16f75717cf8e8d32",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023012251_1821",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/2c8c33f2b4e8868acd65ea5da75fc6acce393aff262d368b16f75717cf8e8d32.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023012251_1821.json"
+    },
     "2343e9e36bf1f942821d070ec13ded9705b05ba8a97f50a9e2c89c577f19ffbf": {
       "txid_hash": "2343e9e36bf1f942821d070ec13ded9705b05ba8a97f50a9e2c89c577f19ffbf",
       "event_type": "[TREE PLANTING EVENT]",
@@ -5358,6 +5758,36 @@
       "telegram_message_id": "Edgar_20261023000808_823",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/2190edb9bb9e38b196334e834bac4f174a5dc5c2c954301699bb7e3aecd8df68.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023000808_823.json"
+    },
+    "2165b32dc28e05d334d1b29f56a4ca700772e8ab55a32030885c13ab31f3ace9": {
+      "txid_hash": "2165b32dc28e05d334d1b29f56a4ca700772e8ab55a32030885c13ab31f3ace9",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011544_1783",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/2165b32dc28e05d334d1b29f56a4ca700772e8ab55a32030885c13ab31f3ace9.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011544_1783.json"
+    },
+    "1ae7417ac2a1a911f6c1c0fad0c4221b1191b66d4d03ad859b75c47735e58126": {
+      "txid_hash": "1ae7417ac2a1a911f6c1c0fad0c4221b1191b66d4d03ad859b75c47735e58126",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011229_1753",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/1ae7417ac2a1a911f6c1c0fad0c4221b1191b66d4d03ad859b75c47735e58126.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011229_1753.json"
+    },
+    "0f7270f99a828fef91a9a203525b65166c2aaaa7e27c6805e0726ffbde184ae0": {
+      "txid_hash": "0f7270f99a828fef91a9a203525b65166c2aaaa7e27c6805e0726ffbde184ae0",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023011322_1769",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/0f7270f99a828fef91a9a203525b65166c2aaaa7e27c6805e0726ffbde184ae0.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023011322_1769.json"
     },
     "0cd1f0c865a9549c48d65870215aa13b1115058a5d5c9375e98caf190b3f2c76": {
       "txid_hash": "0cd1f0c865a9549c48d65870215aa13b1115058a5d5c9375e98caf190b3f2c76",
@@ -5398,6 +5828,16 @@
       "telegram_message_id": "Edgar_20261023004636_1671",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/018482a6bda9833252a88f91f327ca0be056c4b0f2fa8ecf33970bf3f523b515.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023004636_1671.json"
+    },
+    "011db42f531a4b49b5b0c25c0ba78531931dad40ae51f6a3aafe8a9c07d73695": {
+      "txid_hash": "011db42f531a4b49b5b0c25c0ba78531931dad40ae51f6a3aafe8a9c07d73695",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-10-23",
+      "contributor_name": "Edgar",
+      "event_type_folder": "tree_planting",
+      "telegram_message_id": "Edgar_20261023010508_1751",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/011db42f531a4b49b5b0c25c0ba78531931dad40ae51f6a3aafe8a9c07d73695.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261023010508_1751.json"
     },
     "fcdf34cad7f47432314316b0fbf67dbf68e47aa6c1dbb7dfd4d95bbb21eb8091": {
       "txid_hash": "fcdf34cad7f47432314316b0fbf67dbf68e47aa6c1dbb7dfd4d95bbb21eb8091",
