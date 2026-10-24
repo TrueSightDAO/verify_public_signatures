@@ -1,0 +1,15 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261024135314_2597",
+  "telegram_update_id": "Edgar_20261024135314_2598",
+  "submitted_at": "2026-10-24",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhhSHoIoZOQ1fa3+tfn73Qc+s30+30ZFUbwjFRdIaLSOgVcC1ClvDHnLrOv8Bk60umeAcvnwGOcL2mpNRLsrJ6C3L/L3iXIQQR3iB8wyonstUmwppGRubI7WbB7MIfb3Gwb1szAIhowJpnTKUGtFIs25ZjrBq2Mxq+OvHY+UTns1b1xkLygD9aBMcLLIOPGqkrxG4aK35hpO7OQXP+ewO+HdLGLNZi5nr6g0ZasOZXMcSzNbPKaq8XyDpbO2ehJQi/ZU0zA0SdqF86i+TVCaFjWl1lrs+USj8nLCj/kkP5kt2RasscbemlOUStMb6YbnPB72DXan6yvLmkiJY8KSKiwIDAQAB",
+  "signature": "V4mQuoAtGXfukfk91kXj8tmsKLy6ivpGbberi88ZIHoU9I6b9fDbmmBpmdqA1C3WeQKxnP9V8kgCIsGaDJRLFg4JcW4zr+2uTtInMDlo4iLdsuzf1UUQis0gVPp1cdJoIIR4RGx39kgqjErAlROSdBm7Zkz2vh+ZXTbs+UhSuusc6G99kMUCk9O0+gDM36V7KwrCP3jVhilCIe4X+dH208FfRMcvCcg3rFSSczVSKxTJzorqyw7bZwebeZHk+rjZ0TbWxhvotYUeMGLdv8lzfz20sjkqHz0ScHPEZfyMyTwzCC5igszOkSM5ZxpUrJumypCOQnCY73n2eEbSuke3YQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 0\n- Description: AUTHORIZED SECURITY TEST - SELF-SIGNED FORGERY PROBE - DO NOT PROCESS - i38537\n- Contributor(s): Pentest Probe (AUTHORIZED SECURITY TEST)\n- TDG Issued: 0.00\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 0\n- Description: AUTHORIZED SECURITY TEST - SELF-SIGNED FORGERY PROBE - DO NOT PROCESS - i38537\n- Contributor(s): Pentest Probe (AUTHORIZED SECURITY TEST)\n- TDG Issued: 0.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhhSHoIoZOQ1fa3+tfn73Qc+s30+30ZFUbwjFRdIaLSOgVcC1ClvDHnLrOv8Bk60umeAcvnwGOcL2mpNRLsrJ6C3L/L3iXIQQR3iB8wyonstUmwppGRubI7WbB7MIfb3Gwb1szAIhowJpnTKUGtFIs25ZjrBq2Mxq+OvHY+UTns1b1xkLygD9aBMcLLIOPGqkrxG4aK35hpO7OQXP+ewO+HdLGLNZi5nr6g0ZasOZXMcSzNbPKaq8XyDpbO2ehJQi/ZU0zA0SdqF86i+TVCaFjWl1lrs+USj8nLCj/kkP5kt2RasscbemlOUStMb6YbnPB72DXan6yvLmkiJY8KSKiwIDAQAB\n\nRequest Transaction ID: V4mQuoAtGXfukfk91kXj8tmsKLy6ivpGbberi88ZIHoU9I6b9fDbmmBpmdqA1C3WeQKxnP9V8kgCIsGaDJRLFg4JcW4zr+2uTtInMDlo4iLdsuzf1UUQis0gVPp1cdJoIIR4RGx39kgqjErAlROSdBm7Zkz2vh+ZXTbs+UhSuusc6G99kMUCk9O0+gDM36V7KwrCP3jVhilCIe4X+dH208FfRMcvCcg3rFSSczVSKxTJzorqyw7bZwebeZHk+rjZ0TbWxhvotYUeMGLdv8lzfz20sjkqHz0ScHPEZfyMyTwzCC5igszOkSM5ZxpUrJumypCOQnCY73n2eEbSuke3YQ==",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "V4mQuoAtGXfukfk91kXj8tmsKLy6ivpGbberi88ZIHoU9I6b9fDbmmBpmdqA1C3WeQKxnP9V8kgCIsGaDJRLFg4JcW4zr+2uTtInMDlo4iLdsuzf1UUQis0gVPp1cdJoIIR4RGx39kgqjErAlROSdBm7Zkz2vh+ZXTbs+UhSuusc6G99kMUCk9O0+gDM36V7KwrCP3jVhilCIe4X+dH208FfRMcvCcg3rFSSczVSKxTJzorqyw7bZwebeZHk+rjZ0TbWxhvotYUeMGLdv8lzfz20sjkqHz0ScHPEZfyMyTwzCC5igszOkSM5ZxpUrJumypCOQnCY73n2eEbSuke3YQ=="
+}
