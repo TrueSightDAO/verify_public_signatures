@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261025111127_2639",
+  "telegram_update_id": "Edgar_20261025111127_2640",
+  "submitted_at": "2026-10-25",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "GEswZbwXvVzG/AyGYBtAPNn9GRrhDXUDHU5chxKkmkPPvCBD65NKLchUYp9XUcCaj3bPcH+ly+7nFr5G+I8u3V+O56Hn9GQlfSECbEaYBLkQf0TeeTTXS2/AJr3Uf+mXcIgUgC4CuHVvTTPir8pjKnYlTuzMtYMPlMGVTdxBe7xwmkBvSwiKZUk64fqdP5DoDki00Ri3hHYAyqbUrcRrW0Vrb3YPoZ7Mzy2+NcxJu2T09D0VLF3Axs2L1YNlIMRwiA3dyz+dZuLY7siWsqKJz1tnWCE5CPo9nEic3bvoAPrlIPwxrHdiSDPq2DE7mpb5WyvI6tKq+MBBA3/tmdX8lQ==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Made arrangements for a pickup, tied to the Nomadic Thanksgiving Festival location. Evidence: screenshot showing the 'Nomadic Thanks Giving Festival location' label plus a chat capture at 7:05 PM.\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Made arrangements for a pickup, tied to the Nomadic Thanksgiving Festival location. Evidence: screenshot showing the 'Nomadic Thanks Giving Festival location' label plus a chat capture at 7:05 PM.\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: GEswZbwXvVzG/AyGYBtAPNn9GRrhDXUDHU5chxKkmkPPvCBD65NKLchUYp9XUcCaj3bPcH+ly+7nFr5G+I8u3V+O56Hn9GQlfSECbEaYBLkQf0TeeTTXS2/AJr3Uf+mXcIgUgC4CuHVvTTPir8pjKnYlTuzMtYMPlMGVTdxBe7xwmkBvSwiKZUk64fqdP5DoDki00Ri3hHYAyqbUrcRrW0Vrb3YPoZ7Mzy2+NcxJu2T09D0VLF3Axs2L1YNlIMRwiA3dyz+dZuLY7siWsqKJz1tnWCE5CPo9nEic3bvoAPrlIPwxrHdiSDPq2DE7mpb5WyvI6tKq+MBBA3/tmdX8lQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
