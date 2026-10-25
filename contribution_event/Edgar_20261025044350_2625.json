@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261025044350_2625",
+  "telegram_update_id": "Edgar_20261025044350_2626",
+  "submitted_at": "2026-10-25",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "signature": "JU41Cu2eOPyYsztKywuvxzpom0pxDaHqNaQMvr0/8ZjQDBvoOiiE39w/RG9GGbJoeEzbnR9k9GKD/+2MiwjzQ/TIno0q2PfE96efWgrAKuiHb4Cn2Q0PbJntVI71xN5KLhsk5KnfQSodEMbf5IU3DwGHb28nu4SRFyOMC5BaC3IhS+iAdFiBT2jwLsRucZ+lMp+MnuZNjfKKptO9QdQvEqogmr3JxPzyfNMKxEnRmKCb9tSsFWTnyaMUPIutH28txa1YU8n24aDo3HQeFwg1v3jeANy9FJGEGCvZqImC5LLYeepaLK6aTuZB4fiCr0fZxGV8wmLeCA07Vtu2of6srA==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Gary Teh direct time — directing the Vivi 81% bar PDP + QR code batch: product decisions (price/category/GTIN/images), QA catching the real-world defects (live Stripe checkout missing chocolate image, missing homepage card), confirming fixes and scope decisions throughout.\n- Contributor(s): Gary Teh\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Gary Teh direct time — directing the Vivi 81% bar PDP + QR code batch: product decisions (price/category/GTIN/images), QA catching the real-world defects (live Stripe checkout missing chocolate image, missing homepage card), confirming fixes and scope decisions throughout.\n- Contributor(s): Gary Teh\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: JU41Cu2eOPyYsztKywuvxzpom0pxDaHqNaQMvr0/8ZjQDBvoOiiE39w/RG9GGbJoeEzbnR9k9GKD/+2MiwjzQ/TIno0q2PfE96efWgrAKuiHb4Cn2Q0PbJntVI71xN5KLhsk5KnfQSodEMbf5IU3DwGHb28nu4SRFyOMC5BaC3IhS+iAdFiBT2jwLsRucZ+lMp+MnuZNjfKKptO9QdQvEqogmr3JxPzyfNMKxEnRmKCb9tSsFWTnyaMUPIutH28txa1YU8n24aDo3HQeFwg1v3jeANy9FJGEGCvZqImC5LLYeepaLK6aTuZB4fiCr0fZxGV8wmLeCA07Vtu2of6srA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
