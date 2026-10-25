@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-24T23:30:14Z",
+  "generated_at": "2026-10-25T01:00:15Z",
   "event_type": "[CURRENCY DEFINITION EVENT]",
-  "count": 18,
+  "count": 19,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260913010858_537",
@@ -23,7 +23,8 @@
     "Edgar_20261012231133_427",
     "Edgar_20261012231138_429",
     "Edgar_20261013002905_435",
-    "Edgar_20261016204709_215"
+    "Edgar_20261016204709_215",
+    "Edgar_20261025001257_2605"
   ],
   "events": {
     "Edgar_20260913010858_537": {
@@ -133,9 +134,15 @@
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-10-16",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261025001257_2605": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/Edgar_20261025001257_2605.json",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-10-25",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 18,
+  "txid_count": 19,
   "txids": {
     "2a877a0fa3db3dee147313559fc09160b9ae6bc52051aa8af0e2f9947d32816f": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/2a877a0fa3db3dee147313559fc09160b9ae6bc52051aa8af0e2f9947d32816f.json",
@@ -178,6 +185,13 @@
       "telegram_message_id": "Edgar_20261012231112_419",
       "event_type": "[CURRENCY DEFINITION EVENT]",
       "submitted_at": "2026-10-12"
+    },
+    "72ce95cbb9866e215d85ba10d1f644a4d3f73f5ffb8acdf4e3dd5276f1f97f56": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/72ce95cbb9866e215d85ba10d1f644a4d3f73f5ffb8acdf4e3dd5276f1f97f56.json",
+      "request_transaction_id": "AAq/xp2/HMCJyPlb6SWzx8e6sMbKc5QmwS/HGwUWn4mDHWdJrcjE5gq9yfMVcT/yQFOSPNvFIx2N1NTmJssHij5PvEUkY75lwdB0eQ5rzPDKS7hMdKp9v5AErK23tGbpisIjo7LjGhGkWwSAz/UVNEFbM59RAWkZOxXdXmBlxX0NJYiehu6MN0ePt4t42bkKJXmd58OqZwy3EnlslcNoENKmeKC7JfN14NViO781nEM9XAIb5pZlzxXgGfbhCblXZgvU3L3Q2Xl7O9cw0lIlP6vIM7MCI88J1zVZ5oQZghywFR+8kKS+FEQNRiIqPPBF8oUZj+1tkZlqgz5w0mZMZg==",
+      "telegram_message_id": "Edgar_20261025001257_2605",
+      "event_type": "[CURRENCY DEFINITION EVENT]",
+      "submitted_at": "2026-10-25"
     },
     "7325309274045984b86fe1cc6f7070a079819176bb53255cd3ca36d1eb267759": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_definition_event/7325309274045984b86fe1cc6f7070a079819176bb53255cd3ca36d1eb267759.json",
