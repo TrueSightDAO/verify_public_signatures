@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-24T23:30:14Z",
+  "generated_at": "2026-10-25T01:00:15Z",
   "event_type": "[CONTRIBUTION EVENT]",
-  "count": 2545,
+  "count": 2547,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "6718",
@@ -2550,7 +2550,9 @@
     "Edgar_20261024135111_2593",
     "Edgar_20261024135204_2595",
     "Edgar_20261024135314_2597",
-    "Edgar_20261024185750_2599"
+    "Edgar_20261024185750_2599",
+    "Edgar_20261025000858_2601",
+    "Edgar_20261025000905_2603"
   ],
   "events": {
     "6718": {
@@ -17822,9 +17824,21 @@
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-10-24",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261025000858_2601": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261025000858_2601.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-25",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261025000905_2603": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261025000905_2603.json",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-25",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 2530,
+  "txid_count": 2532,
   "txids": {
     "001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/001564e28b174e4e20a96f86c731be15eb5b8c669bb4e5e482ae42a056d48bcf.json",
@@ -20849,6 +20863,13 @@
       "telegram_message_id": "Edgar_20261021192507_181",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-10-21"
+    },
+    "2d39ea85dea945145aba9ecbd03ac6c958571478c6b6c0932f2fa051e3b7c54b": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/2d39ea85dea945145aba9ecbd03ac6c958571478c6b6c0932f2fa051e3b7c54b.json",
+      "request_transaction_id": "q4z97TsLyUkgivVE2OkpgKOOj1j2X1y5d9p6Xml/iVxBiALuUJIY7Y+1/VaTR5j+qEgcdldy8pzH96awhhuG30siSChMPXLGnqSRR9AZgrr9Cp65WQ/I+gNmYN68oeoQ1t9m+7x3HfBBeEuIYuSDvqT9HYSxgMPw1Kjk4CtnNJDI+MAWtfO5hUcTvMBIBR8R+YEkOn7BfECPv4S8cheqgKCNxf0Xm7XrGcyko/Ea6TkUmKunbRh/KX43O8hg9NtNTwGkn8iHkZi314dmIrIqYk4x10+J8kBJ4Pyv0MS49Ib00rmhSouGrQktY8pn/Hzlcw43EOvFYOaVwTwKtmDiqw==",
+      "telegram_message_id": "Edgar_20261025000858_2601",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-25"
     },
     "2d4530f88e464182476462c2f5c80c7c47d6b74da0648a8c4fcaf1eed53055a0": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/2d4530f88e464182476462c2f5c80c7c47d6b74da0648a8c4fcaf1eed53055a0.json",
@@ -32546,6 +32567,13 @@
       "telegram_message_id": "Edgar_20260320163026_074",
       "event_type": "[CONTRIBUTION EVENT]",
       "submitted_at": "2026-03-20"
+    },
+    "d64b39b1e05abc4c78e2178300552a38a20bfd406396d4b3cb32bf2a0ddf8ea1": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d64b39b1e05abc4c78e2178300552a38a20bfd406396d4b3cb32bf2a0ddf8ea1.json",
+      "request_transaction_id": "VKgPBNlVke4Lv8xFOXA1Cy3i2BFYkjMdwvF/gLlln6nsTzN9fCdhbrr109BpzgqFs6LkqIw2gc9Zktguln1E+WDiD1/vV8t/jKAtCrqrLq64PEPGp5zrOWiPllrxEQ4+qWhRb4BTlZeUS8W89Y8hI20uHo61IzPDG5QBhvVllZTY9G0720ioFlqmePGqby55m+eNxsi996URxxnvuJgnKMcGVu3hU+x/+KEMlmStGBrVKyNNIOPPi9YlmSDhpaljZpZIjMaOyE7SBeqIWQsGhSkfY+Q32adJ1l/4iwPmnloxeV06hBBNXtOGGqV1ncALAgYBnmvuAHRHF7SRGTu8fw==",
+      "telegram_message_id": "Edgar_20261025000905_2603",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-25"
     },
     "d6625069c629d0acb9e73cadfac31300f72aa8cac3d35fb43ed5a9f51ff5175c": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d6625069c629d0acb9e73cadfac31300f72aa8cac3d35fb43ed5a9f51ff5175c.json",
