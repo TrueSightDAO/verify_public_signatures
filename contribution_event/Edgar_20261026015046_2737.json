@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261026015046_2737",
+  "telegram_update_id": "Edgar_20261026015046_2738",
+  "submitted_at": "2026-10-26",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "AnPBGjzBTd1D4fxbR6ZURt+YH1AGo6eGGkJFGIYlDMtMFLhDG3lKZx0f/sTKDUhF/PipifYnmYvEmJhxvFFIPYiZ08AgcwYLD//SaTCy9QcaDgYRIp1gQSOOk4Qx7zepVnjMZl9KV+ZYTdbOrzJFG5GoBKcU6R0A4lwSQ0k/SnjLIh0FxcTVuuE6iA//KrKj6vmoGKx7vfdJ2ctIUwHfyrhFXO97eM+Jo+9CPgJmSRkPEV4RE+KOWmjfF661/Zq2bVFFnXpDBgbpCUXzUKWaKHgS9mUdz1bOD67NNM1uisHGnqer7j6M3/EGXql/MRK3jB53qgXe/ohHGSI2FbW04Q==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 10\n- Contributor(s): Gary Teh\n- Description: Explained / walked through a topic with Lawrence Kwek (contact thread captured). Evidence screenshot shows only the contact header — message bodies were not rendered in the capture, so the subject matter is not recoverable from the image; recorded on the governor's statement.\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 10\n- Contributor(s): Gary Teh\n- Description: Explained / walked through a topic with Lawrence Kwek (contact thread captured). Evidence screenshot shows only the contact header — message bodies were not rendered in the capture, so the subject matter is not recoverable from the image; recorded on the governor's statement.\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: AnPBGjzBTd1D4fxbR6ZURt+YH1AGo6eGGkJFGIYlDMtMFLhDG3lKZx0f/sTKDUhF/PipifYnmYvEmJhxvFFIPYiZ08AgcwYLD//SaTCy9QcaDgYRIp1gQSOOk4Qx7zepVnjMZl9KV+ZYTdbOrzJFG5GoBKcU6R0A4lwSQ0k/SnjLIh0FxcTVuuE6iA//KrKj6vmoGKx7vfdJ2ctIUwHfyrhFXO97eM+Jo+9CPgJmSRkPEV4RE+KOWmjfF661/Zq2bVFFnXpDBgbpCUXzUKWaKHgS9mUdz1bOD67NNM1uisHGnqer7j6M3/EGXql/MRK3jB53qgXe/ohHGSI2FbW04Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
