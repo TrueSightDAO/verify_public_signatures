@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-25T01:00:15Z",
+  "generated_at": "2026-10-26T12:30:18Z",
   "event_type": "[BATCH QR CODE REQUEST]",
-  "count": 13,
+  "count": 14,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20250901194420_126",
@@ -18,7 +18,8 @@
     "Edgar_20260620230146_008",
     "Edgar_20260622221003_004",
     "Edgar_20260710212015_060",
-    "Edgar_20260913181448_013"
+    "Edgar_20260913181448_013",
+    "Edgar_20261025030504_2611"
   ],
   "events": {
     "Edgar_20250901194420_126": {
@@ -98,9 +99,15 @@
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2026-09-13",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261025030504_2611": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20261025030504_2611.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-10-25",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 13,
+  "txid_count": 14,
   "txids": {
     "136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6.json",
@@ -192,6 +199,13 @@
       "telegram_message_id": "Edgar_20250901210345_132",
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2025-09-01"
+    },
+    "d8d490a0d1e7eb8d4fc16d2db417cc106bc64d010f1098d02cae73cdef10f678": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/d8d490a0d1e7eb8d4fc16d2db417cc106bc64d010f1098d02cae73cdef10f678.json",
+      "request_transaction_id": "GY48zVfBEECQWq7l6Xvj0jkyyIlQlsFk7hMJP0VyAbW15LjdUGkp2CeGvNkqDNGzQSBOujGQUe5W95iapWG+GjXG/hV8oEax1bUm4uBh0UXi8fkPUwRhUT/Dw8dGShrIoN/9BUX5dlBSXJAsalwL26i7Kud5c7zzId1m0OmdU55NCfTy5Ck42yxWV6tcsST0SlvRrgaaa3x4R6lTCX2WqU1p8grI333FVB0hUx0Ssc46hJJ2u47UyAMjKsx9JAAPzENRu5SDgcJc1D3pZmqFOMmHHqhHREwcPxqAlF8mT2ZYWam4fowXcwNM9+0bksNLQeiIabK0oo3AQwybzCee2A==",
+      "telegram_message_id": "Edgar_20261025030504_2611",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-10-25"
     }
   }
 }
