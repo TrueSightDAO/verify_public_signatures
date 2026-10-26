@@ -1,23 +1,23 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-25T01:00:15Z",
-  "total_count": 6207,
+  "generated_at": "2026-10-26T12:30:18Z",
+  "total_count": 6279,
   "test_events_count": 138,
   "excluded_pii_count": 1878,
   "other_signed_count": 10,
-  "total_txid_count": 5103,
-  "txid_mirror_count": 5103,
-  "txid_dup_groups": 183,
-  "txid_extra_files_collapsed": 1094,
+  "total_txid_count": 5169,
+  "txid_mirror_count": 5169,
+  "txid_dup_groups": 186,
+  "txid_extra_files_collapsed": 1100,
   "txid_mirror_collisions": 0,
   "event_types": {
     "asset_receipt_event": {
-      "count": 32,
+      "count": 33,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/index.json"
     },
     "batch_qr_code_request": {
-      "count": 13,
+      "count": 14,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/index.json"
     },
     "capital_injection_event": {
@@ -25,7 +25,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2547,
+      "count": 2574,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "contribution_review_event": {
@@ -113,7 +113,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/pentest_authorization_test_event/index.json"
     },
     "practice_event": {
-      "count": 228,
+      "count": 230,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
@@ -161,11 +161,11 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_growth_monitoring/index.json"
     },
     "tree_planting": {
-      "count": 1473,
+      "count": 1513,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/index.json"
     },
     "tree_planting_link": {
-      "count": 22,
+      "count": 23,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting_link/index.json"
     },
     "tree_planting_reject": {
