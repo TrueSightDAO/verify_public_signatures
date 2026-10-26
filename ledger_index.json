@@ -1,12 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-26T14:30:15Z",
+  "generated_at": "2026-10-26T16:00:15Z",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5170,
+  "count": 5171,
   "events_ordered": [
     "f7e50fa9aeb34ea83d1b4bf74ef0ac10e1b4859998dedb7e368701f9939d4a35",
+    "f372e7ea1609304a5b583e182535fdbf661c830f86e4520d50d3927f0f93cbe0",
     "f1ebbdd27a3f0907307bc9d06c8082b5ef30916d9d01fb29e34fafc88dbcc8dc",
     "9d3efbb4f2c05a61d22f7dc473e6aab4042eb2fbbc6658858d37190dca3f40e3",
     "9a36ae137ab45885c6d04a852a32fb37bb15824a8b5c4ff08eeda8f850a60493",
@@ -5187,6 +5188,16 @@
       "telegram_message_id": "Edgar_20261026122445_2749",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/f7e50fa9aeb34ea83d1b4bf74ef0ac10e1b4859998dedb7e368701f9939d4a35.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261026122445_2749.json"
+    },
+    "f372e7ea1609304a5b583e182535fdbf661c830f86e4520d50d3927f0f93cbe0": {
+      "txid_hash": "f372e7ea1609304a5b583e182535fdbf661c830f86e4520d50d3927f0f93cbe0",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-10-26",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261026145209_2755",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/f372e7ea1609304a5b583e182535fdbf661c830f86e4520d50d3927f0f93cbe0.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261026145209_2755.json"
     },
     "f1ebbdd27a3f0907307bc9d06c8082b5ef30916d9d01fb29e34fafc88dbcc8dc": {
       "txid_hash": "f1ebbdd27a3f0907307bc9d06c8082b5ef30916d9d01fb29e34fafc88dbcc8dc",
