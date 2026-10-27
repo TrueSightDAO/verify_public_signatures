@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27T14:00:16Z",
-  "total_count": 6292,
+  "generated_at": "2026-10-27T20:00:16Z",
+  "total_count": 6313,
   "test_events_count": 138,
   "excluded_pii_count": 1880,
   "other_signed_count": 10,
-  "total_txid_count": 5182,
-  "txid_mirror_count": 5182,
+  "total_txid_count": 5203,
+  "txid_mirror_count": 5203,
   "txid_dup_groups": 186,
   "txid_extra_files_collapsed": 1100,
   "txid_mirror_collisions": 0,
@@ -17,7 +17,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/index.json"
     },
     "batch_qr_code_request": {
-      "count": 14,
+      "count": 15,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/index.json"
     },
     "capital_injection_event": {
@@ -25,7 +25,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2581,
+      "count": 2582,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "contribution_review_event": {
@@ -113,7 +113,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/pentest_authorization_test_event/index.json"
     },
     "practice_event": {
-      "count": 231,
+      "count": 232,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
@@ -145,7 +145,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/index.json"
     },
     "sales_event": {
-      "count": 284,
+      "count": 302,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/index.json"
     },
     "store_add_event": {
