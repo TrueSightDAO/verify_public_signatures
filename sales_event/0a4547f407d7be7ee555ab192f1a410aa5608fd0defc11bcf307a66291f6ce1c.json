@@ -1,0 +1,15 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20261027145622_2799",
+  "telegram_update_id": "Edgar_20261027145622_2800",
+  "submitted_at": "2026-10-27",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "Dbg0lFd4W9y3cl5cH2cfsltwJzx7o0ifAJCmZgnl+LR+q2StK/M98UvoztQaF/Cl4936YmAPog/GkKk4QXxs3hh4EjOGbtai3A38T8nJLrIm1OgGu9cM6arTEvl+XZx7g5T60Ogmpp8Kq+HO8/8/a1q/Ti8omg1CioQ+otGnsY8P4cHpZIjThhvn5rONhl7GsL/cUyfinve+NUu0mZY334TfBDIIim1NnwueCDcg+z5ut20MXKPkDsXaMcargOeHsGooEH0Jb9l8wf9HmQQHh1Jp1wfKlgR42pWgYfZ3og3PR+Fbivrcisw4AXeizaXQ2yFX8CBJeuG1qCQJqS9stg==",
+  "signed_payload": "[SALES EVENT]\n- Cash proceeds collected by: Sacred Earth Farms\n- Item: 2024OSCAR_20251211_7\n- Sales price: $17\n- Sold by: Sacred Earth Farms\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------",
+  "signed_text": "[SALES EVENT]\n- Cash proceeds collected by: Sacred Earth Farms\n- Item: 2024OSCAR_20251211_7\n- Sales price: $17\n- Sold by: Sacred Earth Farms\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Dbg0lFd4W9y3cl5cH2cfsltwJzx7o0ifAJCmZgnl+LR+q2StK/M98UvoztQaF/Cl4936YmAPog/GkKk4QXxs3hh4EjOGbtai3A38T8nJLrIm1OgGu9cM6arTEvl+XZx7g5T60Ogmpp8Kq+HO8/8/a1q/Ti8omg1CioQ+otGnsY8P4cHpZIjThhvn5rONhl7GsL/cUyfinve+NUu0mZY334TfBDIIim1NnwueCDcg+z5ut20MXKPkDsXaMcargOeHsGooEH0Jb9l8wf9HmQQHh1Jp1wfKlgR42pWgYfZ3og3PR+Fbivrcisw4AXeizaXQ2yFX8CBJeuG1qCQJqS9stg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "Dbg0lFd4W9y3cl5cH2cfsltwJzx7o0ifAJCmZgnl+LR+q2StK/M98UvoztQaF/Cl4936YmAPog/GkKk4QXxs3hh4EjOGbtai3A38T8nJLrIm1OgGu9cM6arTEvl+XZx7g5T60Ogmpp8Kq+HO8/8/a1q/Ti8omg1CioQ+otGnsY8P4cHpZIjThhvn5rONhl7GsL/cUyfinve+NUu0mZY334TfBDIIim1NnwueCDcg+z5ut20MXKPkDsXaMcargOeHsGooEH0Jb9l8wf9HmQQHh1Jp1wfKlgR42pWgYfZ3og3PR+Fbivrcisw4AXeizaXQ2yFX8CBJeuG1qCQJqS9stg=="
+}
