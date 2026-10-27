@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27T14:00:16Z",
+  "generated_at": "2026-10-27T20:00:16Z",
   "event_type": "[BATCH QR CODE REQUEST]",
-  "count": 14,
+  "count": 15,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20250901194420_126",
@@ -19,7 +19,8 @@
     "Edgar_20260622221003_004",
     "Edgar_20260710212015_060",
     "Edgar_20260913181448_013",
-    "Edgar_20261025030504_2611"
+    "Edgar_20261025030504_2611",
+    "Edgar_20261027150620_2821"
   ],
   "events": {
     "Edgar_20250901194420_126": {
@@ -105,10 +106,23 @@
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2026-10-25",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261027150620_2821": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20261027150620_2821.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-10-27",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 14,
+  "txid_count": 15,
   "txids": {
+    "09a184e0ae238c693b884c9333d4de901577795553972764ac34e01faea90c46": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/09a184e0ae238c693b884c9333d4de901577795553972764ac34e01faea90c46.json",
+      "request_transaction_id": "qgSeMAhE+IA4Z280LzzsAfWunOUkuygWA8WBafWMDY/GQmBaAFOplxcRr5brBwMiyYUyPH3p0Em/R2VKmDp4SMY5cdX7GRTylQyAG1TOPvuNcTzVKfbzWUbTevygitGxIiVneKH39bxMCDjGX1s2091YhyRtvIfvUypHnK5f9ILoBYE2WINBeVW2e8plGDuAZqGLd2R8NQz8CQmxjuF7xDJegSp1TtaumVXl/itmucmh9w5jCoLpOaNVyAfFA9SgC2BL+UmFJ8qfRZ2WumI/KfAenIaoMNuDrr8J2a9164ZMjcTNZAwaHFeLhmELDzRl99UhMMJTX9qkoqYPdeKWag==",
+      "telegram_message_id": "Edgar_20261027150620_2821",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-10-27"
+    },
     "136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/136ef847c2852b657cfe65b4694fd268472c8ddd51b5bc18489abae673d071e6.json",
       "request_transaction_id": "rOOunIFhwOz5GIVfEe7Mki7ukht/jPY0pl0FV4tqkxAzginVa+IVzTRytKmF4Q90rJtZUk9YTyGDDnhqsgBGK8b/jLfQJKLudFeWIkjjalJ/dRxwLmie0PHjLy0bq5hqC6izipqA1ZlB1WruIwMpEty4tHCBCavoRvEZkxJdNFVs19CpS5jDzLgfmWUfXE/XKiTZbUFOPit0E6RmR4g1aSRChLSXSIsH7FmPxuTJORFbpBUpcCDoWM9ITps1+00GPK12C7JXzI1ShcAdNIXevxj/FP87Qc85XTV/nPBy1Wp0cOf5VimyS6gqafrL+oPBq8Dw7nY6u/x1ni3CYt16pQ==",
