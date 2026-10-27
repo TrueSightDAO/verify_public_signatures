@@ -1,14 +1,15 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27T08:00:15Z",
+  "generated_at": "2026-10-27T12:00:17Z",
   "event_type": "[REPACKAGING BATCH EVENT]",
-  "count": 3,
+  "count": 4,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260419044111_010",
     "Edgar_20260620225943_004",
-    "Edgar_20260710185310_024"
+    "Edgar_20260710185310_024",
+    "Edgar_20261027094801_2767"
   ],
   "events": {
     "Edgar_20260419044111_010": {
@@ -28,10 +29,23 @@
       "event_type": "[REPACKAGING BATCH EVENT]",
       "submitted_at": "2026-07-10",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261027094801_2767": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/Edgar_20261027094801_2767.json",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-10-27",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 3,
+  "txid_count": 4,
   "txids": {
+    "64e069cd51125f875895e7a154d07165b8e0cd9273cee55ceb455eee6123b559": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/64e069cd51125f875895e7a154d07165b8e0cd9273cee55ceb455eee6123b559.json",
+      "request_transaction_id": "qQUo9C1fgi76QQlTBlqRqeldflYgIFGOv9sqy3hQA+SsFiMgVR8KuQczaebJgp60ruBmuOVsp1bBwg9SSMtXaRt5MO5W4YkxvnlYjv2H6i56Y9wm6Qp7azjFl6VgajyzSf4Uw6fxTsjL0lTzyVySi7bVKNTHoW5Ivnydc3mxgL3KtYzDY4+OvW6GofyFIESHU0TWxnEFEIAAoQ8IFudTFsnBsT5YmnUii8X3uR61B+flYGSMYlUoxY6GdTfGmm1ttHaAloB5VbhYChJkbTc7gx2tP8869ONkuGhrVy8mK5/g/j1rDhK4mSqK/DU2M+BsgiTPCZHt9R9R0LBTIHMrhg==",
+      "telegram_message_id": "Edgar_20261027094801_2767",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-10-27"
+    },
     "96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c.json",
       "request_transaction_id": "bpp+QYnEUNn3P9+HKCsfuTY0AkZZtLS4d/vaYULs9KvalMevFsdsVCalJQmTfNouVdsZkh6qlnnjlcEtZJJBxUHGbZuZvDjZdouk2f7+KqcCUK1QYdWtAsy5sJdYcR6eGfQDiGh04x4Dwpjd/A7sbDU0kEnB6I0K++US0rvZhsjEJhK9f7/OKP4XQtL4mTnGaScmsnFKOz5QvXpXs+TO83tGOYXmUuTNne/5FzDy/szu3+N5rGzJ1om168l9Q52l7sN09QwLrRWDVLOxvR2XR/Q1YG0JiRZ+T0yusmYNCRncjZAkKqw3cbnp/wWca4h1HDlx7Y8IUJ3koFlNNiM97w==",
