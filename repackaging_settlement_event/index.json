@@ -1,15 +1,16 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27T08:00:15Z",
+  "generated_at": "2026-10-27T12:00:17Z",
   "event_type": "[REPACKAGING SETTLEMENT EVENT]",
-  "count": 4,
+  "count": 5,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260628225150_1958",
     "Edgar_20260710185419_026",
     "Edgar_20261015012951_095",
-    "Edgar_20261015022045_111"
+    "Edgar_20261015022045_111",
+    "Edgar_20261027095535_2769"
   ],
   "events": {
     "Edgar_20260628225150_1958": {
@@ -35,9 +36,15 @@
       "event_type": "[REPACKAGING SETTLEMENT EVENT]",
       "submitted_at": "2026-10-15",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261027095535_2769": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/Edgar_20261027095535_2769.json",
+      "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+      "submitted_at": "2026-10-27",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 4,
+  "txid_count": 5,
   "txids": {
     "0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/0aea8f048dd981c7c055c086301e0b6d516f5a920db7859625155bf71e40d708.json",
@@ -45,6 +52,13 @@
       "telegram_message_id": "Edgar_20261015012951_095",
       "event_type": "[REPACKAGING SETTLEMENT EVENT]",
       "submitted_at": "2026-10-15"
+    },
+    "230e4037745d137fd727d52c4e09e849380616bb577fe1d645e36999c737c605": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/230e4037745d137fd727d52c4e09e849380616bb577fe1d645e36999c737c605.json",
+      "request_transaction_id": "D3gp3Ke517ETszbgFVMaRZTlAd33UZhbhqF/SFHZhN3VX4WgoqpFf2gqHVLDBQDoaJxbK4OQEkSLdcGHjqudBhFUP258ayv4ZXdmB6pVi/N28Tgmhxmq0UdPlV4F6qcdJesSeW/qGcWhbAHrkqiZ+hxsW/M/WnubO7Uvi54Bqe5IgHN60Cjh0+uCdBL3lSwv60zGTUqpcc2A0pLNvwlSIOTqTXdYlgyVP1+xq2cIAW4/o5kz24rqTritobeDVQQC9Uom9xEplKePWA2KwxYxDvwwOBd6utVmfWRZUr4Fe0HAPwDYqp+q1T/1REDlYOrJF+GRdaDYchtUJe3A1vZUxg==",
+      "telegram_message_id": "Edgar_20261027095535_2769",
+      "event_type": "[REPACKAGING SETTLEMENT EVENT]",
+      "submitted_at": "2026-10-27"
     },
     "c3d1b6a46be1d6f17238120332f5f845fec9ad079976b15f8d028919cadbdc8e": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/c3d1b6a46be1d6f17238120332f5f845fec9ad079976b15f8d028919cadbdc8e.json",
