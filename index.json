@@ -1,19 +1,19 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27T08:00:15Z",
-  "total_count": 6286,
+  "generated_at": "2026-10-27T12:00:17Z",
+  "total_count": 6292,
   "test_events_count": 138,
-  "excluded_pii_count": 1879,
+  "excluded_pii_count": 1880,
   "other_signed_count": 10,
-  "total_txid_count": 5176,
-  "txid_mirror_count": 5176,
+  "total_txid_count": 5182,
+  "txid_mirror_count": 5182,
   "txid_dup_groups": 186,
   "txid_extra_files_collapsed": 1100,
   "txid_mirror_collisions": 0,
   "event_types": {
     "asset_receipt_event": {
-      "count": 33,
+      "count": 34,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/asset_receipt_event/index.json"
     },
     "batch_qr_code_request": {
@@ -25,7 +25,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2580,
+      "count": 2581,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "contribution_review_event": {
@@ -77,7 +77,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/farm_registration_event/index.json"
     },
     "inventory_movement": {
-      "count": 688,
+      "count": 689,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/index.json"
     },
     "invoice_contribution": {
@@ -133,11 +133,11 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/index.json"
     },
     "repackaging_batch_event": {
-      "count": 3,
+      "count": 4,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/index.json"
     },
     "repackaging_settlement_event": {
-      "count": 4,
+      "count": 5,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_settlement_event/index.json"
     },
     "retail_field_report_event": {
@@ -145,7 +145,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/retail_field_report_event/index.json"
     },
     "sales_event": {
-      "count": 283,
+      "count": 284,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/sales_event/index.json"
     },
     "store_add_event": {
