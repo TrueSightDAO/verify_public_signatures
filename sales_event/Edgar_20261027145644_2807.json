@@ -1,0 +1,14 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20261027145644_2807",
+  "telegram_update_id": "Edgar_20261027145644_2808",
+  "submitted_at": "2026-10-27",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "s3Wzr0maW+ngMwwH01rfMdmUu0EmwwV/tw0rjREBo5KJNWXTPXs/1R01wFpQhTxDZ50c1bmHMQntM94U0Vaj1iE1ma3TP7x+01DrruxEoKx/nNruss/3TCnTiwxOzMLVDjpBbzg0Q6hMwHH00LtZIWDFu2cHbTgNqgMtZM24viX4NVJIIdoqINaihr40uHk4/b95AQEXEfwijDKpHUuhSaC8FIavO/rFlp8SZHMu/QCh6Aa+qXlzVFKFG4r8ayNF9evQXwffVjuHhEwibPj1pzuVGVpNWsNrvlUwkdqqYn0yx1tfPLM8pbjpgFgLWRJ26YyBghsbCaOxHh7/VNJ/mg==",
+  "signed_payload": "[SALES EVENT]\n- Cash proceeds collected by: Sacred Earth Farms\n- Item: 2024OSCAR_20251211_11\n- Sales price: $17\n- Sold by: Sacred Earth Farms\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------",
+  "signed_text": "[SALES EVENT]\n- Cash proceeds collected by: Sacred Earth Farms\n- Item: 2024OSCAR_20251211_11\n- Sales price: $17\n- Sold by: Sacred Earth Farms\n- Submission Source: https://dapp.truesight.me/report_sales.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: s3Wzr0maW+ngMwwH01rfMdmUu0EmwwV/tw0rjREBo5KJNWXTPXs/1R01wFpQhTxDZ50c1bmHMQntM94U0Vaj1iE1ma3TP7x+01DrruxEoKx/nNruss/3TCnTiwxOzMLVDjpBbzg0Q6hMwHH00LtZIWDFu2cHbTgNqgMtZM24viX4NVJIIdoqINaihr40uHk4/b95AQEXEfwijDKpHUuhSaC8FIavO/rFlp8SZHMu/QCh6Aa+qXlzVFKFG4r8ayNF9evQXwffVjuHhEwibPj1pzuVGVpNWsNrvlUwkdqqYn0yx1tfPLM8pbjpgFgLWRJ26YyBghsbCaOxHh7/VNJ/mg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
