@@ -1,0 +1,15 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261028135256_2849",
+  "telegram_update_id": "Edgar_20261028135256_2850",
+  "submitted_at": "2026-10-28",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "dnPx47cNL5vlh9t/2BeJuL4AsrKBX/WH8fsFWHIgytkzw9YwctgPcetKAvC6bhitBdIfLe3bL48r3HLyhp4kmOh1/Z3guATuPGt6pIDZIqvmNNVzFKtttdDTq3hUCqcj4PiYzqo/re6y3e4wbjpfiJ/o3Ng+1v4GryPWjKw70Y6fDWM0Z1V4sPXwSyBGosjKbu1RfTKQUDLH23K7iyw/vqTxSaUoHIeo3QuTMxnrUTbi2NSB5Fw2lmKlLqQIPXZJqfW+mZ6dwyzFQI8958qxIXNraNndUyTme8yJpr9+gkmadFpQM/pu+wy14xePzqj7qjrvb8An3YNP8TerDbjuxw==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Amount: 21.20\n- Contributor(s): Gary Teh\n- Description: DeepSeek API tokens — reimbursable USD expense (LLM inference for DAO agent workloads). Receipt 8342ea0bf9a84bf9b35485b2a7ef6040, payment 3V056239MU164051D, paid 2026-10-28 via PayPal. Subtotal USD 20.00 + VAT-China 6% USD 1.20 = USD 21.20 total paid.\n- Type: USD\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Amount: 21.20\n- Contributor(s): Gary Teh\n- Description: DeepSeek API tokens — reimbursable USD expense (LLM inference for DAO agent workloads). Receipt 8342ea0bf9a84bf9b35485b2a7ef6040, payment 3V056239MU164051D, paid 2026-10-28 via PayPal. Subtotal USD 20.00 + VAT-China 6% USD 1.20 = USD 21.20 total paid.\n- Type: USD\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: dnPx47cNL5vlh9t/2BeJuL4AsrKBX/WH8fsFWHIgytkzw9YwctgPcetKAvC6bhitBdIfLe3bL48r3HLyhp4kmOh1/Z3guATuPGt6pIDZIqvmNNVzFKtttdDTq3hUCqcj4PiYzqo/re6y3e4wbjpfiJ/o3Ng+1v4GryPWjKw70Y6fDWM0Z1V4sPXwSyBGosjKbu1RfTKQUDLH23K7iyw/vqTxSaUoHIeo3QuTMxnrUTbi2NSB5Fw2lmKlLqQIPXZJqfW+mZ6dwyzFQI8958qxIXNraNndUyTme8yJpr9+gkmadFpQM/pu+wy14xePzqj7qjrvb8An3YNP8TerDbjuxw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "dnPx47cNL5vlh9t/2BeJuL4AsrKBX/WH8fsFWHIgytkzw9YwctgPcetKAvC6bhitBdIfLe3bL48r3HLyhp4kmOh1/Z3guATuPGt6pIDZIqvmNNVzFKtttdDTq3hUCqcj4PiYzqo/re6y3e4wbjpfiJ/o3Ng+1v4GryPWjKw70Y6fDWM0Z1V4sPXwSyBGosjKbu1RfTKQUDLH23K7iyw/vqTxSaUoHIeo3QuTMxnrUTbi2NSB5Fw2lmKlLqQIPXZJqfW+mZ6dwyzFQI8958qxIXNraNndUyTme8yJpr9+gkmadFpQM/pu+wy14xePzqj7qjrvb8An3YNP8TerDbjuxw=="
+}
