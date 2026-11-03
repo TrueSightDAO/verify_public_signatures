@@ -4,8 +4,10 @@
   "generated_at": "2026-11-03",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5232,
+  "count": 5234,
   "events_ordered": [
+    "b1de295c700c1354d817e256c84ab1a82e1ab22884ff73240dba895f11d37f13",
+    "7945dc96f1d642e4f36e77416323587e4ebb3ec74424f569c6f53c09f4a93bd8",
     "5b4f8b945b9c7edfff706deadda2d4f4d9172c15d47e451bd897b888a9b131fb",
     "78a114ff50730fae5cfd39b5276b3fbaf434ee7ec7a292c7391f25c1aa7836b3",
     "67a153882bc95fa7235c78e14762f026f702338ef623c0a975d1a1aeddebb11b",
@@ -5240,6 +5242,26 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "b1de295c700c1354d817e256c84ab1a82e1ab22884ff73240dba895f11d37f13": {
+      "txid_hash": "b1de295c700c1354d817e256c84ab1a82e1ab22884ff73240dba895f11d37f13",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-03",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261103181718_2893",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/b1de295c700c1354d817e256c84ab1a82e1ab22884ff73240dba895f11d37f13.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261103181718_2893.json"
+    },
+    "7945dc96f1d642e4f36e77416323587e4ebb3ec74424f569c6f53c09f4a93bd8": {
+      "txid_hash": "7945dc96f1d642e4f36e77416323587e4ebb3ec74424f569c6f53c09f4a93bd8",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-03",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261103181628_2889",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/7945dc96f1d642e4f36e77416323587e4ebb3ec74424f569c6f53c09f4a93bd8.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261103181628_2889.json"
+    },
     "5b4f8b945b9c7edfff706deadda2d4f4d9172c15d47e451bd897b888a9b131fb": {
       "txid_hash": "5b4f8b945b9c7edfff706deadda2d4f4d9172c15d47e451bd897b888a9b131fb",
       "event_type": "[PRACTICE EVENT]",
