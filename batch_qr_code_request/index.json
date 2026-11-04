@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-11-04",
   "event_type": "[BATCH QR CODE REQUEST]",
-  "count": 15,
+  "count": 16,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20250901194420_126",
@@ -20,7 +20,8 @@
     "Edgar_20260710212015_060",
     "Edgar_20260913181448_013",
     "Edgar_20261025030504_2611",
-    "Edgar_20261027150620_2821"
+    "Edgar_20261027150620_2821",
+    "Edgar_20261104120540_2907"
   ],
   "events": {
     "Edgar_20250901194420_126": {
@@ -112,9 +113,15 @@
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2026-10-27",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261104120540_2907": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20261104120540_2907.json",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-11-04",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 15,
+  "txid_count": 16,
   "txids": {
     "09a184e0ae238c693b884c9333d4de901577795553972764ac34e01faea90c46": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/09a184e0ae238c693b884c9333d4de901577795553972764ac34e01faea90c46.json",
@@ -178,6 +185,13 @@
       "telegram_message_id": "Edgar_20250901211505_134",
       "event_type": "[BATCH QR CODE REQUEST]",
       "submitted_at": "2025-09-01"
+    },
+    "bb9df6930b7096187778b4162db59d6d925dc2f118be3060c4fb0f431586c6ce": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/bb9df6930b7096187778b4162db59d6d925dc2f118be3060c4fb0f431586c6ce.json",
+      "request_transaction_id": "AxqvF83k7VZZvtwuBaoJF9SWlLUYs7YQXqRpyDE0KS414HB5+/XCEUm9+4oxtWbtGD4YpUXhVBWB3gLGCdkrzogJnfFACRJmuEv/CRGzT+IjyirzLHWmUVEP729WzJUV9VDIjk1R2N7HgcarsUuUarlvsCXDAAFgo1q8LFmduCylkjA/NXPhMIzU4tkuLkkbjHNEcl8UdQT7wgVhKyEhO8thJ3l7nFI19IxO6wdB7NDZAIy+FSNd+WIvoaRnb4B0a8V4+qb0FD8QKl8+Dq1Oim9gG9kuqAJEKXpKPkiXfbghl8efbfgFNP+Mt/8vZjevOgfVyBJNwk4RVi4t2gvoeg==",
+      "telegram_message_id": "Edgar_20261104120540_2907",
+      "event_type": "[BATCH QR CODE REQUEST]",
+      "submitted_at": "2026-11-04"
     },
     "bd23485bf38ac2fc19e70a502e702f8230524482bdf871d99223a46429641a60": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/bd23485bf38ac2fc19e70a502e702f8230524482bdf871d99223a46429641a60.json",
