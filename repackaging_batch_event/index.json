@@ -1,15 +1,16 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-11-04",
   "event_type": "[REPACKAGING BATCH EVENT]",
-  "count": 4,
+  "count": 5,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260419044111_010",
     "Edgar_20260620225943_004",
     "Edgar_20260710185310_024",
-    "Edgar_20261027094801_2767"
+    "Edgar_20261027094801_2767",
+    "Edgar_20261104112322_2903"
   ],
   "events": {
     "Edgar_20260419044111_010": {
@@ -35,9 +36,15 @@
       "event_type": "[REPACKAGING BATCH EVENT]",
       "submitted_at": "2026-10-27",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261104112322_2903": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/Edgar_20261104112322_2903.json",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-11-04",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 4,
+  "txid_count": 5,
   "txids": {
     "64e069cd51125f875895e7a154d07165b8e0cd9273cee55ceb455eee6123b559": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/64e069cd51125f875895e7a154d07165b8e0cd9273cee55ceb455eee6123b559.json",
@@ -45,6 +52,13 @@
       "telegram_message_id": "Edgar_20261027094801_2767",
       "event_type": "[REPACKAGING BATCH EVENT]",
       "submitted_at": "2026-10-27"
+    },
+    "72532be4158bfb739ddcbc0a0d6820ef1b59becf4c46be6a9ada6ba3747d20de": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/72532be4158bfb739ddcbc0a0d6820ef1b59becf4c46be6a9ada6ba3747d20de.json",
+      "request_transaction_id": "rxsMtKJ5RB1lYs4RMo6eVPHb6BOl32jobbpcXbH6l2vSDR2mi6J6I7NHma2tEdocUA9+1din3nKMiKCwSlikW5/yoBisLwPovR8qzEmE3eozCqYa3uNUkMECWkK8YnxwSMyP+1Xoed2IboxjJIutXdANNybNZ6anZwKHABoVZdTOJ1iYR4Yj8b92AhwhFx0cqgs0N6WrbPhyNZZbq2nyHRJ6Z82zl4XMgQ2SqmBLTR/uehN+a77hlc6cWvGMe2L4PmSXCkb9UXKPAeGzZVgk3fhDBb+fxqdXwng3Dx6UM8HqEjbr7VUAO4ysfOmgWy2fmJxNwMkIogeyZxVDf33kLw==",
+      "telegram_message_id": "Edgar_20261104112322_2903",
+      "event_type": "[REPACKAGING BATCH EVENT]",
+      "submitted_at": "2026-11-04"
     },
     "96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/repackaging_batch_event/96783c4952285ebf71edfff197e8406ea5691c5b2f29d7d551a47abaed94131c.json",
