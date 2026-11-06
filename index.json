@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-11-05",
-  "total_count": 6363,
+  "generated_at": "2026-11-06",
+  "total_count": 6364,
   "test_events_count": 138,
   "excluded_pii_count": 1893,
   "other_signed_count": 10,
-  "total_txid_count": 5253,
-  "txid_mirror_count": 5253,
+  "total_txid_count": 5254,
+  "txid_mirror_count": 5254,
   "txid_dup_groups": 186,
   "txid_extra_files_collapsed": 1100,
   "txid_mirror_collisions": 0,
@@ -113,7 +113,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/pentest_authorization_test_event/index.json"
     },
     "practice_event": {
-      "count": 242,
+      "count": 243,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/index.json"
     },
     "proposal_creation": {
