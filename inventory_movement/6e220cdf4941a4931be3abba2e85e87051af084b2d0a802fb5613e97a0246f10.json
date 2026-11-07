@@ -1,0 +1,15 @@
+{
+  "event_type": "[INVENTORY MOVEMENT]",
+  "telegram_message_id": "Edgar_20261107192411_3029",
+  "telegram_update_id": "Edgar_20261107192411_3030",
+  "submitted_at": "2026-11-07",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ZPAO1Xc0ItQWigbb77WtmA3gVAeI4MRBbOm9zJ/LHJPpqel5zTrMcNlsyu4bJeJljwgFl+BPAL3loFTTbRptNm9aXf0jT6k1PSIX0xy4zasAP0grgwbbylPYZ0Aw703aVwHp7CUZbKEWylkVTU6UZzztDlCYdhnmHIIriY2efoxTTcrM8niWrntdCOcDXy6udjaW+e5AxlkM6VVyjyocXhL64Vxr9J0jmZspjgFrnWhWydrsH1d++5ZEmZTyhhe5JWl6oSqlbe4bmUOJFrdSFs/UlW4MZEs3f274ZeTpsrs4/9DchgSAfLQ+cNq/XjG+3Q1/wpjVV9FdJ+caC36sQIDAQAB",
+  "signature": "mIOQTAJwi1byXtERWfMM7ZSWM2SCBxrrM5Uwco1rAlDBDK/Z81S7bOIEwwJXnuPqb7pPriy++SkxcAtoAa8WcGsg9erFg8aJUPrgbvNkFymW1hUpoW64LXAXtU450lQgA5vJPV8y9T9BjpLYGnOrmdOpYQWvyPxJcS5n+jRO+LOGRWhWDLPnmaFB10Y03EKW3a2vOb7R5NqnDBVsWQxNDGB9Qm0jTu7Gwq7vpRM1/tZcACzIthJDnIhSW40o4H02efHF2RirTE3H4uTLnNMi4hr58HAKceorNw94b1L9STtj0Lqns/3IzaRlJ6OTrrODBteKcxKjQtWBivZIMip7vA==",
+  "signed_payload": "[INVENTORY MOVEMENT]\n- Manager Name: PTEST79450\n- Recipient Name: VerifyRecv\n- Inventory Item: test-sku-1\n- QR Code: TPTEST79450\n- Quantity: 1\n--------",
+  "signed_text": "[INVENTORY MOVEMENT]\n- Manager Name: PTEST79450\n- Recipient Name: VerifyRecv\n- Inventory Item: test-sku-1\n- QR Code: TPTEST79450\n- Quantity: 1\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ZPAO1Xc0ItQWigbb77WtmA3gVAeI4MRBbOm9zJ/LHJPpqel5zTrMcNlsyu4bJeJljwgFl+BPAL3loFTTbRptNm9aXf0jT6k1PSIX0xy4zasAP0grgwbbylPYZ0Aw703aVwHp7CUZbKEWylkVTU6UZzztDlCYdhnmHIIriY2efoxTTcrM8niWrntdCOcDXy6udjaW+e5AxlkM6VVyjyocXhL64Vxr9J0jmZspjgFrnWhWydrsH1d++5ZEmZTyhhe5JWl6oSqlbe4bmUOJFrdSFs/UlW4MZEs3f274ZeTpsrs4/9DchgSAfLQ+cNq/XjG+3Q1/wpjVV9FdJ+caC36sQIDAQAB\n\nRequest Transaction ID: mIOQTAJwi1byXtERWfMM7ZSWM2SCBxrrM5Uwco1rAlDBDK/Z81S7bOIEwwJXnuPqb7pPriy++SkxcAtoAa8WcGsg9erFg8aJUPrgbvNkFymW1hUpoW64LXAXtU450lQgA5vJPV8y9T9BjpLYGnOrmdOpYQWvyPxJcS5n+jRO+LOGRWhWDLPnmaFB10Y03EKW3a2vOb7R5NqnDBVsWQxNDGB9Qm0jTu7Gwq7vpRM1/tZcACzIthJDnIhSW40o4H02efHF2RirTE3H4uTLnNMi4hr58HAKceorNw94b1L9STtj0Lqns/3IzaRlJ6OTrrODBteKcxKjQtWBivZIMip7vA==\n\nThis submission was generated using https://truesight.me\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": "",
+  "request_transaction_id": "mIOQTAJwi1byXtERWfMM7ZSWM2SCBxrrM5Uwco1rAlDBDK/Z81S7bOIEwwJXnuPqb7pPriy++SkxcAtoAa8WcGsg9erFg8aJUPrgbvNkFymW1hUpoW64LXAXtU450lQgA5vJPV8y9T9BjpLYGnOrmdOpYQWvyPxJcS5n+jRO+LOGRWhWDLPnmaFB10Y03EKW3a2vOb7R5NqnDBVsWQxNDGB9Qm0jTu7Gwq7vpRM1/tZcACzIthJDnIhSW40o4H02efHF2RirTE3H4uTLnNMi4hr58HAKceorNw94b1L9STtj0Lqns/3IzaRlJ6OTrrODBteKcxKjQtWBivZIMip7vA=="
+}
