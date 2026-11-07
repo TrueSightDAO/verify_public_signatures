@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261107192119_3023",
+  "telegram_update_id": "Edgar_20261107192119_3024",
+  "submitted_at": "2026-11-07",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSL13ulBFN5GxfEIcOSVC+gRpccZjkSkYRDFMAvVv7tqigmU3el+UF1NI4glRCcyf2NYY843KgDs6+GLMqULB77EwsjGsI41gAOgBhzLwlFa5f7ihuCMcvb2CSciV1desA+QS/rcZ7JP8ZAqbbgh1gRZ2ea6psP+kNfKT2U7acad6ip8xcDJntbZdmk6ASTBvBQyccB5hWjua2aadjAzuw3m73HMp/75rWXYPpiNjORBcVA/6FNg3LmQGeLbn7jci5XrXfCE5ADUvwtu+jhYwFyiDYspR+y00sN5Gxg8wA64Yy7DvPdA12hVyd+hgf6nwvO1eML9IeHzJS+riZKqgQIDAQAB",
+  "signature": "R9YdhRE5HD2lcHSrCNx3BqfG2PjrLTzDrvDZ6VGjrg07PYzAkL9KkweDmKF8a5Dkv7ziKYsNVr95urKCpNUN/rqRIkZkMwvjnsTeK++RgABbjEfPrDjHAjb+c8ngU6qGs1w0jRETCB5z28XU3EhbRaXQfATC5AEFcCwdIQBDF1ow70I8zD1J5hZqraaFr6iw894aFXjkMxA7Rt5yL37goG5gSXUvUlRy1BWWYv0XW+8zL07y8IjgoZ46tGWFNgturu7BFJ3rliTUSpE3ZSFdRg14hLrCGWDVPUt1WqIQLlFrAdqDxQ18jYC7BVhHvYYw7IVJwx5UDTE2/0JDr72Yqg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Title: Security test contribution\n- Body: Testing signature verification\n- Contributors: TestUser\n- Amount: 1\n- Type: Time (Minutes)\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Title: Security test contribution\n- Body: Testing signature verification\n- Contributors: TestUser\n- Amount: 1\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSL13ulBFN5GxfEIcOSVC+gRpccZjkSkYRDFMAvVv7tqigmU3el+UF1NI4glRCcyf2NYY843KgDs6+GLMqULB77EwsjGsI41gAOgBhzLwlFa5f7ihuCMcvb2CSciV1desA+QS/rcZ7JP8ZAqbbgh1gRZ2ea6psP+kNfKT2U7acad6ip8xcDJntbZdmk6ASTBvBQyccB5hWjua2aadjAzuw3m73HMp/75rWXYPpiNjORBcVA/6FNg3LmQGeLbn7jci5XrXfCE5ADUvwtu+jhYwFyiDYspR+y00sN5Gxg8wA64Yy7DvPdA12hVyd+hgf6nwvO1eML9IeHzJS+riZKqgQIDAQAB\n\nRequest Transaction ID: R9YdhRE5HD2lcHSrCNx3BqfG2PjrLTzDrvDZ6VGjrg07PYzAkL9KkweDmKF8a5Dkv7ziKYsNVr95urKCpNUN/rqRIkZkMwvjnsTeK++RgABbjEfPrDjHAjb+c8ngU6qGs1w0jRETCB5z28XU3EhbRaXQfATC5AEFcCwdIQBDF1ow70I8zD1J5hZqraaFr6iw894aFXjkMxA7Rt5yL37goG5gSXUvUlRy1BWWYv0XW+8zL07y8IjgoZ46tGWFNgturu7BFJ3rliTUSpE3ZSFdRg14hLrCGWDVPUt1WqIQLlFrAdqDxQ18jYC7BVhHvYYw7IVJwx5UDTE2/0JDr72Yqg==\n\nThis submission was generated using https://truesight.me\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
