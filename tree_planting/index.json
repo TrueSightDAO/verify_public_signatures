@@ -3,7 +3,7 @@
   "schema_version": 1,
   "generated_at": "2026-11-07",
   "event_type": "[TREE PLANTING EVENT]",
-  "count": 1526,
+  "count": 1527,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "171",
@@ -1531,7 +1531,8 @@
     "Edgar_20261107155519_3007",
     "Edgar_20261107155525_3009",
     "Edgar_20261107155530_3011",
-    "Edgar_20261107155535_3013"
+    "Edgar_20261107155535_3013",
+    "Edgar_20261107165619_3017"
   ],
   "events": {
     "171": {
@@ -10686,6 +10687,12 @@
     },
     "Edgar_20261107155535_3013": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261107155535_3013.json",
+      "event_type": "[TREE PLANTING EVENT]",
+      "submitted_at": "2026-11-07",
+      "contributor_name": "Edgar"
+    },
+    "Edgar_20261107165619_3017": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/tree_planting/Edgar_20261107165619_3017.json",
       "event_type": "[TREE PLANTING EVENT]",
       "submitted_at": "2026-11-07",
       "contributor_name": "Edgar"
