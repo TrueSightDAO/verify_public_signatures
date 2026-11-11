@@ -1,11 +1,12 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5284,
+  "count": 5285,
   "events_ordered": [
+    "8b4d9cbd537b7ad5e93cedd16cd62867dcf54b8a952b9b156a6bfa7a1b0c6dca",
     "eef7951cdccfe53bd2b7b4029378b52c475cefdf2e7401cdea49aa412771a428",
     "1ad00557ea4bf142cfb6eee4c6aefdeda22c68bf59380fc16d7fe9db3e289c83",
     "e8428ab8ca1a6f6112745d0c28214bc5fb183137c65f6d8dd9749e7a4ad1af86",
@@ -5292,6 +5293,16 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "8b4d9cbd537b7ad5e93cedd16cd62867dcf54b8a952b9b156a6bfa7a1b0c6dca": {
+      "txid_hash": "8b4d9cbd537b7ad5e93cedd16cd62867dcf54b8a952b9b156a6bfa7a1b0c6dca",
+      "event_type": "[PRACTICE EVENT]",
+      "submitted_at": "2026-11-11",
+      "contributor_name": "Edgar",
+      "event_type_folder": "practice_event",
+      "telegram_message_id": "Edgar_20261111030525_3073",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/8b4d9cbd537b7ad5e93cedd16cd62867dcf54b8a952b9b156a6bfa7a1b0c6dca.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/Edgar_20261111030525_3073.json"
+    },
     "eef7951cdccfe53bd2b7b4029378b52c475cefdf2e7401cdea49aa412771a428": {
       "txid_hash": "eef7951cdccfe53bd2b7b4029378b52c475cefdf2e7401cdea49aa412771a428",
       "event_type": "[CONTRIBUTION EVENT]",
