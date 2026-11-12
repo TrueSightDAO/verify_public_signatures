@@ -1,0 +1,14 @@
+{
+  "event_type": "[PAYOUT EVENT]",
+  "telegram_message_id": "Edgar_20261112123235_3457",
+  "telegram_update_id": "Edgar_20261112123235_3458",
+  "submitted_at": "2026-11-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "APkmLNsO1hTMPTk6A7s1GdJ2MU9E5NhqXOh+jL5WbwF5nK0fxemX9kCb6i8hW6r3bEs7niNNMo25pwZDgzrwv1+dsYYik4LabVyNM+UP0YS79+trfuOI/p2sK3gJ+2UTNspvoNo5t1lRPd5TJtCxunk/THNZVe3FvYp9R4HT9+dPvUEAiObn1SQsypqRzUKVUzqoonAgq4ycal7Pme9H3v2Iezj0prleWqVu0aFvVwHBykjUrzyLVSpBqiss7hqlDmrTvnd4jmx9kO63gRnJvCEyPVvM4rQzpvjDE/C5MVjEn8/96pmYwDjH+gR/IHVsGBxKO5icGksLJan4Fd/rAw==",
+  "signed_payload": "[PAYOUT EVENT]\n- Program: crf-anapu\n- Amount: 5\n- Currency: Brazilian Reis\n- Tree Planting ID: Edgar_20261023011358_1777\n- Recipient PK Hash: pk-qkejKJJW3IAD\n- Bank Ref Type: PIX-E2E\n- Bank Ref: E68900810202611121118xTBTdiHgQD7\n- Paid At: 2026-11-12T11:18:00Z\n- Receipt URL: https://github.com/TrueSightDAO/.github/blob/main/assets/pix_217trees_jhordan_20261112.jpg\n--------",
+  "signed_text": "[PAYOUT EVENT]\n- Program: crf-anapu\n- Amount: 5\n- Currency: Brazilian Reis\n- Tree Planting ID: Edgar_20261023011358_1777\n- Recipient PK Hash: pk-qkejKJJW3IAD\n- Bank Ref Type: PIX-E2E\n- Bank Ref: E68900810202611121118xTBTdiHgQD7\n- Paid At: 2026-11-12T11:18:00Z\n- Receipt URL: https://github.com/TrueSightDAO/.github/blob/main/assets/pix_217trees_jhordan_20261112.jpg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: APkmLNsO1hTMPTk6A7s1GdJ2MU9E5NhqXOh+jL5WbwF5nK0fxemX9kCb6i8hW6r3bEs7niNNMo25pwZDgzrwv1+dsYYik4LabVyNM+UP0YS79+trfuOI/p2sK3gJ+2UTNspvoNo5t1lRPd5TJtCxunk/THNZVe3FvYp9R4HT9+dPvUEAiObn1SQsypqRzUKVUzqoonAgq4ycal7Pme9H3v2Iezj0prleWqVu0aFvVwHBykjUrzyLVSpBqiss7hqlDmrTvnd4jmx9kO63gRnJvCEyPVvM4rQzpvjDE/C5MVjEn8/96pmYwDjH+gR/IHVsGBxKO5icGksLJan4Fd/rAw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
