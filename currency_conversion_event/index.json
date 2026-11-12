@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-12",
   "event_type": "[CURRENCY CONVERSION EVENT]",
-  "count": 17,
+  "count": 18,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260511022114_012",
@@ -22,7 +22,8 @@
     "Edgar_20261014211310_087",
     "Edgar_20261014211934_089",
     "Edgar_20261014212820_091",
-    "Edgar_20261105092928_2933"
+    "Edgar_20261105092928_2933",
+    "Edgar_20261112121402_3087"
   ],
   "events": {
     "Edgar_20260511022114_012": {
@@ -126,9 +127,15 @@
       "event_type": "[CURRENCY CONVERSION EVENT]",
       "submitted_at": "2026-11-05",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261112121402_3087": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/Edgar_20261112121402_3087.json",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-11-12",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 17,
+  "txid_count": 18,
   "txids": {
     "126a553a6fc068bdc984d53a0268b3f9882c4bd38b6d52598b2293673d035af8": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/126a553a6fc068bdc984d53a0268b3f9882c4bd38b6d52598b2293673d035af8.json",
@@ -185,6 +192,13 @@
       "telegram_message_id": "Edgar_20261007133116_101",
       "event_type": "[CURRENCY CONVERSION EVENT]",
       "submitted_at": "2026-10-07"
+    },
+    "5711ed56b269ca78ca283edf9ca1763f2f057ed6318d28af13b5595a0a4481ea": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/5711ed56b269ca78ca283edf9ca1763f2f057ed6318d28af13b5595a0a4481ea.json",
+      "request_transaction_id": "HwT4w0sBw8v7NXqQ2zyjWBfq505YAyczDMtpbEyonQHqhKdiflgHSoXrYQztcif0cYu8ODNcFVRNKFz5wS3DUH6PeZibjnuhwMUrB1gzY13FXUsp1lhgaj8TFzIxotipFMCQTDnAA8MmmJnH4JpZcB3LoIJ4UGyH7J+8NssuV/6jHP9BLG2IzkJLBN9ZnWeTqg1/Xy3ZH8ozY26kPseiWg1CLL6UQiUgDqHu567vzKTiEB5w07wQerpZ3TuEJ44QDE2wnkxImXQdQjo6aSCZS1Lm0hHzBPuUs2bniJIkyaWK1E8v6m0CjKLchCQ7uSbZuc47xG0Qp39tR46eMjEiSA==",
+      "telegram_message_id": "Edgar_20261112121402_3087",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-11-12"
     },
     "60c3e6c3b5c154a88126ac71eb09ede8ed99c81f9eec65b87f40da6518983618": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/60c3e6c3b5c154a88126ac71eb09ede8ed99c81f9eec65b87f40da6518983618.json",
