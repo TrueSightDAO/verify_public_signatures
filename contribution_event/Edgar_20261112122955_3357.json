@@ -1,0 +1,14 @@
+{
+  "event_type": "[CONTRIBUTION EVENT]",
+  "telegram_message_id": "Edgar_20261112122955_3357",
+  "telegram_update_id": "Edgar_20261112122955_3358",
+  "submitted_at": "2026-11-12",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "TkuGciZzPi3yNtg0ukRbtI+kGeZWySaFvyKkDvoa1ocyMcmJsOejnbEqVp7edSr+M/4kRsgj1bjHRAsr/qSdZMsiFL2fRbKxbbkxRNlyKsexXBeMU0QIJQcKAJssAPN8xXBhveUbYThNAXtLm1w0zlYPvIh9+0WvGdjsPNueU4PQb24YpkhfTjDP0xoqH/6/6bIhQKOzx3F6bUsBCD38WdrsgZDNtyTUJZp19w0ZuXKKBD98/AOfuqyXf3a9hgE1/W1u6tKc2DgWTgsA5Kk6AxJvpay5xAfakCMewtcr9WEbqFva0K/Tj+lJSgGAEiWaU/Gf4wUsPbUG1DN5K76KHg==",
+  "signed_payload": "[CONTRIBUTION EVENT]\n- Contributor(s): Sophia Truesight\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Booked Jussileide accountant expense Sep+Oct 2026 (R$1,000) in Brazilian Reis offchain rows 5386/5387 against Gary Teh; reconciled 3 source docs (2 recibos + Pix); fixed missing recibo attachments (404 -> uploaded, verified 19389/19447 bytes); flagged unreconciled Brazilian Reis balance drift and pk-qkejKJJW3IAD at -R$210.\n--------",
+  "signed_text": "[CONTRIBUTION EVENT]\n- Contributor(s): Sophia Truesight\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Booked Jussileide accountant expense Sep+Oct 2026 (R$1,000) in Brazilian Reis offchain rows 5386/5387 against Gary Teh; reconciled 3 source docs (2 recibos + Pix); fixed missing recibo attachments (404 -> uploaded, verified 19389/19447 bytes); flagged unreconciled Brazilian Reis balance drift and pk-qkejKJJW3IAD at -R$210.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: TkuGciZzPi3yNtg0ukRbtI+kGeZWySaFvyKkDvoa1ocyMcmJsOejnbEqVp7edSr+M/4kRsgj1bjHRAsr/qSdZMsiFL2fRbKxbbkxRNlyKsexXBeMU0QIJQcKAJssAPN8xXBhveUbYThNAXtLm1w0zlYPvIh9+0WvGdjsPNueU4PQb24YpkhfTjDP0xoqH/6/6bIhQKOzx3F6bUsBCD38WdrsgZDNtyTUJZp19w0ZuXKKBD98/AOfuqyXf3a9hgE1/W1u6tKc2DgWTgsA5Kk6AxJvpay5xAfakCMewtcr9WEbqFva0K/Tj+lJSgGAEiWaU/Gf4wUsPbUG1DN5K76KHg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
