@@ -4,14 +4,17 @@
   "generated_at": "2026-11-17",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5544,
+  "count": 5547,
   "events_ordered": [
+    "d8522b9bf15ca29efd7c8e98e77efbe9edfe6625d9af1be486af530b606c9f17",
     "9dbd609c1dcd2bb65aa2055f875636e5ab5aaab012cf112d4fefddea0c23f366",
     "9b7b84cf151a4dc68faebf9ba48f941e60214b793a84a4f5240b9c03b9c81e8f",
     "9ae5e3ee70f56b51d10c26c8316039eeffd7cdad17fe7f440a820464cddefc67",
     "84c3cab437cd3fb62a93d95da103b534255b4bb106dbcc6dff0ab8eefa7c6f87",
     "81c425cfeeec0fb126fee9e1353487cc22078287c4341865d002de0bf42d202d",
     "750996973d1b27cfb124ea4ebd2063956d0212e3d686fe4e6a891e987889217e",
+    "6435fb0a0529ac5b41cb7de8d65ef8b066bf74e480a15e660bf93a90802b650c",
+    "5fc24e1561cdff475d2a389d2d3f18240f826f44607c814c6dd6dd1c3888e89a",
     "406c466427cd6815cd2c75d7fd6f3188a0b938b95a0a1d7ea99e27da0c0e2eb9",
     "21dccef4351c6f8243de28568b20f076013fb35a388b5a22437184ba9d8c2678",
     "d2802bb8f8abeded00c365dfff9a4e7db1682098b70d99702ca9ab12b0ca2137",
@@ -5552,6 +5555,16 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "d8522b9bf15ca29efd7c8e98e77efbe9edfe6625d9af1be486af530b606c9f17": {
+      "txid_hash": "d8522b9bf15ca29efd7c8e98e77efbe9edfe6625d9af1be486af530b606c9f17",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-17",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261117122743_3741",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d8522b9bf15ca29efd7c8e98e77efbe9edfe6625d9af1be486af530b606c9f17.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261117122743_3741.json"
+    },
     "9dbd609c1dcd2bb65aa2055f875636e5ab5aaab012cf112d4fefddea0c23f366": {
       "txid_hash": "9dbd609c1dcd2bb65aa2055f875636e5ab5aaab012cf112d4fefddea0c23f366",
       "event_type": "[CONTRIBUTION EVENT]",
@@ -5611,6 +5624,26 @@
       "telegram_message_id": "Edgar_20261117020153_3719",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/750996973d1b27cfb124ea4ebd2063956d0212e3d686fe4e6a891e987889217e.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/batch_qr_code_request/Edgar_20261117020153_3719.json"
+    },
+    "6435fb0a0529ac5b41cb7de8d65ef8b066bf74e480a15e660bf93a90802b650c": {
+      "txid_hash": "6435fb0a0529ac5b41cb7de8d65ef8b066bf74e480a15e660bf93a90802b650c",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-17",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261117122715_3739",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/6435fb0a0529ac5b41cb7de8d65ef8b066bf74e480a15e660bf93a90802b650c.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261117122715_3739.json"
+    },
+    "5fc24e1561cdff475d2a389d2d3f18240f826f44607c814c6dd6dd1c3888e89a": {
+      "txid_hash": "5fc24e1561cdff475d2a389d2d3f18240f826f44607c814c6dd6dd1c3888e89a",
+      "event_type": "[CURRENCY CONVERSION EVENT]",
+      "submitted_at": "2026-11-17",
+      "contributor_name": "Edgar",
+      "event_type_folder": "currency_conversion_event",
+      "telegram_message_id": "Edgar_20261117120835_3737",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/5fc24e1561cdff475d2a389d2d3f18240f826f44607c814c6dd6dd1c3888e89a.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/currency_conversion_event/Edgar_20261117120835_3737.json"
     },
     "406c466427cd6815cd2c75d7fd6f3188a0b938b95a0a1d7ea99e27da0c0e2eb9": {
       "txid_hash": "406c466427cd6815cd2c75d7fd6f3188a0b938b95a0a1d7ea99e27da0c0e2eb9",
