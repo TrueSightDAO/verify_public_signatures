@@ -1,0 +1,14 @@
+{
+  "event_type": "[BATCH QR CODE REQUEST]",
+  "telegram_message_id": "Edgar_20261117020153_3719",
+  "telegram_update_id": "Edgar_20261117020153_3720",
+  "submitted_at": "2026-11-17",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "rA+qFq4GqHSxvin+uyxH0zhRNl2QL1+txeALDOFvezUxj3uBYynVWdu1X9RkrK/heawEvdKUerUmgoCuEQWIAJW5+pWNbtAQ229mJfznRw27YJnvZ7PLnAXgdRf30sdnn2X2oeK7c0k5mUbXQZ9GY5o2/LmklDtmD6820V442w2OHh3z6I+Smu8WU2KzEJ9hjTx8tXKD5FWFIYIMs0StpuLr1oq8GJCOB2uyW9PpNJ1AGso8jQkfmU5TGALna1PolyYsFae9H2brjx+LkAFV5zyBNOPrApoZ9DXdM39blYjNsqmx5KvMGCWzHsEDlXKsDaXi3Kjo9JjFoYd/25rI3A==",
+  "signed_payload": "[BATCH QR CODE REQUEST]\n- Currency: Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN\n- Quantity: 38\n--------",
+  "signed_text": "[BATCH QR CODE REQUEST]\n- Currency: Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN\n- Quantity: 38\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: rA+qFq4GqHSxvin+uyxH0zhRNl2QL1+txeALDOFvezUxj3uBYynVWdu1X9RkrK/heawEvdKUerUmgoCuEQWIAJW5+pWNbtAQ229mJfznRw27YJnvZ7PLnAXgdRf30sdnn2X2oeK7c0k5mUbXQZ9GY5o2/LmklDtmD6820V442w2OHh3z6I+Smu8WU2KzEJ9hjTx8tXKD5FWFIYIMs0StpuLr1oq8GJCOB2uyW9PpNJ1AGso8jQkfmU5TGALna1PolyYsFae9H2brjx+LkAFV5zyBNOPrApoZ9DXdM39blYjNsqmx5KvMGCWzHsEDlXKsDaXi3Kjo9JjFoYd/25rI3A==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
