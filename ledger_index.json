@@ -4,8 +4,9 @@
   "generated_at": "2026-11-18",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5557,
+  "count": 5558,
   "events_ordered": [
+    "ddab5bb7e8de03b9700ab9ebe781080c2552e3b0919f9a481cf24c26c6fac536",
     "d424c8d70bd26c5f26edc8f0ad6562fce5e3ce470071ef6eddc119de1d01e12a",
     "ca3c7736b37f08e07fe05622faa4840e2d7c03da939aa8cc5ee800129147e6dd",
     "c5eb7e4c5fe01c29c4005da857b8a530093bc4f15c0ee0d0128415838fa536cf",
@@ -5565,6 +5566,16 @@
     "22fec3b9cd8439a5c8190d1535e1569a8eb1dfb8e93d25ab3b7bf4996f0abceb"
   ],
   "events": {
+    "ddab5bb7e8de03b9700ab9ebe781080c2552e3b0919f9a481cf24c26c6fac536": {
+      "txid_hash": "ddab5bb7e8de03b9700ab9ebe781080c2552e3b0919f9a481cf24c26c6fac536",
+      "event_type": "[DAO INVENTORY EXPENSE EVENT]",
+      "submitted_at": "2026-11-18",
+      "contributor_name": "Edgar",
+      "event_type_folder": "dao_inventory_expense_event",
+      "telegram_message_id": "Edgar_20261118073500_3763",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/ddab5bb7e8de03b9700ab9ebe781080c2552e3b0919f9a481cf24c26c6fac536.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/dao_inventory_expense_event/Edgar_20261118073500_3763.json"
+    },
     "d424c8d70bd26c5f26edc8f0ad6562fce5e3ce470071ef6eddc119de1d01e12a": {
       "txid_hash": "d424c8d70bd26c5f26edc8f0ad6562fce5e3ce470071ef6eddc119de1d01e12a",
       "event_type": "[PRACTICE EVENT]",
