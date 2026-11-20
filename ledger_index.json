@@ -4,13 +4,14 @@
   "generated_at": "2026-11-20",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5569,
+  "count": 5570,
   "events_ordered": [
     "e11f54fdc9b797a601bbd4db2694e4cebb41efb635c2d9fb35fe9f853efdd0df",
     "c6f83d13cee4ad2d4ea355436f0dc8d8deceaa6d2c4ce1cc7546bd4bbc57dd76",
     "c4cbd34bed7bab587d86b1fa469cf1bbd45670752d451a359aa52bdd424ee3f2",
     "6d50cef23c2efca61191d3fcc2f3d8a48c475be06a90d2c8851c97141efac9fa",
     "3d8f9f44ea5b05d6d2d87080c869742a4c98bda70dae410bd8f71c7c17e327e4",
+    "0d29feb692c9865abdc04fc5537c1788ad6d0c54dbe10d60409b5eb420d56ee1",
     "d7f5a93b3b77e0b2bee8dff87aad83d254a2760534d8e27a481a883db8064eeb",
     "8b6f92b3ad72c0adb3802eb4adc218b105390c7054ec37685523e52791fdf2a1",
     "2f652b5f60fe2fc9959b63a59ac8221f879fe30a330bbcb98e8962d5c1ff5659",
@@ -5626,6 +5627,16 @@
       "telegram_message_id": "Edgar_20261120001407_3797",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/3d8f9f44ea5b05d6d2d87080c869742a4c98bda70dae410bd8f71c7c17e327e4.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261120001407_3797.json"
+    },
+    "0d29feb692c9865abdc04fc5537c1788ad6d0c54dbe10d60409b5eb420d56ee1": {
+      "txid_hash": "0d29feb692c9865abdc04fc5537c1788ad6d0c54dbe10d60409b5eb420d56ee1",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-20",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261120122508_3805",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/0d29feb692c9865abdc04fc5537c1788ad6d0c54dbe10d60409b5eb420d56ee1.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261120122508_3805.json"
     },
     "d7f5a93b3b77e0b2bee8dff87aad83d254a2760534d8e27a481a883db8064eeb": {
       "txid_hash": "d7f5a93b3b77e0b2bee8dff87aad83d254a2760534d8e27a481a883db8064eeb",
