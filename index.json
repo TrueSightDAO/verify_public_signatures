@@ -1,13 +1,13 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-11-22",
-  "total_count": 6747,
+  "generated_at": "2026-11-23",
+  "total_count": 6748,
   "test_events_count": 138,
   "excluded_pii_count": 1942,
   "other_signed_count": 11,
-  "total_txid_count": 5573,
-  "txid_mirror_count": 5573,
+  "total_txid_count": 5574,
+  "txid_mirror_count": 5574,
   "txid_dup_groups": 244,
   "txid_extra_files_collapsed": 1163,
   "txid_mirror_collisions": 0,
@@ -25,7 +25,7 @@
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/capital_injection_event/index.json"
     },
     "contribution_event": {
-      "count": 2680,
+      "count": 2681,
       "index_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/index.json"
     },
     "contribution_review_event": {
