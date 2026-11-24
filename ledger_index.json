@@ -4,12 +4,13 @@
   "generated_at": "2026-11-24",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5584,
+  "count": 5585,
   "events_ordered": [
     "fadfe1cd9c8199160eb7a3cea367d6bc2c8adc6ac20b2280139a71f7d7657141",
     "f7336c10820592b27930b09facb66cf31c58d37d3bfe087c8ad544c331fcf950",
     "d685445402ff229d6a3253ad08a4e7ebe228c18ab72959e383f00aa8982900de",
     "d273195aff4cc668a9dc142e5decedb191c995e2dac395976d6ba6c86b5285cf",
+    "cbd4fe16ca1efb254b4d4340bf32839084e454258c72fe6e5159221165cbe3a0",
     "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211",
     "6858544509b1a9d0c51e1b80a0c0b3803e6250e43914ecf9acb772183e51ceb3",
     "42b7c1516a1a843fb8acead963930f365eafd552b534317a31453658fe328bc4",
@@ -5631,6 +5632,16 @@
       "telegram_message_id": "Edgar_20261124112204_3825",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d273195aff4cc668a9dc142e5decedb191c995e2dac395976d6ba6c86b5285cf.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261124112204_3825.json"
+    },
+    "cbd4fe16ca1efb254b4d4340bf32839084e454258c72fe6e5159221165cbe3a0": {
+      "txid_hash": "cbd4fe16ca1efb254b4d4340bf32839084e454258c72fe6e5159221165cbe3a0",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-24",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261124175206_3841",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/cbd4fe16ca1efb254b4d4340bf32839084e454258c72fe6e5159221165cbe3a0.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261124175206_3841.json"
     },
     "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211": {
       "txid_hash": "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211",
