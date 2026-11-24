@@ -4,12 +4,13 @@
   "generated_at": "2026-11-24",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5583,
+  "count": 5584,
   "events_ordered": [
     "fadfe1cd9c8199160eb7a3cea367d6bc2c8adc6ac20b2280139a71f7d7657141",
     "f7336c10820592b27930b09facb66cf31c58d37d3bfe087c8ad544c331fcf950",
     "d685445402ff229d6a3253ad08a4e7ebe228c18ab72959e383f00aa8982900de",
     "d273195aff4cc668a9dc142e5decedb191c995e2dac395976d6ba6c86b5285cf",
+    "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211",
     "6858544509b1a9d0c51e1b80a0c0b3803e6250e43914ecf9acb772183e51ceb3",
     "42b7c1516a1a843fb8acead963930f365eafd552b534317a31453658fe328bc4",
     "37324e0db9b84746cbc0613c866ba91fe5e01d4a23ad2f05b21e85f5cf559615",
@@ -5630,6 +5631,16 @@
       "telegram_message_id": "Edgar_20261124112204_3825",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/d273195aff4cc668a9dc142e5decedb191c995e2dac395976d6ba6c86b5285cf.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261124112204_3825.json"
+    },
+    "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211": {
+      "txid_hash": "c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211",
+      "event_type": "[PRACTICE EVENT]",
+      "submitted_at": "2026-11-24",
+      "contributor_name": "Edgar",
+      "event_type_folder": "practice_event",
+      "telegram_message_id": "Edgar_20261124150131_3839",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/c09a86918c8cf70f34369b644e5c4e8b0379535002279c8d9ff0fe7453f95211.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/practice_event/Edgar_20261124150131_3839.json"
     },
     "6858544509b1a9d0c51e1b80a0c0b3803e6250e43914ecf9acb772183e51ceb3": {
       "txid_hash": "6858544509b1a9d0c51e1b80a0c0b3803e6250e43914ecf9acb772183e51ceb3",
