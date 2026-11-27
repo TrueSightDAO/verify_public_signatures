@@ -4,7 +4,7 @@
   "generated_at": "2026-11-27",
   "ordered_by": "submitted_at",
   "order": "desc",
-  "count": 5613,
+  "count": 5614,
   "events_ordered": [
     "e86ce6f764b5ce5dc8393d641582807b27d91dde47d1dc04cdea7904c9fb4502",
     "c1331f8c46c0e2848114429f1d7f57e0db196dccf16d568923535e16dad59702",
@@ -13,6 +13,7 @@
     "4b1dd0c7a775355dd6d718d2c2b1029f29def65599acb38ca68ab6732223b61a",
     "2bf8893b87e203eb01a3cd8e6da99fb1ba6c6b0519fb15bfa6f1d231a28e9220",
     "22f49ffe4c1f4d066b6174d6ec95212c1f249c3b64a0652d0f06683f018d165e",
+    "1548ea63ec6a7834a91e6dd068f6d369fe8a2335969e668803fb89916ff5a422",
     "fea73be09f43b786dc13db4801446231a0064a850f187b050765e20f3367cd59",
     "e73dfa64880421954dcda8d758a127c40f954bb2eac4c9e110aedddb5961e69c",
     "d79b356fbbb1bdf336d44de1d58848bb7905fc3d52f7583fdc4a48b03b170c61",
@@ -5690,6 +5691,16 @@
       "telegram_message_id": "Edgar_20261127112724_3919",
       "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/22f49ffe4c1f4d066b6174d6ec95212c1f249c3b64a0652d0f06683f018d165e.json",
       "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/inventory_movement/Edgar_20261127112724_3919.json"
+    },
+    "1548ea63ec6a7834a91e6dd068f6d369fe8a2335969e668803fb89916ff5a422": {
+      "txid_hash": "1548ea63ec6a7834a91e6dd068f6d369fe8a2335969e668803fb89916ff5a422",
+      "event_type": "[CONTRIBUTION EVENT]",
+      "submitted_at": "2026-11-27",
+      "contributor_name": "Edgar",
+      "event_type_folder": "contribution_event",
+      "telegram_message_id": "Edgar_20261127122742_3921",
+      "canonical_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/1548ea63ec6a7834a91e6dd068f6d369fe8a2335969e668803fb89916ff5a422.json",
+      "message_id_url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/contribution_event/Edgar_20261127122742_3921.json"
     },
     "fea73be09f43b786dc13db4801446231a0064a850f187b050765e20f3367cd59": {
       "txid_hash": "fea73be09f43b786dc13db4801446231a0064a850f187b050765e20f3367cd59",
