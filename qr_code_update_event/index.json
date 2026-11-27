@@ -1,9 +1,9 @@
 {
   "status": "success",
   "schema_version": 1,
-  "generated_at": "2026-09-14",
+  "generated_at": "2026-11-27",
   "event_type": "[QR CODE UPDATE EVENT]",
-  "count": 15,
+  "count": 16,
   "ordered_by": "submitted_at",
   "events_ordered": [
     "Edgar_20260706165326_062",
@@ -20,7 +20,8 @@
     "Edgar_20260706165915_086",
     "Edgar_20260706165919_088",
     "Edgar_20260706165923_090",
-    "Edgar_20260914120758_009"
+    "Edgar_20260914120758_009",
+    "Edgar_20261127045126_3907"
   ],
   "events": {
     "Edgar_20260706165326_062": {
@@ -112,9 +113,15 @@
       "event_type": "[QR CODE UPDATE EVENT]",
       "submitted_at": "2026-09-14",
       "contributor_name": "Edgar"
+    },
+    "Edgar_20261127045126_3907": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/Edgar_20261127045126_3907.json",
+      "event_type": "[QR CODE UPDATE EVENT]",
+      "submitted_at": "2026-11-27",
+      "contributor_name": "Edgar"
     }
   },
-  "txid_count": 15,
+  "txid_count": 16,
   "txids": {
     "00ae7d73e1e2d3e03bed5f764bd73eb6b44859dc54c31fd9a6f629c8d7a8055d": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/00ae7d73e1e2d3e03bed5f764bd73eb6b44859dc54c31fd9a6f629c8d7a8055d.json",
@@ -213,6 +220,13 @@
       "telegram_message_id": "Edgar_20260706165919_088",
       "event_type": "[QR CODE UPDATE EVENT]",
       "submitted_at": "2026-07-06"
+    },
+    "e86ce6f764b5ce5dc8393d641582807b27d91dde47d1dc04cdea7904c9fb4502": {
+      "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/e86ce6f764b5ce5dc8393d641582807b27d91dde47d1dc04cdea7904c9fb4502.json",
+      "request_transaction_id": "uqPos69lZFU8IrdObwe2bnBlEccJNXjOYF74DbLnV0OMA4mk+ExnlqgixyNQrAjcW/AHXNUWiwgYnuuPD35FG3tAx+0abGdDcf4OPbg1rmh7BgpIBxqW/7VtNvz4OBIAQ7pzCwvh7v9u5ssKYEkTBx+ypQIxt5p2EAWzAyz/fDZdAU49bdXXCPl7mTGSsSYB1n0lm+UeFm/D34cWEV3Eas9t8hQjRYhzpQcppTEwNGGc6JuOAV0hyoG60lUmgoNfoE06Ml1eUnmjvbRJnVAlzkl4dz+/F6ZC9Y6U9Ye3EWAqlSU8YLzUpoXfs8YSfbcPebsiOA/NaOBQtRfpj4EeQA==",
+      "telegram_message_id": "Edgar_20261127045126_3907",
+      "event_type": "[QR CODE UPDATE EVENT]",
+      "submitted_at": "2026-11-27"
     },
     "ea57b78c6cf844a3a956b1d134bd14d17029ed475a7a6fcf9171018f41a8208b": {
       "url": "https://raw.githubusercontent.com/TrueSightDAO/verify_public_signatures/main/qr_code_update_event/ea57b78c6cf844a3a956b1d134bd14d17029ed475a7a6fcf9171018f41a8208b.json",
