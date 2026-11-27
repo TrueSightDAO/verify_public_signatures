@@ -1,0 +1,14 @@
+{
+  "event_type": "[SALES EVENT]",
+  "telegram_message_id": "Edgar_20261127172904_3933",
+  "telegram_update_id": "Edgar_20261127172904_3934",
+  "submitted_at": "2026-11-27",
+  "contributor_name": "Edgar",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
+  "signature": "AjcJlmG45dVx7XA6IV3XIfGwvopu/DSHBGYNyC8l1dSpELLbSDn6TgkgLlzMyAkLeowXk8p+Cru0js7akyj/840wC9L49F63VwNnMhvmIE7JB8hSLPZfPRRFJHpWR69fublzpKgz1ch5BCX0nhPcP0KtFGKU59g+1Kc4c+g5KYAkG8uqnvHBYPnV2qwR4RufDtn4dmrmos43dLW8DOAqiUuFNdyAcT4NhVbVW0QCf1Dd8zkaRwdl1aGzBj/GQdR+FRAnbN1qOMg0QVq1O4OXv2YsWl3Mr7IKeqrLvrWHFgR5TkDG1sk/xy1L1NFSRDb/SAaHOcoj/sUJWiN4vsWtbQ==",
+  "signed_payload": "[SALES EVENT]\n- Cash proceeds collected by: Gary Teh\n- Item: 2024OSCAR_20250826_NIBS_18\n- Owner email: (none)\n- Sales price: $15.00\n- Shipping Provider: N/A\n- Sold by: Gary Teh\n- Stripe Session ID: (none)\n- Submission Source: dao_client / cash sale - cacao nibs, 4 pouches @ $15 (item 4 of 4)\n- Tracking number: N/A\n--------",
+  "signed_text": "[SALES EVENT]\n- Cash proceeds collected by: Gary Teh\n- Item: 2024OSCAR_20250826_NIBS_18\n- Owner email: (none)\n- Sales price: $15.00\n- Shipping Provider: N/A\n- Sold by: Gary Teh\n- Stripe Session ID: (none)\n- Submission Source: dao_client / cash sale - cacao nibs, 4 pouches @ $15 (item 4 of 4)\n- Tracking number: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: AjcJlmG45dVx7XA6IV3XIfGwvopu/DSHBGYNyC8l1dSpELLbSDn6TgkgLlzMyAkLeowXk8p+Cru0js7akyj/840wC9L49F63VwNnMhvmIE7JB8hSLPZfPRRFJHpWR69fublzpKgz1ch5BCX0nhPcP0KtFGKU59g+1Kc4c+g5KYAkG8uqnvHBYPnV2qwR4RufDtn4dmrmos43dLW8DOAqiUuFNdyAcT4NhVbVW0QCf1Dd8zkaRwdl1aGzBj/GQdR+FRAnbN1qOMg0QVq1O4OXv2YsWl3Mr7IKeqrLvrWHFgR5TkDG1sk/xy1L1NFSRDb/SAaHOcoj/sUJWiN4vsWtbQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "source_tab": "Telegram Chat Logs",
+  "verifiable": true,
+  "linked_tree_id": ""
+}
